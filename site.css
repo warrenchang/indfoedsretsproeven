@@ -38,12 +38,11 @@
 .med-pass {display:flex;flex-direction:column;gap:4px;text-align:center;padding-bottom:18px;color:#52635b}
 .med-pass strong {color:#145846;font-size:1.25rem}
 .med-chapters .chapter-name {font-size:1rem}
-.hero h1 {overflow-wrap:anywhere}
 .filters:has(#chapter):not(:has(#domain)) {grid-template-columns:minmax(0,1fr) minmax(0,1fr) auto}
 @media(max-width:700px){.hub-hero{padding-top:40px}.test-paths{grid-template-columns:1fr}.test-path{padding:24px}.test-switcher a{font-size:.75rem;padding:5px 7px}.test-switcher a span{display:none}.filters:has(#chapter):not(:has(#domain)){grid-template-columns:1fr}.path-stats{gap:30px}.test-path .button{max-width:100%;font-size:.88rem}}
 @media print {.test-switcher{display:none}}
-.hero h1.med-title {font-size:clamp(2rem,3.5vw,3.15rem);overflow-wrap:normal}
+.hero h1.exam-title {font-size:clamp(2rem,3.5vw,3.15rem);overflow-wrap:normal}
 .page-toc {display:flex;flex-wrap:wrap;gap:10px 22px;margin:28px 0 40px;padding-block:16px;border-block:1px solid var(--line);font-size:.87rem}
 .legal-content {overflow-wrap:anywhere}
 .main-nav:has(a[href="indfoedsret.html"]) a {white-space:normal}
-@media(max-width:760px){.hero h1.med-title{font-size:clamp(1.65rem,6.8vw,3rem)}}
+@media(max-width:760px){.hero h1.exam-title{font-size:clamp(1.65rem,6.8vw,3rem)}}
