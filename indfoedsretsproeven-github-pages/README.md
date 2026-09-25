@@ -1,6 +1,6 @@
 # Indfødsretsprøven practice
 
-By [Huanren Zhang](https://sites.google.com/site/huanrenzhang/).
+By [Huanren Warren Zhang](https://sites.google.com/site/huanrenzhang/).
 
 1,200 unofficial Danish practice questions with explanations and dated source links. All 1,000 original questions and all 200 current-affairs questions are included. News coverage: 1 May 2026 through 2026-09-25. Earlier news versions remain in the private local archive. See `exam-info.html` for the November exam date, deadline, fee and rules.
 
@@ -8,4 +8,4 @@ Publish with GitHub Pages: Settings → Pages → Deploy from a branch → main 
 
 This public edition contains the searchable bank and a full mock-exam generator: 45 minutes, ordered 35 reading / 5 news / 5 values questions, with pass requirements of 36 overall and 4 values answers. Answers and explanations appear after submission; active attempts and the latest ten scores are stored only in the visitor’s browser. Existing personal daily quiz records, schedules and local source PDFs are not included. Official PDFs are linked at their publishers. Publishing this folder does not run the private news-refresh or daily-quiz automation; upload new generated files to update the site.
 
-© 2026 Huanren Zhang. All rights reserved where applicable. See [copyright and attribution](COPYRIGHT.md). This project is not affiliated with or endorsed by SIRI. No open-source or Creative Commons license has been selected.
+© 2026 Huanren Warren Zhang. All rights reserved where applicable. See [copyright and attribution](COPYRIGHT.md). This project is not affiliated with or endorsed by SIRI. No open-source or Creative Commons license has been selected.
