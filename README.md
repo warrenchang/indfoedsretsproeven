@@ -1,13 +1,19 @@
-# Indfødsretsprøven practice
+# Indfødsretsprøven — gratis øvelse
 
-By [Huanren Zhang](https://sites.google.com/site/huanrenzhang/).
+Free, unofficial preparation for the Danish citizenship test, by [Huanren Zhang](https://sites.google.com/site/huanrenzhang/). The website offers 1,200 questions with explanations and sources, chapter-based practice, 45-minute mock exams, exam information and links to official reading material and past papers. Danish is the language of the practice material.
 
-1,200 unofficial Danish practice questions with explanations and dated source links. All 1,000 original questions and all 200 current-affairs questions are included. News coverage: 1 May 2026 through 2026-09-25. Earlier news versions remain in the private local archive. See `exam-info.html` for the November exam date, deadline, fee and rules.
+All 1,000 original questions and 200 current-affairs questions are included. News coverage: 1 May 2026 through 2026-09-25. Earlier news versions remain in the private local archive. Difficulty and topic weights are editorial, not calibrated to the official exam.
 
-Publish with GitHub Pages: Settings → Pages → Deploy from a branch → main → /(root) → Save. The entry point is `index.html`. No dependencies or build command are required. Keep `.nojekyll` in the repository root.
+## Publish and update
 
-This folder is the public website repository. After configuring a GitHub `origin`, commit updated website files and run `git push` to publish through Pages. The initial push uses `git push -u origin main`. The generated `.gitignore` allows only the public assets to be added. Keep authoring changes in the original study workspace and regenerate this folder; rebuilding preserves its Git history. The study workspace's `publishing/GITHUB_PAGES_GUIDE.md` documents the full update workflow.
+GitHub Pages: Settings → Pages → Deploy from a branch → main → /(root) → Save. The entry point is `index.html`. No dependencies or build command are required. Keep `.nojekyll` in the root.
 
-This public edition contains the searchable bank and a full mock-exam generator: 45 minutes, ordered 35 reading / 5 news / 5 values questions, with pass requirements of 36 overall and 4 values answers. Answers and explanations appear after submission; active attempts and the latest ten scores are stored only in the visitor’s browser. Existing personal daily quiz records, schedules and local source PDFs are not included. Official PDFs are linked at their publishers. Publishing this folder does not run the private news-refresh or daily-quiz automation; upload new generated files to update the site.
+After configuring a GitHub `origin`, commit updated website files and run `git push`. The initial push uses `git push -u origin main`. The generated `.gitignore` allows only public assets. Make authoring changes in the original study workspace and regenerate this folder; rebuilding preserves Git history. The workspace's `publishing/GITHUB_PAGES_GUIDE.md` documents the update workflow.
+
+Titles, descriptions, navigation, structured site information and readable static HTML support search discovery. Once the public website URL is known, set `public_url` in the authoring workspace's `web/site_config.json` and rebuild to add canonical URLs and `sitemap.xml`. No placeholder domain is published. See `publishing/SEARCH_DISCOVERY.md` in the workspace for the remaining publication steps.
+
+## Privacy and practice
+
+Mock exams have 45 questions in 35 reading / 5 news / 5 values blocks, with requirements of 36 correct overall and 4 values answers. All practice items have three answer options. Answers and explanations appear after submission. Active attempts and the latest ten scores stay in the visitor's browser. Personal daily quiz records, schedules and local source PDFs are not included. Official documents are linked at their publishers. GitHub Pages does not run private news-refresh or daily-quiz automations.
 
 © 2026 Huanren Zhang. All rights reserved where applicable. See [copyright and attribution](COPYRIGHT.md). This project is not affiliated with or endorsed by SIRI. No open-source or Creative Commons license has been selected.
