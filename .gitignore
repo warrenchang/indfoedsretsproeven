@@ -1,0 +1,18 @@
+# Generated public-asset allowlist.
+*
+!/.gitignore
+!/.nojekyll
+!/COPYRIGHT.md
+!/README.md
+!/bank.html
+!/copyright.html
+!/current-affairs.html
+!/exam-app.js
+!/exam-data.js
+!/exam-engine.js
+!/exam-info.html
+!/exam.css
+!/exam.html
+!/index.html
+!/questions.json
+!/sources.html
