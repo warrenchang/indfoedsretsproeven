@@ -1,7 +1,7 @@
 {
   "title": "Indfødsretsprøven – november 2026",
   "official": false,
-  "version": "2026-09-25",
+  "version": "2026-09-26",
   "news_coverage_through": "2026-09-25",
   "news_window_start": "2026-05-01",
   "author": "Huanren Warren Zhang",
@@ -830,7 +830,7 @@
       "chapter_title": "Danmarks historie",
       "section": "1.3",
       "topic": "1.3.2 Pest, genopbygning og Kalmarunion",
-      "question": "Hvordan styrkede pestepidemien ifølge lærematerialet Valdemar Atterdags magt?",
+      "question": "Hvordan styrkede pestepidemien Valdemar Atterdags magt?",
       "options": {
         "A": "Adelen mistede retten til at vælge kongen",
         "B": "Kirken mistede retten til at opkræve tiende",
@@ -846,7 +846,8 @@
         12
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "wording_revision": "2026-09-26"
     },
     {
       "id": "DK0036",
@@ -6091,7 +6092,7 @@
       "chapter_title": "Danmarks historie",
       "section": "1.13",
       "topic": "1.13.7 Nyt politisk opbrud",
-      "question": "Hvilken politik forbindes Liberal Alliance med i lærematerialet fra august 2026?",
+      "question": "Hvilken politik forbindes Liberal Alliance med?",
       "options": {
         "A": "Lavere skatter og mere privat markedsøkonomi",
         "B": "Højere skatter og en større offentlig sektor",
@@ -6107,7 +6108,8 @@
         63
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "wording_revision": "2026-09-26"
     },
     {
       "id": "DK0256",
@@ -6163,7 +6165,7 @@
       "chapter_title": "Danmarks historie",
       "section": "1.13",
       "topic": "1.13.7 Nyt politisk opbrud",
-      "question": "Hvilken samarbejdsform fremhæver Moderaterne ifølge lærematerialet fra august 2026?",
+      "question": "Hvilken samarbejdsform fremhæver Moderaterne?",
       "options": {
         "A": "Et fast samarbejde på den borgerlige fløj",
         "B": "Samarbejde hen over midten",
@@ -6179,7 +6181,8 @@
         64
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "wording_revision": "2026-09-26"
     },
     {
       "id": "DK0259",
@@ -6211,7 +6214,7 @@
       "chapter_title": "Danmarks historie",
       "section": "1.13",
       "topic": "1.13.7 Nyt politisk opbrud",
-      "question": "Hvilken udvikling beskriver lærematerialet fra august 2026 i de gamle partiers samlede vælgerandel?",
+      "question": "Hvordan udviklede den samlede vælgerandel for Folketingets fem ældste partier sig fra 2001 til 2026?",
       "options": {
         "A": "Den er faldet over flere årtier",
         "B": "Den er steget over flere årtier",
@@ -6227,7 +6230,8 @@
         64
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "wording_revision": "2026-09-26"
     },
     {
       "id": "DK0264",
@@ -7651,7 +7655,7 @@
       "chapter_title": "Det danske demokrati",
       "section": "2.2",
       "topic": "2.2.5 Det lokale selvstyre i kommuner og regioner",
-      "question": "Hvad skal den sammenlagte østlige region hedde ifølge lærematerialet fra august 2026?",
+      "question": "Hvad skal den nye region, som dannes ved sammenlægningen af Region Hovedstaden og Region Sjælland i 2027, hedde?",
       "options": {
         "A": "Region Østdanmark",
         "B": "Region Sjælland-Bornholm",
@@ -7667,7 +7671,8 @@
         87
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "wording_revision": "2026-09-26"
     },
     {
       "id": "DK0352",
@@ -7820,7 +7825,7 @@
       "chapter_title": "Det danske demokrati",
       "section": "2.2",
       "topic": "2.2.6 Demokratiets deltagere – Vælgerne",
-      "question": "Hvilken udvikling beskriver lærematerialet fra august 2026 i vælgernes adfærd?",
+      "question": "Hvordan har danske vælgeres tilbøjelighed til at skifte parti udviklet sig gennem de seneste årtier?",
       "options": {
         "A": "De er blevet mere tro mod samme parti hele livet",
         "B": "Deres partivalg bestemmes stadig kun af deres erhverv",
@@ -7836,7 +7841,8 @@
         90
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "wording_revision": "2026-09-26"
     },
     {
       "id": "DK0361",
@@ -8061,7 +8067,7 @@
       "chapter_title": "Det danske demokrati",
       "section": "2.2",
       "topic": "2.2.7 Demokrati i hverdagen – Medborgerskab",
-      "question": "Ved hvilken valgtype har Danmark ifølge materialets gennemsnit siden 2000 haft højest valgdeltagelse?",
+      "question": "Ved hvilken valgtype har Danmark i gennemsnit siden 2000 haft højest valgdeltagelse?",
       "options": {
         "A": "Valg til Europa-Parlamentet",
         "B": "Kommunal- og regionalvalg",
@@ -8077,7 +8083,8 @@
         95
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "wording_revision": "2026-09-26"
     },
     {
       "id": "DK0387",
@@ -8181,7 +8188,7 @@
       "chapter_title": "Det danske demokrati",
       "section": "2.3",
       "topic": "2.3.4 Borgernes pligter – Værnepligt",
-      "question": "Hvem er omfattet af værnepligt ifølge lærematerialet fra august 2026?",
+      "question": "Hvem er omfattet af værnepligt i Danmark efter ændringen i 2025?",
       "options": {
         "A": "Både mænd og kvinder med dansk statsborgerskab",
         "B": "Kun mænd med dansk statsborgerskab",
@@ -8197,7 +8204,8 @@
         100
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "wording_revision": "2026-09-26"
     },
     {
       "id": "DK0400",
@@ -8782,7 +8790,7 @@
       "chapter_title": "Den danske økonomi",
       "section": "3.2",
       "topic": "3.2.1 Den danske velfærdsmodels udvikling",
-      "question": "Hvilket forhold bidrager ifølge lærematerialet til at finansiere en stor offentlig sektor?",
+      "question": "Hvilket forhold bidrager til at finansiere en stor offentlig sektor?",
       "options": {
         "A": "Høj beskæftigelse",
         "B": "Større afhængighed af import frem for produktion",
@@ -8798,7 +8806,8 @@
         109
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "wording_revision": "2026-09-26"
     },
     {
       "id": "DK0433",
@@ -8806,7 +8815,7 @@
       "chapter_title": "Den danske økonomi",
       "section": "3.2",
       "topic": "3.2.1 Den danske velfærdsmodels udvikling",
-      "question": "Hvilken gruppe havde højest beskæftigelse blandt 25-64-årige i de tal for 2024, som lærematerialet angiver?",
+      "question": "Hvilken af disse grupper havde den højeste beskæftigelsesandel blandt 25–64-årige i Danmark i 2024?",
       "options": {
         "A": "Personer med dansk oprindelse",
         "B": "Grupperne havde helt samme beskæftigelse",
@@ -8822,7 +8831,8 @@
         109
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "wording_revision": "2026-09-26"
     },
     {
       "id": "DK0434",
@@ -8950,7 +8960,7 @@
       "chapter_title": "Den danske økonomi",
       "section": "3.2",
       "topic": "3.2.2 Lighed og omfordeling",
-      "question": "Hvilke myndigheder har ret til at udskrive indkomstskat ifølge lærematerialet fra august 2026?",
+      "question": "Hvilke myndigheder har ret til at udskrive indkomstskat?",
       "options": {
         "A": "Staten og kommunerne",
         "B": "Kun kommunerne",
@@ -8966,7 +8976,8 @@
         110
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "wording_revision": "2026-09-26"
     },
     {
       "id": "DK0440",
@@ -8998,7 +9009,7 @@
       "chapter_title": "Den danske økonomi",
       "section": "3.2",
       "topic": "3.2.2 Lighed og omfordeling",
-      "question": "Hvem betaler kirkeskat til folkekirken ifølge lærematerialet fra august 2026?",
+      "question": "Hvem betaler kirkeskat til folkekirken?",
       "options": {
         "A": "Alle, der besøger en kirke",
         "B": "Kun kirkens ansatte",
@@ -9014,7 +9025,8 @@
         110
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "wording_revision": "2026-09-26"
     },
     {
       "id": "DK0442",
@@ -9185,28 +9197,29 @@
       "source_edition": "August 2026"
     },
     {
-      "id": "DK0449",
+      "id": "DK0449-r2",
       "chapter": 3,
       "chapter_title": "Den danske økonomi",
       "section": "3.2",
       "topic": "3.2.3 Velfærdssamfundets opgaver og aktører",
-      "question": "Hvem ejer en friskole efter den model, lærematerialet beskriver?",
+      "question": "Hvilken organisationsform har en friskole i Danmark?",
       "options": {
-        "A": "En forening bag skolen",
-        "B": "Undervisningsministeriet",
-        "C": "Kommunen"
+        "A": "En selvejende institution",
+        "B": "En statslig institution",
+        "C": "En kommunal institution"
       },
       "answer": "A",
-      "explanation": "Friskoler er foreningsejede og derfor organisatorisk forskellige fra kommunale folkeskoler.",
+      "explanation": "Frie grundskoler er selvejende institutioner. De drives inden for friskolelovens rammer og er organisatorisk adskilt fra staten og kommunerne.",
       "difficulty": "medium",
       "cognitive": "recall",
       "values": false,
       "exam_domain": "reading",
-      "source_pages": [
-        112
-      ],
-      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_pages": [],
+      "source_url": "https://uvm.dk/grundskole/frie-grundskoler/om-frie-grundskoler/om-frie-grundskoler/",
+      "source_title": "Undervisningsministeriet: Om frie grundskoler",
+      "source_edition": "Kontrolleret 26. september 2026",
+      "wording_revision": "2026-09-26",
+      "original_id": "DK0449"
     },
     {
       "id": "DK0450",
@@ -9359,7 +9372,7 @@
       "chapter_title": "Den danske økonomi",
       "section": "3.3",
       "topic": "3.3.1 Fra landbrugssamfund til videns- og servicesamfund",
-      "question": "Hvor stor en del af arbejdsstyrken arbejder i selve landbruget ifølge lærematerialet fra august 2026?",
+      "question": "Hvor stor en del af arbejdsstyrken arbejder omtrent i selve landbruget i Danmark i midten af 2020’erne?",
       "options": {
         "A": "Cirka 50 procent",
         "B": "Cirka 20 procent",
@@ -9375,7 +9388,8 @@
         114
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "wording_revision": "2026-09-26"
     },
     {
       "id": "DK0457",
@@ -9402,19 +9416,19 @@
       "source_edition": "August 2026"
     },
     {
-      "id": "DK0458",
+      "id": "DK0458-r2",
       "chapter": 3,
       "chapter_title": "Den danske økonomi",
       "section": "3.3",
       "topic": "3.3.1 Fra landbrugssamfund til videns- og servicesamfund",
-      "question": "Hvad kendetegner økologisk landbrug i lærematerialets beskrivelse?",
+      "question": "Hvilken type gødning må ikke bruges i økologisk landbrug?",
       "options": {
-        "A": "Drift med kunstgødning, men uden husdyr",
-        "B": "Drift med kemiske sprøjtemidler i reduceret dosis",
-        "C": "Drift uden kemiske sprøjtemidler og kunstgødning"
+        "A": "Husdyrgødning",
+        "B": "Kompost",
+        "C": "Kunstgødning"
       },
       "answer": "C",
-      "explanation": "Økologisk drift udelader kemiske sprøjtemidler og kunstgødning og stiller også krav til dyrevelfærd.",
+      "explanation": "Kunstgødning er ikke tilladt i økologisk landbrug; husdyrgødning og kompost kan bruges efter økologireglernes betingelser.",
       "difficulty": "easy",
       "cognitive": "recall",
       "values": false,
@@ -9423,7 +9437,9 @@
         114
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "wording_revision": "2026-09-26",
+      "original_id": "DK0458"
     },
     {
       "id": "DK0459",
@@ -9503,7 +9519,7 @@
       "chapter_title": "Den danske økonomi",
       "section": "3.3",
       "topic": "3.3.1 Fra landbrugssamfund til videns- og servicesamfund",
-      "question": "I hvilken by ligger LEGO's hovedsæde ifølge lærematerialet fra august 2026?",
+      "question": "I hvilken by ligger LEGO's hovedsæde?",
       "options": {
         "A": "Esbjerg",
         "B": "Billund",
@@ -9519,7 +9535,8 @@
         115
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "wording_revision": "2026-09-26"
     },
     {
       "id": "DK0463",
@@ -9599,7 +9616,7 @@
       "chapter_title": "Den danske økonomi",
       "section": "3.3",
       "topic": "3.3.1 Fra landbrugssamfund til videns- og servicesamfund",
-      "question": "Omtrent hvor mange lønmodtagere arbejder i den offentlige sektor ifølge lærematerialet fra august 2026?",
+      "question": "Omtrent hvor stor en andel af lønmodtagerne arbejder i den offentlige sektor i Danmark i midten af 2020’erne?",
       "options": {
         "A": "30 procent",
         "B": "5 procent",
@@ -9615,7 +9632,8 @@
         115
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "wording_revision": "2026-09-26"
     },
     {
       "id": "DK0467",
@@ -9623,7 +9641,7 @@
       "chapter_title": "Den danske økonomi",
       "section": "3.3",
       "topic": "3.3.2 Danmarks samhandel med udlandet",
-      "question": "Hvor stor er eksporten i forhold til Danmarks samlede produktion ifølge lærematerialet fra august 2026?",
+      "question": "Hvor stor er Danmarks eksport omtrent i forhold til landets samlede produktion i midten af 2020’erne?",
       "options": {
         "A": "Cirka det dobbelte",
         "B": "Cirka en tyvendedel",
@@ -9639,7 +9657,8 @@
         116
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "wording_revision": "2026-09-26"
     },
     {
       "id": "DK0468",
@@ -9647,7 +9666,7 @@
       "chapter_title": "Den danske økonomi",
       "section": "3.3",
       "topic": "3.3.2 Danmarks samhandel med udlandet",
-      "question": "Hvilket land køber Danmark mest fra ifølge lærematerialet fra august 2026?",
+      "question": "Hvilket land importerer Danmark mest fra i midten af 2020’erne?",
       "options": {
         "A": "USA",
         "B": "Tyskland",
@@ -9663,7 +9682,8 @@
         116
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "wording_revision": "2026-09-26"
     },
     {
       "id": "DK0469",
@@ -9671,7 +9691,7 @@
       "chapter_title": "Den danske økonomi",
       "section": "3.3",
       "topic": "3.3.2 Danmarks samhandel med udlandet",
-      "question": "Hvilket land sælger Danmark mest til ifølge lærematerialet fra august 2026?",
+      "question": "Hvilket land eksporterer Danmark mest til i midten af 2020’erne?",
       "options": {
         "A": "Japan",
         "B": "Norge",
@@ -9687,7 +9707,8 @@
         116
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "wording_revision": "2026-09-26"
     },
     {
       "id": "DK0470",
@@ -9695,7 +9716,7 @@
       "chapter_title": "Den danske økonomi",
       "section": "3.3",
       "topic": "3.3.2 Danmarks samhandel med udlandet",
-      "question": "Hvordan sammenlignes eksporten til EU samlet med eksporten til USA i lærematerialet fra august 2026?",
+      "question": "Hvordan er Danmarks samlede eksport til andre EU-lande sammenlignet med eksporten til USA i midten af 2020’erne?",
       "options": {
         "A": "Eksporten til EU og USA er omtrent lige stor",
         "B": "Eksporten til EU samlet er klart større",
@@ -9711,7 +9732,8 @@
         116
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "wording_revision": "2026-09-26"
     },
     {
       "id": "DK0471",
@@ -9815,7 +9837,7 @@
       "chapter_title": "Den danske økonomi",
       "section": "3.4",
       "topic": "3.4.1 Høj organisationsgrad",
-      "question": "Hvor stor en andel af lønmodtagerne var ifølge lærematerialet medlem af en fagforening i 2025?",
+      "question": "Hvor stor en andel af lønmodtagerne var medlem af en fagforening i 2025?",
       "options": {
         "A": "Omkring to tredjedele",
         "B": "Omkring en tiendedel",
@@ -9831,7 +9853,8 @@
         118
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "wording_revision": "2026-09-26"
     },
     {
       "id": "DK0478",
@@ -9839,7 +9862,7 @@
       "chapter_title": "Den danske økonomi",
       "section": "3.4",
       "topic": "3.4.1 Høj organisationsgrad",
-      "question": "Hvilken organisation beskrives som Danmarks største arbejdsgiver- og erhvervsorganisation i lærematerialet fra august 2026?",
+      "question": "Hvilken organisation er Danmarks største arbejdsgiver- og erhvervsorganisation?",
       "options": {
         "A": "Dansk Erhverv",
         "B": "Dansk Industri (DI)",
@@ -9855,7 +9878,8 @@
         118
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "wording_revision": "2026-09-26"
     },
     {
       "id": "DK0479",
@@ -10105,7 +10129,7 @@
       "chapter_title": "Den danske økonomi",
       "section": "3.4",
       "topic": "3.4 Arbejdsmarkedet",
-      "question": "Hvad viser lærematerialets beskæftigelsestal for mænd og kvinder i 2024?",
+      "question": "Hvad kendetegnede beskæftigelsen blandt 16–66-årige mænd og kvinder i Danmark i 2024?",
       "options": {
         "A": "Kvinderne havde væsentligt højere beskæftigelse end mændene",
         "B": "Et stort flertal af begge køn var i arbejde",
@@ -10121,7 +10145,8 @@
         117
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "wording_revision": "2026-09-26"
     },
     {
       "id": "DK0491",
@@ -10369,7 +10394,7 @@
       "chapter_title": "Danmark og omverdenen",
       "section": "4.2",
       "topic": "4.2.1 Den Europæiske Union – EU's udvikling",
-      "question": "Hvor mange medlemslande har EU ifølge lærematerialet fra august 2026?",
+      "question": "Hvor mange medlemslande har EU i 2026?",
       "options": {
         "A": "27",
         "B": "20",
@@ -10385,7 +10410,8 @@
         122
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "wording_revision": "2026-09-26"
     },
     {
       "id": "DK0502",
@@ -10777,7 +10803,7 @@
       "chapter_title": "Danmark og omverdenen",
       "section": "4.2",
       "topic": "4.2.1 Den Europæiske Union – Europa-Kommissionen",
-      "question": "Hvilket område har Dan Jørgensen ansvar for som EU-kommissær ifølge lærematerialet fra august 2026?",
+      "question": "Hvilket område har Dan Jørgensen ansvar for som EU-kommissær i 2026?",
       "options": {
         "A": "Konkurrencepolitik",
         "B": "Energi og boliger",
@@ -10793,7 +10819,8 @@
         127
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "wording_revision": "2026-09-26"
     },
     {
       "id": "DK0520",
@@ -11305,7 +11332,7 @@
       "chapter_title": "Danmark og omverdenen",
       "section": "4.3",
       "topic": "4.3.1 FN (De Forenede Nationer)",
-      "question": "I hvilken periode sidder Danmark i FN's Sikkerhedsråd ifølge lærematerialet fra august 2026?",
+      "question": "I hvilken periode sidder Danmark i FN's Sikkerhedsråd?",
       "options": {
         "A": "2025-26",
         "B": "2027-28",
@@ -11321,7 +11348,8 @@
         132
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "wording_revision": "2026-09-26"
     },
     {
       "id": "DK0546",
@@ -11329,7 +11357,7 @@
       "chapter_title": "Danmark og omverdenen",
       "section": "4.3",
       "topic": "4.3.1 FN (De Forenede Nationer)",
-      "question": "Hvilken kritik af Sikkerhedsrådets sammensætning nævnes i lærematerialet?",
+      "question": "Hvilken kritik rettes mod den geografiske fordeling af de faste pladser i FN’s Sikkerhedsråd?",
       "options": {
         "A": "De faste pladser fordeles efter nutidens befolkningstal",
         "B": "Afrika og Sydamerika har ingen faste medlemmer",
@@ -11345,7 +11373,8 @@
         133
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "wording_revision": "2026-09-26"
     },
     {
       "id": "DK0547",
@@ -11545,7 +11574,7 @@
       "chapter_title": "Danmark og omverdenen",
       "section": "4.3",
       "topic": "4.3.2 Internationalt samarbejde om udvikling – Fokus på Afrika",
-      "question": "Hvilken sammenhæng mellem Afrika og klima beskrives i lærematerialet fra august 2026?",
+      "question": "Hvilken sammenhæng mellem CO₂-udledning og klimaskader kendetegner mange afrikanske lande?",
       "options": {
         "A": "Afrikas lave udledning betyder, at det undgår klimaskader",
         "B": "Afrika har større udledning pr. person end alle andre verdensdele",
@@ -11561,7 +11590,8 @@
         135
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "wording_revision": "2026-09-26"
     },
     {
       "id": "DK0556",
@@ -11689,7 +11719,7 @@
       "chapter_title": "Danmark og omverdenen",
       "section": "4.4",
       "topic": "4.4.2 Irakkrigen",
-      "question": "Hvilket NATO-land ønskede ifølge lærematerialet ikke at støtte krigen mod Irak i 2003?",
+      "question": "Hvilket NATO-land ønskede ikke at støtte krigen mod Irak i 2003?",
       "options": {
         "A": "Tyskland",
         "B": "Storbritannien",
@@ -11705,7 +11735,8 @@
         138
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "wording_revision": "2026-09-26"
     },
     {
       "id": "DK0562",
@@ -12169,7 +12200,7 @@
       "chapter_title": "Danmark og omverdenen",
       "section": "4.4",
       "topic": "4.4.3 Nyt fokus på dansk territorialforsvar",
-      "question": "Hvilken amerikansk prioritering nævnes som en kilde til usikkerhed om Europas forsvar i august 2026-materialet?",
+      "question": "Hvilken amerikansk udenrigspolitisk prioritering skaber i midten af 2020’erne usikkerhed om Europas forsvar?",
       "options": {
         "A": "Mindre interesse for Asien og Stillehavsområdet",
         "B": "Større opmærksomhed på Kina og Asien",
@@ -12185,7 +12216,8 @@
         141
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "wording_revision": "2026-09-26"
     },
     {
       "id": "DK0582",
@@ -12193,7 +12225,7 @@
       "chapter_title": "Danmark og omverdenen",
       "section": "4.4",
       "topic": "4.4.3 Nyt fokus på dansk territorialforsvar",
-      "question": "Hvad skal øgede danske forsvarsbevillinger blandt andet bruges til ifølge august 2026-materialet?",
+      "question": "Hvad skal de øgede danske forsvarsbevillinger i midten af 2020’erne blandt andet bruges til?",
       "options": {
         "A": "En omlægning fra territorialforsvar til kun civile opgaver",
         "B": "En fortsat reduktion af antallet af værnepligtige",
@@ -12209,7 +12241,8 @@
         142
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "wording_revision": "2026-09-26"
     },
     {
       "id": "DK0583",
@@ -12385,7 +12418,7 @@
       "chapter_title": "Danmark og omverdenen",
       "section": "4.4",
       "topic": "4.4.4 Rigsfællesskabet, Grønland og Arktis i dansk udenrigspolitik",
-      "question": "Hvilken rolle har Grønland i Kongerigets formandskab for Arktisk Råd 2025-27 ifølge lærematerialet?",
+      "question": "Hvilken rolle har Grønland i Kongerigets formandskab for Arktisk Råd 2025-27?",
       "options": {
         "A": "En ledende rolle",
         "B": "Kun observatørstatus uden stemme",
@@ -12401,7 +12434,8 @@
         143
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "wording_revision": "2026-09-26"
     },
     {
       "id": "DK0591",
@@ -14209,7 +14243,7 @@
       "chapter_title": "Dansk kulturliv",
       "section": "5.5",
       "topic": "Dorte Mandrup",
-      "question": "Hvad kendetegner Dorte Mandrups Vadehavscenter ifølge lærematerialet?",
+      "question": "Hvad kendetegner Dorte Mandrups Vadehavscenter?",
       "options": {
         "A": "En tydelig adskillelse fra omgivelsernes karakter",
         "B": "Bygningens samspil med landskabet",
@@ -14225,7 +14259,8 @@
         163
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "wording_revision": "2026-09-26"
     },
     {
       "id": "DK0667",
@@ -15626,7 +15661,7 @@
       "chapter_title": "Temaopslag",
       "section": "6.2",
       "topic": "Turisme",
-      "question": "Hvilket land stod ifølge august 2026-materialet for flest udenlandske turistovernatninger i Danmark i 2025?",
+      "question": "Hvilket land stod for flest udenlandske turistovernatninger i Danmark i 2025?",
       "options": {
         "A": "Italien",
         "B": "Finland",
@@ -15642,7 +15677,8 @@
         177
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "wording_revision": "2026-09-26"
     },
     {
       "id": "DK0726",
@@ -16730,7 +16766,7 @@
       "chapter_title": "Temaopslag",
       "section": "6.3",
       "topic": "Flagets brug",
-      "question": "Hvornår blev det ifølge lærematerialet almindeligt blandt befolkningen at flage med Dannebrog?",
+      "question": "Hvornår blev det almindeligt blandt befolkningen at flage med Dannebrog?",
       "options": {
         "A": "Først efter 2. Verdenskrig",
         "B": "Fra begyndelsen af 1200-tallet",
@@ -16746,7 +16782,8 @@
         190
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "wording_revision": "2026-09-26"
     },
     {
       "id": "DK0772",
@@ -16778,7 +16815,7 @@
       "chapter_title": "Temaopslag",
       "section": "6.3",
       "topic": "Flagregler",
-      "question": "Hvilket udenlandsk flag kan man ifølge august 2026-materialet hejse uden særlig polititilladelse?",
+      "question": "Hvilket udenlandsk flag kan man hejse uden særlig polititilladelse?",
       "options": {
         "A": "Brasiliens flag",
         "B": "Kinas flag",
@@ -16794,7 +16831,8 @@
         190
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "wording_revision": "2026-09-26"
     },
     {
       "id": "DK0774",
@@ -16994,7 +17032,7 @@
       "chapter_title": "Temaopslag",
       "section": "6.4",
       "topic": "Kongefamilien",
-      "question": "Hvem er ifølge lærematerialet fra august 2026 kronprins i Danmark?",
+      "question": "Hvem er kronprins i Danmark i 2026?",
       "options": {
         "A": "Christian",
         "B": "Vincent",
@@ -17010,7 +17048,8 @@
         192
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "wording_revision": "2026-09-26"
     },
     {
       "id": "DK0783",
@@ -17018,7 +17057,7 @@
       "chapter_title": "Temaopslag",
       "section": "6.5",
       "topic": "Indvandringens omfang",
-      "question": "Hvordan ændrede antallet af indvandrere og efterkommere sig fra 1980 til 2025 ifølge august 2026-materialet?",
+      "question": "Hvordan ændrede antallet af indvandrere og efterkommere sig fra 1980 til 2025?",
       "options": {
         "A": "Det faldt til omkring det halve",
         "B": "Det var omtrent uændret",
@@ -17034,7 +17073,8 @@
         193
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "wording_revision": "2026-09-26"
     },
     {
       "id": "DK0784",
@@ -17354,7 +17394,7 @@
       "chapter_title": "Temaopslag",
       "section": "6.6",
       "topic": "Fordeling af ansvar",
-      "question": "Hvilket område varetages som fælles rigsanliggende ifølge august 2026-materialet?",
+      "question": "Hvilket område varetages som fælles rigsanliggende?",
       "options": {
         "A": "Udenrigs- og sikkerhedspolitik",
         "B": "Færøernes lokale kulturpolitik",
@@ -17370,7 +17410,8 @@
         196
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "wording_revision": "2026-09-26"
     },
     {
       "id": "DK0798",
@@ -17762,7 +17803,7 @@
       "chapter_title": "Temaopslag",
       "section": "6.6",
       "topic": "Grønlands selvstyre",
-      "question": "Hvem vælger Grønlands landsstyreformand ifølge august 2026-materialet?",
+      "question": "Hvem vælger Grønlands landsstyreformand?",
       "options": {
         "A": "Folketinget",
         "B": "Befolkningen ved et særskilt præsidentvalg",
@@ -17778,7 +17819,8 @@
         201
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "wording_revision": "2026-09-26"
     },
     {
       "id": "DK0815",
@@ -17786,7 +17828,7 @@
       "chapter_title": "Temaopslag",
       "section": "6.6",
       "topic": "Grønlands økonomi",
-      "question": "Hvilket erhverv giver ifølge august 2026-materialet Grønlands vigtigste eksportindtægter?",
+      "question": "Hvilket erhverv giver Grønlands vigtigste eksportindtægter?",
       "options": {
         "A": "Fiskeri, især rejer",
         "B": "Fåreavl og uld",
@@ -17802,7 +17844,8 @@
         202
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "wording_revision": "2026-09-26"
     },
     {
       "id": "DK0816",
@@ -18338,7 +18381,7 @@
       "chapter_title": "Temaopslag",
       "section": "6.7",
       "topic": "Nordiske befolkninger",
-      "question": "Hvilket nordisk land har ifølge august 2026-materialet flest indbyggere?",
+      "question": "Hvilket nordisk land har flest indbyggere i 2026?",
       "options": {
         "A": "Sverige",
         "B": "Island",
@@ -18354,7 +18397,8 @@
         208
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "wording_revision": "2026-09-26"
     },
     {
       "id": "DK0839",
@@ -18554,7 +18598,7 @@
       "chapter_title": "Temaopslag",
       "section": "6.8",
       "topic": "Forskning",
-      "question": "Inden for hvilke fag er Danmark særligt kendt for forskning ifølge august 2026-materialet?",
+      "question": "Inden for hvilke fag er Danmark særligt kendt for forskning?",
       "options": {
         "A": "Tropisk skovbrug, vulkanologi og ørkengeologi",
         "B": "Medicin, biokemi og teknologi",
@@ -18570,7 +18614,8 @@
         211
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "wording_revision": "2026-09-26"
     },
     {
       "id": "DK0848",
@@ -18963,7 +19008,7 @@
       "chapter_title": "Temaopslag",
       "section": "6.9",
       "topic": "Religionsstatistik",
-      "question": "Hvilke religiøse medlemskaber registrerer myndighederne ifølge august 2026-materialet?",
+      "question": "Hvilke religiøse medlemskaber registrerer myndighederne?",
       "options": {
         "A": "Medlemskab af folkekirken",
         "B": "Medlemskab af muslimske menigheder",
@@ -18979,7 +19024,8 @@
         217
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "wording_revision": "2026-09-26"
     },
     {
       "id": "DK0867",
@@ -19755,7 +19801,7 @@
       "chapter_title": "Temaopslag",
       "section": "6.12",
       "topic": "Folkeskolens opbygning",
-      "question": "Hvad indgår i de ti års obligatoriske undervisning ifølge august 2026-materialet?",
+      "question": "Hvad indgår i de ti års obligatoriske undervisning?",
       "options": {
         "A": "1.-10. klasse uden børnehaveklasse",
         "B": "Børnehaveklasse og 1.-10. klasse",
@@ -19771,7 +19817,8 @@
         224
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "wording_revision": "2026-09-26"
     },
     {
       "id": "DK0906",
@@ -19779,7 +19826,7 @@
       "chapter_title": "Temaopslag",
       "section": "6.12",
       "topic": "Karaktergivning",
-      "question": "Fra hvilket klassetrin får elever normalt karakterer i flere fag ifølge august 2026-materialet?",
+      "question": "Fra hvilket klassetrin får elever normalt karakterer i flere fag?",
       "options": {
         "A": "6. klasse",
         "B": "9. klasse",
@@ -19795,7 +19842,8 @@
         225
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "wording_revision": "2026-09-26"
     },
     {
       "id": "DK0907",
@@ -19875,7 +19923,7 @@
       "chapter_title": "Temaopslag",
       "section": "6.12",
       "topic": "Videregående uddannelser",
-      "question": "Hvilket fag er et eksempel på en mellemlang videregående uddannelse i lærematerialet?",
+      "question": "Hvilket fag er et eksempel på en mellemlang videregående uddannelse?",
       "options": {
         "A": "Universitetsuddannet læge",
         "B": "Sygeplejerske",
@@ -19891,7 +19939,8 @@
         226
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "wording_revision": "2026-09-26"
     },
     {
       "id": "DK0912",
@@ -19899,7 +19948,7 @@
       "chapter_title": "Temaopslag",
       "section": "6.12",
       "topic": "Adgang til videre uddannelse",
-      "question": "Hvilken uddannelse kræves normalt før en lang videregående uddannelse ifølge august 2026-materialet?",
+      "question": "Hvilken uddannelse kræves normalt før en lang videregående uddannelse?",
       "options": {
         "A": "Et almindeligt højskoleophold",
         "B": "En afsluttet folkeskoleuddannelse",
@@ -19915,7 +19964,8 @@
         226
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "wording_revision": "2026-09-26"
     },
     {
       "id": "DK0913",
@@ -19947,7 +19997,7 @@
       "chapter_title": "Temaopslag",
       "section": "6.12",
       "topic": "Voksenuddannelse",
-      "question": "Hvor kan voksne ifølge august 2026-materialet tage enkeltfag på folkeskole- eller hf-niveau?",
+      "question": "Hvor kan voksne tage enkeltfag på folkeskole- eller hf-niveau?",
       "options": {
         "A": "På et voksenuddannelsescenter",
         "B": "På en almindelig folkehøjskole",
@@ -19963,7 +20013,8 @@
         227
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "wording_revision": "2026-09-26"
     },
     {
       "id": "DK0915",
@@ -19971,7 +20022,7 @@
       "chapter_title": "Temaopslag",
       "section": "6.12",
       "topic": "Uddannelsesvalg",
-      "question": "Hvilken udvikling fra 1982 til 2023 beskriver august 2026-materialet?",
+      "question": "Hvordan ændrede unges valg mellem gymnasiale og erhvervsfaglige uddannelser sig fra 1982 til 2023?",
       "options": {
         "A": "Færre valgte gymnasiet, flere en erhvervsfaglig uddannelse",
         "B": "Andelene i de to uddannelsestyper forblev omtrent uændrede",
@@ -19987,7 +20038,8 @@
         227
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "wording_revision": "2026-09-26"
     },
     {
       "id": "DK0916",
@@ -20019,7 +20071,7 @@
       "chapter_title": "Temaopslag",
       "section": "6.12",
       "topic": "Juniormesterlære",
-      "question": "Hvad kombinerer juniormesterlære ifølge august 2026-materialet?",
+      "question": "Hvad kombinerer juniormesterlære?",
       "options": {
         "A": "Højskoleophold og internationalt udvekslingsarbejde",
         "B": "Gymnasieundervisning og universitetskurser",
@@ -20035,7 +20087,8 @@
         228
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "wording_revision": "2026-09-26"
     },
     {
       "id": "DK0918",
@@ -20043,7 +20096,7 @@
       "chapter_title": "Temaopslag",
       "section": "6.12",
       "topic": "Epx",
-      "question": "Hvad er et hovedtræk ved den epx-uddannelse, som august 2026-materialet beskriver som planlagt fra 2030?",
+      "question": "Hvad er et hovedtræk ved den epx-uddannelse, som er planlagt til at åbne i 2030?",
       "options": {
         "A": "Den kombinerer praktisk og boglig undervisning",
         "B": "Den bliver en universitetsuddannelse for færdige håndværkere",
@@ -20059,7 +20112,8 @@
         228
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "wording_revision": "2026-09-26"
     },
     {
       "id": "DK0919",
@@ -20067,7 +20121,7 @@
       "chapter_title": "Temaopslag",
       "section": "6.13",
       "topic": "Familieformer",
-      "question": "Hvilken udvikling i familielivet beskriver lærematerialet?",
+      "question": "Hvordan har samlivs- og familieformerne i Danmark udviklet sig gennem de seneste årtier?",
       "options": {
         "A": "Flere forskellige samlivs- og familieformer er blevet almindelige",
         "B": "Ægteskab er blevet mere udbredt blandt unge voksne",
@@ -20083,7 +20137,8 @@
         229
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "wording_revision": "2026-09-26"
     },
     {
       "id": "DK0920",
@@ -20091,7 +20146,7 @@
       "chapter_title": "Temaopslag",
       "section": "6.13",
       "topic": "Samliv uden ægteskab",
-      "question": "Har ugifte samlevende automatisk samme juridiske og økonomiske forpligtelser som ægtepar ifølge august 2026-materialet?",
+      "question": "Har ugifte samlevende automatisk samme juridiske og økonomiske forpligtelser som ægtepar?",
       "options": {
         "A": "Ja, når de har fået et barn sammen",
         "B": "Ja, når de har haft fælles adresse i to år",
@@ -20107,7 +20162,8 @@
         229
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "wording_revision": "2026-09-26"
     },
     {
       "id": "DK0921",
@@ -20115,7 +20171,7 @@
       "chapter_title": "Temaopslag",
       "section": "6.13",
       "topic": "Ægteskab over tid",
-      "question": "Hvad er der ifølge august 2026-materialet sket med alderen ved første ægteskab?",
+      "question": "Hvordan har alderen ved første ægteskab i Danmark udviklet sig gennem de seneste årtier?",
       "options": {
         "A": "Både mænd og kvinder er blevet yngre",
         "B": "Alderen for begge køn er stort set uændret",
@@ -20131,7 +20187,8 @@
         229
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "wording_revision": "2026-09-26"
     },
     {
       "id": "DK0924",
@@ -20187,7 +20244,7 @@
       "chapter_title": "Temaopslag",
       "section": "6.14",
       "topic": "6.14 Diskrimination, antisemitisme, hadforbrydelser og ekstremisme",
-      "question": "Hvilken gruppe var ofre i over halvdelen af de registrerede religiøst motiverede hadforbrydelser i 2022-24 ifølge materialet?",
+      "question": "Hvilken gruppe var ofre i over halvdelen af de registrerede religiøst motiverede hadforbrydelser i 2022-24?",
       "options": {
         "A": "Baptister",
         "B": "Jøder",
@@ -20203,7 +20260,8 @@
         232
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "wording_revision": "2026-09-26"
     },
     {
       "id": "DK0938",
@@ -20259,7 +20317,7 @@
       "chapter_title": "Temaopslag",
       "section": "6.14",
       "topic": "6.14 Diskrimination, antisemitisme, hadforbrydelser og ekstremisme",
-      "question": "Hvem var ofrene i den sag om grov vold, hvor tre personer blev dømt i 2025, og som omtales i lærematerialet?",
+      "question": "Hvem var ofrene i den voldssag, hvor tre personer i 2025 fik seks til ti måneders fængsel, og en af dem også blev dømt for at filme overfaldet og dele det på sociale medier?",
       "options": {
         "A": "To jødiske mænd",
         "B": "To homoseksuelle mænd",
@@ -20275,7 +20333,8 @@
         233
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "wording_revision": "2026-09-26"
     },
     {
       "id": "DK0944",
@@ -20355,7 +20414,7 @@
       "chapter_title": "Temaopslag",
       "section": "6.15",
       "topic": "6.15 Kvinder i ledelse",
-      "question": "Hvor stor en andel af direktørerne er kvinder ifølge lærematerialet fra august 2026?",
+      "question": "Hvor stor en andel af direktørerne i Danmark var kvinder i 2025?",
       "options": {
         "A": "Cirka 36 procent",
         "B": "Cirka 16 procent",
@@ -20371,7 +20430,8 @@
         235
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "wording_revision": "2026-09-26"
     },
     {
       "id": "DK0952",
@@ -20379,7 +20439,7 @@
       "chapter_title": "Temaopslag",
       "section": "6.15",
       "topic": "6.15 Ligestilling mellem kønnene – Ligeløn",
-      "question": "Hvilket køn fuldførte oftest en videregående uddannelse i 2023 ifølge materialets tal?",
+      "question": "Hvilket køn havde den største andel, der fuldførte en videregående uddannelse, i 2023?",
       "options": {
         "A": "Mænd",
         "B": "Begge køn i præcis samme omfang",
@@ -20395,7 +20455,8 @@
         235
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "wording_revision": "2026-09-26"
     },
     {
       "id": "DK0953",
@@ -20403,7 +20464,7 @@
       "chapter_title": "Temaopslag",
       "section": "6.15",
       "topic": "6.15 Ligestilling mellem kønnene – Ligeløn",
-      "question": "I hvilken sektor var kvindelige ledere mere udbredte ifølge august 2026-materialet?",
+      "question": "I hvilken sektor var andelen af kvindelige ledere størst i Danmark i 2025?",
       "options": {
         "A": "Den private sektor",
         "B": "Der var præcis samme andel i begge sektorer",
@@ -20419,7 +20480,8 @@
         235
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "wording_revision": "2026-09-26"
     },
     {
       "id": "DK0959",
@@ -20499,7 +20561,7 @@
       "chapter_title": "Temaopslag",
       "section": "6.16",
       "topic": "6.16 Sundhed og sundhedsvæsen – Sundhedsudgifter",
-      "question": "Hvilken udvikling forklarer ifølge materialet især voksende sundhedsudgifter?",
+      "question": "Hvilken udvikling forklarer især voksende sundhedsudgifter?",
       "options": {
         "A": "At alle behandlingsopgaver er flyttet fra regioner til kommuner",
         "B": "Et fald i udgifterne til hver ny behandlingsmetode",
@@ -20515,7 +20577,8 @@
         238
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "wording_revision": "2026-09-26"
     },
     {
       "id": "DK0966",
@@ -20932,7 +20995,7 @@
       "chapter_title": "Temaopslag",
       "section": "6.17",
       "topic": "6.17 Klima – Global opvarmning",
-      "question": "Hvilken mulig følge af global opvarmning nævnes i materialet?",
+      "question": "Hvilken følge kan global opvarmning have?",
       "options": {
         "A": "Mere ekstrem varme og flere oversvømmelser",
         "B": "Mindre ekstrem varme og lavere havniveau",
@@ -20948,7 +21011,8 @@
         242
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "wording_revision": "2026-09-26"
     },
     {
       "id": "DK0984",
@@ -21028,7 +21092,7 @@
       "chapter_title": "Temaopslag",
       "section": "6.17",
       "topic": "6.17 Klima – Den danske klimaindsats",
-      "question": "Hvilken udledningsreduktion i 2030 angiver klimaloven i august 2026-materialet i forhold til 1990?",
+      "question": "Hvor stor en reduktion af drivhusgasudledningen i 2030 i forhold til 1990 kræver det danske klimamål, der gælder i august 2026?",
       "options": {
         "A": "30 procent",
         "B": "70 procent",
@@ -21044,7 +21108,8 @@
         243
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "wording_revision": "2026-09-26"
     },
     {
       "id": "DK0988",
@@ -21124,7 +21189,7 @@
       "chapter_title": "Temaopslag",
       "section": "6.17",
       "topic": "6.17 Klima – Energi og transport",
-      "question": "Hvor skal den planlagte energiø ligge ifølge lærematerialet fra august 2026?",
+      "question": "Ved hvilken ø skal den planlagte energiø i Østersøen ligge?",
       "options": {
         "A": "Ved Fanø",
         "B": "Ved Bornholm",
@@ -21140,7 +21205,8 @@
         244
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "wording_revision": "2026-09-26"
     },
     {
       "id": "DK0992",
@@ -23189,7 +23255,7 @@
       "chapter_title": "Temaopslag",
       "section": "6.9",
       "topic": "Religiøse fællesskaber",
-      "question": "Skal en gruppe have offentlig anerkendelse for overhovedet at danne et trossamfund efter august 2026-materialet?",
+      "question": "Skal en gruppe have offentlig anerkendelse for overhovedet at danne et trossamfund?",
       "options": {
         "A": "Nej, gruppen kan frit danne det",
         "B": "Ja, gruppen skal først godkendes af kommunen",
@@ -23205,7 +23271,8 @@
         216
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "wording_revision": "2026-09-26"
     },
     {
       "id": "DK0872",
@@ -23237,7 +23304,7 @@
       "chapter_title": "Temaopslag",
       "section": "6.9",
       "topic": "Religiøst byggeri",
-      "question": "En menighed vil bygge et tempel. Hvilken almindelig tilladelse skal den ifølge august 2026-materialet have?",
+      "question": "En menighed vil bygge et tempel. Hvilken almindelig tilladelse skal den have?",
       "options": {
         "A": "Godkendelse fra det lokale menighedsråd",
         "B": "Godkendelse fra kirkeministerens arkitekt",
@@ -23253,7 +23320,8 @@
         217
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "wording_revision": "2026-09-26"
     },
     {
       "id": "DK0880",
@@ -23309,7 +23377,7 @@
       "chapter_title": "Temaopslag",
       "section": "6.12",
       "topic": "Elevers indflydelse",
-      "question": "Elever ønsker fælles indflydelse på deres skole. Hvilken ret beskrives i august 2026-materialet?",
+      "question": "Elever ønsker fælles indflydelse på deres skole. Hvilken ret har de?",
       "options": {
         "A": "Ret til selv at ansætte skolens lærere",
         "B": "Ret til at danne et elevråd",
@@ -23325,7 +23393,8 @@
         225
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "wording_revision": "2026-09-26"
     },
     {
       "id": "DK0908",
@@ -23405,7 +23474,7 @@
       "chapter_title": "Temaopslag",
       "section": "6.13",
       "topic": "Tvangsægteskab",
-      "question": "En familie forsøger at tvinge en myndig person til at gifte sig. Hvordan vurderes det efter august 2026-materialet?",
+      "question": "En familie forsøger at tvinge en myndig person til at gifte sig. Hvordan vurderes det?",
       "options": {
         "A": "Det er tilladt, hvis brylluppet følger en religiøs tradition",
         "B": "Det er tilladt, hvis forældrene har valgt en egnet partner",
@@ -23421,7 +23490,8 @@
         230
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "wording_revision": "2026-09-26"
     },
     {
       "id": "DK0926",
@@ -23429,7 +23499,7 @@
       "chapter_title": "Temaopslag",
       "section": "6.13",
       "topic": "Børns beskyttelse",
-      "question": "Må forældre efter august 2026-materialet slå deres børn som opdragelse?",
+      "question": "Må forældre slå deres børn som opdragelse?",
       "options": {
         "A": "Ja, hvis barnet ikke får synlige mærker",
         "B": "Ja, hvis det sker som mild fysisk straf",
@@ -23445,7 +23515,8 @@
         230
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "wording_revision": "2026-09-26"
     },
     {
       "id": "DK0927",
@@ -23477,7 +23548,7 @@
       "chapter_title": "Temaopslag",
       "section": "6.13",
       "topic": "Forældremyndighed",
-      "question": "Hvad sker som udgangspunkt med fælles forældremyndighed efter skilsmisse ifølge august 2026-materialet?",
+      "question": "Hvad sker som udgangspunkt med fælles forældremyndighed efter skilsmisse?",
       "options": {
         "A": "Den overgår automatisk til moren alene",
         "B": "Den fortsætter",
@@ -23493,7 +23564,8 @@
         230
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "wording_revision": "2026-09-26"
     },
     {
       "id": "DK0929",
@@ -23549,7 +23621,7 @@
       "chapter_title": "Temaopslag",
       "section": "6.14",
       "topic": "6.14 Diskrimination, antisemitisme, hadforbrydelser og ekstremisme",
-      "question": "Hvad viser de undersøgelser af udlejning, der omtales i august 2026-materialet?",
+      "question": "Hvad viser undersøgelser om betydningen af ansøgeres navne for deres mulighed for at få en lejebolig?",
       "options": {
         "A": "Udenlandske navne gav generelt fortrinsret til en lejebolig",
         "B": "Danske og udenlandske navne gav altid præcis samme svar",
@@ -23565,7 +23637,8 @@
         231
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "wording_revision": "2026-09-26"
     },
     {
       "id": "DK0932",
@@ -23597,7 +23670,7 @@
       "chapter_title": "Temaopslag",
       "section": "6.14",
       "topic": "6.14 Diskrimination, antisemitisme, hadforbrydelser og ekstremisme",
-      "question": "Hvordan beskriver lærematerialet offentlig, tydelig støtte til et allerede begået terrorangreb?",
+      "question": "Hvordan vurderes det efter dansk lov, hvis en person offentligt og udtrykkeligt billiger et begået terrorangreb?",
       "options": {
         "A": "Som tilladt, hvis man blot deler andres opbakning",
         "B": "Som tilladt, hvis man ikke selv deltog i angrebet",
@@ -23613,7 +23686,8 @@
         231
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "wording_revision": "2026-09-26"
     },
     {
       "id": "DK0934",
@@ -23669,7 +23743,7 @@
       "chapter_title": "Temaopslag",
       "section": "6.14",
       "topic": "6.14 Diskrimination, antisemitisme, hadforbrydelser og ekstremisme",
-      "question": "Hvad betyder antisemitisme i de eksempler, materialet beskriver?",
+      "question": "Hvad betyder antisemitisme?",
       "options": {
         "A": "Fjendtlighed mod jøder",
         "B": "Fjendtlighed mod kristne",
@@ -23685,7 +23759,8 @@
         232
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "wording_revision": "2026-09-26"
     },
     {
       "id": "DK0941",
@@ -23693,7 +23768,7 @@
       "chapter_title": "Temaopslag",
       "section": "6.14",
       "topic": "6.14 Diskrimination, antisemitisme, hadforbrydelser og ekstremisme",
-      "question": "Hvilket problem beskrives for danske jøder efter oktober 2023 i august 2026-materialet?",
+      "question": "Hvilket problem oplevede danske jøder efter oktober 2023 i forbindelse med konflikten i Mellemøsten?",
       "options": {
         "A": "Deres danske statsborgerskab blev gjort midlertidigt",
         "B": "De blev udsat for trusler og gjort ansvarlige for Israels politik",
@@ -23709,7 +23784,8 @@
         232
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "wording_revision": "2026-09-26"
     },
     {
       "id": "DK0943",
@@ -23765,7 +23841,7 @@
       "chapter_title": "Temaopslag",
       "section": "6.15",
       "topic": "6.15 Ligestilling mellem kønnene – Ligestilling",
-      "question": "Hvilken forskel skelner materialet mellem i spørgsmålet om ligestilling?",
+      "question": "Hvilken forskel er vigtig at skelne mellem, når man vurderer ligestilling mellem kønnene?",
       "options": {
         "A": "Lige formelle rettigheder og forskellige faktiske resultater",
         "B": "Lige rettigheder som garanti for identiske livsforløb",
@@ -23781,7 +23857,8 @@
         234
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "wording_revision": "2026-09-26"
     },
     {
       "id": "DK0950",
@@ -23789,7 +23866,7 @@
       "chapter_title": "Temaopslag",
       "section": "6.15",
       "topic": "6.15 Ligestilling mellem kønnene – Ligeløn",
-      "question": "Hvor stor var kvinders gennemsnitlige timelønsforskel til mænd i 2022 ifølge materialet?",
+      "question": "Hvor stor var kvinders gennemsnitlige timelønsforskel til mænd i 2022?",
       "options": {
         "A": "Kvinder tjente cirka 12 procent mindre",
         "B": "Kvinder tjente cirka 12 procent mere",
@@ -23805,7 +23882,8 @@
         235
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "wording_revision": "2026-09-26"
     },
     {
       "id": "DK0951",
@@ -23885,7 +23963,7 @@
       "chapter_title": "Temaopslag",
       "section": "6.15",
       "topic": "6.15 Ligestilling mellem kønnene – Barsel",
-      "question": "Hvem tager ifølge august 2026-materialet størstedelen af barselsorloven?",
+      "question": "Hvem tager størstedelen af barselsorloven?",
       "options": {
         "A": "Kvinder",
         "B": "Begge køn deler den omtrent ligeligt",
@@ -23901,7 +23979,8 @@
         236
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "wording_revision": "2026-09-26"
     },
     {
       "id": "DK0957",
@@ -23981,7 +24060,7 @@
       "chapter_title": "Temaopslag",
       "section": "6.15",
       "topic": "6.15 Ligestilling mellem kønnene – Seksuelle krænkelser",
-      "question": "En arbejdsplads vil følge materialets forslag til at håndtere seksuelle krænkelser. Hvilket tiltag passer til dette?",
+      "question": "En arbejdsplads vil styrke indsatsen mod seksuelle krænkelser. Hvilket tiltag kan understøtte dette?",
       "options": {
         "A": "At begrænse indberetning til tilfælde med fysisk vold",
         "B": "At lade den påklagede leder afgøre klagen alene",
@@ -23997,7 +24076,8 @@
         237
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "wording_revision": "2026-09-26"
     },
     {
       "id": "DK0964",
@@ -24005,7 +24085,7 @@
       "chapter_title": "Temaopslag",
       "section": "6.15",
       "topic": "6.15 Ligestilling mellem kønnene – Seksuelle krænkelser",
-      "question": "Hvordan kan samtykke til samleje ifølge lærematerialet komme til udtryk?",
+      "question": "Hvordan kan samtykke til samleje komme til udtryk?",
       "options": {
         "A": "Kun i en underskrevet kontrakt",
         "B": "Både gennem ord og handling",
@@ -24021,7 +24101,8 @@
         237
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "wording_revision": "2026-09-26"
     },
     {
       "id": "CA-P001",

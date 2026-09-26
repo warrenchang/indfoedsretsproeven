@@ -1,7 +1,7 @@
 {
   "title": "600 øvespørgsmål til Medborgerskabsprøven",
   "official": false,
-  "version": "2026-09-25",
+  "version": "2026-09-26",
   "source_edition": "August 2026",
   "author": "Huanren Warren Zhang",
   "author_url": "https://sites.google.com/site/huanrenzhang/",
@@ -663,7 +663,7 @@
       "chapter_title": "Skole",
       "section": "MP.1",
       "topic": "Efterskolens fag",
-      "question": "En elev ønsker et skoleår med både almindelige fag og musik eller idræt. Hvilket tilbud beskrives i materialet?",
+      "question": "En elev ønsker et skoleår med både almindelige fag og musik eller idræt. Hvilket tilbud passer til dette?",
       "options": {
         "A": "En erhvervsakademiuddannelse",
         "B": "Et AMU-kursus",
@@ -680,7 +680,8 @@
       ],
       "source_url": "https://danskogproever.dk/media/4vbfd0ac/laeremateriale-til-medborgerskabsproeven.pdf",
       "source_title": "Læremateriale til medborgerskabsprøven",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "wording_revision": "2026-09-26"
     },
     {
       "id": "MP0028",
@@ -738,7 +739,7 @@
       "chapter_title": "Uddannelse",
       "section": "MP.2",
       "topic": "Ungdomsuddannelser",
-      "question": "Hvilke to hovedtyper ungdomsuddannelse beskriver materialet?",
+      "question": "Hvilke to hovedtyper af ungdomsuddannelser findes der i Danmark?",
       "options": {
         "A": "Universitetsuddannelser og ph.d.-uddannelser",
         "B": "Folkeskole og børnehaveklasse",
@@ -755,7 +756,8 @@
       ],
       "source_url": "https://danskogproever.dk/media/4vbfd0ac/laeremateriale-til-medborgerskabsproeven.pdf",
       "source_title": "Læremateriale til medborgerskabsprøven",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "wording_revision": "2026-09-26"
     },
     {
       "id": "MP0031",
@@ -1214,7 +1216,7 @@
       "chapter_title": "Uddannelse",
       "section": "MP.2",
       "topic": "Kandidatuddannelse",
-      "question": "Hvor lang er en kandidatuddannelse normalt efter bacheloren ifølge materialet?",
+      "question": "Hvor lang er en almindelig kandidatuddannelse normalt efter bacheloruddannelsen?",
       "options": {
         "A": "Seks år",
         "B": "Fire år",
@@ -1231,7 +1233,8 @@
       ],
       "source_url": "https://danskogproever.dk/media/4vbfd0ac/laeremateriale-til-medborgerskabsproeven.pdf",
       "source_title": "Læremateriale til medborgerskabsprøven",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "wording_revision": "2026-09-26"
     },
     {
       "id": "MP0050",
@@ -2114,7 +2117,7 @@
       "chapter_title": "Det danske arbejdsmarked",
       "section": "MP.4",
       "topic": "Individuel løn",
-      "question": "Hvem må ofte selv forhandle løn og vilkår ifølge materialet?",
+      "question": "Hvem må ofte selv forhandle løn og vilkår?",
       "options": {
         "A": "Alle lærlinge uanset deres uddannelsesaftale",
         "B": "Privatansatte uden kollektiv overenskomst",
@@ -2131,7 +2134,8 @@
       ],
       "source_url": "https://danskogproever.dk/media/4vbfd0ac/laeremateriale-til-medborgerskabsproeven.pdf",
       "source_title": "Læremateriale til medborgerskabsprøven",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "wording_revision": "2026-09-26"
     },
     {
       "id": "MP0086",
@@ -2815,8 +2819,8 @@
       "chapter": 5,
       "chapter_title": "Dansk erhvervsliv",
       "section": "MP.5",
-      "topic": "Hvilket land køber Danmark mest fra ifølge lærematerialet fra august 2026",
-      "question": "Hvilket land køber Danmark mest fra ifølge lærematerialet fra august 2026?",
+      "topic": "Hvilket land importerer Danmark mest fra i midten af 2020’erne",
+      "question": "Hvilket land importerer Danmark mest fra i midten af 2020’erne?",
       "options": {
         "A": "USA",
         "B": "Tyskland",
@@ -2833,15 +2837,16 @@
       ],
       "source_url": "https://danskogproever.dk/media/4vbfd0ac/laeremateriale-til-medborgerskabsproeven.pdf",
       "source_title": "Læremateriale til medborgerskabsprøven",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "wording_revision": "2026-09-26"
     },
     {
       "id": "MP0114",
       "chapter": 5,
       "chapter_title": "Dansk erhvervsliv",
       "section": "MP.5",
-      "topic": "Hvilket land sælger Danmark mest til ifølge lærematerialet fra august 2026",
-      "question": "Hvilket land sælger Danmark mest til ifølge lærematerialet fra august 2026?",
+      "topic": "Hvilket land eksporterer Danmark mest til i midten af 2020’erne",
+      "question": "Hvilket land eksporterer Danmark mest til i midten af 2020’erne?",
       "options": {
         "A": "Norge",
         "B": "USA",
@@ -2858,15 +2863,16 @@
       ],
       "source_url": "https://danskogproever.dk/media/4vbfd0ac/laeremateriale-til-medborgerskabsproeven.pdf",
       "source_title": "Læremateriale til medborgerskabsprøven",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "wording_revision": "2026-09-26"
     },
     {
       "id": "MP0115",
       "chapter": 5,
       "chapter_title": "Dansk erhvervsliv",
       "section": "MP.5",
-      "topic": "Hvordan sammenlignes eksporten til EU samlet med eksporten til USA i lærematerialet fra august 2026",
-      "question": "Hvordan sammenlignes eksporten til EU samlet med eksporten til USA i lærematerialet fra august 2026?",
+      "topic": "Hvordan er Danmarks samlede eksport til andre EU-lande sammenlignet med eksporten til USA i midten af 2020’erne",
+      "question": "Hvordan er Danmarks samlede eksport til andre EU-lande sammenlignet med eksporten til USA i midten af 2020’erne?",
       "options": {
         "A": "Eksporten til EU samlet er klart mindre",
         "B": "Eksporten til EU og USA er omtrent lige stor",
@@ -2883,7 +2889,8 @@
       ],
       "source_url": "https://danskogproever.dk/media/4vbfd0ac/laeremateriale-til-medborgerskabsproeven.pdf",
       "source_title": "Læremateriale til medborgerskabsprøven",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "wording_revision": "2026-09-26"
     },
     {
       "id": "MP0116",
@@ -2941,7 +2948,7 @@
       "chapter_title": "Dansk erhvervsliv",
       "section": "MP.5",
       "topic": "Andelsdemokrati",
-      "question": "Hvordan fordeles stemmerne i de andelsselskaber, materialet beskriver?",
+      "question": "Hvordan fordeles stemmerne traditionelt i danske landbrugsbaserede andelsselskaber?",
       "options": {
         "A": "De største leverandører har alle stemmerne",
         "B": "Stemmerne fordeles efter antal ansatte på gården",
@@ -2958,7 +2965,8 @@
       ],
       "source_url": "https://danskogproever.dk/media/4vbfd0ac/laeremateriale-til-medborgerskabsproeven.pdf",
       "source_title": "Læremateriale til medborgerskabsprøven",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "wording_revision": "2026-09-26"
     },
     {
       "id": "MP0119",
@@ -3467,7 +3475,7 @@
       "chapter_title": "Det danske velfærdssamfund",
       "section": "MP.6",
       "topic": "Pensionsalder",
-      "question": "Hvad er folkepensionsalderen i 2026 ifølge materialet?",
+      "question": "Hvad er folkepensionsalderen i 2026?",
       "options": {
         "A": "72 år",
         "B": "60 år",
@@ -3484,7 +3492,8 @@
       ],
       "source_url": "https://danskogproever.dk/media/4vbfd0ac/laeremateriale-til-medborgerskabsproeven.pdf",
       "source_title": "Læremateriale til medborgerskabsprøven",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "wording_revision": "2026-09-26"
     },
     {
       "id": "MP0140",
@@ -4392,7 +4401,7 @@
       "chapter_title": "Familieliv",
       "section": "MP.7",
       "topic": "Kørekort som 17-årig",
-      "question": "Hvornår skal en 17-årig bilist have en kvalificeret ledsager ifølge materialet?",
+      "question": "Hvornår skal en 17-årig bilist have en kvalificeret ledsager efter de danske regler i 2026?",
       "options": {
         "A": "Mellem klokken 20 og 5",
         "B": "Kun om søndagen",
@@ -4409,7 +4418,8 @@
       ],
       "source_url": "https://danskogproever.dk/media/4vbfd0ac/laeremateriale-til-medborgerskabsproeven.pdf",
       "source_title": "Læremateriale til medborgerskabsprøven",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "wording_revision": "2026-09-26"
     },
     {
       "id": "MP0177",
@@ -4592,7 +4602,7 @@
       "chapter_title": "Forenings- og fritidsliv",
       "section": "MP.8",
       "topic": "Onlinefællesskaber",
-      "question": "Hvordan beskriver materialet digitalt foreningsliv?",
+      "question": "Hvad kendetegner digitalt foreningsliv?",
       "options": {
         "A": "En forening mister sine rettigheder, hvis den mødes digitalt",
         "B": "Onlinefællesskaber må kun bruges af offentlige ansatte",
@@ -4609,7 +4619,8 @@
       ],
       "source_url": "https://danskogproever.dk/media/4vbfd0ac/laeremateriale-til-medborgerskabsproeven.pdf",
       "source_title": "Læremateriale til medborgerskabsprøven",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "wording_revision": "2026-09-26"
     },
     {
       "id": "MP0185",
@@ -5242,7 +5253,7 @@
       "chapter_title": "Sundhed og sygdom",
       "section": "MP.9",
       "topic": "Akutmodtagelse",
-      "question": "Hvad siger materialet, man skal gøre før fremmøde i akutmodtagelsen ved en skade uden behov for ambulance?",
+      "question": "Hvad skal man gøre før fremmøde i akutmodtagelsen ved en skade, der ikke kræver ambulance?",
       "options": {
         "A": "Møde direkte op uden at kontakte nogen først",
         "B": "Ringe først og følge vejledningen",
@@ -5259,7 +5270,8 @@
       ],
       "source_url": "https://danskogproever.dk/media/4vbfd0ac/laeremateriale-til-medborgerskabsproeven.pdf",
       "source_title": "Læremateriale til medborgerskabsprøven",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "wording_revision": "2026-09-26"
     },
     {
       "id": "MP0211",
@@ -5292,7 +5304,7 @@
       "chapter_title": "Sundhed og sygdom",
       "section": "MP.9",
       "topic": "Tolk",
-      "question": "En patient har brug for sproglig hjælp hos lægen. Hvilken mulighed beskriver materialet?",
+      "question": "En patient har brug for sproglig hjælp hos lægen. Hvilken mulighed findes der?",
       "options": {
         "A": "At få oversættelse udelukkende gennem arbejdsgiveren",
         "B": "At få tilkaldt en tolk, i nogle tilfælde mod gebyr",
@@ -5309,7 +5321,8 @@
       ],
       "source_url": "https://danskogproever.dk/media/4vbfd0ac/laeremateriale-til-medborgerskabsproeven.pdf",
       "source_title": "Læremateriale til medborgerskabsprøven",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "wording_revision": "2026-09-26"
     },
     {
       "id": "MP0213",
@@ -5542,7 +5555,7 @@
       "chapter_title": "Sundhed og sygdom",
       "section": "MP.9",
       "topic": "Røgfri steder",
-      "question": "Hvor er rygning indendørs forbudt ifølge materialet?",
+      "question": "Hvor er rygning indendørs forbudt?",
       "options": {
         "A": "I alle private boliger",
         "B": "I alle private biler uden undtagelse",
@@ -5559,7 +5572,8 @@
       ],
       "source_url": "https://danskogproever.dk/media/4vbfd0ac/laeremateriale-til-medborgerskabsproeven.pdf",
       "source_title": "Læremateriale til medborgerskabsprøven",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "wording_revision": "2026-09-26"
     },
     {
       "id": "MP0223",
@@ -6343,7 +6357,7 @@
       "chapter_title": "Demokrati og grundloven",
       "section": "MP.11",
       "topic": "Demokratiets former",
-      "question": "Hvilken beskrivelse passer til materialets forståelse af demokrati?",
+      "question": "Hvilken beskrivelse passer til demokrati som både styreform og deltagelse i samfundet?",
       "options": {
         "A": "Foreningsliv, men uden borgernes ret til at vælge politikere",
         "B": "Frie valg, frihedsrettigheder og deltagelse i fællesskaber",
@@ -6360,7 +6374,8 @@
       ],
       "source_url": "https://danskogproever.dk/media/4vbfd0ac/laeremateriale-til-medborgerskabsproeven.pdf",
       "source_title": "Læremateriale til medborgerskabsprøven",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "wording_revision": "2026-09-26"
     },
     {
       "id": "MP0255",
@@ -6543,7 +6558,7 @@
       "chapter_title": "Demokrati og grundloven",
       "section": "MP.11",
       "topic": "Tronfølgeren",
-      "question": "Hvem står efter Frederik 10. til at arve tronen ifølge materialet?",
+      "question": "Hvem står efter Frederik 10. til at arve tronen?",
       "options": {
         "A": "Kronprins Christian",
         "B": "Prins Joachim",
@@ -6560,7 +6575,8 @@
       ],
       "source_url": "https://danskogproever.dk/media/4vbfd0ac/laeremateriale-til-medborgerskabsproeven.pdf",
       "source_title": "Læremateriale til medborgerskabsprøven",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "wording_revision": "2026-09-26"
     },
     {
       "id": "MP0263",
@@ -7793,8 +7809,8 @@
       "chapter": 14,
       "chapter_title": "Det lokale selvstyre",
       "section": "MP.14",
-      "topic": "Hvad skal den sammenlagte østlige region hedde ifølge lærematerialet fra august 2026",
-      "question": "Hvad skal den sammenlagte østlige region hedde ifølge lærematerialet fra august 2026?",
+      "topic": "Hvad skal den nye region, som dannes ved sammenlægningen af Region Hovedstaden og Region Sjælland i 2027, hedde",
+      "question": "Hvad skal den nye region, som dannes ved sammenlægningen af Region Hovedstaden og Region Sjælland i 2027, hedde?",
       "options": {
         "A": "Region Øresund",
         "B": "Region Østdanmark",
@@ -7811,7 +7827,8 @@
       ],
       "source_url": "https://danskogproever.dk/media/4vbfd0ac/laeremateriale-til-medborgerskabsproeven.pdf",
       "source_title": "Læremateriale til medborgerskabsprøven",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "wording_revision": "2026-09-26"
     },
     {
       "id": "MP0313",
@@ -8169,7 +8186,7 @@
       "chapter_title": "Det lokale selvstyre",
       "section": "MP.14",
       "topic": "Regioner i 2026",
-      "question": "Hvor mange regioner beskriver materialet før sammenlægningen i 2027?",
+      "question": "Hvor mange regioner har Danmark i 2026 før sammenlægningen i 2027?",
       "options": {
         "A": "Fire",
         "B": "Fem",
@@ -8186,7 +8203,8 @@
       ],
       "source_url": "https://danskogproever.dk/media/4vbfd0ac/laeremateriale-til-medborgerskabsproeven.pdf",
       "source_title": "Læremateriale til medborgerskabsprøven",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "wording_revision": "2026-09-26"
     },
     {
       "id": "MP0328",
@@ -8694,7 +8712,7 @@
       "chapter_title": "Folkestyret i praksis – valg og partier",
       "section": "MP.15",
       "topic": "Valgdeltagelse",
-      "question": "Hvilket valg har normalt den højeste valgdeltagelse ifølge materialet?",
+      "question": "Hvilket valg har normalt den højeste valgdeltagelse?",
       "options": {
         "A": "Kommunal- og regionalvalg",
         "B": "Folketingsvalg",
@@ -8711,7 +8729,8 @@
       ],
       "source_url": "https://danskogproever.dk/media/4vbfd0ac/laeremateriale-til-medborgerskabsproeven.pdf",
       "source_title": "Læremateriale til medborgerskabsprøven",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "wording_revision": "2026-09-26"
     },
     {
       "id": "MP0349",
@@ -8944,7 +8963,7 @@
       "chapter_title": "Folkestyret i praksis – valg og partier",
       "section": "MP.15",
       "topic": "Græsrodsbevægelser",
-      "question": "Hvad kendetegner en græsrodsbevægelse i materialets beskrivelse?",
+      "question": "Hvad kendetegner en græsrodsbevægelse?",
       "options": {
         "A": "Den skal være en del af et ministerium",
         "B": "Den skal have ansatte i samtlige kommuner",
@@ -8961,7 +8980,8 @@
       ],
       "source_url": "https://danskogproever.dk/media/4vbfd0ac/laeremateriale-til-medborgerskabsproeven.pdf",
       "source_title": "Læremateriale til medborgerskabsprøven",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "wording_revision": "2026-09-26"
     },
     {
       "id": "MP0359",
@@ -9018,8 +9038,8 @@
       "chapter": 16,
       "chapter_title": "Borgernes rettigheder og pligter",
       "section": "MP.16",
-      "topic": "Hvem er omfattet af værnepligt ifølge lærematerialet fra august 2026",
-      "question": "Hvem er omfattet af værnepligt ifølge lærematerialet fra august 2026?",
+      "topic": "Hvem er omfattet af værnepligt i Danmark efter ændringen i 2025",
+      "question": "Hvem er omfattet af værnepligt i Danmark efter ændringen i 2025?",
       "options": {
         "A": "Kun kvinder med dansk statsborgerskab",
         "B": "Kun mænd med dansk statsborgerskab",
@@ -9036,7 +9056,8 @@
       ],
       "source_url": "https://danskogproever.dk/media/4vbfd0ac/laeremateriale-til-medborgerskabsproeven.pdf",
       "source_title": "Læremateriale til medborgerskabsprøven",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "wording_revision": "2026-09-26"
     },
     {
       "id": "MP0362",
@@ -9119,7 +9140,7 @@
       "chapter_title": "Borgernes rettigheder og pligter",
       "section": "MP.16",
       "topic": "Rettigheder og pligter",
-      "question": "Hvordan hænger rettigheder og pligter sammen i materialets beskrivelse?",
+      "question": "Hvordan hænger borgernes rettigheder og pligter sammen i det danske velfærdssamfund?",
       "options": {
         "A": "Borgere har både adgang til tilbud og pligt til blandt andet at betale skat",
         "B": "Borgere har kun pligter, hvis de er medlem af et parti",
@@ -9137,7 +9158,8 @@
       ],
       "source_url": "https://danskogproever.dk/media/4vbfd0ac/laeremateriale-til-medborgerskabsproeven.pdf",
       "source_title": "Læremateriale til medborgerskabsprøven",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "wording_revision": "2026-09-26"
     },
     {
       "id": "MP0366",
@@ -9195,7 +9217,7 @@
       "chapter_title": "Borgernes rettigheder og pligter",
       "section": "MP.16",
       "topic": "Aktiegevinster",
-      "question": "Hvilken gevinst nævner materialet som skattepligtig?",
+      "question": "Hvilken gevinst er som udgangspunkt skattepligtig i Danmark?",
       "options": {
         "A": "At få en bibliotekslånt bog til tiden",
         "B": "At få refunderet et ubrugt depositum",
@@ -9212,7 +9234,8 @@
       ],
       "source_url": "https://danskogproever.dk/media/4vbfd0ac/laeremateriale-til-medborgerskabsproeven.pdf",
       "source_title": "Læremateriale til medborgerskabsprøven",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "wording_revision": "2026-09-26"
     },
     {
       "id": "MP0369",
@@ -9295,7 +9318,7 @@
       "chapter_title": "Borgernes rettigheder og pligter",
       "section": "MP.16",
       "topic": "Værnepligtssteder",
-      "question": "Hvor kan man frivilligt aftjene værnepligt ifølge materialet?",
+      "question": "Hvor kan man frivilligt aftjene værnepligt?",
       "options": {
         "A": "En privat bank eller et forsikringsselskab",
         "B": "Forsvaret eller Beredskabsstyrelsen",
@@ -9312,7 +9335,8 @@
       ],
       "source_url": "https://danskogproever.dk/media/4vbfd0ac/laeremateriale-til-medborgerskabsproeven.pdf",
       "source_title": "Læremateriale til medborgerskabsprøven",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "wording_revision": "2026-09-26"
     },
     {
       "id": "MP0373",
@@ -9320,7 +9344,7 @@
       "chapter_title": "Borgernes rettigheder og pligter",
       "section": "MP.16",
       "topic": "Militær tjenestetid",
-      "question": "Hvor længe varer værnepligt normalt i Forsvaret ifølge august 2026-materialet?",
+      "question": "Hvor længe varer værnepligten normalt i Forsvaret efter den udvidelse, der indfases i 2026?",
       "options": {
         "A": "11 måneder",
         "B": "24 måneder",
@@ -9337,7 +9361,8 @@
       ],
       "source_url": "https://danskogproever.dk/media/4vbfd0ac/laeremateriale-til-medborgerskabsproeven.pdf",
       "source_title": "Læremateriale til medborgerskabsprøven",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "wording_revision": "2026-09-26"
     },
     {
       "id": "MP0374",
@@ -9345,7 +9370,7 @@
       "chapter_title": "Borgernes rettigheder og pligter",
       "section": "MP.16",
       "topic": "Beredskabets tjenestetid",
-      "question": "Hvor længe varer værnepligt normalt i Beredskabsstyrelsen ifølge materialet?",
+      "question": "Hvor længe varer værnepligt normalt i Beredskabsstyrelsen?",
       "options": {
         "A": "Atten måneder",
         "B": "Tre måneder",
@@ -9362,7 +9387,8 @@
       ],
       "source_url": "https://danskogproever.dk/media/4vbfd0ac/laeremateriale-til-medborgerskabsproeven.pdf",
       "source_title": "Læremateriale til medborgerskabsprøven",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "wording_revision": "2026-09-26"
     },
     {
       "id": "MP0375",
@@ -9395,7 +9421,7 @@
       "chapter_title": "Borgernes rettigheder og pligter",
       "section": "MP.16",
       "topic": "Flere værnepligtige",
-      "question": "Hvilken udvikling blev besluttet i 2024 ifølge materialet?",
+      "question": "Hvilken ændring af antallet af værnepligtige soldater blev besluttet i 2024?",
       "options": {
         "A": "At antallet af værnepligtige soldater skal øges",
         "B": "At alle former for værnepligt skal ophøre",
@@ -9412,7 +9438,8 @@
       ],
       "source_url": "https://danskogproever.dk/media/4vbfd0ac/laeremateriale-til-medborgerskabsproeven.pdf",
       "source_title": "Læremateriale til medborgerskabsprøven",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "wording_revision": "2026-09-26"
     },
     {
       "id": "MP0377",
@@ -9420,7 +9447,7 @@
       "chapter_title": "Borgernes rettigheder og pligter",
       "section": "MP.16",
       "topic": "Udvidelse af værnepligt",
-      "question": "Hvor mange værnepligtige soldater sigter udvidelsen besluttet i 2024 mod ifølge materialet?",
+      "question": "Hvor mange værnepligtige soldater sigter udvidelsen besluttet i 2024 mod?",
       "options": {
         "A": "24.000",
         "B": "7.500",
@@ -9437,7 +9464,8 @@
       ],
       "source_url": "https://danskogproever.dk/media/4vbfd0ac/laeremateriale-til-medborgerskabsproeven.pdf",
       "source_title": "Læremateriale til medborgerskabsprøven",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "wording_revision": "2026-09-26"
     },
     {
       "id": "MP0378",
@@ -9520,8 +9548,8 @@
       "chapter": 17,
       "chapter_title": "Religion og kirke",
       "section": "MP.17",
-      "topic": "Hvem betaler kirkeskat til folkekirken ifølge lærematerialet fra august 2026",
-      "question": "Hvem betaler kirkeskat til folkekirken ifølge lærematerialet fra august 2026?",
+      "topic": "Hvem betaler kirkeskat til folkekirken",
+      "question": "Hvem betaler kirkeskat til folkekirken?",
       "options": {
         "A": "Kun kirkens ansatte",
         "B": "Alle, der besøger en kirke",
@@ -9538,7 +9566,8 @@
       ],
       "source_url": "https://danskogproever.dk/media/4vbfd0ac/laeremateriale-til-medborgerskabsproeven.pdf",
       "source_title": "Læremateriale til medborgerskabsprøven",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "wording_revision": "2026-09-26"
     },
     {
       "id": "MP0382",
@@ -9646,7 +9675,7 @@
       "chapter_title": "Religion og kirke",
       "section": "MP.17",
       "topic": "Medlemsandel",
-      "question": "Omtrent hvor stor en del af befolkningen er medlem af folkekirken i materialets 2026-tal?",
+      "question": "Omtrent hvor stor en del af Danmarks befolkning er medlem af folkekirken i 2026?",
       "options": {
         "A": "30 procent",
         "B": "95 procent",
@@ -9663,7 +9692,8 @@
       ],
       "source_url": "https://danskogproever.dk/media/4vbfd0ac/laeremateriale-til-medborgerskabsproeven.pdf",
       "source_title": "Læremateriale til medborgerskabsprøven",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "wording_revision": "2026-09-26"
     },
     {
       "id": "MP0387",
@@ -9945,8 +9975,8 @@
       "chapter": 18,
       "chapter_title": "Danmark og omverdenen",
       "section": "MP.18",
-      "topic": "Hvor mange medlemslande har EU ifølge lærematerialet fra august 2026",
-      "question": "Hvor mange medlemslande har EU ifølge lærematerialet fra august 2026?",
+      "topic": "Hvor mange medlemslande har EU i 2026",
+      "question": "Hvor mange medlemslande har EU i 2026?",
       "options": {
         "A": "20",
         "B": "32",
@@ -9963,7 +9993,8 @@
       ],
       "source_url": "https://danskogproever.dk/media/4vbfd0ac/laeremateriale-til-medborgerskabsproeven.pdf",
       "source_title": "Læremateriale til medborgerskabsprøven",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "wording_revision": "2026-09-26"
     },
     {
       "id": "MP0399",
@@ -10395,8 +10426,8 @@
       "chapter": 18,
       "chapter_title": "Danmark og omverdenen",
       "section": "MP.18",
-      "topic": "I hvilken periode sidder Danmark i FN's Sikkerhedsråd ifølge lærematerialet fra august 2026",
-      "question": "I hvilken periode sidder Danmark i FN's Sikkerhedsråd ifølge lærematerialet fra august 2026?",
+      "topic": "I hvilken periode sidder Danmark i FN's Sikkerhedsråd",
+      "question": "I hvilken periode sidder Danmark i FN's Sikkerhedsråd?",
       "options": {
         "A": "2023-24",
         "B": "2025-26",
@@ -10413,7 +10444,8 @@
       ],
       "source_url": "https://danskogproever.dk/media/4vbfd0ac/laeremateriale-til-medborgerskabsproeven.pdf",
       "source_title": "Læremateriale til medborgerskabsprøven",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "wording_revision": "2026-09-26"
     },
     {
       "id": "MP0417",
@@ -10496,7 +10528,7 @@
       "chapter_title": "Danmark og omverdenen",
       "section": "MP.18",
       "topic": "Hvilken verdensdel har historisk modtaget størstedelen af dansk udviklingsbistand",
-      "question": "Hvilken verdensdel modtager størstedelen af dansk udviklingsbistand ifølge materialet?",
+      "question": "Hvilken verdensdel modtager størstedelen af dansk udviklingsbistand i midten af 2020’erne?",
       "options": {
         "A": "Asien",
         "B": "Afrika",
@@ -10513,7 +10545,8 @@
       ],
       "source_url": "https://danskogproever.dk/media/4vbfd0ac/laeremateriale-til-medborgerskabsproeven.pdf",
       "source_title": "Læremateriale til medborgerskabsprøven",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "wording_revision": "2026-09-26"
     },
     {
       "id": "MP0421",
@@ -10521,7 +10554,7 @@
       "chapter_title": "Danmark og omverdenen",
       "section": "MP.18",
       "topic": "EU's hovedsæde",
-      "question": "I hvilken by ligger EU's hovedkvarter ifølge materialet?",
+      "question": "I hvilken by ligger Europa-Kommissionens hovedsæde?",
       "options": {
         "A": "Bruxelles",
         "B": "Oslo",
@@ -10538,7 +10571,8 @@
       ],
       "source_url": "https://danskogproever.dk/media/4vbfd0ac/laeremateriale-til-medborgerskabsproeven.pdf",
       "source_title": "Læremateriale til medborgerskabsprøven",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "wording_revision": "2026-09-26"
     },
     {
       "id": "MP0422",
@@ -11021,7 +11055,7 @@
       "chapter_title": "Danmarks geografi og befolkning",
       "section": "MP.19",
       "topic": "Befolkning",
-      "question": "Hvor mange mennesker bor der omtrent i Danmark ifølge materialet?",
+      "question": "Hvor mange mennesker bor der omtrent i Danmark i 2026?",
       "options": {
         "A": "Tre millioner",
         "B": "Seks millioner",
@@ -11038,7 +11072,8 @@
       ],
       "source_url": "https://danskogproever.dk/media/4vbfd0ac/laeremateriale-til-medborgerskabsproeven.pdf",
       "source_title": "Læremateriale til medborgerskabsprøven",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "wording_revision": "2026-09-26"
     },
     {
       "id": "MP0442",
@@ -13171,7 +13206,7 @@
       "chapter_title": "Dansk kultur",
       "section": "MP.22",
       "topic": "Kierkegaard",
-      "question": "Hvilken tanke står centralt hos Søren Kierkegaard i materialet?",
+      "question": "Hvilken tanke står centralt i Søren Kierkegaards filosofi?",
       "options": {
         "A": "Kunstnerens pligt til kun at kopiere naturen",
         "B": "Menneskets ansvar for at vælge sit eget liv",
@@ -13188,7 +13223,8 @@
       ],
       "source_url": "https://danskogproever.dk/media/4vbfd0ac/laeremateriale-til-medborgerskabsproeven.pdf",
       "source_title": "Læremateriale til medborgerskabsprøven",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "wording_revision": "2026-09-26"
     },
     {
       "id": "MP0528",
@@ -14296,7 +14332,7 @@
       "chapter_title": "Diskrimination, antisemitisme, hadforbrydelser og ekstremisme",
       "section": "MP.25",
       "topic": "Frihed under ansvar",
-      "question": "Hvad betyder udtrykket frihed under ansvar i materialet?",
+      "question": "Hvad betyder udtrykket frihed under ansvar?",
       "options": {
         "A": "Kun myndigheder har ansvar for borgernes handlinger",
         "B": "Frihedsrettigheder skal bruges inden for lovens rammer",
@@ -14313,7 +14349,8 @@
       ],
       "source_url": "https://danskogproever.dk/media/4vbfd0ac/laeremateriale-til-medborgerskabsproeven.pdf",
       "source_title": "Læremateriale til medborgerskabsprøven",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "wording_revision": "2026-09-26"
     },
     {
       "id": "MP0573",
@@ -14371,7 +14408,7 @@
       "chapter_title": "Diskrimination, antisemitisme, hadforbrydelser og ekstremisme",
       "section": "MP.25",
       "topic": "Terrorstøtte",
-      "question": "Hvilken ytring nævnes som ulovlig i materialet?",
+      "question": "Hvilken af disse ytringer er ulovlig i Danmark?",
       "options": {
         "A": "Offentligt at udtrykke tydelig støtte til et begået terrorangreb",
         "B": "At kritisere regeringens økonomiske politik",
@@ -14388,7 +14425,8 @@
       ],
       "source_url": "https://danskogproever.dk/media/4vbfd0ac/laeremateriale-til-medborgerskabsproeven.pdf",
       "source_title": "Læremateriale til medborgerskabsprøven",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "wording_revision": "2026-09-26"
     },
     {
       "id": "MP0576",
@@ -14721,7 +14759,7 @@
       "chapter_title": "Klima",
       "section": "MP.26",
       "topic": "Danske udledninger",
-      "question": "Hvordan udviklede Danmarks drivhusgasudledninger sig fra 1990 til 2024 ifølge materialet?",
+      "question": "Hvordan udviklede Danmarks drivhusgasudledninger sig fra 1990 til 2024?",
       "options": {
         "A": "De var stort set uændrede",
         "B": "De steg med omkring 53 procent",
@@ -14738,7 +14776,8 @@
       ],
       "source_url": "https://danskogproever.dk/media/4vbfd0ac/laeremateriale-til-medborgerskabsproeven.pdf",
       "source_title": "Læremateriale til medborgerskabsprøven",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "wording_revision": "2026-09-26"
     },
     {
       "id": "MP0590",

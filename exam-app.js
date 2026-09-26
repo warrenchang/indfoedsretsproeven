@@ -63,7 +63,7 @@
    const field=$('question-'+(i+1)),ok=attempt.answers[q.id]===q.answer;field.querySelector('.feedback')?.remove();
    const feedback=el('div',undefined,'feedback '+(ok?'correct':'incorrect'));
    feedback.append(el('strong',(ok?'✓ Korrekt':'✗ '+(attempt.answers[q.id]?'Forkert':'Ubesvaret'))+' — '+q.answer+'. '+q.options[q.answer]),el('p',q.explanation));
-   const source=el('a',q.exam_section==='current_affairs'?(q.source_title||'Nyhedskilde')+' · kontrolleret '+q.verified_at:'Læs afsnit '+q.section+', side '+q.source_pages.join(', '));
+   const source=el('a',q.exam_section==='current_affairs'?(q.source_title||'Nyhedskilde')+' · kontrolleret '+q.verified_at:(!q.source_pages.length?q.source_title:'Læs afsnit '+q.section+', side '+q.source_pages.join(', ')));
    source.href=q.source_url+(q.source_pages.length?'#page='+q.source_pages[0]:'');source.target='_blank';source.rel='noopener';feedback.append(source);field.append(feedback);
    if(!ok){const link=el('a',String(i+1),'review-link');link.href='#question-'+(i+1);wrong.push(link)}
   });
