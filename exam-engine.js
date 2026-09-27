@@ -3,7 +3,8 @@
  'use strict';
  function rng(seed){let a=seed>>>0;return function(){a+=0x6D2B79F5;let t=a;t=Math.imul(t^t>>>15,t|1);t^=t+Math.imul(t^t>>>7,t|61);return((t^t>>>14)>>>0)/4294967296}}
  function shuffle(items,random){const a=items.slice();for(let i=a.length-1;i>0;i--){const j=Math.floor(random()*(i+1));[a[i],a[j]]=[a[j],a[i]]}return a}
- function conflicts(q,selected,blueprint){return blueprint.conflict_pairs.some(pair=>pair.includes(q.id)&&selected.some(x=>x.id!==q.id&&pair.includes(x.id)))}
+ const identity=q=>q.original_id||q.id;
+ function conflicts(q,selected,blueprint){return blueprint.conflict_pairs.some(pair=>pair.includes(identity(q))&&selected.some(x=>x.id!==q.id&&pair.includes(identity(x))))}
  function remapOptions(q,random,section){
   const correct=q.options[q.answer],choices=shuffle(Object.values(q.options),random),options={};
   choices.forEach((v,i)=>options['ABC'[i]]=v);
@@ -24,19 +25,23 @@
   throw Error('Der er ikke nok egnede spørgsmål til denne prøve.');
  }
  function selectExam(bank,blueprint,seed){
+  if(blueprint.official_paper)return JSON.parse(JSON.stringify(bank.questions));
   if(blueprint.exam_type==='medborgerskab')return selectMedborgerskab(bank,blueprint,seed);
-  const random=rng(seed),byid=new Map(bank.questions.map(q=>[q.id,q])),selected=[],news=[],values=[],reading=[];
+  const random=rng(seed),byid=new Map(bank.questions.flatMap(q=>[[q.id,q],[identity(q),q]])),selected=[],news=[],values=[],reading=[];
   const end=bank.news_coverage_through<blueprint.target_exam_date?bank.news_coverage_through:blueprint.target_exam_date;
   const pool=bank.questions.filter(q=>q.exam_domain==='current_affairs'&&q.event_date>=blueprint.news_window_start&&q.event_date<=end);
   const topics=new Set();
-  const eventKey=q=>(blueprint.news_event_groups||{})[q.id]||q.topic;
+  const eventKey=q=>(blueprint.news_event_groups||{})[identity(q)]||q.topic;
   function pick(candidates){if(!candidates.length)throw Error('Der er ikke nok egnede spørgsmål til denne prøve.');const q=candidates[Math.floor(random()*candidates.length)];selected.push(q);return q}
   function newsCandidates(section){return pool.filter(q=>(!section||q.section===section)&&!selected.some(x=>x.id===q.id)&&!topics.has(eventKey(q))&&!conflicts(q,selected,blueprint))}
   for(const section of shuffle(['CA.politics','CA.society','CA.culture_sport'],random)){
-   const q=pick(newsCandidates(section));news.push(q);topics.add(eventKey(q));
+   const available=newsCandidates(section),core=available.filter(q=>q.priority==='core');
+   const q=pick(core.length?core:available);news.push(q);topics.add(eventKey(q));
   }
   while(news.length<blueprint.news_count){const q=pick(newsCandidates());news.push(q);topics.add(eventKey(q))}
-  for(const ids of Object.values(blueprint.values_groups)){
+  const indicators=bank.questions.filter(q=>q.exam_domain==='values'&&q.values_indicator);
+  if(indicators.length)values.push(pick(indicators));
+  for(const ids of shuffle(Object.values(blueprint.values_groups),random).slice(0,blueprint.values_count-values.length)){
    const q=pick(ids.map(id=>byid.get(id)).filter(q=>q&&!conflicts(q,selected,blueprint)));values.push(q);
   }
   for(const [chapter,n] of Object.entries(blueprint.reading_chapter_quotas)){
@@ -56,10 +61,10 @@
   return result;
  }
  function score(attempt,blueprint){
-  const sections=blueprint.exam_type==='medborgerskab'?{reading:{correct:0,total:0}}:{reading:{correct:0,total:0},current_affairs:{correct:0,total:0},values:{correct:0,total:0}};
+  const sections=blueprint.exam_type==='medborgerskab'?{reading:{correct:0,total:0}}:blueprint.total===40?{reading:{correct:0,total:0},current_affairs:{correct:0,total:0}}:{reading:{correct:0,total:0},current_affairs:{correct:0,total:0},values:{correct:0,total:0}};
   let correct=0,unanswered=0;
-  for(const q of attempt.questions){const chosen=attempt.answers[q.id],ok=chosen===q.answer;sections[q.exam_section].total++;if(ok){correct++;sections[q.exam_section].correct++}if(!chosen)unanswered++}
-  return {correct,total:attempt.questions.length,unanswered,sections,passed:correct>=blueprint.pass_total&&(blueprint.exam_type==='medborgerskab'||sections.values.correct>=blueprint.pass_values)};
+  for(const q of attempt.questions){const chosen=attempt.answers[q.id],ok=q.official_credit_all||(q.accepted_answers||[q.answer]).includes(chosen);sections[q.exam_section].total++;if(ok){correct++;sections[q.exam_section].correct++}if(!chosen)unanswered++}
+  return {correct,total:attempt.questions.length,unanswered,sections,passed:correct>=blueprint.pass_total&&(!blueprint.pass_values||sections.values.correct>=blueprint.pass_values)};
  }
  function remainingMs(attempt,now=Date.now()){return Math.max(0,attempt.deadlineAt-now)}
  const api={rng,shuffle,selectExam,score,remainingMs};root.MockExam=api;if(typeof module!=='undefined'&&module.exports)module.exports=api;
