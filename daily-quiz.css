@@ -1,0 +1,50 @@
+.daily-page #main{max-width:880px}
+.daily-heading{padding:45px 0 24px}
+.daily-heading h1{font-size:clamp(2rem,5vw,3.6rem);margin-bottom:24px}
+.daily-heading h1 em{font-family:Georgia,serif;color:var(--green);font-weight:400;font-style:normal}
+.daily-heading .lead{font-size:1.02rem;color:var(--muted);max-width:670px}
+.daily-date-row{display:flex;justify-content:space-between;align-items:center;gap:20px;border-top:1px solid var(--line);padding-top:22px}
+.daily-date-row p{margin:0;font-weight:650}
+.daily-date-row label{font-size:.8rem;color:var(--muted)}
+.daily-date-row select{display:block;background:white;border:1px solid #b6c5ba;border-radius:7px;min-height:44px;padding:8px 12px;color:var(--ink);font-size:.9rem;max-width:100%}
+.daily-progress{position:sticky;top:0;z-index:3;display:flex;gap:20px;align-items:center;justify-content:space-between;padding:16px 0;margin-bottom:20px;background:var(--paper);border-bottom:1px solid var(--line)}
+.daily-progress>div{flex:1;max-width:310px}
+.daily-progress span{font-size:.83rem;color:var(--muted)}
+.daily-progress progress{display:block;width:100%;height:6px;margin-top:8px;accent-color:var(--green);border:0;border-radius:5px;background:var(--line)}
+.daily-progress progress::-webkit-progress-bar{background:var(--line);border-radius:5px}
+.daily-progress progress::-webkit-progress-value{background:var(--green);border-radius:5px}
+.daily-progress .button{padding:12px 18px;font-size:.9rem}
+.daily-question{min-width:0;margin:0 0 22px;border:1px solid var(--line);border-radius:14px;padding:25px;background:white;scroll-margin-top:110px}
+.daily-question legend{float:left;width:100%;margin:0 0 20px;padding:0;font-size:1.12rem;font-weight:600;line-height:1.5;letter-spacing:-.01em}
+.daily-question legend span{display:block;margin-bottom:8px;font-size:.75rem;color:var(--muted);font-weight:500;letter-spacing:.03em}
+.daily-options{clear:both;display:grid;gap:10px}
+.daily-option{display:flex;align-items:flex-start;gap:12px;padding:14px;border:1px solid var(--line);border-radius:8px;cursor:pointer;font-size:.96rem;line-height:1.5;transition:background .12s}
+.daily-option:hover{background:#f3f6f1}
+.daily-option:has(input:checked){border-color:var(--green);background:#e8f0e9;box-shadow:0 0 0 1px var(--green)}
+.daily-option:has(input:focus-visible){outline:3px solid #977322;outline-offset:3px}
+.daily-option input{flex:0 0 auto;margin:4px 0 0;width:19px;height:19px;accent-color:var(--green)}
+.daily-option b{font-weight:650}
+.daily-option:has(input:disabled){cursor:default}
+.daily-question.needs-answer{border:2px solid var(--red)}
+.daily-feedback{margin-top:20px;padding:18px;border-radius:9px;font-size:.95rem;background:#edf4eb}
+.daily-feedback.incorrect{background:#fff2ec}
+.daily-feedback p:last-child{margin-bottom:0}
+.daily-feedback .feedback-status{font-weight:650}
+.daily-source{font-size:.83rem;overflow-wrap:anywhere}
+.daily-result{border:1px solid #b8cdbd;border-radius:14px;background:var(--sage);padding:28px;margin:6px 0 25px;scroll-margin-top:110px}
+.daily-result h2{font-size:1.4rem}
+.daily-score{font-size:3rem;font-weight:650;letter-spacing:-.045em;line-height:1.15;margin-bottom:14px;color:var(--green)}
+.daily-subscores{display:flex;gap:15px 30px;flex-wrap:wrap;font-size:.86rem;margin:22px 0}
+.daily-subscores span{display:block}
+.daily-subscores strong{font-size:1.15rem;display:block}
+.daily-result .button{font-size:.87rem;padding:11px 17px}
+.daily-result details{margin-top:22px;border-top:1px solid #c6d6c8;padding-top:17px}
+.daily-result summary{font-size:.88rem;font-weight:600;cursor:pointer}
+.daily-result textarea{display:block;width:100%;height:100px;margin:16px 0;padding:12px;border:1px solid #aabcaf;border-radius:7px;background:white;color:var(--ink);font:14px/1.6 inherit;resize:vertical}
+.daily-result details p{font-size:.83rem;margin:14px 0}
+.daily-message{padding:16px 20px;background:#fff0e9;border:1px solid #d9a596;border-radius:9px;scroll-margin-top:110px}
+.daily-bottom{text-align:center;margin:32px 0}
+.daily-bottom p{font-size:.82rem;color:var(--muted);margin-top:18px}
+.daily-privacy{border-top:1px solid var(--line);padding:25px 0 0;font-size:.85rem;color:var(--muted)}
+@media(max-width:600px){.daily-page #main{padding-inline:18px}.daily-heading{padding-top:28px}.daily-heading .eyebrow{font-size:.65rem}.daily-date-row{align-items:flex-start;flex-direction:column;gap:15px}.daily-date-row label{display:flex;align-items:center;gap:15px;width:100%}.daily-date-row select{flex:1;min-width:0}.daily-question{padding:19px 16px}.daily-question legend{font-size:1.03rem}.daily-option{padding:13px 11px;font-size:.92rem;gap:10px}.daily-progress{gap:14px}.daily-progress .button{font-size:.84rem;padding:12px}.daily-result{padding:22px 18px}.daily-subscores{gap:16px 24px}.daily-progress>div{min-width:0}}
+@media print{.daily-progress,.daily-bottom,.daily-date-row label,.daily-result button,.daily-result details{display:none}.daily-question{break-inside:avoid}.daily-heading{padding-top:0}}

@@ -1,0 +1,349 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-01",
+  "timezone": "Europe/Copenhagen",
+  "bank_sha256": "10474466bcaa0448316267b6815edb973f36e0f29912e4d778ff9ba849bfba36",
+  "news_verified_at": "2026-09-25",
+  "official": false,
+  "questions": [
+    {
+      "id": "DK0197",
+      "question": "Hvorfor blev flere daginstitutioner vigtige i 1960'erne?",
+      "options": {
+        "A": "Flere kvinder fik arbejde uden for hjemmet",
+        "B": "Flere børn begyndte tidligere i den obligatoriske skole",
+        "C": "Flere gifte kvinder trak sig ud af arbejdsmarkedet"
+      },
+      "answer": "A",
+      "explanation": "Børnepasning gjorde det muligt for flere forældre at tage uddannelse og arbejde.",
+      "source_pages": [
+        48
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "CA-S046-e2",
+      "event_date": "2026-09-11",
+      "question": "Ved hvilket anlægsprojekt blev et specialfartøj i september 2026 klar til at sænke tunnelelementer?",
+      "options": {
+        "A": "Femern Bælt-forbindelsen",
+        "B": "Kattegatforbindelsen",
+        "C": "En ny Limfjordstunnel"
+      },
+      "answer": "A",
+      "explanation": "Specialfartøjet IVY var i september 2026 klar til at sænke særlige elementer til Femern Bælt-tunnelen.",
+      "source_url": "https://www.femern.com/press/news/",
+      "source_title": "Femern A/S – News and press releases",
+      "verified_at": "2026-09-25",
+      "exam_domain": "current_affairs",
+      "source_pages": [],
+      "source_edition": "Nyhedskilde kontrolleret 2026-09-25"
+    },
+    {
+      "id": "DK0835",
+      "question": "Hvilket land regnes sammen med Danmark, Sverige, Norge og Island til de fem nordiske lande?",
+      "options": {
+        "A": "Estland",
+        "B": "Finland",
+        "C": "Tyskland"
+      },
+      "answer": "B",
+      "explanation": "De fem nordiske lande omfatter også Finland.",
+      "source_pages": [
+        208
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "CA-C059",
+      "event_date": "2026-09-20",
+      "question": "Hvilket land repræsenterede herrernes halvmaratonvinder Andreas Almgren ved VM i København 2026?",
+      "options": {
+        "A": "Norge",
+        "B": "Sverige",
+        "C": "Finland"
+      },
+      "answer": "B",
+      "explanation": "Den svenske løber vandt og satte europarekord.",
+      "source_url": "https://dansk-atletik.dk/nyheder/2026/09/simonsen-efter-dansk-rekord-jeg-foelte-jeg-svaevede/",
+      "source_title": "Simonsen efter dansk rekord: Jeg følte, jeg svævede!",
+      "verified_at": "2026-09-25",
+      "exam_domain": "current_affairs",
+      "source_pages": [],
+      "source_edition": "Nyhedskilde kontrolleret 2026-09-25"
+    },
+    {
+      "id": "DK0647",
+      "question": "Hvilken forfatter forbindes med salmer præget af en inderlig og følelsesfuld tro?",
+      "options": {
+        "A": "Hans Adolph Brorson",
+        "B": "Thomas Kingo",
+        "C": "N.F.S. Grundtvig"
+      },
+      "answer": "A",
+      "explanation": "Brorson fremhæves for inderlig og følelsesfuld tro; Kingo for livets forgængelighed og Grundtvig for livsglæde.",
+      "source_pages": [
+        158
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0824",
+      "question": "Hvad kendetegner Færøernes klima?",
+      "options": {
+        "A": "Kolde, tørre vintre og varme somre",
+        "B": "Milde vintre, kølige somre og meget regn",
+        "C": "Lange frostvintre og tørre, kølige somre"
+      },
+      "answer": "B",
+      "explanation": "Havets påvirkning giver et mildt, vådt og omskifteligt klima.",
+      "source_pages": [
+        203
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0563",
+      "question": "Hvordan bidrog Danmark til NATO's indsats ved Kosovo i 1999?",
+      "options": {
+        "A": "Med ubåde i Adriaterhavet",
+        "B": "Med en invasion til søs",
+        "C": "Med kampfly"
+      },
+      "answer": "C",
+      "explanation": "Danske kampfly deltog i NATO's militære aktioner efter forhandlinger uden resultat.",
+      "source_pages": [
+        137
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0232",
+      "question": "Hvem blev statsminister, da Socialdemokratiet vendte tilbage til regeringsmagten i 1993?",
+      "options": {
+        "A": "Anders Fogh Rasmussen",
+        "B": "Poul Nyrup Rasmussen",
+        "C": "Lars Løkke Rasmussen"
+      },
+      "answer": "B",
+      "explanation": "Poul Nyrup Rasmussen afløste Poul Schlüter og var statsminister til 2001.",
+      "source_pages": [
+        56
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0753",
+      "question": "I hvilken by åbnede det nye H.C. Andersens Hus i 2021?",
+      "options": {
+        "A": "Skagen",
+        "B": "Odense",
+        "C": "Ribe"
+      },
+      "answer": "B",
+      "explanation": "Museet ligger i H.C. Andersen-kvarteret i digterens fødeby Odense.",
+      "source_pages": [
+        184
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0962-e2",
+      "question": "Kan det hjælpe indsatsen mod seksuelle krænkelser at gøre det lettere for medarbejderne at anmelde dem?",
+      "options": {
+        "A": "Ja",
+        "B": "Nej"
+      },
+      "answer": "A",
+      "explanation": "Arbejdspladser arbejder blandt andet med kulturændringer og bedre muligheder for at indberette krænkelser.",
+      "source_pages": [
+        237
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "values"
+    },
+    {
+      "id": "DK0485",
+      "question": "Hvem indgår i et trepartssamarbejde om arbejdsmarkedet?",
+      "options": {
+        "A": "Staten, regionerne og kommunerne",
+        "B": "Folketinget, domstolene og kongehuset",
+        "C": "Staten, arbejdsgiverne og lønmodtagerne"
+      },
+      "answer": "C",
+      "explanation": "Trepartssamarbejdet forbinder staten med begge sider af arbejdsmarkedet.",
+      "source_pages": [
+        120
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0638",
+      "question": "Hvilket naturtræk havde særlig betydning for Skagensmalerne?",
+      "options": {
+        "A": "Lyset fra havene omkring byen",
+        "B": "De frodige marker omkring herregårdene",
+        "C": "Mørket i den tætte skov omkring byen"
+      },
+      "answer": "A",
+      "explanation": "Skagensmalerne var optaget af lyset ved Skagerrak og Kattegat.",
+      "source_pages": [
+        156
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0823",
+      "question": "Hvad hedder Færøernes hovedstad?",
+      "options": {
+        "A": "Nuuk",
+        "B": "Tórshavn",
+        "C": "Reykjavík"
+      },
+      "answer": "B",
+      "explanation": "Tórshavn er Færøernes hovedstad og største by.",
+      "source_pages": [
+        203
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0077",
+      "question": "Hvilken udvikling fremmede landboreformerne?",
+      "options": {
+        "A": "Flere bønder blev selvejere",
+        "B": "Flere bønder blev bundet til godserne",
+        "C": "Flere bønder afgav deres jord til kirken"
+      },
+      "answer": "A",
+      "explanation": "Godsejere solgte jord til fæstebønder, så flere kunne eje deres gårde.",
+      "source_pages": [
+        20
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0363-e2",
+      "question": "Steg eller faldt antallet af partimedlemmer fra omkring 1950 til 2024?",
+      "options": {
+        "A": "Steg",
+        "B": "Faldt"
+      },
+      "answer": "B",
+      "explanation": "Materialet angiver et fald fra cirka 650.000 til cirka 106.000 medlemmer.",
+      "source_pages": [
+        90
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0004",
+      "question": "Hvad kendetegnede befolkningen i det danske rige før de store tab af landområder?",
+      "options": {
+        "A": "Den omfattede mange befolkningsgrupper",
+        "B": "Den var mere sprogligt ensartet end efter 1864",
+        "C": "Den var overvejende tysktalende"
+      },
+      "answer": "A",
+      "explanation": "Riget omfattede gennem historien forskellige befolkningsgrupper og blev senere mere ensartet.",
+      "source_pages": [
+        5
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0303-e2",
+      "question": "Kan lederen af et mindre regeringsparti blive statsminister?",
+      "options": {
+        "A": "Ja",
+        "B": "Nej"
+      },
+      "answer": "A",
+      "explanation": "Hilmar Baunsgaard er et historisk eksempel; det afgørende er det parlamentariske grundlag.",
+      "source_pages": [
+        77
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0313-e2",
+      "question": "Kan en retssag normalt prøves ved to retsinstanser?",
+      "options": {
+        "A": "Ja",
+        "B": "Nej"
+      },
+      "answer": "A",
+      "explanation": "En sag kan som hovedregel ankes én gang til en højere retsinstans.",
+      "source_pages": [
+        79
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "values"
+    },
+    {
+      "id": "DK0512",
+      "question": "Hvilket EU-forbehold blev afskaffet efter folkeafstemningen i 2022?",
+      "options": {
+        "A": "Forsvarsforbeholdet",
+        "B": "Retsforbeholdet",
+        "C": "Euroforbeholdet"
+      },
+      "answer": "A",
+      "explanation": "Et flertal stemte for at afskaffe forbeholdet over for EU's forsvarssamarbejde.",
+      "source_pages": [
+        126
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0010",
+      "question": "Hvad hed vikingetidens skrifttegn?",
+      "options": {
+        "A": "Runer",
+        "B": "Kyrilliske bogstaver",
+        "C": "Hieroglyffer"
+      },
+      "answer": "A",
+      "explanation": "Runerne blev blandt andet brugt til indskrifter på sten.",
+      "source_pages": [
+        7
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    }
+  ],
+  "snapshot_sha256": "c4e14049186f77488788d5b467dff1dae2a1223c614636e93e397f3c6bd25a79"
+}
