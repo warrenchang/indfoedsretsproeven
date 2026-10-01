@@ -1,14 +1,14 @@
 <!doctype html>
 <html lang="da"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Daglig quiz til Indfødsretsprøven – 20 spørgsmål med svar</title><meta name="description" content="Øv dig med en daglig quiz på 20 spørgsmål til Indfødsretsprøven. Besvar spørgsmålene på din telefon, og få straks resultat og forklaringer. Gratis og uden login."><meta name="author" content="Huanren Warren Zhang">
-<meta name="theme-color" content="#145846"><meta property="og:type" content="website"><meta property="og:locale" content="da_DK"><meta property="og:site_name" content="Prøveklar · Gratis øvelse til danske prøver"><meta property="og:title" content="Daglig quiz til Indfødsretsprøven – 20 spørgsmål med svar"><meta property="og:description" content="Øv dig med en daglig quiz på 20 spørgsmål til Indfødsretsprøven. Besvar spørgsmålene på din telefon, og få straks resultat og forklaringer. Gratis og uden login."><meta name="twitter:card" content="summary">
-<link rel="icon" type="image/svg+xml" href="favicon.svg"><link rel="stylesheet" href="site.css?v=d64378d50d5c"><link rel="canonical" href="https://warrenchang.github.io/indfoedsretsproeven/daily-quiz.html"><meta property="og:url" content="https://warrenchang.github.io/indfoedsretsproeven/daily-quiz.html"><link rel="stylesheet" href="daily-quiz.css?v=24f2817551bd"><script defer src="daily-quiz.js?v=322a78773c4e"></script></head>
+<title>Daglig quiz til Indfødsretsprøven – spørgsmål med svar</title><meta name="description" content="Øv dig med en kort daglig quiz til Indfødsretsprøven. Besvar spørgsmålene på din telefon, og få straks resultat og forklaringer. Gratis og uden login."><meta name="author" content="Huanren Warren Zhang">
+<meta name="theme-color" content="#145846"><meta property="og:type" content="website"><meta property="og:locale" content="da_DK"><meta property="og:site_name" content="Prøveklar · Gratis øvelse til danske prøver"><meta property="og:title" content="Daglig quiz til Indfødsretsprøven – spørgsmål med svar"><meta property="og:description" content="Øv dig med en kort daglig quiz til Indfødsretsprøven. Besvar spørgsmålene på din telefon, og få straks resultat og forklaringer. Gratis og uden login."><meta name="twitter:card" content="summary">
+<link rel="icon" type="image/svg+xml" href="favicon.svg"><link rel="stylesheet" href="site.css?v=d64378d50d5c"><link rel="canonical" href="https://warrenchang.github.io/indfoedsretsproeven/daily-quiz.html"><meta property="og:url" content="https://warrenchang.github.io/indfoedsretsproeven/daily-quiz.html"><link rel="stylesheet" href="daily-quiz.css?v=24f2817551bd"><script defer src="daily-quiz.js?v=5054b3dd9421"></script></head>
 <body class="daily-page"><a class="skip-link" href="#main">Spring til indhold</a>
 <header class="site-header"><div class="wrap header-inner"><a class="brand" href="index.html" aria-label="Prøveklar – vælg prøve"><img class="brand-icon" src="favicon.svg" alt="" width="36" height="42"><span><span class="brand-name">Prøveklar</span><span class="brand-sub">Gratis øvelse · Tryg forberedelse</span></span></a><nav class="main-nav" aria-label="Hovednavigation"><a href="exam.html" class="nav-exam">Øveprøve</a><a href="bank.html">Spørgsmål</a><a href="exam-info.html">Om prøven</a><a href="sources.html">Materialer</a><a href="past-papers.html">Tidligere prøver</a><a href="daily-quiz.html" aria-current="page">Daglig quiz</a></nav></div></header>
 <div class="test-switcher"><div class="wrap"><a href="medborgerskab.html">Medborgerskabsprøven <span>· Permanent ophold</span></a><a href="indfoedsret.html" aria-current="true">Indfødsretsprøven <span>· Statsborgerskab</span></a></div></div>
 <main id="main" class="wrap" tabindex="-1"><section class="daily-heading">
   <p class="eyebrow">Indfødsretsprøven · Daglig træning</p>
-  <h1>20 spørgsmål.<br><em>Lidt bedre forberedt.</em></h1>
+  <h1><span id="daily-count">Din daglige quiz.</span><br><em>Lidt bedre forberedt.</em></h1>
   <p class="lead">Vælg dine svar, og få dit resultat med det samme. Forklaringer og kilder vises, når du afleverer. Øv dig i dit eget tempo.</p>
   <div class="daily-date-row"><p id="daily-date">Henter quiz …</p><label for="daily-select">Vælg dato <select id="daily-select" disabled><option>Henter …</option></select></label></div>
 </section>
@@ -18,11 +18,11 @@
 <section id="daily-result" class="daily-result" tabindex="-1" aria-label="Dit resultat" hidden></section>
 <form id="daily-form" hidden novalidate>
   <div class="daily-progress">
-    <div><span id="daily-progress-text" role="status">0 af 20 besvaret</span><progress id="daily-progress-bar" value="0" max="20" aria-label="Besvarede spørgsmål"></progress></div>
+    <div><span id="daily-progress-text" role="status">Henter spørgsmål …</span><progress id="daily-progress-bar" value="0" max="10" aria-label="Besvarede spørgsmål"></progress></div>
     <button class="button" type="submit" id="daily-submit">Ret mine svar</button>
   </div>
   <div id="daily-questions"></div>
-  <div class="daily-bottom"><button class="button" type="submit" id="daily-submit-bottom">Ret mine svar</button><a href="#daily-result" id="daily-result-link" hidden>Tilbage til resultatet ↑</a><p>En øvelse med 20 spørgsmål giver ikke et officielt bestået/ikke-bestået-resultat.</p></div>
+  <div class="daily-bottom"><button class="button" type="submit" id="daily-submit-bottom">Ret mine svar</button><a href="#daily-result" id="daily-result-link" hidden>Tilbage til resultatet ↑</a><p>En kort øvelse giver ikke et officielt bestået/ikke-bestået-resultat.</p></div>
 </form>
 <section class="daily-privacy"><p><strong>Dine svar bliver på din enhed.</strong> Du kan lukke siden og fortsætte i samme browser. Svar og resultat gemmes kun i denne browser og sendes ikke til hjemmesiden eller chatten.</p><p><a href="exam.html">Klar til en hel prøve på tid? →</a></p></section>
 </main>

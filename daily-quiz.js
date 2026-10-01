@@ -10,7 +10,7 @@
     if (!quiz || quiz.schema_version !== 1 || !validDate(quiz.date) ||
         quiz.timezone !== "Europe/Copenhagen" || quiz.official !== false ||
         !/^[a-f0-9]{64}$/.test(quiz.bank_sha256) || !/^[a-f0-9]{64}$/.test(quiz.snapshot_sha256) ||
-        !Array.isArray(quiz.questions) || quiz.questions.length !== 20) throw Error("Ugyldig quiz.");
+        !Array.isArray(quiz.questions) || ![10, 20].includes(quiz.questions.length)) throw Error("Ugyldig quiz.");
     var ids = new Set();
     quiz.questions.forEach(function (q) {
       var keys = q.options && Object.keys(q.options).join("");
@@ -25,8 +25,9 @@
   }
   function grade(quiz, answers) {
     validate(quiz);
-    if (!answers || Object.keys(answers).length !== 20) throw Error("Besvar alle 20 spørgsmål først.");
-    var result = {score: 0, total: 20, domains: {}, items: []};
+    var total = quiz.questions.length;
+    if (!answers || Object.keys(answers).length !== total) throw Error("Besvar alle " + total + " spørgsmål først.");
+    var result = {score: 0, total: total, domains: {}, items: []};
     quiz.questions.forEach(function (q) {
       if (!Object.hasOwn(answers, q.id) || !Object.hasOwn(q.options, answers[q.id])) {
         throw Error("Vælg en gyldig svarmulighed til hvert spørgsmål.");
@@ -59,7 +60,7 @@
         state.answers[q.id] = saved.answers[q.id];
       }
     });
-    state.submitted = saved.submitted === true && Object.keys(state.answers).length === 20;
+    state.submitted = saved.submitted === true && Object.keys(state.answers).length === quiz.questions.length;
     return state;
   }
   var api = {validDate: validDate, validate: validate, grade: grade, sourceLink: sourceLink,
@@ -92,7 +93,8 @@
   }
   function progress() {
     var count = Object.keys(state.answers).length;
-    document.getElementById("daily-progress-text").textContent = count + " af 20 besvaret";
+    document.getElementById("daily-progress-text").textContent = count + " af " + quiz.questions.length + " besvaret";
+    document.getElementById("daily-progress-bar").max = quiz.questions.length;
     document.getElementById("daily-progress-bar").value = count;
   }
   function renderQuestions() {
@@ -102,7 +104,7 @@
       var card = node("fieldset", undefined, "daily-question");
       card.id = "daily-question-" + (i + 1);
       var legend = node("legend");
-      legend.append(node("span", "Spørgsmål " + (i + 1) + " af 20"), document.createTextNode(q.question));
+      legend.append(node("span", "Spørgsmål " + (i + 1) + " af " + quiz.questions.length), document.createTextNode(q.question));
       card.append(legend);
       var options = node("div", undefined, "daily-options");
       Object.entries(q.options).forEach(function (entry) {
@@ -128,7 +130,7 @@
   }
   function renderResult() {
     var result = grade(quiz, state.answers);
-    resultBox.replaceChildren(node("h2", "Dit resultat"), node("p", result.score + " af 20 rigtige", "daily-score"));
+    resultBox.replaceChildren(node("h2", "Dit resultat"), node("p", result.score + " af " + result.total + " rigtige", "daily-score"));
     var sub = node("div", undefined, "daily-subscores");
     Object.entries(domains).forEach(function (entry) {
       var counts = result.domains[entry[0]];
@@ -169,7 +171,7 @@
     download.type = "button";
     download.addEventListener("click", function () {
       var data = {date: quiz.date, bank_sha256: quiz.bank_sha256, snapshot_sha256: quiz.snapshot_sha256,
-        answers: state.answers, score: result.score, total: 20};
+        answers: state.answers, score: result.score, total: result.total};
       var url = URL.createObjectURL(new Blob([JSON.stringify(data, null, 2)], {type: "application/json"}));
       var link = node("a");
       link.href = url; link.download = "mine-svar-" + quiz.date + ".json";
@@ -201,7 +203,7 @@
     if (!quiz || state.submitted) return;
     var missing = quiz.questions.map(function (q, i) { return state.answers[q.id] ? -1 : i; }).filter(function (i) { return i >= 0; });
     if (missing.length) {
-      errorBox.textContent = "Du mangler at besvare " + missing.length + " spørgsmål. Vælg et svar til alle 20, før du afleverer.";
+      errorBox.textContent = "Du mangler at besvare " + missing.length + " spørgsmål. Vælg et svar til alle " + quiz.questions.length + ", før du afleverer.";
       errorBox.hidden = false;
       missing.forEach(function (i) { cards[i].classList.add("needs-answer"); });
       cards[missing[0]].querySelector("input").focus();
@@ -236,7 +238,8 @@
       try { stored = JSON.parse(localStorage.getItem(storageKey)); }
       catch (_) { document.getElementById("daily-storage").hidden = false; }
       state = restore(quiz, stored);
-      document.getElementById("daily-date").textContent = formatDate(quiz.date) + " · 20 spørgsmål";
+      document.getElementById("daily-count").textContent = quiz.questions.length + " spørgsmål.";
+      document.getElementById("daily-date").textContent = formatDate(quiz.date) + " · " + quiz.questions.length + " spørgsmål";
       document.title = "Daglig quiz · " + formatDate(quiz.date) + " – Prøveklar";
       renderQuestions(); form.hidden = false;
       if (state.submitted) renderResult();
