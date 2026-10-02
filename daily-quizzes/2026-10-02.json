@@ -1,0 +1,180 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-02",
+  "timezone": "Europe/Copenhagen",
+  "bank_sha256": "10474466bcaa0448316267b6815edb973f36e0f29912e4d778ff9ba849bfba36",
+  "news_verified_at": "2026-09-25",
+  "official": false,
+  "questions": [
+    {
+      "id": "DK0517-e2",
+      "question": "Skal en EU-kommissær varetage EU’s samlede interesser eller kun sit hjemlands?",
+      "options": {
+        "A": "EU’s samlede interesser",
+        "B": "Kun sit hjemlands interesser"
+      },
+      "answer": "A",
+      "explanation": "Kommissærer skal arbejde uafhængigt af de medlemslande, der har udpeget dem.",
+      "source_pages": [
+        127
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0834",
+      "question": "Hvorfor anerkendte Storbritannien Færøernes flag i 1940?",
+      "options": {
+        "A": "For at markere øernes indtræden i et nordisk forbund",
+        "B": "For at skelne færøske skibe fra danske under krigen",
+        "C": "For at gøre Færøerne til en selvstændig britisk koloni"
+      },
+      "answer": "B",
+      "explanation": "Danmark og Færøerne var besat af forskellige magter, så britiske myndigheder krævede tydelig skelnen.",
+      "source_pages": [
+        207
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0219",
+      "question": "Hvilken ændring i dansk tv skete i 1980'erne?",
+      "options": {
+        "A": "TV 2 overtog DR som landets eneste tv-kanal",
+        "B": "DR's monopol blev ophævet",
+        "C": "TV 2 begyndte som en del af DR"
+      },
+      "answer": "B",
+      "explanation": "Private kanaler blev tilladt i 1986, og TV 2 begyndte at sende i 1988.",
+      "source_pages": [
+        53
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "CA-S002",
+      "event_date": "2026-08-22",
+      "question": "Hvilke to steder blev forbundet af Hovedstadens Letbane i fuld længde i august 2026?",
+      "options": {
+        "A": "Ishøj og Lundtofte",
+        "B": "Køge og Roskilde",
+        "C": "Helsingør og Hillerød"
+      },
+      "answer": "A",
+      "explanation": "Hele strækningen mellem Ishøj og Lundtofte åbnede den 22. august 2026. Den går på tværs af hovedstadsområdet langs Ring 3.",
+      "source_url": "https://dinletbane.dk/da/nyheder/50000-koerte-med-da-hele-letbanen-blev-indviet/",
+      "source_title": "Stor tilslutning: 50.000 kørte med da hele Letbanen blev indviet",
+      "verified_at": "2026-09-25",
+      "exam_domain": "current_affairs",
+      "source_pages": [],
+      "source_edition": "Nyhedskilde kontrolleret 2026-09-25"
+    },
+    {
+      "id": "DK0321",
+      "question": "Hvad betyder det, at folketingsvalg er direkte?",
+      "options": {
+        "A": "Vælgerne udpeger valgmænd, der senere vælger Folketinget",
+        "B": "Vælgerne vælger statsministeren på en særskilt stemmeseddel",
+        "C": "Vælgerne stemmer på kandidater eller partier"
+      },
+      "answer": "C",
+      "explanation": "Der er ikke et mellemled af valgmænd mellem vælgerne og de opstillede kandidater eller partier.",
+      "source_pages": [
+        81
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "values"
+    },
+    {
+      "id": "DK0689",
+      "question": "Hvilken romanforfatter ligger bag De røde heste?",
+      "options": {
+        "A": "Morten Korch",
+        "B": "Herman Bang",
+        "C": "Johannes V. Jensen"
+      },
+      "answer": "A",
+      "explanation": "De røde heste fra 1950 er en filmatisering af en Morten Korch-roman.",
+      "source_pages": [
+        169
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0182",
+      "question": "Hvornår blev Danmark medlem af NATO?",
+      "options": {
+        "A": "1919",
+        "B": "1973",
+        "C": "1949"
+      },
+      "answer": "C",
+      "explanation": "Danmark tilsluttede sig forsvarsalliancen NATO i 1949.",
+      "source_pages": [
+        43
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0960",
+      "question": "Hvem satte for alvor gang i den danske MeToo-debat i 2020 med en tale ved et gallashow?",
+      "options": {
+        "A": "Sofie Gråbøl",
+        "B": "Trine Dyrholm",
+        "C": "Sofie Linde"
+      },
+      "answer": "C",
+      "explanation": "Tv-værten Sofie Linde fortalte om egne erfaringer med seksuelle krænkelser i tv-branchen.",
+      "source_pages": [
+        237
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0360-e2",
+      "question": "Skifter danske vælgere oftere parti end for nogle årtier siden?",
+      "options": {
+        "A": "Ja",
+        "B": "Nej"
+      },
+      "answer": "A",
+      "explanation": "Vælgerne er mindre fast knyttet til bestemte partier end for årtier siden.",
+      "source_pages": [
+        90
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0462",
+      "question": "I hvilken by ligger LEGO's hovedsæde?",
+      "options": {
+        "A": "Esbjerg",
+        "B": "Billund",
+        "C": "Roskilde"
+      },
+      "answer": "B",
+      "explanation": "LEGO har hovedsæde i Billund i Jylland.",
+      "source_pages": [
+        115
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    }
+  ],
+  "snapshot_sha256": "86ed26cd5223f36c09ef85522077dd8d1aa1e131001088057921c9fc2a2ba6f6"
+}
