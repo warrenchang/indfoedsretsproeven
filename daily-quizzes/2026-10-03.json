@@ -1,0 +1,182 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-03",
+  "timezone": "Europe/Copenhagen",
+  "bank_sha256": "10474466bcaa0448316267b6815edb973f36e0f29912e4d778ff9ba849bfba36",
+  "news_verified_at": "2026-09-25",
+  "official": false,
+  "questions": [
+    {
+      "id": "DK0672",
+      "question": "Hvilken kombination er typisk for en vaudeville?",
+      "options": {
+        "A": "Tragedie og religiøs prædiken",
+        "B": "Historisk foredrag og folkedans",
+        "C": "Lystspil og musik"
+      },
+      "answer": "C",
+      "explanation": "Vaudevillen forener dramatik og musik, ofte med kærlighedsforviklinger.",
+      "source_pages": [
+        164
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0083",
+      "question": "Hvilken begivenhed fandt sted ud for Københavns havn i 1801?",
+      "options": {
+        "A": "Slaget ved Isted",
+        "B": "Slaget på Reden",
+        "C": "Stormen på Dybbøl"
+      },
+      "answer": "B",
+      "explanation": "Den britiske flåde angreb den danske flåde på Københavns Red i 1801.",
+      "source_pages": [
+        22
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0989",
+      "question": "Hvad indebærer den grønne omstilling af energiforbruget?",
+      "options": {
+        "A": "At fastholde energiforbruget uden at ændre energikilderne",
+        "B": "Mere olie og gas i stedet for vedvarende energi",
+        "C": "Mere vedvarende energi i stedet for fossile brændsler"
+      },
+      "answer": "C",
+      "explanation": "Omstillingen flytter energiforbruget mod energikilder med ingen eller lavere drivhusgasudledning.",
+      "source_pages": [
+        243
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0297",
+      "question": "Hvem leder regeringen?",
+      "options": {
+        "A": "Statsministeren",
+        "B": "Folketingets formand",
+        "C": "Højesterets præsident"
+      },
+      "answer": "A",
+      "explanation": "Statsministeren er regeringens leder og landets øverste politiske leder.",
+      "source_pages": [
+        75
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0379",
+      "question": "Hvilken handling er et eksempel på politisk deltagelse uden for et parti?",
+      "options": {
+        "A": "At underskrive en politisk underskriftsindsamling",
+        "B": "At betale en almindelig parkeringsbillet",
+        "C": "At skifte adresse inden for samme kommune"
+      },
+      "answer": "A",
+      "explanation": "Underskriftsindsamlinger er en af flere måder at udtrykke politiske holdninger på.",
+      "source_pages": [
+        95
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "values"
+    },
+    {
+      "id": "DK0911",
+      "question": "Hvilket fag er et eksempel på en mellemlang videregående uddannelse?",
+      "options": {
+        "A": "Universitetsuddannet læge",
+        "B": "Sygeplejerske",
+        "C": "Datamatiker"
+      },
+      "answer": "B",
+      "explanation": "Sygeplejerskeuddannelsen er mellemlang; datamatiker er kort, og lægeuddannelsen er lang.",
+      "source_pages": [
+        226
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0439",
+      "question": "Hvilke myndigheder har ret til at udskrive indkomstskat?",
+      "options": {
+        "A": "Staten og kommunerne",
+        "B": "Kun kommunerne",
+        "C": "Kun regionerne"
+      },
+      "answer": "A",
+      "explanation": "Indkomstskat udskrives til både staten og kommunerne; regionerne har ikke denne ret.",
+      "source_pages": [
+        110
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0541",
+      "question": "Hvilket land er fast medlem af FN's Sikkerhedsråd?",
+      "options": {
+        "A": "Danmark",
+        "B": "Kina",
+        "C": "Tyskland"
+      },
+      "answer": "B",
+      "explanation": "Kina er et af fem faste medlemmer sammen med USA, Rusland, Storbritannien og Frankrig.",
+      "source_pages": [
+        132
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "CA-C037",
+      "event_date": "2026-05-31",
+      "question": "Hvilken milepæl nåede Jonas Vingegaard med sejren i Giro d’Italia 2026?",
+      "options": {
+        "A": "Han havde vundet alle fem monumenter",
+        "B": "Han havde vundet alle tre Grand Tours",
+        "C": "Han havde vundet tre OL-guldmedaljer"
+      },
+      "answer": "B",
+      "explanation": "Giro-sejren fuldendte sejre i Giroen, Touren og Vueltaen.",
+      "source_url": "https://www.giroditalia.it/en/news/vingegaard-makes-cycling-history-milan-wins-in-rome/",
+      "source_title": "Vingegaard makes cycling history. Milan wins in Rome",
+      "verified_at": "2026-09-25",
+      "exam_domain": "current_affairs",
+      "source_pages": [],
+      "source_edition": "Nyhedskilde kontrolleret 2026-09-25"
+    },
+    {
+      "id": "DK0052",
+      "question": "Hvilket land hjalp København under den svenske belejring i 1658-59?",
+      "options": {
+        "A": "Nederlandene",
+        "B": "Rusland",
+        "C": "Frankrig"
+      },
+      "answer": "A",
+      "explanation": "Nederlandsk hjælp bidrog til, at København modstod den svenske belejring.",
+      "source_pages": [
+        15
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    }
+  ],
+  "snapshot_sha256": "9369a66cb2dac95ad21a0e485cda43b40bfac4ae256a3a56f807f5cbcef5dc68"
+}
