@@ -1,0 +1,180 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-04",
+  "timezone": "Europe/Copenhagen",
+  "bank_sha256": "10474466bcaa0448316267b6815edb973f36e0f29912e4d778ff9ba849bfba36",
+  "news_verified_at": "2026-09-25",
+  "official": false,
+  "questions": [
+    {
+      "id": "DK0506-e2",
+      "question": "Har EU-landene pligt til at gennemføre anbefalinger fra den åbne koordinationsmetode?",
+      "options": {
+        "A": "Ja",
+        "B": "Nej"
+      },
+      "answer": "B",
+      "explanation": "Metoden bygger på fælles mål, erfaringsudveksling og anbefalinger.",
+      "source_pages": [
+        124
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0599",
+      "question": "Hvad var et politisk formål med Saxos danmarkshistorie?",
+      "options": {
+        "A": "At legitimere tysk overhøjhed over Danmark",
+        "B": "At begrunde kirkens ret til at afsætte kongen",
+        "C": "At vise Danmark som et selvstændigt rige"
+      },
+      "answer": "C",
+      "explanation": "Værket skulle blandt andet vise Danmarks uafhængighed og kongens legitimitet.",
+      "source_pages": [
+        146
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0117-e2",
+      "question": "Hvordan fordeltes stemmerne som hovedregel i et andelsmejeri?",
+      "options": {
+        "A": "Én stemme til hvert medlem",
+        "B": "Stemmer efter antallet af køer",
+        "C": "Stemmer efter gårdens størrelse"
+      },
+      "answer": "A",
+      "explanation": "Man stemte efter hoveder, ikke høveder; ejendommens størrelse gav ikke flere stemmer.",
+      "source_pages": [
+        29
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0441-e2",
+      "question": "Skal man betale kirkeskat, hvis man ikke er medlem af folkekirken?",
+      "options": {
+        "A": "Ja",
+        "B": "Nej"
+      },
+      "answer": "B",
+      "explanation": "Kirkeskat knytter sig til medlemskab af folkekirken, ikke til kirkebesøg eller ansættelse.",
+      "source_pages": [
+        110
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0329",
+      "question": "Hvem kan fremsætte et lovforslag i Folketinget?",
+      "options": {
+        "A": "Kun statsministeren",
+        "B": "Kun Folketingets formand",
+        "C": "En minister eller et folketingsmedlem"
+      },
+      "answer": "C",
+      "explanation": "Både regeringen og enkelte folketingsmedlemmer kan fremsætte lovforslag.",
+      "source_pages": [
+        83
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0981",
+      "question": "Hvilken gruppe består af fossile brændsler?",
+      "options": {
+        "A": "Sol, vind og vandkraft",
+        "B": "Kul, olie og gas",
+        "C": "Træ, vind og sol"
+      },
+      "answer": "B",
+      "explanation": "Kul, olie og gas er fossile energikilder, hvis afbrænding udleder CO2.",
+      "source_pages": [
+        242
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0402",
+      "question": "Hvad er en lægdommer?",
+      "options": {
+        "A": "En advokat, der repræsenterer den tiltalte",
+        "B": "En politibetjent, der efterforsker en sag",
+        "C": "En almindelig borger, der medvirker ved domstolen"
+      },
+      "answer": "C",
+      "explanation": "Domsmand eller nævning medvirker som borger til skylds- og strafvurdering.",
+      "source_pages": [
+        101
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "values"
+    },
+    {
+      "id": "DK0225",
+      "question": "Hvilken begivenhed fandt sted i Berlin i november 1989?",
+      "options": {
+        "A": "Tyskland blev delt i to stater",
+        "B": "Warszawapagten blev oprettet",
+        "C": "Berlinmuren faldt"
+      },
+      "answer": "C",
+      "explanation": "Murens fald blev et symbol på sammenbruddet af den kommunistiske blok.",
+      "source_pages": [
+        55
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "CA-S014",
+      "event_date": "2026-09-22",
+      "question": "Hvad skal Novos udvidede samarbejde med UNICEF, annonceret i september 2026, især forebygge?",
+      "options": {
+        "A": "Høreproblemer hos skolebørn",
+        "B": "Overvægt og fedme hos børn",
+        "C": "Lungeinfektioner hos småbørn"
+      },
+      "answer": "B",
+      "explanation": "Parterne annoncerede en udvidelse af et globalt samarbejde om at forebygge overvægt og fedme i barndommen.",
+      "source_url": "https://www.novonordisk.com/news-and-media/news-and-ir-materials/news-details.html?id=916776",
+      "source_title": "Novo and UNICEF expand partnership to support a healthier start for more than 80 million children",
+      "verified_at": "2026-09-25",
+      "exam_domain": "current_affairs",
+      "source_pages": [],
+      "source_edition": "Nyhedskilde kontrolleret 2026-09-25"
+    },
+    {
+      "id": "DK0882",
+      "question": "Hvilke to traditioner forbindes med julens historiske rødder?",
+      "options": {
+        "A": "Jesu opstandelse og markering af forårsjævndøgn",
+        "B": "Johannes Døberens fødsel og markering af sommersolhverv",
+        "C": "Jesu fødsel og markering af vintersolhverv"
+      },
+      "answer": "C",
+      "explanation": "Julen kombinerer kristen fejring med ældre traditioner omkring årets mørkeste tid.",
+      "source_pages": [
+        219
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    }
+  ],
+  "snapshot_sha256": "4b648fe6ff4c4a052d08b22d16d3a1029183739c62f1d2dc2ce4a3772caa3976"
+}
