@@ -1,0 +1,182 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-05",
+  "timezone": "Europe/Copenhagen",
+  "bank_sha256": "10474466bcaa0448316267b6815edb973f36e0f29912e4d778ff9ba849bfba36",
+  "news_verified_at": "2026-09-25",
+  "official": false,
+  "questions": [
+    {
+      "id": "DK0352",
+      "question": "Hvem vælger kommunens borgmester?",
+      "options": {
+        "A": "Den siddende borgmester alene",
+        "B": "Vælgerne ved en særskilt borgmesterafstemning",
+        "C": "Kommunalbestyrelsen"
+      },
+      "answer": "C",
+      "explanation": "Kommunalbestyrelsen vælger sin formand, borgmesteren, efter kommunalvalget.",
+      "source_pages": [
+        88
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "CA-S059",
+      "event_date": "2026-09-22",
+      "question": "Hvilken FN-organisation udvidede Novo samarbejdet med om børns sundhed i september 2026?",
+      "options": {
+        "A": "UNESCO",
+        "B": "UNICEF",
+        "C": "UNHCR"
+      },
+      "answer": "B",
+      "explanation": "Partnerskabet om at forebygge overvægt blandt børn er med UNICEF.",
+      "source_url": "https://www.novonordisk.com/news-and-media/news-and-ir-materials/news-details.html?id=916776",
+      "source_title": "Novo and UNICEF expand partnership to support a healthier start for more than 80 million children",
+      "verified_at": "2026-09-25",
+      "exam_domain": "current_affairs",
+      "source_pages": [],
+      "source_edition": "Nyhedskilde kontrolleret 2026-09-25"
+    },
+    {
+      "id": "DK0787",
+      "question": "Hvad skete der med langt hovedparten af de krigsflygtninge, der kom til Danmark omkring 1945?",
+      "options": {
+        "A": "De blev i Danmark som en stor fast bosat gruppe",
+        "B": "De udvandrede hovedsageligt fra Danmark til USA",
+        "C": "De vendte tilbage til deres hjemlande i slutningen af 1940'erne"
+      },
+      "answer": "C",
+      "explanation": "De fleste af disse krigsflygtninge var kun midlertidigt i Danmark.",
+      "source_pages": [
+        194
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "CA-S003",
+      "event_date": "2026-05-01",
+      "question": "Til hvilken tjekkisk by åbnede DSB en direkte togforbindelse fra København via Berlin i maj 2026?",
+      "options": {
+        "A": "Brno",
+        "B": "Ostrava",
+        "C": "Prag"
+      },
+      "answer": "C",
+      "explanation": "Den 1. maj 2026 kørte det første direkte tog mellem København, Berlin og Prag.",
+      "source_url": "https://www.dsb.dk/om-dsb/presse/nyheder/forste-direkte-tog-mellem-kobenhavn-berlin-og-prag-er-sendt-afsted/",
+      "source_title": "Første direkte tog mellem København, Berlin og Prag er sendt afsted",
+      "verified_at": "2026-09-25",
+      "exam_domain": "current_affairs",
+      "source_pages": [],
+      "source_edition": "Nyhedskilde kontrolleret 2026-09-25"
+    },
+    {
+      "id": "DK0069",
+      "question": "Hvorfor indførte kongen stavnsbåndet i 1733?",
+      "options": {
+        "A": "For at sikre arbejdskraft på godserne",
+        "B": "For at lokke bønder til byerne",
+        "C": "For at fordele godserne mellem bønderne"
+      },
+      "answer": "A",
+      "explanation": "Stavnsbåndet skulle sikre godsejerne stabil arbejdskraft under en landbrugskrise.",
+      "source_pages": [
+        19
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0309-e2",
+      "question": "Må dommere bære politiske symboler i retten?",
+      "options": {
+        "A": "Ja",
+        "B": "Nej"
+      },
+      "answer": "B",
+      "explanation": "Neutral fremtræden skal understøtte tilliden til domstolenes upartiskhed.",
+      "source_pages": [
+        79
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "values"
+    },
+    {
+      "id": "DK0015",
+      "question": "I hvilket område i Frankrig bosatte vikinger sig?",
+      "options": {
+        "A": "Normandiet",
+        "B": "Bourgogne",
+        "C": "Provence"
+      },
+      "answer": "A",
+      "explanation": "Normandiet er et af de områder, hvor vikinger slog sig ned efter deres togter.",
+      "source_pages": [
+        8
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0576",
+      "question": "Hvilke tre tidligere sovjetrepublikker i Baltikum blev medlemmer af NATO?",
+      "options": {
+        "A": "Estland, Letland og Litauen",
+        "B": "Ukraine, Belarus og Moldova",
+        "C": "Finland, Sverige og Norge"
+      },
+      "answer": "A",
+      "explanation": "De tre baltiske stater er Estland, Letland og Litauen.",
+      "source_pages": [
+        139
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0732",
+      "question": "Hvad viser museet Den Gamle By i Aarhus?",
+      "options": {
+        "A": "Dansk byliv fra forskellige perioder",
+        "B": "Søfartens udvikling fra middelalder til nutid",
+        "C": "Landboliv i gårde fra forskellige perioder"
+      },
+      "answer": "A",
+      "explanation": "Museet har genopførte bygninger og kvarterer, som viser skiftende tiders byliv.",
+      "source_pages": [
+        178
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0669",
+      "question": "Hvad har ballet, opera og skuespil som scenekunst til fælles?",
+      "options": {
+        "A": "De formidles som redigerede optagelser",
+        "B": "De formidles som udstillede genstande",
+        "C": "De opføres direkte foran et publikum"
+      },
+      "answer": "C",
+      "explanation": "Scenekunst er kendetegnet ved den levende opførelse foran publikum.",
+      "source_pages": [
+        164
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    }
+  ],
+  "snapshot_sha256": "5465470379b78476df02aec1a86f406a814d801ce557b8bfa9e19d4b71fbd823"
+}
