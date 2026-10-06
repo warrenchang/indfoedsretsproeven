@@ -1,0 +1,179 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-06",
+  "timezone": "Europe/Copenhagen",
+  "bank_sha256": "10474466bcaa0448316267b6815edb973f36e0f29912e4d778ff9ba849bfba36",
+  "news_verified_at": "2026-09-25",
+  "official": false,
+  "questions": [
+    {
+      "id": "DK0295",
+      "question": "Hvem skal regeringen rådføre sig med før større udenrigspolitiske beslutninger?",
+      "options": {
+        "A": "Folketingets Ombudsmand",
+        "B": "Statsrevisorerne",
+        "C": "Det Udenrigspolitiske Nævn"
+      },
+      "answer": "C",
+      "explanation": "Grundloven kræver, at regeringen rådfører sig med Det Udenrigspolitiske Nævn.",
+      "source_pages": [
+        75
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0394-e2",
+      "question": "Kan Folketingets Ombudsmand selv tilsidesætte en myndigheds afgørelse?",
+      "options": {
+        "A": "Ja",
+        "B": "Nej"
+      },
+      "answer": "B",
+      "explanation": "Ombudsmanden kan ikke selv tilsidesætte afgørelser, men kritik kan få stor praktisk betydning.",
+      "source_pages": [
+        98
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "values"
+    },
+    {
+      "id": "DK0106-e2",
+      "question": "Hvilken befolkningsbevægelse fulgte med industrialiseringen?",
+      "options": {
+        "A": "Fra landet til byerne",
+        "B": "Fra byerne til landet"
+      },
+      "answer": "A",
+      "explanation": "Folk flyttede til byernes fabrikker og værksteder, hvor en ny arbejdergruppe voksede frem.",
+      "source_pages": [
+        27
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0737",
+      "question": "Hvorfor er Vadehavet vigtigt for trækfugle?",
+      "options": {
+        "A": "De bruger de varme kilder til at holde varmen",
+        "B": "De kan finde store mængder føde undervejs",
+        "C": "De finder store yngleskove til deres reder"
+      },
+      "answer": "B",
+      "explanation": "Fisk, muslinger og andre smådyr gør Vadehavet til en vigtig raste- og spiseplads.",
+      "source_pages": [
+        179
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0696",
+      "question": "Hvilket tema er centralt i Kundskabens træ?",
+      "options": {
+        "A": "Ægteskabskrise i en pensioneret familie",
+        "B": "Rivalisering mellem voksne kolleger",
+        "C": "Mobning og forelskelser i en skoleklasse"
+      },
+      "answer": "C",
+      "explanation": "Malmros skildrer pubertetens relationer, udstødelse og de voksnes manglende forståelse.",
+      "source_pages": [
+        170
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0558-e2",
+      "question": "Deltog Danmark mere eller mindre aktivt i internationale konflikter efter Den Kolde Krig?",
+      "options": {
+        "A": "Mere",
+        "B": "Mindre"
+      },
+      "answer": "A",
+      "explanation": "Danmark begyndte også at deltage i operationer, der gik ud over klassisk fredsbevarelse.",
+      "source_pages": [
+        136
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0193",
+      "question": "Hvad kendetegnede dansk økonomi i perioden cirka 1957-73?",
+      "options": {
+        "A": "Høj vækst og fuld beskæftigelse",
+        "B": "Uændret produktion og faldende indkomster",
+        "C": "Faldende produktion og massearbejdsløshed"
+      },
+      "answer": "A",
+      "explanation": "Højkonjunkturen gav vækst i produktion og indkomster og omtales som de glade 60'ere.",
+      "source_pages": [
+        47
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0472",
+      "question": "Hvilke funktioner har virksomheder ofte beholdt i Danmark, når produktion er flyttet ud?",
+      "options": {
+        "A": "Produktudvikling, salg og ledelse",
+        "B": "Rutinepræget masseproduktion",
+        "C": "Den mest løntunge del af fremstillingen"
+      },
+      "answer": "A",
+      "explanation": "Udflytning til lande med lavere løn har ofte efterladt videnstunge og ledende funktioner i Danmark.",
+      "source_pages": [
+        116
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "CA-C015",
+      "event_date": "2026-05-16",
+      "question": "I hvilket land blev Eurovision Song Contest afholdt i maj 2026?",
+      "options": {
+        "A": "Østrig",
+        "B": "Sverige",
+        "C": "Schweiz"
+      },
+      "answer": "A",
+      "explanation": "Eurovision-finalen blev afholdt i Wien i Østrig.",
+      "source_url": "https://www.eurovision.com/newsroom/release/x/",
+      "source_title": "Bulgaria's DARA wins spectacular 70th Eurovision Song Contest",
+      "verified_at": "2026-09-25",
+      "exam_domain": "current_affairs",
+      "source_pages": [],
+      "source_edition": "Nyhedskilde kontrolleret 2026-09-25"
+    },
+    {
+      "id": "DK0775",
+      "question": "Hvilken slægt tilhører Frederik 10.?",
+      "options": {
+        "A": "Bernadotte",
+        "B": "Windsor",
+        "C": "Glücksborg"
+      },
+      "answer": "C",
+      "explanation": "Frederik 10. tilhører den glücksborgske kongeslægt, som overtog den danske trone i 1863.",
+      "source_pages": [
+        191
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    }
+  ],
+  "snapshot_sha256": "bfe29deae48e7721d0501053d8e75f901947ad75ee151b17ab3c5892af7acb74"
+}
