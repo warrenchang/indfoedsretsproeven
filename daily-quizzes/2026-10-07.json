@@ -1,0 +1,181 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-07",
+  "timezone": "Europe/Copenhagen",
+  "bank_sha256": "10474466bcaa0448316267b6815edb973f36e0f29912e4d778ff9ba849bfba36",
+  "news_verified_at": "2026-09-25",
+  "official": false,
+  "questions": [
+    {
+      "id": "DK0072",
+      "question": "Hvilket arbejde havde Struensee, før han kom til at regere på kongens vegne?",
+      "options": {
+        "A": "Kongens personlige læge",
+        "B": "Biskop i København",
+        "C": "Admiral i flåden"
+      },
+      "answer": "A",
+      "explanation": "Struensee vandt Christian 7.s tillid som læge og fik derefter stor politisk magt.",
+      "source_pages": [
+        19
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0607",
+      "question": "Hvilket miljø blev især skildret af Steen Steensen Blicher?",
+      "options": {
+        "A": "Livet i hovedstadens borgerlige saloner",
+        "B": "Livet blandt sømænd i københavnske havnekvarterer",
+        "C": "Livet på landet i Jylland"
+      },
+      "answer": "C",
+      "explanation": "Blicher beskrev blandt andet jyske bønder, præster og fattige langt fra hovedstaden.",
+      "source_pages": [
+        147
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "CA-P055",
+      "event_date": "2026-06-30",
+      "question": "Hvilken indsats for ukrainske soldater fik flere midler i den danske støttepakke fra juni 2026?",
+      "options": {
+        "A": "Militær træning",
+        "B": "Civil jobformidling",
+        "C": "Veteranboliger"
+      },
+      "answer": "A",
+      "explanation": "Pakken indeholdt yderligere finansiering af træningsindsatser.",
+      "source_url": "https://www.fmn.dk/da/nyheder/2026/danmark-lancerer-ny-militar-donationspakke-til-ukraine/",
+      "source_title": "Danmark lancerer ny militær donationspakke til Ukraine",
+      "verified_at": "2026-09-25",
+      "exam_domain": "current_affairs",
+      "source_pages": [],
+      "source_edition": "Nyhedskilde kontrolleret 2026-09-25"
+    },
+    {
+      "id": "DK0838",
+      "question": "Hvilket nordisk land har flest indbyggere i 2026?",
+      "options": {
+        "A": "Sverige",
+        "B": "Island",
+        "C": "Norge"
+      },
+      "answer": "A",
+      "explanation": "Sverige har den største befolkning i Norden med omkring 10,7 millioner.",
+      "source_pages": [
+        208
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0049",
+      "question": "Hvad hjalp de svenske tropper frem til de danske øer i vinteren 1657-58?",
+      "options": {
+        "A": "Sverige havde overtaget den danske flåde",
+        "B": "Havet var frosset til",
+        "C": "Det danske forsvar var flyttet til Skåne"
+      },
+      "answer": "B",
+      "explanation": "Svenskerne kunne gå over isen, mens den danske flåde var låst fast.",
+      "source_pages": [
+        15
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0568",
+      "question": "Hvad var de danske soldaters hovedopgave i Afghanistan efter 2014?",
+      "options": {
+        "A": "At lede en ny invasion af nabolandet Iran",
+        "B": "At træne og støtte afghanske styrker",
+        "C": "At overtage al civil administration i Kabul"
+      },
+      "answer": "B",
+      "explanation": "Efter 2014 fokuserede den danske indsats på træning og støtte.",
+      "source_pages": [
+        138
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0750",
+      "question": "Hvorfor styrtede en del af Højerup Kirke i havet i 1928?",
+      "options": {
+        "A": "Havet havde nedbrudt klinten",
+        "B": "En kraftig brand havde svækket murværket",
+        "C": "Et jordskælv havde ødelagt fundamentet"
+      },
+      "answer": "A",
+      "explanation": "Kystens gradvise erosion fjernede jord under kirken.",
+      "source_pages": [
+        184
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0364-e2",
+      "question": "Er et folketingsmedlem ifølge grundloven bundet af sin egen overbevisning?",
+      "options": {
+        "A": "Ja",
+        "B": "Nej"
+      },
+      "answer": "A",
+      "explanation": "Grundloven beskytter det enkelte medlems frie mandat.",
+      "source_pages": [
+        91
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "values"
+    },
+    {
+      "id": "DK0435",
+      "question": "Hvordan omfordeler velfærdssamfundet økonomiske ressourcer?",
+      "options": {
+        "A": "Kun gennem frivillige private gaver",
+        "B": "Gennem både skatter og offentlige ydelser",
+        "C": "Gennem ens bruttolønninger på tværs af erhverv"
+      },
+      "answer": "B",
+      "explanation": "Skatter og ydelser tilsammen flytter ressourcer mellem borgere med forskellige indkomster og behov.",
+      "source_pages": [
+        110
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0339-e2",
+      "question": "Hvor mange folketingsmedlemmer skal stemme for suverænitetsafgivelse efter § 20, hvis der ikke skal være folkeafstemning?",
+      "options": {
+        "A": "120",
+        "B": "90",
+        "C": "150"
+      },
+      "answer": "C",
+      "explanation": "Grundloven kræver fem sjettedeles flertal, svarende til mindst 150 medlemmer.",
+      "source_pages": [
+        85
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    }
+  ],
+  "snapshot_sha256": "c3f18da3fee2b11ec3757cdb84def19fa69a719054701248f013624fdcc5223a"
+}
