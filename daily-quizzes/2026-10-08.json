@@ -1,0 +1,180 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-08",
+  "timezone": "Europe/Copenhagen",
+  "bank_sha256": "10474466bcaa0448316267b6815edb973f36e0f29912e4d778ff9ba849bfba36",
+  "news_verified_at": "2026-09-25",
+  "official": false,
+  "questions": [
+    {
+      "id": "DK0416-e2",
+      "question": "Kan offentlig uddannelse også gavne private virksomheder?",
+      "options": {
+        "A": "Ja",
+        "B": "Nej"
+      },
+      "answer": "A",
+      "explanation": "Offentlig uddannelse leverer kvalificeret arbejdskraft og viser sektorernes gensidige afhængighed.",
+      "source_pages": [
+        104
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0292",
+      "question": "Hvornår sendes et lovforslag normalt til behandling i et udvalg?",
+      "options": {
+        "A": "Efter førstebehandlingen",
+        "B": "Efter den endelige vedtagelse",
+        "C": "Før forslaget fremsættes i Folketinget"
+      },
+      "answer": "A",
+      "explanation": "Normalt følger udvalgsbehandlingen efter lovforslagets første behandling i salen.",
+      "source_pages": [
+        74
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "CA-P041",
+      "event_date": "2026-06-03",
+      "question": "Hvem blev justitsminister i juni 2026?",
+      "options": {
+        "A": "Morten Bødskov",
+        "B": "Peter Hummelgaard",
+        "C": "Nicolai Wammen"
+      },
+      "answer": "C",
+      "explanation": "Ministerlisten angiver Nicolai Wammen.",
+      "source_url": "https://stm.dk/regeringen/regeringer-siden-1848/regeringen-mette-frederiksen-iii/",
+      "source_title": "Regeringen Mette Frederiksen III",
+      "verified_at": "2026-09-25",
+      "exam_domain": "current_affairs",
+      "source_pages": [],
+      "source_edition": "Nyhedskilde kontrolleret 2026-09-25"
+    },
+    {
+      "id": "DK0078",
+      "question": "En bondes spredte marker blev samlet ét sted under landboreformerne. Hvad var fordelen?",
+      "options": {
+        "A": "Jorden blev fordelt lige mellem alle familier",
+        "B": "Bonden kunne undgå at flytte sin gård",
+        "C": "Jorden kunne dyrkes mere effektivt"
+      },
+      "answer": "C",
+      "explanation": "Samlingen af marker gjorde driften mere effektiv; den ophævede ikke skattepligten.",
+      "source_pages": [
+        20
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0369-e2",
+      "question": "Hvilken placering fik Danmark i Reportere uden Grænsers pressefrihedsindeks i 2026?",
+      "options": {
+        "A": "Nr. 24",
+        "B": "Nr. 4",
+        "C": "Nr. 44"
+      },
+      "answer": "B",
+      "explanation": "Danmark blev placeret som nummer 4 af 180 lande i pressefrihedsindekset i 2026. Indekset vurderer vilkårene for journalistik og pressefrihed.",
+      "source_pages": [],
+      "source_url": "https://rsf.org/en/country/denmark",
+      "source_edition": "Pressefrihed 2026",
+      "exam_domain": "values",
+      "source_title": "Reporters Without Borders: Denmark, World Press Freedom Index 2026",
+      "verified_at": "2026-09-27"
+    },
+    {
+      "id": "DK0803",
+      "question": "Hvorfra kom forfædrene til nutidens inuitbefolkning omkring år 1200?",
+      "options": {
+        "A": "Island og Norge",
+        "B": "Alaska og Canada",
+        "C": "Danmark og Sverige"
+      },
+      "answer": "B",
+      "explanation": "Inuitterne kom fra arktiske områder mod vest; de nordiske bosættere var en anden gruppe.",
+      "source_pages": [
+        199
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0102-e2",
+      "question": "Hvordan ændredes befolkningen i det tilbageværende rige efter 1864?",
+      "options": {
+        "A": "Den blev sprogligt mere ensartet",
+        "B": "Den blev sprogligt mere forskelligartet"
+      },
+      "answer": "A",
+      "explanation": "Efter tabet af hertugdømmerne talte en langt større del af rigets befolkning samme sprog.",
+      "source_pages": [
+        26
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0617",
+      "question": "Hvad står centralt i Den kroniske uskyld?",
+      "options": {
+        "A": "Ungdom og skoleliv",
+        "B": "Ægteskab og familieliv i alderdommen",
+        "C": "Arbejdsliv og faglig organisering"
+      },
+      "answer": "A",
+      "explanation": "Rifbjergs roman skildrer ungdommen og kritiserer blandt andet voksnes snæversyn.",
+      "source_pages": [
+        150
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0566",
+      "question": "Hvornår besluttede Folketinget at sende danske soldater til krigen i Afghanistan?",
+      "options": {
+        "A": "2011",
+        "B": "2002",
+        "C": "1991"
+      },
+      "answer": "B",
+      "explanation": "Et stort flertal i Folketinget vedtog i 2002 dansk deltagelse.",
+      "source_pages": [
+        137
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0711",
+      "question": "Hvad har i særlig grad formet det danske landskab?",
+      "options": {
+        "A": "Bjergfoldningerne i nyere tid",
+        "B": "Istidernes is",
+        "C": "Vulkanudbruddene efter istiden"
+      },
+      "answer": "B",
+      "explanation": "Isen dækkede Danmark i flere omgange og formede landskabet.",
+      "source_pages": [
+        174
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    }
+  ],
+  "snapshot_sha256": "6e280d8f14fd31e1a80257f1a909c7674215e71d26213536dca52b49dd6086f0"
+}
