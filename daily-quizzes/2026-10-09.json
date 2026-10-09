@@ -1,0 +1,180 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-09",
+  "timezone": "Europe/Copenhagen",
+  "bank_sha256": "10474466bcaa0448316267b6815edb973f36e0f29912e4d778ff9ba849bfba36",
+  "news_verified_at": "2026-09-25",
+  "official": false,
+  "questions": [
+    {
+      "id": "CA-C004",
+      "event_date": "2026-05-10",
+      "question": "Hvilken klub blev dansk mester i herrefodbold i sæsonen 2025/26?",
+      "options": {
+        "A": "FC Midtjylland",
+        "B": "AGF",
+        "C": "FC København"
+      },
+      "answer": "B",
+      "explanation": "AGF sikrede mesterskabet med en sejr over Brøndby den 10. maj 2026.",
+      "source_url": "https://www.agf.dk/nyheder/2026/maj/sadan-vandt-vi-dm-i-brondby",
+      "source_title": "Sådan vandt vi DM i Brøndby",
+      "verified_at": "2026-09-25",
+      "exam_domain": "current_affairs",
+      "source_pages": [],
+      "source_edition": "Nyhedskilde kontrolleret 2026-09-25"
+    },
+    {
+      "id": "DK0014",
+      "question": "Hvilke lande herskede Knud den Store over, da vikingeriget var størst?",
+      "options": {
+        "A": "Danmark, England og Norge",
+        "B": "Danmark, Frankrig og Spanien",
+        "C": "Danmark, Sverige og Italien"
+      },
+      "answer": "A",
+      "explanation": "Knud den Store samlede magten over Danmark, England og Norge.",
+      "source_pages": [
+        8
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0871-e2",
+      "question": "Skal en gruppe have offentlig anerkendelse for overhovedet at danne et trossamfund?",
+      "options": {
+        "A": "Ja",
+        "B": "Nej"
+      },
+      "answer": "B",
+      "explanation": "Religionsfriheden tillader dannelse af trossamfund; anerkendelse kan give yderligere rettigheder.",
+      "source_pages": [
+        216
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "values"
+    },
+    {
+      "id": "DK0386-e2",
+      "question": "Må borgeres almindelige rettigheder og pligter afhænge af deres tro eller afstamning?",
+      "options": {
+        "A": "Ja",
+        "B": "Nej"
+      },
+      "answer": "B",
+      "explanation": "Grundloven beskytter mod forskelsbehandling på grund af tro og afstamning.",
+      "source_pages": [
+        97
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "values"
+    },
+    {
+      "id": "DK0066",
+      "question": "Hvilket land købte Dansk Vestindien i 1917?",
+      "options": {
+        "A": "Frankrig",
+        "B": "Storbritannien",
+        "C": "USA"
+      },
+      "answer": "C",
+      "explanation": "Danmark solgte øerne til USA; de danske kolonier i Indien og Ghana blev solgt til Storbritannien.",
+      "source_pages": [
+        18
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0535",
+      "question": "Hvornår blev FN grundlagt?",
+      "options": {
+        "A": "1919",
+        "B": "1957",
+        "C": "1945"
+      },
+      "answer": "C",
+      "explanation": "FN blev grundlagt efter 2. verdenskrig i 1945 med Danmark som medlem fra begyndelsen.",
+      "source_pages": [
+        131
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0619",
+      "question": "Hvem skrev digtet Sommerfugledalen?",
+      "options": {
+        "A": "Naja Marie Aidt",
+        "B": "Tove Ditlevsen",
+        "C": "Inger Christensen"
+      },
+      "answer": "C",
+      "explanation": "Sommerfugledalen fra 1991 er et hovedværk af Inger Christensen.",
+      "source_pages": [
+        150
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0885",
+      "question": "Hvad forbindes Yom Kippur især med?",
+      "options": {
+        "A": "Afslutningen på pilgrimsrejsen til Mekka",
+        "B": "Forsoning, bøn og faste",
+        "C": "Fejring af Jesu fødsel"
+      },
+      "answer": "B",
+      "explanation": "Den jødiske forsoningsdag handler blandt andet om tilgivelse og anger.",
+      "source_pages": [
+        220
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0307",
+      "question": "Hvem kan udskrive folketingsvalg før valgperiodens udløb?",
+      "options": {
+        "A": "Folketingets Ombudsmand",
+        "B": "Formanden for KL",
+        "C": "Statsministeren"
+      },
+      "answer": "C",
+      "explanation": "Statsministerens ret til at udskrive nyvalg kaldes opløsningsretten.",
+      "source_pages": [
+        78
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK1000",
+      "question": "Hvad er en bekymring hos kritikere af afgiften på landbrugets udledning?",
+      "options": {
+        "A": "At fødevareproduktionen vokser hurtigere end efterspørgslen",
+        "B": "At danske landmænd får for stor fordel over for udlandet",
+        "C": "At produktion og arbejdspladser flytter ud af Danmark"
+      },
+      "answer": "C",
+      "explanation": "Materialet beskriver bekymring for udflytning, mens andre kritikere finder afgiften for lav.",
+      "source_pages": [
+        245
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    }
+  ],
+  "snapshot_sha256": "3727c01ce35c23d0ff517e86e05a12e4bc97bb2383021c502feeb3e03a25686d"
+}
