@@ -1,0 +1,181 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-10",
+  "timezone": "Europe/Copenhagen",
+  "bank_sha256": "10474466bcaa0448316267b6815edb973f36e0f29912e4d778ff9ba849bfba36",
+  "news_verified_at": "2026-09-25",
+  "official": false,
+  "questions": [
+    {
+      "id": "DK0903",
+      "question": "Hvad indgår i de ti års obligatoriske undervisning?",
+      "options": {
+        "A": "1.-10. klasse uden børnehaveklasse",
+        "B": "Børnehaveklasse og 1.-10. klasse",
+        "C": "Børnehaveklasse og 1.-9. klasse"
+      },
+      "answer": "C",
+      "explanation": "Folkeskolens grundforløb omfatter 0. klasse og ni efterfølgende klassetrin.",
+      "source_pages": [
+        224
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0694",
+      "question": "Hvilken forfatter skrev romanen bag Busters Verden?",
+      "options": {
+        "A": "Thomas Korsgaard",
+        "B": "William Heinesen",
+        "C": "Bjarne Reuter"
+      },
+      "answer": "C",
+      "explanation": "Bille August filmatiserede Bjarne Reuters roman om Buster.",
+      "source_pages": [
+        170
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0264",
+      "question": "Hvilken organisation repræsenterer private arbejdsgivere i det politiske liv?",
+      "options": {
+        "A": "Dansk Arbejdsgiverforening",
+        "B": "Fagbevægelsens Hovedorganisation",
+        "C": "Kommunernes Landsforening"
+      },
+      "answer": "A",
+      "explanation": "Dansk Arbejdsgiverforening (DA) repræsenterer private arbejdsgivere. KL repræsenterer kommunerne som arbejdsgivere, mens FH repræsenterer lønmodtagere.",
+      "source_pages": [
+        67
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "CA-S008",
+      "event_date": "2026-06-30",
+      "question": "Hvad hedder det fysiske kort, som er et alternativ til en app efter lukningen af det gamle Rejsekort i 2026?",
+      "options": {
+        "A": "Bykort",
+        "B": "Basiskort",
+        "C": "Fælleskort"
+      },
+      "answer": "B",
+      "explanation": "Basiskort giver mulighed for at rejse med et fysisk kort. Overgangen til et nyt system kræver derfor ikke, at alle bruger en smartphone.",
+      "source_url": "https://www.dsb.dk/find-produkter-og-services/rejs-med-digitalt/",
+      "source_title": "DSB – Rejs med videre",
+      "verified_at": "2026-09-25",
+      "exam_domain": "current_affairs",
+      "source_pages": [],
+      "source_edition": "Nyhedskilde kontrolleret 2026-09-25"
+    },
+    {
+      "id": "DK0503",
+      "question": "Hvilken valuta er knyttet til EU's monetære union?",
+      "options": {
+        "A": "Euroen",
+        "B": "Den schweiziske franc",
+        "C": "Det britiske pund"
+      },
+      "answer": "A",
+      "explanation": "En række EU-lande har indført euroen gennem det monetære samarbejde.",
+      "source_pages": [
+        123
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0085",
+      "question": "Hvilket land valgte Danmark som allieret efter bombardementet i 1807?",
+      "options": {
+        "A": "Storbritannien",
+        "B": "Frankrig",
+        "C": "Sverige"
+      },
+      "answer": "B",
+      "explanation": "Efter det britiske angreb valgte Danmark Napoleons Frankrig.",
+      "source_pages": [
+        22
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0489",
+      "question": "Hvorfor er efter- og videreuddannelse vigtig på det danske arbejdsmarked?",
+      "options": {
+        "A": "Tidligere uddannelse kan bruges uændret hele arbejdslivet",
+        "B": "Jobkrav ændres, og simple opgaver automatiseres",
+        "C": "Mange jobs kan udføres uden faglig viden"
+      },
+      "answer": "B",
+      "explanation": "Maskiner, robotter og udflytning øger behovet for løbende at udvikle kompetencer.",
+      "source_pages": [
+        117
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0719",
+      "question": "Hvilken havstrøm bidrager til Danmarks relativt milde vinterklima?",
+      "options": {
+        "A": "Labradorstrømmen",
+        "B": "Golfstrømmen",
+        "C": "Humboldtstrømmen"
+      },
+      "answer": "B",
+      "explanation": "Golfstrømmen fører varmt vand mod Nordeuropa og bidrager til mildere vintre.",
+      "source_pages": [
+        175
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0224",
+      "question": "Hvilken beslutning traf Folketinget om energiplanlægning i 1985?",
+      "options": {
+        "A": "Atomkraft skulle være den primære energikilde",
+        "B": "Danmark skulle bygge sit første atomkraftværk",
+        "C": "Fremtidens forsyning skulle planlægges uden atomkraft"
+      },
+      "answer": "C",
+      "explanation": "Folkelig modstand bidrog til beslutningen om energiplanlægning uden atomkraft.",
+      "source_pages": [
+        54
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0279-e2",
+      "question": "Beskytter grundlovens frihedsrettigheder også mindretallet?",
+      "options": {
+        "A": "Ja",
+        "B": "Nej"
+      },
+      "answer": "A",
+      "explanation": "Frihedsrettighederne beskytter også mennesker, hvis holdninger ikke deles af flertallet.",
+      "source_pages": [
+        71
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "values"
+    }
+  ],
+  "snapshot_sha256": "cf6baa7959352d68e2dad46abcc5a75892fc4102c27cf9dabe4c84b412a638ae"
+}
