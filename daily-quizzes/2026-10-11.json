@@ -1,0 +1,179 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-11",
+  "timezone": "Europe/Copenhagen",
+  "bank_sha256": "10474466bcaa0448316267b6815edb973f36e0f29912e4d778ff9ba849bfba36",
+  "news_verified_at": "2026-09-25",
+  "official": false,
+  "questions": [
+    {
+      "id": "DK0153",
+      "question": "Hvad indebar socialreformen som del af Kanslergadeforliget?",
+      "options": {
+        "A": "Retten til hjælp blev begrænset til fagforeningsmedlemmer",
+        "B": "Mere ensartede regler for offentlig hjælp",
+        "C": "Kommunerne fik friere adgang til at afgøre hjælpen"
+      },
+      "answer": "B",
+      "explanation": "Reformen udvidede de sociale rettigheder og gjorde retten til hjælp mere ensartet.",
+      "source_pages": [
+        37
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0464",
+      "question": "Hvilken branche er Mærsk især knyttet til?",
+      "options": {
+        "A": "Fremstilling af medicin",
+        "B": "Containertransport og søfart",
+        "C": "Produktion af høreapparater"
+      },
+      "answer": "B",
+      "explanation": "Mærsk er et stort containerrederi og en del af Danmarks søfartserhverv.",
+      "source_pages": [
+        115
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "CA-S045",
+      "event_date": "2026-08-25",
+      "question": "Hvad brugte Femern-projektet en undervandsdrone til ifølge en nyhed i august 2026?",
+      "options": {
+        "A": "At inspicere revner i tunnelelementer",
+        "B": "At kontrollere kabelsamlinger på havbunden",
+        "C": "At overvåge sediment og vandkvalitet"
+      },
+      "answer": "C",
+      "explanation": "Dronen indsamler oplysninger om partikler hvirvlet op fra havbunden.",
+      "source_url": "https://www.femern.com/press/news/",
+      "source_title": "Femern A/S – News and press releases",
+      "verified_at": "2026-09-25",
+      "exam_domain": "current_affairs",
+      "source_pages": [],
+      "source_edition": "Nyhedskilde kontrolleret 2026-09-25"
+    },
+    {
+      "id": "DK0745",
+      "question": "Hvilket af Shakespeares skuespil forbindes med Kronborg?",
+      "options": {
+        "A": "Romeo og Julie",
+        "B": "Hamlet",
+        "C": "Macbeth"
+      },
+      "answer": "B",
+      "explanation": "Kronborg danner rammen om tragedien om den danske prins Hamlet.",
+      "source_pages": [
+        182
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0399-e2",
+      "question": "Gælder værnepligten også kvinder med dansk statsborgerskab efter ændringen i 2025?",
+      "options": {
+        "A": "Ja",
+        "B": "Nej"
+      },
+      "answer": "A",
+      "explanation": "Materialet beskriver værnepligt for begge køn; i praksis bliver ikke alle indkaldt.",
+      "source_pages": [
+        100
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0549-e2",
+      "question": "Gælder FN’s verdensmål kun for verdens fattigste lande?",
+      "options": {
+        "A": "Ja",
+        "B": "Nej"
+      },
+      "answer": "B",
+      "explanation": "Verdensmålene er universelle og gælder derfor også Danmark.",
+      "source_pages": [
+        133
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0304-e2",
+      "question": "Ansættes almindelige embedsmænd i ministerierne normalt på grund af deres politiske tilhørsforhold?",
+      "options": {
+        "A": "Ja",
+        "B": "Nej"
+      },
+      "answer": "B",
+      "explanation": "Almindelige embedsmænd ansættes fagligt og fortsætter normalt ved regeringsskifte.",
+      "source_pages": [
+        77
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "values"
+    },
+    {
+      "id": "DK0942-e2",
+      "question": "Hvem var ofrene i den sag, hvor tre personer i 2025 blev dømt for et filmet overfald?",
+      "options": {
+        "A": "To jødiske mænd",
+        "B": "To homoseksuelle mænd",
+        "C": "To muslimske mænd"
+      },
+      "answer": "B",
+      "explanation": "Materialet beskriver overfaldet på to homoseksuelle mænd som eksempel på hadforbrydelser.",
+      "source_pages": [
+        233
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0171",
+      "question": "Hvad var Frihedsrådets vigtigste opgave fra 1943?",
+      "options": {
+        "A": "At koordinere modstandsbevægelsen",
+        "B": "At lede ministeriernes daglige administration",
+        "C": "At forhandle danske leverancer til Tyskland"
+      },
+      "answer": "A",
+      "explanation": "Frihedsrådet samlede ledere fra modstandsgrupper til fælles koordinering.",
+      "source_pages": [
+        41
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0699",
+      "question": "Hvilken sangerinde spillede hovedrollen i Dancer in the Dark?",
+      "options": {
+        "A": "Anne Linnet",
+        "B": "MØ",
+        "C": "Björk"
+      },
+      "answer": "C",
+      "explanation": "Den islandske sangerinde Björk medvirkede i von Triers prisvindende musicalfilm.",
+      "source_pages": [
+        170
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    }
+  ],
+  "snapshot_sha256": "68edd351b370f69c4205d6ea4f2d07ebe6d0d3d834fa303feabc3852147a1acd"
+}
