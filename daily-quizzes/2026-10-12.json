@@ -1,0 +1,181 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-12",
+  "timezone": "Europe/Copenhagen",
+  "bank_sha256": "c172538c077ff9d594760ad156f729c7962711cb39b25524ff162137e6ffbee7",
+  "news_verified_at": "2026-10-12",
+  "official": false,
+  "questions": [
+    {
+      "id": "CA-S024",
+      "event_date": "2026-07-27",
+      "question": "Hvilke to store velfærdsrettede professionsbacheloruddannelser fremhævede ministeriet i juli 2026 for et stigende optag?",
+      "options": {
+        "A": "Socialrådgiver og folkeskolelærer",
+        "B": "Sygeplejerske og folkeskolelærer",
+        "C": "Pædagog og socialrådgiver"
+      },
+      "answer": "B",
+      "explanation": "Optaget steg på sygeplejerske- og folkeskolelæreruddannelserne. Ministeriet oplyste, at optaget på pædagog- og socialrådgiveruddannelserne var omtrent uændret.",
+      "source_url": "https://ufm.dk/aktuelt/pressemeddelelser/2026/juli/christina-egelund-positivt-at-flere-er-optaget-paa-vigtige-uddannelser-som-sygeplejerske-og-folkeskolelaerer/",
+      "source_title": "Positivt, at flere er optaget på vigtige uddannelser som sygeplejerske og folkeskolelærer",
+      "verified_at": "2026-09-25",
+      "exam_domain": "current_affairs",
+      "source_pages": [],
+      "source_edition": "Nyhedskilde kontrolleret 2026-09-25"
+    },
+    {
+      "id": "DK0026",
+      "question": "Hvilken by fik i 1103 en ærkebiskop med hele Norden under sig?",
+      "options": {
+        "A": "Lund",
+        "B": "Odense",
+        "C": "Aarhus"
+      },
+      "answer": "A",
+      "explanation": "Lund lå dengang i Danmark og blev centrum for et selvstændigt nordisk kirkeområde.",
+      "source_pages": [
+        11
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0412",
+      "question": "Hvorfor må også et rigt land som Danmark prioritere sine udgifter?",
+      "options": {
+        "A": "Større velstand fjerner behovet for at vælge mellem formål",
+        "B": "Alle behov kan dækkes gennem udenlandske lån",
+        "C": "Ressourcerne er begrænsede"
+      },
+      "answer": "C",
+      "explanation": "Økonomi handler om at fordele begrænsede ressourcer mellem forskellige behov.",
+      "source_pages": [
+        103
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0266-e2",
+      "question": "Skal lokalt selvstyre give borgerne indflydelse på lokale forhold?",
+      "options": {
+        "A": "Ja",
+        "B": "Nej"
+      },
+      "answer": "A",
+      "explanation": "Kommunalt selvstyre giver borgerne mulighed for at påvirke forhold i deres lokalsamfund.",
+      "source_pages": [
+        66,
+        67
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "values"
+    },
+    {
+      "id": "DK0658",
+      "question": "Hvilken ældre arkitektur inspirerede C.F. Hansens Vor Frue Kirke?",
+      "options": {
+        "A": "Gotiske borge med voldgrave",
+        "B": "Vikingernes langhuse",
+        "C": "Græske og romerske templer"
+      },
+      "answer": "C",
+      "explanation": "Kirken har former inspireret af antikkens græske og romerske arkitektur.",
+      "source_pages": [
+        161
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0298",
+      "question": "Hvad kendetegner en flertalsregering?",
+      "options": {
+        "A": "Alle folketingspartier deltager i regeringen",
+        "B": "Dens partier har tilsammen flertal i Folketinget",
+        "C": "Det største regeringsparti har flest stemmer af alle partier"
+      },
+      "answer": "B",
+      "explanation": "Flertalsregering beskriver regeringspartiernes samlede antal mandater.",
+      "source_pages": [
+        75
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0867",
+      "question": "Hvilken administrativ opgave varetager folkekirken på statens vegne?",
+      "options": {
+        "A": "Registrering af blandt andet fødsler og dødsfald",
+        "B": "Registrering af borgernes bopælsadresser",
+        "C": "Registrering af handler med fast ejendom"
+      },
+      "answer": "A",
+      "explanation": "Kirken udfører civilregistreringsopgaver, ud over sine religiøse funktioner.",
+      "source_pages": [
+        215
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0521-e2",
+      "question": "Vælges Europa-Parlamentets medlemmer direkte af borgerne?",
+      "options": {
+        "A": "Ja",
+        "B": "Nej"
+      },
+      "answer": "A",
+      "explanation": "Europa-Parlamentet er den direkte folkevalgte forsamling i EU.",
+      "source_pages": [
+        128
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0155",
+      "question": "Hvorfor var Aalborg vigtig for Tysklands angreb i 1940?",
+      "options": {
+        "A": "Byen lå nær den dansk-tyske landegrænse",
+        "B": "Flyvepladsen kunne bruges på vejen til Norge",
+        "C": "Havnen gav direkte adgang til Østersøen"
+      },
+      "answer": "B",
+      "explanation": "Tyskland ønskede en mellemstation i Danmark for at støtte operationerne i Norge.",
+      "source_pages": [
+        38
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0760",
+      "question": "Hvad er særlig karakteristisk for vejen op gennem Rundetårn?",
+      "options": {
+        "A": "En stejl stentrappe",
+        "B": "En smal vindeltrappe",
+        "C": "En lang spiralgang"
+      },
+      "answer": "C",
+      "explanation": "Rundetårn er berømt for den lange spiralgang, som fører op gennem tårnet.",
+      "source_pages": [
+        186
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    }
+  ],
+  "snapshot_sha256": "78cdad2ebf15767d3a4afcf15caa3763cffeab639b1ac3c0076487e7c906362a"
+}
