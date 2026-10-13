@@ -1,0 +1,182 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-13",
+  "timezone": "Europe/Copenhagen",
+  "bank_sha256": "c172538c077ff9d594760ad156f729c7962711cb39b25524ff162137e6ffbee7",
+  "news_verified_at": "2026-10-12",
+  "official": false,
+  "questions": [
+    {
+      "id": "DK0075",
+      "question": "Hvorfor blev mange af Struensees reformer hurtigt ophævet?",
+      "options": {
+        "A": "Kirken genvandt sin tidligere politiske magt",
+        "B": "Danmark blev besejret af Sverige",
+        "C": "De gamle magthavere fik ham fjernet"
+      },
+      "answer": "C",
+      "explanation": "Magtfulde modstandere fik Struensee arresteret og henrettet og rullede mange reformer tilbage.",
+      "source_pages": [
+        20
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0963",
+      "question": "Hvornår trådte den samtykkebaserede voldtægtslovgivning i kraft?",
+      "options": {
+        "A": "2001",
+        "B": "1991",
+        "C": "2021"
+      },
+      "answer": "C",
+      "explanation": "Den nye lovgivning trådte i kraft i 2021 og sætter samtykke i centrum.",
+      "source_pages": [
+        237
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0203",
+      "question": "Hvilken pædagogisk retning fik mere vægt i kølvandet på ungdomsoprøret?",
+      "options": {
+        "A": "Dialog og samarbejde mellem børn og voksne",
+        "B": "Ubetinget lydighed uden diskussion",
+        "C": "Mere fysisk afstraffelse i skolen"
+      },
+      "answer": "A",
+      "explanation": "En mindre autoritær opdragelse lagde større vægt på dialog og samarbejde.",
+      "source_pages": [
+        49
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0691",
+      "question": "Hvem var instruktør bag både Olsenbanden og tv-serien Matador?",
+      "options": {
+        "A": "Nils Malmros",
+        "B": "Carl Th. Dreyer",
+        "C": "Erik Balling"
+      },
+      "answer": "C",
+      "explanation": "Balling skabte både populære filmkomedier og tv-drama.",
+      "source_pages": [
+        169
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0432",
+      "question": "Hvilket forhold bidrager til at finansiere en stor offentlig sektor?",
+      "options": {
+        "A": "Høj beskæftigelse",
+        "B": "Større afhængighed af import frem for produktion",
+        "C": "Faldende arbejdsudbud blandt erhvervsaktive"
+      },
+      "answer": "A",
+      "explanation": "Mange i arbejde øger produktionen og skatteindtægterne, som finansierer velfærd.",
+      "source_pages": [
+        109
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0910",
+      "question": "Hvilken forkortelse betegner handelsgymnasiet?",
+      "options": {
+        "A": "Htx",
+        "B": "Stx",
+        "C": "Hhx"
+      },
+      "answer": "C",
+      "explanation": "Hhx er handelsgymnasiet, htx det tekniske gymnasium og stx det almene gymnasium.",
+      "source_pages": [
+        226
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0527",
+      "question": "Hvad kan en national domstol bede EU-Domstolen om?",
+      "options": {
+        "A": "At afgøre skyld efter dansk straffelov",
+        "B": "At overtage hele den nationale retssag",
+        "C": "En fortolkning af EU-regler"
+      },
+      "answer": "C",
+      "explanation": "EU-Domstolen kan afklare, hvordan EU-ret skal forstås og anvendes.",
+      "source_pages": [
+        129
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0397",
+      "question": "Hvad betyder aktindsigt?",
+      "options": {
+        "A": "Ret til at ændre en afsagt dom",
+        "B": "Adgang til at se dokumenter i en sag",
+        "C": "Ret til at bestemme en ministers løn"
+      },
+      "answer": "B",
+      "explanation": "Aktindsigt giver under bestemte betingelser adgang til myndigheders dokumenter.",
+      "source_pages": [
+        99
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "values"
+    },
+    {
+      "id": "DK0344",
+      "question": "Hvor mange borgere kræves mindst for at stille et borgerforslag?",
+      "options": {
+        "A": "Fire",
+        "B": "To",
+        "C": "Ti"
+      },
+      "answer": "A",
+      "explanation": "Et borgerforslag skal stilles af mindst fire borgere med valgret.",
+      "source_pages": [
+        85
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "CA-C050",
+      "event_date": "2026-06-19",
+      "question": "I hvilken by åbnede ARoS sit nye Skyspace i 2026?",
+      "options": {
+        "A": "Aarhus",
+        "B": "Aalborg",
+        "C": "Odense"
+      },
+      "answer": "A",
+      "explanation": "ARoS ligger i Aarhus.",
+      "source_url": "https://www.aros.dk/en/lp/summer-at-aros/",
+      "source_title": "Experience summer at ARoS",
+      "verified_at": "2026-09-25",
+      "exam_domain": "current_affairs",
+      "source_pages": [],
+      "source_edition": "Nyhedskilde kontrolleret 2026-09-25"
+    }
+  ],
+  "snapshot_sha256": "13ff5683d7e9848ce4bb87cfaa1d652d0bdbe356bf3e8228c35d521d964c4112"
+}
