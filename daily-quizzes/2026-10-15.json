@@ -1,0 +1,182 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-15",
+  "timezone": "Europe/Copenhagen",
+  "bank_sha256": "c172538c077ff9d594760ad156f729c7962711cb39b25524ff162137e6ffbee7",
+  "news_verified_at": "2026-10-12",
+  "official": false,
+  "questions": [
+    {
+      "id": "DK0347",
+      "question": "Hvorfor findes der kommunale udligningsordninger?",
+      "options": {
+        "A": "For at give alle kommuner præcis samme skatteprocent",
+        "B": "For at samle alle kommunale budgetter i ét ministerium",
+        "C": "For at mindske forskelle i kommunernes økonomiske muligheder"
+      },
+      "answer": "C",
+      "explanation": "Kommuner har forskellige indtægtsgrundlag og udgifter; udligning understøtter ensartede velfærdstilbud.",
+      "source_pages": [
+        86
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "CA-C067",
+      "event_date": "2026-05-21",
+      "question": "Hvilken tidligere funktion havde bygninger, der blev indviet som Universitetsbyen i Aarhus i maj 2026?",
+      "options": {
+        "A": "Statsfængsel",
+        "B": "Militær kaserne",
+        "C": "Kommunehospital"
+      },
+      "answer": "C",
+      "explanation": "De tidligere hospitalsbygninger blev omdannet til campus.",
+      "source_url": "https://www.kongehuset.dk/foto-video/h-m-kongen-deltog-i-den-officielle-aabning-af-universitetsbyen-i-aarhus",
+      "source_title": "H.M. Kongen deltog i den officielle åbning af Universitetsbyen i Aarhus",
+      "verified_at": "2026-09-25",
+      "exam_domain": "current_affairs",
+      "source_pages": [],
+      "source_edition": "Nyhedskilde kontrolleret 2026-09-25"
+    },
+    {
+      "id": "CA-P030",
+      "event_date": "2026-07-08",
+      "question": "Hvem var NATO’s generalsekretær under topmødet i juli 2026?",
+      "options": {
+        "A": "Jens Stoltenberg",
+        "B": "Anders Fogh Rasmussen",
+        "C": "Mark Rutte"
+      },
+      "answer": "C",
+      "explanation": "Mark Rutte var generalsekretær under topmødet.",
+      "source_url": "https://nato.int/en/news-and-events/events/2026/07/overview---2026-nato-summit-in-ankara-",
+      "source_title": "2026 NATO Summit in Ankara",
+      "verified_at": "2026-09-25",
+      "exam_domain": "current_affairs",
+      "source_pages": [],
+      "source_edition": "Nyhedskilde kontrolleret 2026-09-25"
+    },
+    {
+      "id": "DK0854",
+      "question": "Hvorfor skabte H.C. Ørsted ord som ilt og brint?",
+      "options": {
+        "A": "For at gøre naturvidenskab mere tilgængelig på dansk",
+        "B": "For at erstatte almindelige danske ord med fagtermer",
+        "C": "For at skabe et særligt fagsprog for danske læger"
+      },
+      "answer": "A",
+      "explanation": "Danske betegnelser skulle gøre naturvidenskab lettere at forstå for flere.",
+      "source_pages": [
+        212
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0516",
+      "question": "Hvad kan Kommissionen gøre, hvis et medlemsland bryder EU-lovgivningen?",
+      "options": {
+        "A": "Pålægge landets parlament at udskrive nyvalg",
+        "B": "Ændre landets grundlov uden national behandling",
+        "C": "Rejse en sag ved EU-Domstolen"
+      },
+      "answer": "C",
+      "explanation": "Kommissionen fører kontrol med efterlevelse og kan indbringe landet for EU-Domstolen.",
+      "source_pages": [
+        126
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0308-e2",
+      "question": "Må regeringen bestemme udfaldet af en bestemt retssag?",
+      "options": {
+        "A": "Ja",
+        "B": "Nej"
+      },
+      "answer": "B",
+      "explanation": "Dommerne skal rette sig efter loven og være uafhængige af politiske instrukser.",
+      "source_pages": [
+        79
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "values"
+    },
+    {
+      "id": "DK0646",
+      "question": "Hvordan ændrede reformationen musikken ved gudstjenesten?",
+      "options": {
+        "A": "Salmesangen blev forbeholdt professionelle kor",
+        "B": "Menigheden sang hovedsageligt på latin",
+        "C": "Menighedens salmesang fik en vigtig rolle"
+      },
+      "answer": "C",
+      "explanation": "Efter reformationen skulle menigheden selv synge med på salmer.",
+      "source_pages": [
+        158
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0016",
+      "question": "Hvilket sprog har givet engelsk ord som egg og window?",
+      "options": {
+        "A": "Oldtysk",
+        "B": "Oldnordisk",
+        "C": "Latin"
+      },
+      "answer": "B",
+      "explanation": "Vikingernes oldnordiske sprog satte varige spor i engelsk.",
+      "source_pages": [
+        8
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0131",
+      "question": "Hvad blev besluttet på en international kvindekonference i København i 1910?",
+      "options": {
+        "A": "At oprette Folketingets første kvindeudvalg",
+        "B": "At alle kvinder straks skulle have valgret i Europa",
+        "C": "At indføre en international kampdag for kvinder"
+      },
+      "answer": "C",
+      "explanation": "Konferencen besluttede kampdagen; fra 1921 fik den datoen 8. marts.",
+      "source_pages": [
+        32
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0993",
+      "question": "Hvad udnytter en varmepumpe blandt andet?",
+      "options": {
+        "A": "Varme fra afbrænding af olie i selve pumpen",
+        "B": "Varme fra afbrænding af gas i selve pumpen",
+        "C": "Varme fra jord eller luft"
+      },
+      "answer": "C",
+      "explanation": "Varmepumper optager varme fra omgivelserne og hæver temperaturen ved hjælp af elektricitet.",
+      "source_pages": [
+        244
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    }
+  ],
+  "snapshot_sha256": "da48572428cbaa0bfb0dcf467c38d5293edc44afccbe5c1d9efa8a0169996dda"
+}
