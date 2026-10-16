@@ -1,0 +1,181 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-16",
+  "timezone": "Europe/Copenhagen",
+  "bank_sha256": "c172538c077ff9d594760ad156f729c7962711cb39b25524ff162137e6ffbee7",
+  "news_verified_at": "2026-10-12",
+  "official": false,
+  "questions": [
+    {
+      "id": "DK0429-e2",
+      "question": "Hvordan blev dagpengeperioden overordnet ændret fra 1993 til 2010?",
+      "options": {
+        "A": "Kortere",
+        "B": "Længere"
+      },
+      "answer": "A",
+      "explanation": "Grænsen blev reduceret fra syv år i 1993 til to år fra reformen i 2010.",
+      "source_pages": [
+        109
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0259",
+      "question": "Hvilke tre partier dannede regering efter folketingsvalget i 2022?",
+      "options": {
+        "A": "Socialdemokratiet, Venstre og Moderaterne",
+        "B": "Socialdemokratiet, SF og Enhedslisten",
+        "C": "Venstre, Konservative og Dansk Folkeparti"
+      },
+      "answer": "A",
+      "explanation": "Regeringen fra 2022 samlede Socialdemokratiet, Venstre og Moderaterne under Mette Frederiksen.",
+      "source_pages": [
+        64
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0722",
+      "question": "Hvilken by er den største på Fyn?",
+      "options": {
+        "A": "Odense",
+        "B": "Svendborg",
+        "C": "Nyborg"
+      },
+      "answer": "A",
+      "explanation": "Odense er Fyns største by og ligger centralt på øen.",
+      "source_pages": [
+        176
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0323",
+      "question": "Hvilke partier er automatisk opstillingsberettigede til næste folketingsvalg?",
+      "options": {
+        "A": "Partier valgt ved det seneste folketingsvalg",
+        "B": "Alle partier med mindst ét års registrering",
+        "C": "Alle partier med et medlem af et regionsråd"
+      },
+      "answer": "A",
+      "explanation": "Partier valgt ved det seneste folketingsvalg behøver ikke på ny opnå retten gennem vælgererklæringer.",
+      "source_pages": [
+        81
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "CA-P065",
+      "event_date": "2026-07-01",
+      "question": "Hvilken EU-institution fik Irland det roterende formandskab for i juli 2026?",
+      "options": {
+        "A": "Europa-Kommissionen",
+        "B": "Europa-Parlamentet",
+        "C": "Rådet for Den Europæiske Union"
+      },
+      "answer": "C",
+      "explanation": "Det roterende formandskab vedrører medlemslandenes ministre i Rådet.",
+      "source_url": "https://irish-presidency.consilium.europa.eu/en/presidency/ireland-in-the-european-union/",
+      "source_title": "Ireland in the European Union",
+      "verified_at": "2026-09-25",
+      "exam_domain": "current_affairs",
+      "source_pages": [],
+      "source_edition": "Nyhedskilde kontrolleret 2026-09-25"
+    },
+    {
+      "id": "DK0067",
+      "question": "Hvilke grønlandske varer ville man handle med fra 1721?",
+      "options": {
+        "A": "Korn, smør og ost",
+        "B": "Tømmer, tjære og jernmalm",
+        "C": "Sælskind, spæk og hvalkød"
+      },
+      "answer": "C",
+      "explanation": "Ud over missionen ønskede Danmark handel med grønlandske produkter som sælskind, spæk og hvalkød.",
+      "source_pages": [
+        18
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0392",
+      "question": "Hvad undersøger Folketingets Ombudsmand blandt andet?",
+      "options": {
+        "A": "Om Folketingets partier overholder deres valgløfter",
+        "B": "Fejl i myndighedernes sagsbehandling",
+        "C": "Om domstolene skal idømme strengere straffe"
+      },
+      "answer": "B",
+      "explanation": "Ombudsmanden kontrollerer myndigheders arbejde og borgernes retssikkerhed.",
+      "source_pages": [
+        98
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "values"
+    },
+    {
+      "id": "DK0809",
+      "question": "Hvad blev Thule Air Base omdøbt til i 2023?",
+      "options": {
+        "A": "Kalaallit Airport",
+        "B": "Pituffik Space Base",
+        "C": "Nuuk Naval Base"
+      },
+      "answer": "B",
+      "explanation": "Den amerikanske base fik navnet Pituffik Space Base i 2023.",
+      "source_pages": [
+        200
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0542",
+      "question": "Hvor mange ikke-permanente medlemmer har FN's Sikkerhedsråd?",
+      "options": {
+        "A": "Ti",
+        "B": "Tyve",
+        "C": "Fem"
+      },
+      "answer": "A",
+      "explanation": "Ud over fem faste medlemmer har rådet ti medlemmer, som vælges for to år.",
+      "source_pages": [
+        132
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0598",
+      "question": "På hvilket sprog skrev Saxo Gesta Danorum?",
+      "options": {
+        "A": "Latin",
+        "B": "Tysk",
+        "C": "Fransk"
+      },
+      "answer": "A",
+      "explanation": "Saxos danmarkshistorie blev ligesom meget anden middelalderlitteratur skrevet på latin.",
+      "source_pages": [
+        146
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    }
+  ],
+  "snapshot_sha256": "437a3e1f83fd748b736dc8f1b81d6528fda8934f8b5c078736397f865295bbac"
+}
