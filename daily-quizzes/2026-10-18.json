@@ -1,0 +1,182 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-18",
+  "timezone": "Europe/Copenhagen",
+  "bank_sha256": "c172538c077ff9d594760ad156f729c7962711cb39b25524ff162137e6ffbee7",
+  "news_verified_at": "2026-10-12",
+  "official": false,
+  "questions": [
+    {
+      "id": "DK0142",
+      "question": "Hvad blev resultatet for Flensborg-området ved afstemningen i 1920?",
+      "options": {
+        "A": "Det blev en del af Danmark",
+        "B": "Det blev en selvstændig bystat",
+        "C": "Det forblev i Tyskland"
+      },
+      "answer": "C",
+      "explanation": "Flensborg lå i Mellemslesvig, hvor flertallet ønskede at forblive tysk.",
+      "source_pages": [
+        35
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0300",
+      "question": "Hvad kaldes partier uden for regeringen, som støtter en mindretalsregering?",
+      "options": {
+        "A": "Lokallister",
+        "B": "Regeringspartier",
+        "C": "Støttepartier"
+      },
+      "answer": "C",
+      "explanation": "Støttepartier støtter regeringen uden selv at have del i regeringsmagten.",
+      "source_pages": [
+        76
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0771",
+      "question": "Hvornår blev det almindeligt blandt befolkningen at flage med Dannebrog?",
+      "options": {
+        "A": "Først efter 2. Verdenskrig",
+        "B": "Fra begyndelsen af 1200-tallet",
+        "C": "Fra midten af 1800-tallet"
+      },
+      "answer": "C",
+      "explanation": "Flaget var tidligere især brugt af myndigheder og flåde, men blev folkeligt i 1800-tallet.",
+      "source_pages": [
+        190
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0518",
+      "question": "Hvor lang er en EU-kommissærs udpegningsperiode?",
+      "options": {
+        "A": "Fire år",
+        "B": "Fem år",
+        "C": "Seks år"
+      },
+      "answer": "B",
+      "explanation": "Kommissærerne udpeges for fem år ad gangen.",
+      "source_pages": [
+        127
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "CA-P003",
+      "event_date": "2026-06-03",
+      "question": "Hvilken ministerpost fik Pia Olsen Dyhr i juni 2026?",
+      "options": {
+        "A": "Socialminister og minister for nordisk samarbejde",
+        "B": "Klima-, energi- og forsyningsminister",
+        "C": "Økonomi- og indenrigsminister"
+      },
+      "answer": "C",
+      "explanation": "SF-politikeren blev økonomi- og indenrigsminister.",
+      "source_url": "https://www.ism.dk/nyheder/2026/juni/presseinvitation-ministeroverdragelse-i-indenrigs-og-sundhedsministeriet",
+      "source_title": "Ida Auken bliver ny sundhedsminister og kirkeminister",
+      "verified_at": "2026-09-25",
+      "exam_domain": "current_affairs",
+      "source_pages": [],
+      "source_edition": "Nyhedskilde kontrolleret 2026-09-25"
+    },
+    {
+      "id": "DK0231",
+      "question": "Hvad gjorde Edinburgh-aftalen fra 1993 muligt for Danmark?",
+      "options": {
+        "A": "Automatisk indførelse af euroen",
+        "B": "Deltagelse i EU med fire forbehold",
+        "C": "Udtræden af EU og overgang til frihandelsaftale"
+      },
+      "answer": "B",
+      "explanation": "Aftalen gav undtagelser på fire områder, og et flertal stemte derefter ja.",
+      "source_pages": [
+        56
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0814",
+      "question": "Hvem vælger Grønlands landsstyreformand?",
+      "options": {
+        "A": "Folketinget",
+        "B": "Befolkningen ved et særskilt præsidentvalg",
+        "C": "Landstinget"
+      },
+      "answer": "C",
+      "explanation": "Den grønlandske regeringsleder vælges af den folkevalgte forsamling.",
+      "source_pages": [
+        201
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0655",
+      "question": "Hvilken sangerinde bruger kunstnernavnet MØ?",
+      "options": {
+        "A": "Anne Linnet",
+        "B": "Karen Marie Ørsted",
+        "C": "Emmelie de Forest"
+      },
+      "answer": "B",
+      "explanation": "Karen Marie Ørsted optræder under navnet MØ og slog igennem med Pilgrim.",
+      "source_pages": [
+        160
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0270-e2",
+      "question": "Hvilken gruppe lå Danmark i i The Economist Democracy Index 2025?",
+      "options": {
+        "A": "De fem højest placerede lande",
+        "B": "Landene på plads 21–25",
+        "C": "Landene på plads 41–45"
+      },
+      "answer": "A",
+      "explanation": "Danmark var blandt de fem højest placerede lande i Democracy Index 2025. Det officielle prøvesæt fra juni 2026 og rettearket bekræfter denne placering.",
+      "source_pages": [],
+      "source_url": "https://danskogproever.dk/media/olza4evy/indfoedsretsproeven-2026-06.pdf#page=11",
+      "source_edition": "Demokratiindeks 2025",
+      "exam_domain": "values",
+      "source_title": "SIRI: Indfødsretsprøven juni 2026, spørgsmål 45",
+      "verified_at": "2026-09-27"
+    },
+    {
+      "id": "DK0444",
+      "question": "Hvem leverer i praksis de fleste velfærdsydelser tæt på borgerne?",
+      "options": {
+        "A": "Kommunerne",
+        "B": "Staten",
+        "C": "Regionerne"
+      },
+      "answer": "A",
+      "explanation": "Kommunerne står blandt andet for skole, børnepasning og ældrepleje inden for lovens rammer.",
+      "source_pages": [
+        111
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    }
+  ],
+  "snapshot_sha256": "090d892c4f8147413edc734756ae828e762f70e81e1d9300ce17a476e6657e36"
+}
