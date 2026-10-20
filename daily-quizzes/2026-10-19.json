@@ -1,0 +1,181 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-19",
+  "timezone": "Europe/Copenhagen",
+  "bank_sha256": "66424770bf7b16ca1ea0268cded97bf992bd09144508db97f741aa688c48df05",
+  "news_verified_at": "2026-10-19",
+  "official": false,
+  "questions": [
+    {
+      "id": "DK0370-e2",
+      "question": "Blev mange aviser mere eller mindre knyttet til bestemte partier i 1960’erne?",
+      "options": {
+        "A": "Mere",
+        "B": "Mindre"
+      },
+      "answer": "B",
+      "explanation": "Partipressen ændrede karakter, selv om aviser fortsat kunne have politiske holdninger.",
+      "source_pages": [
+        92,
+        93
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0458-r2",
+      "question": "Hvilken type gødning må ikke bruges i økologisk landbrug?",
+      "options": {
+        "A": "Husdyrgødning",
+        "B": "Kompost",
+        "C": "Kunstgødning"
+      },
+      "answer": "C",
+      "explanation": "Kunstgødning er ikke tilladt i økologisk landbrug; husdyrgødning og kompost kan bruges efter økologireglernes betingelser.",
+      "source_pages": [
+        114
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0500",
+      "question": "Hvilket land blev medlem af EU i 2013?",
+      "options": {
+        "A": "Polen",
+        "B": "Rumænien",
+        "C": "Kroatien"
+      },
+      "answer": "C",
+      "explanation": "Kroatien blev medlem i 2013; Polen kom med i 2004 og Rumænien i 2007.",
+      "source_pages": [
+        122
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "CA-C051",
+      "event_date": "2026-05-23",
+      "question": "Hvilken dansk kunstner fik en udstilling på ARoS med åbning den 23. maj 2026?",
+      "options": {
+        "A": "Vilhelm Hammershøi",
+        "B": "Asger Jorn",
+        "C": "Svend Wiig Hansen"
+      },
+      "answer": "C",
+      "explanation": "ARoS’ sommerprogram annoncerede udstillingen med Svend Wiig Hansen.",
+      "source_url": "https://www.aros.dk/en/lp/summer-at-aros/",
+      "source_title": "Experience summer at ARoS",
+      "verified_at": "2026-09-25",
+      "exam_domain": "current_affairs",
+      "source_pages": [],
+      "source_edition": "Nyhedskilde kontrolleret 2026-09-25"
+    },
+    {
+      "id": "DK0678",
+      "question": "Hvordan kunne Man binder os på mund og hånd udtrykke modstand under besættelsen?",
+      "options": {
+        "A": "Ved åbent at navngive modstandsgruppers ledere",
+        "B": "Frihedsidealer lå i en sang, der lignede en kærlighedsvise",
+        "C": "Ved at være fritaget for besættelsestidens censur"
+      },
+      "answer": "B",
+      "explanation": "Poul Henningsens tekst havde et dobbelt budskab, som publikum kunne forstå trods censuren.",
+      "source_pages": [
+        166
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0176-e2",
+      "question": "Hvad betød rationering under besættelsen?",
+      "options": {
+        "A": "Man måtte kun købe bestemte mængder af visse varer",
+        "B": "Alle varer fik samme pris",
+        "C": "Kun staten måtte sælge varer"
+      },
+      "answer": "A",
+      "explanation": "Rationering fordelte knappe varer ved at begrænse den mængde, hver borger kunne købe.",
+      "source_pages": [
+        42
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0060",
+      "question": "Hvad gjorde Danmark til en kolonimagt?",
+      "options": {
+        "A": "Det handlede med fremmede områder uden at styre dem",
+        "B": "Det modtog indbyggere fra andre kontinenter",
+        "C": "Det erhvervede områder uden for Danmark"
+      },
+      "answer": "C",
+      "explanation": "Kolonimagter tog kontrol over områder uden for deres eget land.",
+      "source_pages": [
+        17
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0853",
+      "question": "Hvilken sammenhæng demonstrerede H.C. Ørsted i 1820?",
+      "options": {
+        "A": "Lys bevæger sig uden tidsforbrug",
+        "B": "Elektrisk strøm kan fremkalde magnetisme",
+        "C": "Jorden har en fast indre kerne"
+      },
+      "answer": "B",
+      "explanation": "Ørsteds arbejde med elektromagnetisme fik stor teknologisk betydning.",
+      "source_pages": [
+        212
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0726",
+      "question": "Hvad betyder det, at et sted optages på UNESCO's verdensarvsliste?",
+      "options": {
+        "A": "Det har særlig betydning for verdens kultur- eller naturarv",
+        "B": "Det har det højeste besøgstal i sit land",
+        "C": "Det overtages som ejendom af FN"
+      },
+      "answer": "A",
+      "explanation": "Verdensarv kan omfatte både bygninger og naturområder af særlig betydning.",
+      "source_pages": [
+        177
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0262-e2",
+      "question": "Sætter grundloven grænser for statens brug af magt?",
+      "options": {
+        "A": "Ja",
+        "B": "Nej"
+      },
+      "answer": "A",
+      "explanation": "Grundloven beskytter borgerne ved at begrænse, hvordan statsmagten må handle.",
+      "source_pages": [
+        66
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "values"
+    }
+  ],
+  "snapshot_sha256": "a4316b1cafebc0e5bcf3ab32911a26226e8d5ad6f66310592afb813db6b31e98"
+}
