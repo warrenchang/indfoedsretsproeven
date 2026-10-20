@@ -1,0 +1,181 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-20",
+  "timezone": "Europe/Copenhagen",
+  "bank_sha256": "66424770bf7b16ca1ea0268cded97bf992bd09144508db97f741aa688c48df05",
+  "news_verified_at": "2026-10-19",
+  "official": false,
+  "questions": [
+    {
+      "id": "DK0556",
+      "question": "Hvad lægger Danmarks Afrikastrategi fra 2024 blandt andet vægt på?",
+      "options": {
+        "A": "At erstatte udviklingsbistand helt med lån fra private banker",
+        "B": "At begrænse samarbejdet til danske militære operationer",
+        "C": "Ligeværdige partnerskaber og mere samhandel"
+      },
+      "answer": "C",
+      "explanation": "Strategien kombinerer udviklingsstøtte med partnerskaber, handel, investeringer og udveksling.",
+      "source_pages": [
+        135
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0827",
+      "question": "Hvordan blev færøsk især bevaret, før et officielt skriftsprog blev udviklet?",
+      "options": {
+        "A": "Gennem en fast færøsk skoleundervisning siden reformationen",
+        "B": "Gennem danske embedsmænds færøske lovsamlinger",
+        "C": "Gennem en mundtlig folkevisetradition"
+      },
+      "answer": "C",
+      "explanation": "Færøsk levede især videre som talesprog og gennem viser.",
+      "source_pages": [
+        205
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0007",
+      "question": "Hvor står Gorm den Gamles og Harald Blåtands runesten?",
+      "options": {
+        "A": "Jelling",
+        "B": "Ribe",
+        "C": "Roskilde"
+      },
+      "answer": "A",
+      "explanation": "Begge runesten står i Jelling i Jylland.",
+      "source_pages": [
+        7
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0671",
+      "question": "Hvilken fortælletradition inspirerede Oehlenschlägers Aladdin?",
+      "options": {
+        "A": "1001 Nats Eventyr",
+        "B": "Saxos danmarkshistorie",
+        "C": "Grønlandske trommesagn"
+      },
+      "answer": "A",
+      "explanation": "Oehlenschläger hentede inspiration i de arabiske fortællinger i 1001 Nats Eventyr.",
+      "source_pages": [
+        164
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0948-e2",
+      "question": "Hvordan var kvindelige læreres løn før 1919 sammenlignet med mandlige læreres?",
+      "options": {
+        "A": "Lavere",
+        "B": "Højere"
+      },
+      "answer": "A",
+      "explanation": "Kvindelige lærere fik to tredjedele af mandlige læreres løn indtil 1919.",
+      "source_pages": [
+        234
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "CA-C010",
+      "event_date": "2026-05-02",
+      "question": "Hvilken medalje vandt Danmarks herrelandshold ved Thomas Cup i 2026?",
+      "options": {
+        "A": "Guld",
+        "B": "Sølv",
+        "C": "Bronze"
+      },
+      "answer": "C",
+      "explanation": "Danmark vandt bronze efter semifinalen mod Kina på hjemmebane.",
+      "source_url": "https://badminton.dk/2026/05/02/danmark-vinder-bronze-ved-thomas-cup-paa-hjemmebane/",
+      "source_title": "Danmark vinder bronze ved Thomas Cup på hjemmebane",
+      "verified_at": "2026-09-25",
+      "exam_domain": "current_affairs",
+      "source_pages": [],
+      "source_edition": "Nyhedskilde kontrolleret 2026-09-25"
+    },
+    {
+      "id": "DK0033",
+      "question": "I hvilket land skal Dannebrog ifølge sagnet være faldet ned fra himlen i 1219?",
+      "options": {
+        "A": "Estland",
+        "B": "Tyskland",
+        "C": "Norge"
+      },
+      "answer": "A",
+      "explanation": "Sagnet knytter Dannebrog til et korstog og et slag ved Tallinn i Estland.",
+      "source_pages": [
+        12
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0958",
+      "question": "Hvad rettede MeToo-bevægelsen sig især imod?",
+      "options": {
+        "A": "Forskelsbehandling på grund af alder",
+        "B": "Seksuelle krænkelser og chikane",
+        "C": "Forskelsbehandling på grund af etnicitet"
+      },
+      "answer": "B",
+      "explanation": "MeToo gav opmærksomhed til erfaringer med seksuelle overgreb og chikane.",
+      "source_pages": [
+        236
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "values"
+    },
+    {
+      "id": "DK0408",
+      "question": "Hvem skal rimelig tvivl om skyld komme til gode i en straffesag?",
+      "options": {
+        "A": "Den tiltalte",
+        "B": "Justitsministeren",
+        "C": "Anklagemyndigheden"
+      },
+      "answer": "A",
+      "explanation": "Anklagemyndigheden skal bevise skyld, og rimelig tvivl skal komme den tiltalte til gode.",
+      "source_pages": [
+        102
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "values"
+    },
+    {
+      "id": "DK0319",
+      "question": "Hvilket statsborgerskab kræves som udgangspunkt for valgret til Folketinget?",
+      "options": {
+        "A": "Dansk statsborgerskab",
+        "B": "Statsborgerskab i et EU-land",
+        "C": "Statsborgerskab i et nordisk land"
+      },
+      "answer": "A",
+      "explanation": "Folketingsvalg kræver dansk indfødsret samt blandt andet den rette alder og bopæl.",
+      "source_pages": [
+        81
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    }
+  ],
+  "snapshot_sha256": "302a5dc4db5d9ff245cf58290dab6d45dfe22a3931fed0c2245d6a5f4dcb5bca"
+}
