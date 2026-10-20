@@ -1,0 +1,181 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-21",
+  "timezone": "Europe/Copenhagen",
+  "bank_sha256": "66424770bf7b16ca1ea0268cded97bf992bd09144508db97f741aa688c48df05",
+  "news_verified_at": "2026-10-19",
+  "official": false,
+  "questions": [
+    {
+      "id": "DK0137",
+      "question": "Hvorfor fik Den Spanske Syge sit navn?",
+      "options": {
+        "A": "Spanske aviser skrev først om den",
+        "B": "Den blev første gang opdaget i Madrid",
+        "C": "Alle de første smittede var spaniere"
+      },
+      "answer": "A",
+      "explanation": "Navnet skyldtes pressedækningen, ikke at sygdommen opstod i Spanien.",
+      "source_pages": [
+        34
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0496",
+      "question": "Hvilket land var blandt EF's seks stiftende medlemmer?",
+      "options": {
+        "A": "Danmark",
+        "B": "Italien",
+        "C": "Sverige"
+      },
+      "answer": "B",
+      "explanation": "Italien var sammen med blandt andre Frankrig og Tyskland med fra begyndelsen.",
+      "source_pages": [
+        122
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "CA-P043",
+      "event_date": "2026-06-03",
+      "question": "Hvem fik ministeransvaret for samfundssikkerhed og beredskab i juni 2026?",
+      "options": {
+        "A": "Pia Olsen Dyhr",
+        "B": "Zenia Stampe",
+        "C": "Lisbeth Bech-Nielsen"
+      },
+      "answer": "C",
+      "explanation": "Lisbeth Bech-Nielsen fik beredskabsområdet.",
+      "source_url": "https://stm.dk/regeringen/regeringer-siden-1848/regeringen-mette-frederiksen-iii/",
+      "source_title": "Regeringen Mette Frederiksen III",
+      "verified_at": "2026-09-25",
+      "exam_domain": "current_affairs",
+      "source_pages": [],
+      "source_edition": "Nyhedskilde kontrolleret 2026-09-25"
+    },
+    {
+      "id": "DK0434",
+      "question": "Hvad betyder det, at indkomstskatten er progressiv?",
+      "options": {
+        "A": "Høje indkomster beskattes med en større andel",
+        "B": "Skatteandelen falder, når indkomsten bliver højere",
+        "C": "Alle betaler det samme kronebeløb"
+      },
+      "answer": "A",
+      "explanation": "Progressiv skat betyder stigende skatteandel ved høje indkomster.",
+      "source_pages": [
+        110
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0944",
+      "question": "Hvilken tjeneste beskytter truede politikere med livvagter?",
+      "options": {
+        "A": "Politiets Efterretningstjeneste",
+        "B": "Forsvarets Efterretningstjeneste",
+        "C": "Folketingets Ombudsmand"
+      },
+      "answer": "A",
+      "explanation": "PET vurderer trusler mod politikere og kan stå for personbeskyttelse.",
+      "source_pages": [
+        233
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0198",
+      "question": "Hvad betød højkonjunkturen for goder som køleskabe og biler?",
+      "options": {
+        "A": "De blev rationeret for at begrænse forbruget",
+        "B": "Flere almindelige familier fik råd til dem",
+        "C": "De blev stadig dyrere i forhold til almindelige lønninger"
+      },
+      "answer": "B",
+      "explanation": "Stigende indkomster gjorde tidligere luksusvarer almindelige i mange hjem.",
+      "source_pages": [
+        48
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0717",
+      "question": "Hvilket hav ligger ud for Jyllands vestkyst?",
+      "options": {
+        "A": "Nordsøen",
+        "B": "Kattegat",
+        "C": "Østersøen"
+      },
+      "answer": "A",
+      "explanation": "Nordsøen kaldes også Vesterhavet og ligger vest for Jylland.",
+      "source_pages": [
+        175
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0296",
+      "question": "Hvad giver Europaudvalget regeringen før vigtige EU-forhandlinger?",
+      "options": {
+        "A": "Et løfte om flertal ved næste folketingsvalg",
+        "B": "En tilladelse til at ændre grundloven",
+        "C": "Et forhandlingsmandat"
+      },
+      "answer": "C",
+      "explanation": "Forhandlingsmandatet angiver den danske holdning og regeringens handlemuligheder i forhandlingerne.",
+      "source_pages": [
+        75
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0710",
+      "question": "Hvilken skuespiller spiller advokaten Anne i Dronningen?",
+      "options": {
+        "A": "Trine Dyrholm",
+        "B": "Sofie Gråbøl",
+        "C": "Paprika Steen"
+      },
+      "answer": "A",
+      "explanation": "Dyrholm spiller advokaten, hvis egne handlinger kommer i konflikt med hendes professionelle moral.",
+      "source_pages": [
+        173
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0341-e2",
+      "question": "Kan en borger med valgret til Folketinget støtte et borgerforslag?",
+      "options": {
+        "A": "Ja",
+        "B": "Nej"
+      },
+      "answer": "A",
+      "explanation": "Ordningen er åben for borgere med folketingsvalgret.",
+      "source_pages": [
+        85
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "values"
+    }
+  ],
+  "snapshot_sha256": "1ac43cdb84529084cd04a4d6b5e33a9c9d3818de431f08a73a815b8ca5719ea4"
+}
