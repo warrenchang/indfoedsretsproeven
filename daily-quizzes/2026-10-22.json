@@ -1,0 +1,182 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-22",
+  "timezone": "Europe/Copenhagen",
+  "bank_sha256": "66424770bf7b16ca1ea0268cded97bf992bd09144508db97f741aa688c48df05",
+  "news_verified_at": "2026-10-19",
+  "official": false,
+  "questions": [
+    {
+      "id": "DK0430",
+      "question": "Hvilken virkning tilstræber et beskæftigelsesfradrag?",
+      "options": {
+        "A": "At gøre indkomst fra arbejde skattefri i sin helhed",
+        "B": "At give alle samme bruttoløn",
+        "C": "At gøre arbejde økonomisk mere fordelagtigt"
+      },
+      "answer": "C",
+      "explanation": "Fradraget sænker skatten på arbejdsindkomst og styrker fordelen ved at arbejde.",
+      "source_pages": [
+        109
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0391",
+      "question": "Hvem vælger Folketingets Ombudsmand?",
+      "options": {
+        "A": "Regeringen alene",
+        "B": "Landets borgmestre",
+        "C": "Folketinget"
+      },
+      "answer": "C",
+      "explanation": "Ombudsmanden vælges af Folketinget, men arbejder uafhængigt.",
+      "source_pages": [
+        98
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "CA-S060",
+      "event_date": "2026-07-01",
+      "question": "Hvilke varer var omfattet af det danske PFAS-forbud, der trådte i kraft i juli 2026?",
+      "options": {
+        "A": "Mobiltelefoner, batterier og opladere",
+        "B": "Forbrugertøj, sko og imprægneringsmidler",
+        "C": "Biler, benzin og motorolie"
+      },
+      "answer": "B",
+      "explanation": "Det nationale forbud retter sig mod disse forbrugerprodukter.",
+      "source_url": "https://mst.dk/borger/sundhed-og-kemi/pfas-i-forbrugerprodukter",
+      "source_title": "PFAS i forbrugerprodukter",
+      "verified_at": "2026-09-25",
+      "exam_domain": "current_affairs",
+      "source_pages": [],
+      "source_edition": "Nyhedskilde kontrolleret 2026-09-25"
+    },
+    {
+      "id": "DK0552",
+      "question": "Hvilket formål har dansk udviklingsbistand blandt andet?",
+      "options": {
+        "A": "At sikre danske virksomheder eneret på al lokal handel",
+        "B": "At overtage den politiske ledelse i bistandslandene",
+        "C": "At bekæmpe fattigdom og fremme menneskerettigheder"
+      },
+      "answer": "C",
+      "explanation": "Bistanden skal blandt andet bekæmpe fattigdom og styrke demokrati, rettigheder og grøn omstilling.",
+      "source_pages": [
+        134
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0740",
+      "question": "Hvem skabte moderne glasmosaikker og kalkmalerier i Ribe Domkirke i 1980'erne?",
+      "options": {
+        "A": "Bjørn Nørgaard",
+        "B": "Carl-Henning Pedersen",
+        "C": "Per Kirkeby"
+      },
+      "answer": "B",
+      "explanation": "Carl-Henning Pedersen udførte farverige værker med bibelske motiver i 1982-87.",
+      "source_pages": [
+        180
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0073",
+      "question": "Hvilken frihed udvidede Struensee i 1770-72?",
+      "options": {
+        "A": "Godsejernes ret til pligtarbejde",
+        "B": "Adelens skattefrihed",
+        "C": "Trykkefriheden"
+      },
+      "answer": "C",
+      "explanation": "Struensee indførte en høj grad af trykkefrihed og begrænsede blandt andet pligtarbejde.",
+      "source_pages": [
+        20
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0792",
+      "question": "Hvilken krig var den største gruppe asylansøgere i Danmark i 2015 flygtet fra?",
+      "options": {
+        "A": "Borgerkrigen i Syrien",
+        "B": "Borgerkrigen i Somalia",
+        "C": "Krigen i Afghanistan"
+      },
+      "answer": "A",
+      "explanation": "Syriske flygtninge var den største gruppe under flygtningekrisen i 2015.",
+      "source_pages": [
+        195
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0045",
+      "question": "Hvorfor fik reformationen betydning for det danske skriftsprog?",
+      "options": {
+        "A": "Latin blev landsbyskolernes undervisningssprog",
+        "B": "Tysk blev det fælles sprog i gudstjenesterne",
+        "C": "Biblen og gudstjenester blev danske"
+      },
+      "answer": "C",
+      "explanation": "Dansk i bibel og kirke hjalp med at udbrede et fælles skriftsprog.",
+      "source_pages": [
+        14
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0380",
+      "question": "Hvilken frihed beskytter retten til at udtrykke politiske holdninger?",
+      "options": {
+        "A": "Arveret",
+        "B": "Ytringsfrihed",
+        "C": "Erhvervsfrihed"
+      },
+      "answer": "B",
+      "explanation": "Ytringsfriheden gør det muligt at udtrykke tanker og kritisere magthavere.",
+      "source_pages": [
+        96
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "values"
+    },
+    {
+      "id": "DK0687",
+      "question": "Hvilket samfundsproblem er centralt i filmen Ditte Menneskebarn?",
+      "options": {
+        "A": "Fattigdom og social udstødelse",
+        "B": "Økonomisk magtkamp mellem store industrifamilier",
+        "C": "Modsætninger mellem godsejere og embedsmænd"
+      },
+      "answer": "A",
+      "explanation": "Filmen skildrer en fattig piges liv og den sociale udsathed, som gentager sig.",
+      "source_pages": [
+        168
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    }
+  ],
+  "snapshot_sha256": "5ed6e6d3afec4dabb4f24f0e00592e78b8db090c728e58bb885d7be1daa12720"
+}
