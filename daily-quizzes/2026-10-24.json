@@ -1,0 +1,181 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-24",
+  "timezone": "Europe/Copenhagen",
+  "bank_sha256": "66424770bf7b16ca1ea0268cded97bf992bd09144508db97f741aa688c48df05",
+  "news_verified_at": "2026-10-19",
+  "official": false,
+  "questions": [
+    {
+      "id": "DK0804",
+      "question": "Hvorfor udviklede Hans Egede et grønlandsk skriftsprog?",
+      "options": {
+        "A": "For at gøre dansk til øens eneste skriftsprog",
+        "B": "For at indføre latinske gudstjenester i bygderne",
+        "C": "For at udgive kristne tekster på grønlændernes eget sprog"
+      },
+      "answer": "C",
+      "explanation": "Missionsarbejdet førte til oversættelser og nedskrivning af grønlandsk.",
+      "source_pages": [
+        199
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0228",
+      "question": "Hvilken opgave fik det danske krigsskib, som blev sendt ud efter Iraks invasion af Kuwait i 1990?",
+      "options": {
+        "A": "At håndhæve handelsblokaden mod Irak",
+        "B": "At beskytte Iraks olieeksport mod angreb",
+        "C": "At deltage i en landinvasion af Kuwait"
+      },
+      "answer": "A",
+      "explanation": "Danmark bidrog med et skib til den internationale blokade mod Irak.",
+      "source_pages": [
+        56
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0294",
+      "question": "Hvem kan være medlem af Folketingets stående udvalg?",
+      "options": {
+        "A": "Medlemmer af Folketinget",
+        "B": "Kun ministre",
+        "C": "Alle borgere over 18 år"
+      },
+      "answer": "A",
+      "explanation": "Udvalgene består af folketingsmedlemmer med en partifordeling, der afspejler Folketinget.",
+      "source_pages": [
+        75
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0632",
+      "question": "Hvilken konge forestiller Salys rytterstatue på Amalienborg Slotsplads?",
+      "options": {
+        "A": "Frederik 9.",
+        "B": "Christian 4.",
+        "C": "Frederik 5."
+      },
+      "answer": "C",
+      "explanation": "Saly skabte rytterstatuen af Frederik 5., som stod færdig i 1771.",
+      "source_pages": [
+        155
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0727",
+      "question": "Hvilke to have mødes ved Grenen?",
+      "options": {
+        "A": "Nordsøen og Østersøen",
+        "B": "Skagerrak og Kattegat",
+        "C": "Skagerrak og Østersøen"
+      },
+      "answer": "B",
+      "explanation": "Ved Skagens Gren mødes bølgerne fra Skagerrak og Kattegat.",
+      "source_pages": [
+        177
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0493",
+      "question": "Hvordan kan internationalt samarbejde påvirke Danmark?",
+      "options": {
+        "A": "Danmark får indflydelse, men bindes også af fælles beslutninger",
+        "B": "Danmark får indflydelse uden at være bundet af fælles regler",
+        "C": "Danmark bliver bundet uden mulighed for at deltage i beslutningerne"
+      },
+      "answer": "A",
+      "explanation": "Samarbejdet giver indflydelse udadtil og påvirker samtidig rammerne for det danske samfund.",
+      "source_pages": [
+        121
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0041",
+      "question": "Hvad mente Luther var afgørende for at opnå frelse?",
+      "options": {
+        "A": "Betaling af tiende",
+        "B": "Troen",
+        "C": "Køb af aflad"
+      },
+      "answer": "B",
+      "explanation": "Luther fremhævede troen og afviste, at man kunne købe sig til frelse.",
+      "source_pages": [
+        13
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "CA-C065",
+      "event_date": "2026-09-25",
+      "question": "Hvem grundlagde Carlsbergfondet, der markerede sit jubilæum i september 2026?",
+      "options": {
+        "A": "J.C. Jacobsen",
+        "B": "H.N. Andersen",
+        "C": "Carl Frederik Tietgen"
+      },
+      "answer": "A",
+      "explanation": "Brygger J.C. Jacobsen stiftede fondet i 1876.",
+      "source_url": "https://www.carlsbergfondet.dk/150-aars-jubilaeum/",
+      "source_title": "150-års jubilæum",
+      "verified_at": "2026-09-25",
+      "exam_domain": "current_affairs",
+      "source_pages": [],
+      "source_edition": "Nyhedskilde kontrolleret 2026-09-25"
+    },
+    {
+      "id": "DK0487",
+      "question": "Hvad udgør sikkerheden i flexicurity-modellen?",
+      "options": {
+        "A": "Garanti for samme job hele livet",
+        "B": "Understøttelse og hjælp ved ledighed",
+        "C": "Uændret fuld løn fra arbejdsgiveren under hele ledigheden"
+      },
+      "answer": "B",
+      "explanation": "Sikkerheden er knyttet til indkomst og tilbagevenden til arbejde, ikke et uopsigeligt job.",
+      "source_pages": [
+        120
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0310-e2",
+      "question": "Kan domstolene underkende en lov, der strider mod grundloven?",
+      "options": {
+        "A": "Ja",
+        "B": "Nej"
+      },
+      "answer": "A",
+      "explanation": "Folketingets love skal overholde grundloven, og domstolene kan kontrollere dette.",
+      "source_pages": [
+        79
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "values"
+    }
+  ],
+  "snapshot_sha256": "7da91c750827f3e5c8deaadbebd70c8f9620eb2d948b14aaca1b2bf296b8dc94"
+}
