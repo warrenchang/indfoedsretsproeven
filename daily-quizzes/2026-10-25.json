@@ -1,0 +1,182 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-25",
+  "timezone": "Europe/Copenhagen",
+  "bank_sha256": "66424770bf7b16ca1ea0268cded97bf992bd09144508db97f741aa688c48df05",
+  "news_verified_at": "2026-10-19",
+  "official": false,
+  "questions": [
+    {
+      "id": "CA-C070",
+      "event_date": "2026-08-31",
+      "question": "Hvor skulle jubilæumsvisningen af Olsen-banden ser rødt i september finde sted ifølge Nordisk Films meddelelse fra august 2026?",
+      "options": {
+        "A": "Koldinghus",
+        "B": "Den Gamle By",
+        "C": "Vridsløselille Statsfængsel"
+      },
+      "answer": "C",
+      "explanation": "Visningen var annonceret til 5. september ved det tidligere fængsel.",
+      "source_url": "https://via.ritzau.dk/pressemeddelelse/15115408/efter-50-ar-er-det-endnu-ikke-lykkedes-nogen-at-sla-egon-benny-og-kjeld-af-pinden?lang=da&publisherId=13561688",
+      "source_title": "Efter 50 år er det endnu ikke lykkedes nogen at slå Egon, Benny og Kjeld af pinden",
+      "verified_at": "2026-09-25",
+      "exam_domain": "current_affairs",
+      "source_pages": [],
+      "source_edition": "Nyhedskilde kontrolleret 2026-09-25"
+    },
+    {
+      "id": "DK0820",
+      "question": "Hvilket sprog præger Grønlands særlige salmetradition?",
+      "options": {
+        "A": "Færøsk",
+        "B": "Grønlandsk",
+        "C": "Islandsk"
+      },
+      "answer": "B",
+      "explanation": "Grønlands gudstjeneste- og salmetradition bruger grønlandsk og har sin egen sangform.",
+      "source_pages": [
+        202
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0603",
+      "question": "I hvilken by blev H.C. Andersen født?",
+      "options": {
+        "A": "Aalborg",
+        "B": "Roskilde",
+        "C": "Odense"
+      },
+      "answer": "C",
+      "explanation": "H.C. Andersen blev født i Odense i 1805.",
+      "source_pages": [
+        147
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0471",
+      "question": "Hvilke organisationer arbejder sammen med EU for mere fri handel?",
+      "options": {
+        "A": "NATO og Europarådet",
+        "B": "OECD og WTO",
+        "C": "Den Europæiske Centralbank og Den Internationale Domstol"
+      },
+      "answer": "B",
+      "explanation": "OECD og WTO beskæftiger sig med økonomisk samarbejde og handel; de øvrige nævnte har andre formål.",
+      "source_pages": [
+        116
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0548",
+      "question": "Hvor mange verdensmål for bæredygtig udvikling vedtog FN i 2015?",
+      "options": {
+        "A": "12",
+        "B": "17",
+        "C": "27"
+      },
+      "answer": "B",
+      "explanation": "FN vedtog 17 verdensmål med 2030 som tidshorisont.",
+      "source_pages": [
+        133
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0061",
+      "question": "I hvilket nutidigt land lå de danske forter på Guldkysten?",
+      "options": {
+        "A": "Marokko",
+        "B": "Kenya",
+        "C": "Ghana"
+      },
+      "answer": "C",
+      "explanation": "Guldkysten lå i Vestafrika i det nuværende Ghana.",
+      "source_pages": [
+        18
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0340",
+      "question": "Hvilket princip blev styrket ved folkeafstemningen om tronfølgen i 2009?",
+      "options": {
+        "A": "Lige antal ministre af hvert køn",
+        "B": "Lige arveret for kvinder og mænd",
+        "C": "Lige stemmetal til alle partier"
+      },
+      "answer": "B",
+      "explanation": "Afstemningen gav lige arveret til tronen uanset køn.",
+      "source_pages": [
+        85
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "values"
+    },
+    {
+      "id": "DK0207",
+      "question": "Hvilke lande blev EF-medlemmer samtidig med Danmark?",
+      "options": {
+        "A": "Sverige og Finland",
+        "B": "Storbritannien og Irland",
+        "C": "Spanien og Portugal"
+      },
+      "answer": "B",
+      "explanation": "Danmark, Storbritannien og Irland blev medlemmer i 1973.",
+      "source_pages": [
+        51
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0991",
+      "question": "Ved hvilken ø skal den planlagte energiø i Østersøen ligge?",
+      "options": {
+        "A": "Ved Fanø",
+        "B": "Ved Bornholm",
+        "C": "Ved Samsø"
+      },
+      "answer": "B",
+      "explanation": "Materialet beskriver en energiø ved Bornholm, som skal levere strøm mod Sjælland og Tyskland.",
+      "source_pages": [
+        244
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0350",
+      "question": "Hvilket niveau kan ikke selv udskrive skat?",
+      "options": {
+        "A": "Staten",
+        "B": "Kommunerne",
+        "C": "Regionerne"
+      },
+      "answer": "C",
+      "explanation": "Regionerne finansieres gennem penge fra staten og kommunerne og har ikke egen skatteudskrivning.",
+      "source_pages": [
+        87
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    }
+  ],
+  "snapshot_sha256": "919f7fbff48d491abf9353e269201b2b4ff4410e240ce1805adb4fa263cae96e"
+}
