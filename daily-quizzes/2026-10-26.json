@@ -1,0 +1,182 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-26",
+  "timezone": "Europe/Copenhagen",
+  "bank_sha256": "eb5632a9bc01ec0964b98eedc4ac675347ebb3e766c26f821ec790140a38f9f6",
+  "news_verified_at": "2026-10-26",
+  "official": false,
+  "questions": [
+    {
+      "id": "DK0855",
+      "question": "Hvilken tanke forbindes med Kierkegaards eksistentialisme?",
+      "options": {
+        "A": "Mennesket formes af de valg, det træffer",
+        "B": "Menneskets moral afgøres af flertallets opfattelse",
+        "C": "Menneskets plads bestemmes af dets sociale rang"
+      },
+      "answer": "A",
+      "explanation": "Kierkegaards tænkning fremhæver den enkeltes valg og eksistens.",
+      "source_pages": [
+        212
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0235",
+      "question": "Hvilket parti kom første gang i Folketinget i 1998 med Pia Kjærsgaard i spidsen?",
+      "options": {
+        "A": "Enhedslisten",
+        "B": "SF",
+        "C": "Dansk Folkeparti"
+      },
+      "answer": "C",
+      "explanation": "Dansk Folkeparti voksede frem med indvandrings- og integrationspolitik som centrale emner.",
+      "source_pages": [
+        57
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0693",
+      "question": "Hvem skrev især manuskriptet til Matador?",
+      "options": {
+        "A": "Karen Blixen",
+        "B": "Tove Ditlevsen",
+        "C": "Lise Nørgaard"
+      },
+      "answer": "C",
+      "explanation": "Lise Nørgaard brugte blandt andet erfaringer fra sin egen barndom og ungdom.",
+      "source_pages": [
+        169
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0316",
+      "question": "Hvilken forbindelse har Færøernes domstol til det danske retssystem?",
+      "options": {
+        "A": "Dens afgørelser kan i sidste ende ankes til Højesteret",
+        "B": "Dens afgørelser kan kun ankes til Islands højesteret",
+        "C": "Dens afgørelser prøves endeligt af det færøske parlament"
+      },
+      "answer": "A",
+      "explanation": "Færøernes og Grønlands domstole er integreret med det danske retssystem.",
+      "source_pages": [
+        80
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "CA-P005",
+      "event_date": "2026-06-03",
+      "question": "Hvem overtog forsvarsministerposten efter Troels Lund Poulsen i juni 2026?",
+      "options": {
+        "A": "Jakob Ellemann-Jensen",
+        "B": "Jeppe Bruus",
+        "C": "Lars Løkke Rasmussen"
+      },
+      "answer": "B",
+      "explanation": "Jeppe Bruus overtog posten den 3. juni.",
+      "source_url": "https://www.fmn.dk/da/nyheder/2026/presseinvitation-ministeroverdragelse-i-forsvarsministeriet2/",
+      "source_title": "Ministeroverdragelse i Forsvarsministeriet",
+      "verified_at": "2026-09-25",
+      "exam_domain": "current_affairs",
+      "source_pages": [],
+      "source_edition": "Nyhedskilde kontrolleret 2026-09-25"
+    },
+    {
+      "id": "DK0161",
+      "question": "Hvorfor sænkede den danske flåde selv mange af sine skibe i 1943?",
+      "options": {
+        "A": "For at forhindre britisk overtagelse",
+        "B": "For at hindre tysk overtagelse",
+        "C": "For at blokere indsejlingen til danske havne"
+      },
+      "answer": "B",
+      "explanation": "Skibene blev sænket, så besættelsesmagten ikke kunne bruge dem.",
+      "source_pages": [
+        40
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0324-e2",
+      "question": "Kan man stille op til Folketinget uden at være medlem af et parti?",
+      "options": {
+        "A": "Ja",
+        "B": "Nej"
+      },
+      "answer": "A",
+      "explanation": "Løsgængere kan opstille med underskrifter fra mindst 150 vælgere i opstillingskredsen.",
+      "source_pages": [
+        81
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "values"
+    },
+    {
+      "id": "CA-C016",
+      "event_date": "2026-05-16",
+      "question": "Hvilket land vandt Eurovision Song Contest i 2026 med sangeren DARA?",
+      "options": {
+        "A": "Grækenland",
+        "B": "Rumænien",
+        "C": "Bulgarien"
+      },
+      "answer": "C",
+      "explanation": "DARA vandt konkurrencen for Bulgarien med sangen Bangaranga.",
+      "source_url": "https://www.eurovision.com/newsroom/release/x/",
+      "source_title": "Bulgaria's DARA wins spectacular 70th Eurovision Song Contest",
+      "verified_at": "2026-09-25",
+      "exam_domain": "current_affairs",
+      "source_pages": [],
+      "source_edition": "Nyhedskilde kontrolleret 2026-09-25"
+    },
+    {
+      "id": "DK0578",
+      "question": "Hvad besluttede Danmark i 2023 at donere til Ukraine?",
+      "options": {
+        "A": "19 F-35-kampfly",
+        "B": "19 F-16-kampfly",
+        "C": "19 Mirage-kampfly"
+      },
+      "answer": "B",
+      "explanation": "Danmark besluttede at donere F-16-fly og at træne ukrainske piloter.",
+      "source_pages": [
+        140
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0877",
+      "question": "Hvad er ægget traditionelt symbol på ved påske?",
+      "options": {
+        "A": "Forsoning",
+        "B": "Visdom",
+        "C": "Frugtbarhed"
+      },
+      "answer": "C",
+      "explanation": "Påskeæg bygger på æggets gamle betydning som frugtbarhedssymbol.",
+      "source_pages": [
+        218
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    }
+  ],
+  "snapshot_sha256": "5f8845c9bc93926440d526a0243be88e2b98b6d6cc5d9b9a14c53754130817fa"
+}
