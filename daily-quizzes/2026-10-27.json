@@ -1,0 +1,182 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-27",
+  "timezone": "Europe/Copenhagen",
+  "bank_sha256": "eb5632a9bc01ec0964b98eedc4ac675347ebb3e766c26f821ec790140a38f9f6",
+  "news_verified_at": "2026-10-26",
+  "official": false,
+  "questions": [
+    {
+      "id": "DK0211",
+      "question": "Hvilken udvikling fulgte med oliekrisen?",
+      "options": {
+        "A": "Fuld beskæftigelse og faldende priser",
+        "B": "Større statsoverskud og lavere importudgifter",
+        "C": "Stigende arbejdsløshed og priser"
+      },
+      "answer": "C",
+      "explanation": "Krisen sænkede væksten, øgede ledigheden og forværrede statens økonomi.",
+      "source_pages": [
+        51
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0261",
+      "question": "Hvad hedder Danmarks skriftlige forfatning?",
+      "options": {
+        "A": "Danmarks Riges Grundlov",
+        "B": "Kongeloven",
+        "C": "Den Danske Lov"
+      },
+      "answer": "A",
+      "explanation": "Grundloven fastlægger rammerne for demokratiet og borgernes grundlæggende rettigheder.",
+      "source_pages": [
+        66
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "values"
+    },
+    {
+      "id": "DK0523",
+      "question": "Hvordan er medlemmerne af Europa-Parlamentet hovedsageligt grupperet?",
+      "options": {
+        "A": "Efter politiske holdninger",
+        "B": "Efter landenes geografiske regioner",
+        "C": "Efter medlemmernes nationalitet"
+      },
+      "answer": "A",
+      "explanation": "Medlemmer fra forskellige lande indgår i fælles politiske grupper.",
+      "source_pages": [
+        128
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0378",
+      "question": "Ved hvilken valgtype har Danmark i gennemsnit siden 2000 haft højest valgdeltagelse?",
+      "options": {
+        "A": "Valg til Europa-Parlamentet",
+        "B": "Kommunal- og regionalvalg",
+        "C": "Folketingsvalg"
+      },
+      "answer": "C",
+      "explanation": "Materialet angiver cirka 86 procent ved folketingsvalg mod lavere deltagelse ved de andre valg.",
+      "source_pages": [
+        95
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "CA-S006",
+      "event_date": "2026-06-06",
+      "question": "Hvem er den nye bro over Storstrømmen, som blev fejret i juni 2026, opkaldt efter?",
+      "options": {
+        "A": "Dronning Margrethe 2.",
+        "B": "Dronning Ingrid",
+        "C": "Kong Frederik 10."
+      },
+      "answer": "A",
+      "explanation": "Den hedder Dronning Margrethe II’s Bro og forbinder Sjælland og Falster via Masnedø.",
+      "source_url": "https://www.kongehuset.dk/foto-video/h-k-h-kronprinsen-deltog-i-fejring-af-dronning-margrethe-ii%E2%80%99s-bro",
+      "source_title": "H.K.H. Kronprinsen deltog i fejring af Dronning Margrethe II’s Bro",
+      "verified_at": "2026-09-25",
+      "exam_domain": "current_affairs",
+      "source_pages": [],
+      "source_edition": "Nyhedskilde kontrolleret 2026-09-25"
+    },
+    {
+      "id": "DK0870",
+      "question": "Hvem er folkekirkens øverste administrative myndighed?",
+      "options": {
+        "A": "Folketingets formand",
+        "B": "Kirkeministeren",
+        "C": "Københavns biskop"
+      },
+      "answer": "B",
+      "explanation": "Kirkeministeren har den øverste administrative rolle i folkekirken.",
+      "source_pages": [
+        216
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0613",
+      "question": "Hvilken periode danner baggrund for Kongens Fald?",
+      "options": {
+        "A": "1500-tallet",
+        "B": "Vikingetiden",
+        "C": "Efterkrigstiden efter 1945"
+      },
+      "answer": "A",
+      "explanation": "Kongens Fald er en historisk roman om blandt andet Christian 2.s magtkamp i 1500-tallet.",
+      "source_pages": [
+        149
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0798",
+      "question": "Hvilken verdensdel hører Grønland geografisk til?",
+      "options": {
+        "A": "Asien",
+        "B": "Europa",
+        "C": "Nordamerika"
+      },
+      "answer": "C",
+      "explanation": "Grønland ligger nordøst for Canada og regnes geografisk til Nordamerika.",
+      "source_pages": [
+        197
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0039",
+      "question": "Hvilken tysk reformator inspirerede reformationen i Danmark?",
+      "options": {
+        "A": "Martin Luther",
+        "B": "Otto von Bismarck",
+        "C": "Johann Friedrich Struensee"
+      },
+      "answer": "A",
+      "explanation": "Luthers protestantiske lære blev grundlaget for den danske reformation.",
+      "source_pages": [
+        13
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0453",
+      "question": "Hvilken ekstra dækning kan en arbejdsmarkedspensionsordning typisk give?",
+      "options": {
+        "A": "Betaling af almindelige boligudgifter før pension",
+        "B": "Garanti for fuld løn ved enhver arbejdsløshed",
+        "C": "Økonomisk sikring ved sygdom og død"
+      },
+      "answer": "C",
+      "explanation": "Ordningerne indeholder ofte forsikringsdækning ud over selve alderspensionen.",
+      "source_pages": [
+        113
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    }
+  ],
+  "snapshot_sha256": "e26a94605be4690864b15b39149d400115c938e4c2ed46d8f77472f04e8047e6"
+}
