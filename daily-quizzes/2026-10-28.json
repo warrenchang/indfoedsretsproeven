@@ -1,0 +1,181 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-28",
+  "timezone": "Europe/Copenhagen",
+  "bank_sha256": "eb5632a9bc01ec0964b98eedc4ac675347ebb3e766c26f821ec790140a38f9f6",
+  "news_verified_at": "2026-10-26",
+  "official": false,
+  "questions": [
+    {
+      "id": "DK0111",
+      "question": "Hvad blev arbejdsgivernes ret anerkendt til i Septemberforliget?",
+      "options": {
+        "A": "At forbyde faglig organisering",
+        "B": "At lede og fordele arbejdet",
+        "C": "At opsige overenskomster uden varsel"
+      },
+      "answer": "B",
+      "explanation": "Forliget anerkendte ledelsesretten og samtidig arbejdernes ret til organisering.",
+      "source_pages": [
+        28
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0626",
+      "question": "Hvilke materialer består Solvognen af?",
+      "options": {
+        "A": "Guld og jern",
+        "B": "Guld og bronze",
+        "C": "Sølv og bronze"
+      },
+      "answer": "B",
+      "explanation": "Solvognen er fremstillet af guld og bronze omkring 1350 før Kristus.",
+      "source_pages": [
+        153
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0721",
+      "question": "Hvilken fast forbindelse åbnede for tog i 1997 og biler i 1998?",
+      "options": {
+        "A": "Øresundsforbindelsen",
+        "B": "Den første Lillebæltsbro",
+        "C": "Storebæltsforbindelsen"
+      },
+      "answer": "C",
+      "explanation": "Storebæltsforbindelsen åbnede først for tog og året efter for biler.",
+      "source_pages": [
+        176
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0338-e2",
+      "question": "Hvor mange folketingsmedlemmer skal der mindst til for at kræve en folkeafstemning efter grundlovens regler?",
+      "options": {
+        "A": "120",
+        "B": "90",
+        "C": "60"
+      },
+      "answer": "C",
+      "explanation": "En tredjedel af Folketinget er i denne sammenhæng mindst 60 medlemmer; reglerne har undtagelser.",
+      "source_pages": [
+        85
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0762",
+      "question": "Hvilke dyrefigurers haler dannede Børsens snoede spir før branden i april 2024?",
+      "options": {
+        "A": "Fire løvers haler",
+        "B": "Fire slangers haler",
+        "C": "Fire dragers haler"
+      },
+      "answer": "C",
+      "explanation": "Børsens karakteristiske spir var udformet som fire dragehaler, der snoede sig om hinanden.",
+      "source_pages": [
+        187
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0395-e2",
+      "question": "Er retssager som udgangspunkt offentlige?",
+      "options": {
+        "A": "Ja",
+        "B": "Nej"
+      },
+      "answer": "A",
+      "explanation": "Offentlighed er hovedreglen, men retten kan i særlige tilfælde lukke dørene.",
+      "source_pages": [
+        99
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "values"
+    },
+    {
+      "id": "CA-P077",
+      "event_date": "2026-10-09",
+      "question": "Hvor meget ekstra om måneden efter skat foreslog regeringen i oktober 2026 at give de folkepensionister, der har mindst?",
+      "options": {
+        "A": "2.000 kroner",
+        "B": "500 kroner",
+        "C": "1.000 kroner"
+      },
+      "answer": "C",
+      "explanation": "Regeringens finanslovsforslag for 2027 indeholdt en forhøjelse svarende til 1.000 kroner om måneden efter skat til de folkepensionister, der har mindst. Det var et forslag, ikke en allerede gennemført forhøjelse.",
+      "source_url": "https://fm.dk/nyheder/nyhedsarkiv/2026/oktober/finanslovforslag-med-fokus-paa-tryghed-og-sikkerhed-loeft-af-velfaerden-og-groen-omstilling/",
+      "source_title": "Finanslovforslag med fokus på tryghed og sikkerhed, løft af velfærden og grøn omstilling",
+      "verified_at": "2026-10-12",
+      "exam_domain": "current_affairs",
+      "source_pages": [],
+      "source_edition": "Nyhedskilde kontrolleret 2026-10-12"
+    },
+    {
+      "id": "DK0092",
+      "question": "Hvem kæmpede Danmark imod i Den 1. Slesvigske Krig?",
+      "options": {
+        "A": "Britiske og franske kolonihære",
+        "B": "Svenske og norske tropper",
+        "C": "Slesvig-holstenske oprørere med tysk støtte"
+      },
+      "answer": "C",
+      "explanation": "Oprørerne i hertugdømmerne fik blandt andet militær støtte fra Preussen.",
+      "source_pages": [
+        24
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0584",
+      "question": "Hvilket land indgik Danmark en aftale med om militære aktiviteter i Grønland i 1951?",
+      "options": {
+        "A": "USA",
+        "B": "Kina",
+        "C": "Frankrig"
+      },
+      "answer": "A",
+      "explanation": "Aftalen med USA dannede ramme om amerikanske militære aktiviteter og basen ved Thule.",
+      "source_pages": [
+        142
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0448",
+      "question": "Hvilken rolle er frivilligt arbejde normalt tænkt at have over for offentlig service?",
+      "options": {
+        "A": "At overtage myndighedernes grundlæggende opgaver",
+        "B": "At kontrollere borgernes ret til sociale ydelser",
+        "C": "At supplere den"
+      },
+      "answer": "C",
+      "explanation": "Den grundlæggende service er fortsat offentlig; frivillige bidrag er normalt et supplement.",
+      "source_pages": [
+        112
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    }
+  ],
+  "snapshot_sha256": "97e9337d3d86723fd9126e8fc63bbf661d3992ef2d08640c843e9088799c3450"
+}
