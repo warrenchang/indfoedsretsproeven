@@ -1,0 +1,182 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-29",
+  "timezone": "Europe/Copenhagen",
+  "bank_sha256": "eb5632a9bc01ec0964b98eedc4ac675347ebb3e766c26f821ec790140a38f9f6",
+  "news_verified_at": "2026-10-26",
+  "official": false,
+  "questions": [
+    {
+      "id": "DK0400",
+      "question": "Hvad betyder det at trække et frinummer ved værnepligtens lodtrækning?",
+      "options": {
+        "A": "At man automatisk bliver officer",
+        "B": "At man ikke skal aftjene værnepligt",
+        "C": "At man selv skal betale for sin tjeneste"
+      },
+      "answer": "B",
+      "explanation": "Et frinummer betyder, at man ikke udtages til tjeneste gennem lodtrækningen.",
+      "source_pages": [
+        100
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0468",
+      "question": "Hvilket land importerer Danmark mest fra i midten af 2020’erne?",
+      "options": {
+        "A": "USA",
+        "B": "Tyskland",
+        "C": "Kina"
+      },
+      "answer": "B",
+      "explanation": "Tyskland er angivet som det største importland; USA er størst for eksporten.",
+      "source_pages": [
+        116
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0581",
+      "question": "Hvilken amerikansk udenrigspolitisk prioritering skaber i midten af 2020’erne usikkerhed om Europas forsvar?",
+      "options": {
+        "A": "Mindre interesse for Asien og Stillehavsområdet",
+        "B": "Større opmærksomhed på Kina og Asien",
+        "C": "Større koncentration af amerikanske styrker i Europa"
+      },
+      "answer": "B",
+      "explanation": "USA's øgede fokus på Kina kan påvirke, hvor store ressourcer USA vil bruge i Europa.",
+      "source_pages": [
+        141
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0056",
+      "question": "Hvilken lov beskrev den enevældige konges magt fra 1665?",
+      "options": {
+        "A": "Forbundsloven",
+        "B": "Kongeloven",
+        "C": "Jyske Lov"
+      },
+      "answer": "B",
+      "explanation": "Kongeloven fastlagde den næsten ubegrænsede kongemagt.",
+      "source_pages": [
+        16
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0768",
+      "question": "Hvilken tegnestue står bag boligbyggeriet 8TALLET i Ørestad?",
+      "options": {
+        "A": "Bjarke Ingels Group",
+        "B": "3XN",
+        "C": "Schmidt Hammer Lassen"
+      },
+      "answer": "A",
+      "explanation": "BIG tegnede 8TALLET, mens de andre nævnte tegnestuer står bag andre københavnske byggerier.",
+      "source_pages": [
+        189
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0093",
+      "question": "Hvornår fandt Treårskrigen sted?",
+      "options": {
+        "A": "1864-66",
+        "B": "1914-18",
+        "C": "1848-50"
+      },
+      "answer": "C",
+      "explanation": "Treårskrigen er et andet navn for Den 1. Slesvigske Krig i 1848-50.",
+      "source_pages": [
+        25
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "CA-C066",
+      "event_date": "2026-09-25",
+      "question": "Hvilket teknologisk emne indgik i et nyt center ved Carlsbergfondets jubilæum i 2026?",
+      "options": {
+        "A": "Kortlægning af olieforekomster",
+        "B": "Udvikling af højhastighedstog",
+        "C": "Kunstig intelligens og menneskelig tænkning"
+      },
+      "answer": "C",
+      "explanation": "Et af centrene skal undersøge generativ AI og menneskelig kognition.",
+      "source_url": "https://www.carlsbergfondet.dk/150-aars-jubilaeum/",
+      "source_title": "150-års jubilæum",
+      "verified_at": "2026-09-25",
+      "exam_domain": "current_affairs",
+      "source_pages": [],
+      "source_edition": "Nyhedskilde kontrolleret 2026-09-25"
+    },
+    {
+      "id": "DK0289",
+      "question": "Hvilken domstol behandler ministres mulige lovbrud i embedet?",
+      "options": {
+        "A": "Sø- og Handelsretten",
+        "B": "Rigsretten",
+        "C": "Den Europæiske Menneskerettighedsdomstol"
+      },
+      "answer": "B",
+      "explanation": "Folketinget eller regeringen kan beslutte at rejse en sag mod en minister ved Rigsretten.",
+      "source_pages": [
+        73
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "values"
+    },
+    {
+      "id": "DK0909",
+      "question": "Hvilken uddannelse er især rettet mod et konkret håndværk eller erhverv?",
+      "options": {
+        "A": "En almen gymnasieuddannelse",
+        "B": "En erhvervsuddannelse",
+        "C": "En akademisk bacheloruddannelse"
+      },
+      "answer": "B",
+      "explanation": "Erhvervsuddannelser omfatter blandt andet handel, kontor og håndværk.",
+      "source_pages": [
+        226
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0707",
+      "question": "I hvilken James Bond-film medvirker Mads Mikkelsen?",
+      "options": {
+        "A": "Goldfinger",
+        "B": "Skyfall",
+        "C": "Casino Royale"
+      },
+      "answer": "C",
+      "explanation": "Mikkelsen spiller Bonds hovedmodstander i Casino Royale fra 2006.",
+      "source_pages": [
+        172
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    }
+  ],
+  "snapshot_sha256": "80413dbe567659e50854d5b175466db9026381094d81174676ec5c355b7fcb28"
+}
