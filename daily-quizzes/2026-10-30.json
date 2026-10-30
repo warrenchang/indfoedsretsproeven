@@ -1,0 +1,179 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-30",
+  "timezone": "Europe/Copenhagen",
+  "bank_sha256": "eb5632a9bc01ec0964b98eedc4ac675347ebb3e766c26f821ec790140a38f9f6",
+  "news_verified_at": "2026-10-26",
+  "official": false,
+  "questions": [
+    {
+      "id": "DK0926-e2",
+      "question": "Må forældre slå deres børn som opdragelse?",
+      "options": {
+        "A": "Ja",
+        "B": "Nej"
+      },
+      "answer": "B",
+      "explanation": "Børn har rettigheder, og forældres vold er ikke en tilladt opdragelsesmetode.",
+      "source_pages": [
+        230
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "values"
+    },
+    {
+      "id": "DK0850",
+      "question": "Hvilken opfattelse af hjertet bidrog Niels Steensen til at fastslå?",
+      "options": {
+        "A": "At hjertet er hjemsted for menneskets sjæl",
+        "B": "At hjertet er en muskel",
+        "C": "At hjertet primært danner kroppens blod"
+      },
+      "answer": "B",
+      "explanation": "Steensen brugte observationer af kroppen til blandt andet at påvise, at hjertet er en muskel.",
+      "source_pages": [
+        211
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0162",
+      "question": "Hvem styrede i praksis den danske administration efter august 1943?",
+      "options": {
+        "A": "Frihedsrådets ledere",
+        "B": "Ministeriernes departementschefer",
+        "C": "Ministre fra en dansk eksilregering"
+      },
+      "answer": "B",
+      "explanation": "Departementscheferne videreførte administrationen, efter at regeringen var ophørt med at fungere.",
+      "source_pages": [
+        40
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "CA-C057-e2",
+      "event_date": "2026-09-19",
+      "question": "Var motionsløbene ved VM-weekenden i København i september 2026 også åbne for almindelige motionsløbere?",
+      "options": {
+        "A": "Ja",
+        "B": "Nej"
+      },
+      "answer": "A",
+      "explanation": "Motionsløbene var åbne for almindelige løbere; arrangørerne forventede omkring 60.000 motionsdeltagere.",
+      "source_url": "https://dansk-atletik.dk/nyheder/2026/09/optakt-alt-du-skal-vide-om-vm/",
+      "source_title": "Optakt: Alt du skal vide om VM",
+      "verified_at": "2026-09-25",
+      "exam_domain": "current_affairs",
+      "source_pages": [],
+      "source_edition": "Nyhedskilde kontrolleret 2026-09-25"
+    },
+    {
+      "id": "DK0567",
+      "question": "I hvilken afghansk provins var mange danske soldater udstationeret med britiske tropper?",
+      "options": {
+        "A": "Bamiyan",
+        "B": "Helmand",
+        "C": "Kandahar"
+      },
+      "answer": "B",
+      "explanation": "Danske soldater var blandt andet i Helmand-provinsen i det sydlige Afghanistan.",
+      "source_pages": [
+        138
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0317-e2",
+      "question": "Er det en pligt at stemme ved folketingsvalg?",
+      "options": {
+        "A": "Ja",
+        "B": "Nej"
+      },
+      "answer": "B",
+      "explanation": "Den enkelte vælger har ret, men ikke pligt, til at stemme.",
+      "source_pages": [
+        80
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "values"
+    },
+    {
+      "id": "DK0215",
+      "question": "Hvilket krav var en mærkesag for Fremskridtspartiet i 1973?",
+      "options": {
+        "A": "Mere fri handel for arbejdsgiverne",
+        "B": "Højere støtte til statsejede virksomheder",
+        "C": "Afskaffelse af indkomstskat"
+      },
+      "answer": "C",
+      "explanation": "Partiet protesterede mod indkomstskat og offentligt bureaukrati.",
+      "source_pages": [
+        52
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0901",
+      "question": "Hvilken opgave fik seminarierne fra slutningen af 1700-tallet?",
+      "options": {
+        "A": "At uddanne officerer",
+        "B": "At uddanne lærere",
+        "C": "At uddanne præster"
+      },
+      "answer": "B",
+      "explanation": "Seminarierne havde ansvaret for læreruddannelse.",
+      "source_pages": [
+        224
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0348",
+      "question": "Hvor mange kommuner blev Danmark inddelt i ved reformen i 2007?",
+      "options": {
+        "A": "98",
+        "B": "271",
+        "C": "14"
+      },
+      "answer": "A",
+      "explanation": "Kommunalreformen samlede 271 kommuner til 98.",
+      "source_pages": [
+        87
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0659",
+      "question": "Hvorfor ville funktionalister gøre huse og møbler enklere?",
+      "options": {
+        "A": "For at genoplive adelens gamle boligformer",
+        "B": "For at gøre hvert møbel til et unikt samlerobjekt",
+        "C": "For at mindske synlige klasseskel"
+      },
+      "answer": "C",
+      "explanation": "Et enkelt udtryk skulle svække tilknytningen til bestemte klasser og fremme social lighed.",
+      "source_pages": [
+        161
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    }
+  ],
+  "snapshot_sha256": "ee5fab10b0eb9fd16b5c64fe195f49022f8048bf93d1435558decacb0f7a1276"
+}
