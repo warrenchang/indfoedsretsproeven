@@ -1,0 +1,180 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-31",
+  "timezone": "Europe/Copenhagen",
+  "bank_sha256": "eb5632a9bc01ec0964b98eedc4ac675347ebb3e766c26f821ec790140a38f9f6",
+  "news_verified_at": "2026-10-26",
+  "official": false,
+  "questions": [
+    {
+      "id": "DK0692",
+      "question": "Hvad hedder den fiktive provinsby i Matador?",
+      "options": {
+        "A": "Rødbyhavn",
+        "B": "Helsingør",
+        "C": "Korsbæk"
+      },
+      "answer": "C",
+      "explanation": "Matador udspiller sig i den opdigtede sjællandske by Korsbæk.",
+      "source_pages": [
+        169
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0355",
+      "question": "Hvad er en lokalliste ved et kommunalvalg?",
+      "options": {
+        "A": "En oversigt over vælgere i en bestemt kommune",
+        "B": "En kandidatgruppe med lokale politiske mål",
+        "C": "En statslig rangliste over kommunernes kandidater"
+      },
+      "answer": "B",
+      "explanation": "Lokale borgergrupper kan opstille på egne kandidatlister ved siden af landsdækkende partier.",
+      "source_pages": [
+        88
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0090",
+      "question": "Hvilke hertugdømmer indgik sammen med kongeriget i den danske helstat i midten af 1800-tallet?",
+      "options": {
+        "A": "Slesvig og Holsten",
+        "B": "Skåne og Blekinge",
+        "C": "Halland og Gotland"
+      },
+      "answer": "A",
+      "explanation": "Den danske konge regerede både kongeriget og hertugdømmerne Slesvig og Holsten.",
+      "source_pages": [
+        24
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0420",
+      "question": "Hvilke velfærdsopgaver aflaster især familiers omsorgsarbejde?",
+      "options": {
+        "A": "Erhvervsstøtte og eksportfremme",
+        "B": "Vejbyggeri og kollektiv transport",
+        "C": "Børnepasning og ældrepleje"
+      },
+      "answer": "C",
+      "explanation": "Offentlig pasning og pleje overtager opgaver, som familien ellers måtte løse.",
+      "source_pages": [
+        106
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0275-e2",
+      "question": "Skal magtens tredeling forebygge magtmisbrug?",
+      "options": {
+        "A": "Ja",
+        "B": "Nej"
+      },
+      "answer": "A",
+      "explanation": "De tre magter skal kontrollere og begrænse hinanden og beskytte borgerne.",
+      "source_pages": [
+        70
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "values"
+    },
+    {
+      "id": "DK0522",
+      "question": "Hvor ofte holdes valg til Europa-Parlamentet?",
+      "options": {
+        "A": "Hvert fjerde år",
+        "B": "Hvert tredje år",
+        "C": "Hvert femte år"
+      },
+      "answer": "C",
+      "explanation": "Valgperioden for Europa-Parlamentet er fem år.",
+      "source_pages": [
+        128
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0043",
+      "question": "Hvem blev øverste myndighed over den danske kirke efter reformationen?",
+      "options": {
+        "A": "Kongen",
+        "B": "Paven",
+        "C": "Den svenske ærkebiskop"
+      },
+      "answer": "A",
+      "explanation": "Kirken blev lagt under den danske konge og brød med paven.",
+      "source_pages": [
+        14
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "CA-S074-e2",
+      "event_date": "2026-06-18",
+      "question": "Hvilken flygtningegruppe fik kommunerne særskilt økonomisk støtte til at hjælpe i juniaftalen 2026?",
+      "options": {
+        "A": "Fordrevne syrere",
+        "B": "Fordrevne afghanere",
+        "C": "Fordrevne ukrainere"
+      },
+      "answer": "C",
+      "explanation": "Aftalen indeholdt en milliard kroner til kommunernes opgaver med ukrainere.",
+      "source_url": "https://www.kl.dk/forsidenyheder/2026/juni/kommunernes-oekonomiaftale-for-2027-er-paa-plads",
+      "source_title": "Kommunernes økonomiaftale for 2027 er på plads",
+      "verified_at": "2026-09-25",
+      "exam_domain": "current_affairs",
+      "source_pages": [],
+      "source_edition": "Nyhedskilde kontrolleret 2026-09-25"
+    },
+    {
+      "id": "DK0831-e2",
+      "question": "Blev Færøerne medlem af EF sammen med Danmark i 1973?",
+      "options": {
+        "A": "Ja",
+        "B": "Nej"
+      },
+      "answer": "B",
+      "explanation": "Færøerne har stået uden for EF og EU og kan indgå egne handelsaftaler.",
+      "source_pages": [
+        206
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0780",
+      "question": "Hvilken dato har Frederik 10. fødselsdag?",
+      "options": {
+        "A": "16. april",
+        "B": "26. maj",
+        "C": "14. januar"
+      },
+      "answer": "B",
+      "explanation": "Kongen har fødselsdag den 26. maj, hvor mange hylder ham på Amalienborg Slotsplads.",
+      "source_pages": [
+        192
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    }
+  ],
+  "snapshot_sha256": "45635ecb25501216f967ece890a72026dc1f600d92f158a41ec14c72c7104848"
+}
