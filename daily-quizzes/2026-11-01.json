@@ -1,0 +1,180 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-01",
+  "timezone": "Europe/Copenhagen",
+  "bank_sha256": "eb5632a9bc01ec0964b98eedc4ac675347ebb3e766c26f821ec790140a38f9f6",
+  "news_verified_at": "2026-10-26",
+  "official": false,
+  "questions": [
+    {
+      "id": "DK0365-e2",
+      "question": "Beholder et folketingsmedlem normalt sit mandat, hvis medlemmet forlader sit parti?",
+      "options": {
+        "A": "Ja",
+        "B": "Nej"
+      },
+      "answer": "A",
+      "explanation": "Mandatet tilhører medlemmet, som kan fortsætte som løsgænger eller skifte parti.",
+      "source_pages": [
+        91
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "values"
+    },
+    {
+      "id": "CA-S068",
+      "event_date": "2026-05-05",
+      "question": "Hvilken gas gjaldt den store lagringskontrakt til Aalborg Portland fra maj 2026?",
+      "options": {
+        "A": "Brint",
+        "B": "Kuldioxid",
+        "C": "Kvælstof"
+      },
+      "answer": "B",
+      "explanation": "Kontrakten omfatter fangst, transport og lagring af CO₂.",
+      "source_url": "https://ens.dk/forsyning-og-forbrug/ccs-udbud-og-anden-stoette-til-udvikling-af-ccs",
+      "source_title": "CCS-udbud og anden støtte til udvikling af CCS",
+      "verified_at": "2026-09-25",
+      "exam_domain": "current_affairs",
+      "source_pages": [],
+      "source_edition": "Nyhedskilde kontrolleret 2026-09-25"
+    },
+    {
+      "id": "DK0009",
+      "question": "Hvad viser Harald Blåtands store ringborge om kongemagten?",
+      "options": {
+        "A": "At den kunne samle skatter og arbejdskraft",
+        "B": "At borgene blev bygget af uafhængige lokale høvdinge",
+        "C": "At kongen overlod forsvaret til udenlandske købmænd"
+      },
+      "answer": "A",
+      "explanation": "Byggerierne krævede en centralmagt med adgang til mange ressourcer.",
+      "source_pages": [
+        7
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0170",
+      "question": "Hvilket år blev Island udråbt som selvstændig republik?",
+      "options": {
+        "A": "1973",
+        "B": "1917",
+        "C": "1944"
+      },
+      "answer": "C",
+      "explanation": "Republikken blev udråbt 17. juni 1944, som blev landets nationaldag.",
+      "source_pages": [
+        41
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0315",
+      "question": "Hvilken domstol behandler især sager, der kræver særligt kendskab til erhvervsforhold?",
+      "options": {
+        "A": "Retten på Færøerne",
+        "B": "Rigsretten",
+        "C": "Sø- og Handelsretten"
+      },
+      "answer": "C",
+      "explanation": "Sø- og Handelsretten i København er specialiseret i blandt andet erhvervsforhold.",
+      "source_pages": [
+        80
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0916-e2",
+      "question": "Skal ledighedsbaseret dimensionering begrænse eller øge optaget på uddannelser med høj ledighed?",
+      "options": {
+        "A": "Begrænse",
+        "B": "Øge"
+      },
+      "answer": "A",
+      "explanation": "Optagslofter skal tilpasse uddannelsesudbuddet til arbejdsmarkedets behov.",
+      "source_pages": [
+        227
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0491",
+      "question": "Hvilket ønske var med til at øge det internationale samarbejde efter 2. verdenskrig?",
+      "options": {
+        "A": "At forebygge nye krige",
+        "B": "At mindske alle kontakter mellem europæiske lande",
+        "C": "At lade hvert land løse alle konflikter alene"
+      },
+      "answer": "A",
+      "explanation": "Landene ønskede at forebygge konflikter og finde fredelige løsninger gennem samarbejde.",
+      "source_pages": [
+        121
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0418",
+      "question": "Hvordan finansieres de fleste danske velfærdsydelser?",
+      "options": {
+        "A": "Udelukkende gennem private donationer",
+        "B": "Kun gennem bidrag fra ydelsens modtagere",
+        "C": "Gennem fælles skatter og afgifter"
+      },
+      "answer": "C",
+      "explanation": "Skattefinansiering er et centralt træk ved den nordiske velfærdsmodel.",
+      "source_pages": [
+        105
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0714",
+      "question": "Hvor kan man se grundfjeld i Danmark?",
+      "options": {
+        "A": "På Bornholm og Ertholmene",
+        "B": "På Fyn og Ærø",
+        "C": "På Lolland og Falster"
+      },
+      "answer": "A",
+      "explanation": "Bornholm og Ertholmene adskiller sig ved synligt grundfjeld.",
+      "source_pages": [
+        174
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0634",
+      "question": "I hvilken europæisk by boede Bertel Thorvaldsen i mange år?",
+      "options": {
+        "A": "Rom",
+        "B": "London",
+        "C": "Madrid"
+      },
+      "answer": "A",
+      "explanation": "Thorvaldsen rejste til Italien i 1797 og arbejdede i mange år i Rom.",
+      "source_pages": [
+        155
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    }
+  ],
+  "snapshot_sha256": "076f4ce804a95ede3da48889434a33acf0c28fa25d9e6b686be4231c95f91157"
+}
