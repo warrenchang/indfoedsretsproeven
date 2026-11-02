@@ -1,0 +1,182 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-02",
+  "timezone": "Europe/Copenhagen",
+  "bank_sha256": "eb5632a9bc01ec0964b98eedc4ac675347ebb3e766c26f821ec790140a38f9f6",
+  "news_verified_at": "2026-10-26",
+  "official": false,
+  "questions": [
+    {
+      "id": "DK0373",
+      "question": "Hvilken udfordring kan politikeres opslag på sociale medier skabe for kritisk journalistik?",
+      "options": {
+        "A": "Journalister kan ikke længere omtale opslagets indhold",
+        "B": "Journalister får ikke altid mulighed for at stille opfølgende spørgsmål",
+        "C": "Journalister får formel pligt til at støtte politikerens opslag"
+      },
+      "answer": "B",
+      "explanation": "Direkte opslag kan omgå det interview, hvor journalister ellers ville stille kritiske spørgsmål.",
+      "source_pages": [
+        93
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "values"
+    },
+    {
+      "id": "DK0359",
+      "question": "Hvilket parti stemte arbejdere traditionelt ofte på?",
+      "options": {
+        "A": "Det Konservative Folkeparti",
+        "B": "Socialdemokratiet",
+        "C": "Venstre"
+      },
+      "answer": "B",
+      "explanation": "Arbejdernes historiske partitilknytning var især til Socialdemokratiet.",
+      "source_pages": [
+        89,
+        90
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0079",
+      "question": "Hvilket spor satte landboreformerne i det danske landskab?",
+      "options": {
+        "A": "Alle gårde blev flyttet ind i købstæderne",
+        "B": "Landsbyerne blev erstattet af fæstninger",
+        "C": "Mange gårde kom til at ligge spredt"
+      },
+      "answer": "C",
+      "explanation": "Gårde blev flyttet fra landsbyerne ud til bøndernes egen jord.",
+      "source_pages": [
+        21
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0217",
+      "question": "Hvordan kom Poul Schlüter til som statsminister i 1982?",
+      "options": {
+        "A": "Ved en samlingsregering ledet af Socialdemokratiet",
+        "B": "Ved et regeringsskifte uden folketingsvalg",
+        "C": "Ved en direkte folkeafstemning om statsministeren"
+      },
+      "answer": "B",
+      "explanation": "Socialdemokratiet overlod regeringsmagten til den borgerlige fløj uden et valg.",
+      "source_pages": [
+        52
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0640",
+      "question": "Hvilke byer gav navn til kunstnergruppen Cobra?",
+      "options": {
+        "A": "København, Berlin og Aarhus",
+        "B": "Cologne, Bremen og Antwerpen",
+        "C": "København, Bruxelles og Amsterdam"
+      },
+      "answer": "C",
+      "explanation": "Navnet sammensætter dele af Copenhagen, Bruxelles og Amsterdam.",
+      "source_pages": [
+        156
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "CA-C044",
+      "event_date": "2026-05-10",
+      "question": "Hvilken by kunne fejre AGF’s fodboldmesterskab i maj 2026?",
+      "options": {
+        "A": "Aalborg",
+        "B": "Odense",
+        "C": "Aarhus"
+      },
+      "answer": "C",
+      "explanation": "AGF er Aarhus-klubben, som sikrede sig titlen i Brøndby.",
+      "source_url": "https://www.agf.dk/nyheder/2026/maj/sadan-vandt-vi-dm-i-brondby",
+      "source_title": "Sådan vandt vi DM i Brøndby",
+      "verified_at": "2026-09-25",
+      "exam_domain": "current_affairs",
+      "source_pages": [],
+      "source_edition": "Nyhedskilde kontrolleret 2026-09-25"
+    },
+    {
+      "id": "DK0451",
+      "question": "Hvad er en typisk opgave for en klasses kontaktforældre?",
+      "options": {
+        "A": "At træffe skolens afgørelser om elevoptagelse",
+        "B": "At arrangere fælles aktiviteter og kontakt til bestyrelsen",
+        "C": "At tilrettelægge lærernes faglige undervisning"
+      },
+      "answer": "B",
+      "explanation": "Kontaktforældre bidrager til samarbejde og sociale aktiviteter omkring klassen.",
+      "source_pages": [
+        113
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0851-e2",
+      "question": "Viste Ole Rømer, at lys bevæger sig øjeblikkeligt?",
+      "options": {
+        "A": "Ja",
+        "B": "Nej"
+      },
+      "answer": "B",
+      "explanation": "Rømer viste lysets endelige udbredelseshastighed, kaldet lysets tøven.",
+      "source_pages": [
+        211
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0886",
+      "question": "Hvilken skik forbindes med halloween i Danmark?",
+      "options": {
+        "A": "Politiske optog for arbejderbevægelsen",
+        "B": "Udklædning og lygter af græskar",
+        "C": "Dans om juletræet med julesalmer"
+      },
+      "answer": "B",
+      "explanation": "Halloween markeres den 31. oktober med blandt andet udklædning og græskarlygter.",
+      "source_pages": [
+        220
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0529",
+      "question": "Hvornår blev Europarådet grundlagt med Danmark som medlem?",
+      "options": {
+        "A": "1949",
+        "B": "1993",
+        "C": "1958"
+      },
+      "answer": "A",
+      "explanation": "Danmark har været med i Europarådet siden oprettelsen i 1949.",
+      "source_pages": [
+        130
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    }
+  ],
+  "snapshot_sha256": "95e87a73e7ce75223a554f8d6dc1567264ffc289128b512989897d84f6a19554"
+}
