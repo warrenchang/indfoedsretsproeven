@@ -1,0 +1,181 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-04",
+  "timezone": "Europe/Copenhagen",
+  "bank_sha256": "eb5632a9bc01ec0964b98eedc4ac675347ebb3e766c26f821ec790140a38f9f6",
+  "news_verified_at": "2026-10-26",
+  "official": false,
+  "questions": [
+    {
+      "id": "DK0251",
+      "question": "Hvornår blev det første danske tilfælde af Covid-19 registreret?",
+      "options": {
+        "A": "December 2018",
+        "B": "Februar 2020",
+        "C": "Juni 2022"
+      },
+      "answer": "B",
+      "explanation": "Det første registrerede tilfælde i Danmark kom i februar 2020.",
+      "source_pages": [
+        62
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0664",
+      "question": "Hvilken bygning har Arne Jacobsen tegnet?",
+      "options": {
+        "A": "Rundetårn i København",
+        "B": "Danmarks Nationalbank i København",
+        "C": "Operahuset i Sydney"
+      },
+      "answer": "B",
+      "explanation": "Nationalbanken og Aarhus Rådhus er eksempler på Jacobsens arkitektur.",
+      "source_pages": [
+        162
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0318",
+      "question": "Hvor lang er Folketingets valgperiode højst?",
+      "options": {
+        "A": "Seks år",
+        "B": "Fire år",
+        "C": "Fem år"
+      },
+      "answer": "B",
+      "explanation": "Grundloven kræver folketingsvalg mindst hvert fjerde år.",
+      "source_pages": [
+        81
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0725",
+      "question": "Hvilket land stod for flest udenlandske turistovernatninger i Danmark i 2025?",
+      "options": {
+        "A": "Italien",
+        "B": "Finland",
+        "C": "Tyskland"
+      },
+      "answer": "C",
+      "explanation": "Tyskland var det største udenlandske marked med omkring 22 millioner overnatninger.",
+      "source_pages": [
+        177
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0574-e2",
+      "question": "Fik missionerne i Irak, Afghanistan og Libyen stor eller begrænset succes med at skabe varig fred og demokrati?",
+      "options": {
+        "A": "Stor",
+        "B": "Begrænset"
+      },
+      "answer": "B",
+      "explanation": "Missionerne opnåede ikke de ønskede varige fredelige og demokratiske forhold.",
+      "source_pages": [
+        139
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "CA-P071",
+      "event_date": "2026-07-23",
+      "question": "Hvad blev betegnelsen skyggeflåde brugt om i EU’s sanktionspakke fra juli 2026?",
+      "options": {
+        "A": "Skibe der omgår sanktioner",
+        "B": "Skibe der udfører havforskning",
+        "C": "Skibe der transporterer turister"
+      },
+      "answer": "A",
+      "explanation": "Tiltagene ramte skibe og tjenester, der omgår restriktioner mod Rusland.",
+      "source_url": "https://www.consilium.europa.eu/en/press/press-releases/2026/07/23/21st-package-of-sanctions-eu-hits-russian-energy-financial-services-and-crypto-hard/",
+      "source_title": "21st package of sanctions: EU hits Russian energy, financial services and crypto hard",
+      "verified_at": "2026-09-25",
+      "exam_domain": "current_affairs",
+      "source_pages": [],
+      "source_edition": "Nyhedskilde kontrolleret 2026-09-25"
+    },
+    {
+      "id": "DK0925-e2",
+      "question": "Er det strafbart at tvinge en person til at gifte sig?",
+      "options": {
+        "A": "Ja",
+        "B": "Nej"
+      },
+      "answer": "A",
+      "explanation": "Ægteskab kræver frivillighed, og forsøg på tvang er strafbart.",
+      "source_pages": [
+        230
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "values"
+    },
+    {
+      "id": "DK0914",
+      "question": "Hvor kan voksne tage enkeltfag på folkeskole- eller hf-niveau?",
+      "options": {
+        "A": "På et voksenuddannelsescenter",
+        "B": "På en almindelig folkehøjskole",
+        "C": "På et universitets kandidatuddannelse"
+      },
+      "answer": "A",
+      "explanation": "VUC tilbyder blandt andet undervisning og eksamen i enkeltfag på disse niveauer.",
+      "source_pages": [
+        227
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0074",
+      "question": "Hvilken praksis mod mistænkte afskaffede Struensee?",
+      "options": {
+        "A": "Tortur for at fremtvinge tilståelser",
+        "B": "Fængsling efter en dom",
+        "C": "Retssager ved en domstol"
+      },
+      "answer": "A",
+      "explanation": "Oplysningstidens reformer omfattede et opgør med tortur som middel til tilståelser.",
+      "source_pages": [
+        20
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "CA-C047-e2",
+      "event_date": "2026-07-05",
+      "question": "Hvilken gruppe skulle især støttes af Roskilde Festivals forventede overskud i 2026?",
+      "options": {
+        "A": "Ældre",
+        "B": "Børn og unge",
+        "C": "Krigsveteraner"
+      },
+      "answer": "B",
+      "explanation": "Festivalen oplyste, at overskuddet går til initiativer for børn og unge.",
+      "source_url": "https://www.roskilde-festival.dk/nyheder/tak-for-i-aar-vi-ses-i-2027",
+      "source_title": "Tak for i år – vi ses i 2027",
+      "verified_at": "2026-09-25",
+      "exam_domain": "current_affairs",
+      "source_pages": [],
+      "source_edition": "Nyhedskilde kontrolleret 2026-09-25"
+    }
+  ],
+  "snapshot_sha256": "d9b1e45b73f4be224223ca949abdf8987b1eae0edb580303a05543eb18a7538e"
+}
