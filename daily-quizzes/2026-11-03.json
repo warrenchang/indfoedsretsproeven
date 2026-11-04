@@ -1,0 +1,180 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-03",
+  "timezone": "Europe/Copenhagen",
+  "bank_sha256": "eb5632a9bc01ec0964b98eedc4ac675347ebb3e766c26f821ec790140a38f9f6",
+  "news_verified_at": "2026-10-26",
+  "official": false,
+  "questions": [
+    {
+      "id": "DK0932-e2",
+      "question": "Er offentlige opfordringer til vold mod en befolkningsgruppe beskyttet som lovlig ytringsfrihed?",
+      "options": {
+        "A": "Ja",
+        "B": "Nej"
+      },
+      "answer": "B",
+      "explanation": "Ytringsfrihed giver ikke ret til offentligt at opfordre til forbrydelser.",
+      "source_pages": [
+        231
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "values"
+    },
+    {
+      "id": "DK0937-e2",
+      "question": "Hvilken gruppe var ofre i over halvdelen af de registrerede religiøst motiverede hadforbrydelser i 2022-24?",
+      "options": {
+        "A": "Kristne",
+        "B": "Jøder",
+        "C": "Muslimer"
+      },
+      "answer": "B",
+      "explanation": "Materialet fremhæver den jødiske minoritet og 430 registrerede sager i 2022-24.",
+      "source_pages": [
+        232
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0519",
+      "question": "Hvilket område har Dan Jørgensen ansvar for som EU-kommissær i 2026?",
+      "options": {
+        "A": "Konkurrencepolitik",
+        "B": "Energi og boliger",
+        "C": "Landbrug og fødevarer"
+      },
+      "answer": "B",
+      "explanation": "Dan Jørgensen beskrives som kommissær for energi og boliger siden 2024.",
+      "source_pages": [
+        127
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "CA-C063",
+      "event_date": "2026-05-25",
+      "question": "På hvilken helligdag blev Royal Run afholdt i maj 2026?",
+      "options": {
+        "A": "Anden pinsedag",
+        "B": "Anden påskedag",
+        "C": "Kristi himmelfartsdag"
+      },
+      "answer": "A",
+      "explanation": "Royal Run blev afholdt anden pinsedag den 25. maj.",
+      "source_url": "https://www.kongehuset.dk/den-kongelige-familie/hm-kongen/royal-run/",
+      "source_title": "Royal Run",
+      "verified_at": "2026-09-25",
+      "exam_domain": "current_affairs",
+      "source_pages": [],
+      "source_edition": "Nyhedskilde kontrolleret 2026-09-25"
+    },
+    {
+      "id": "DK0283",
+      "question": "Hvornår begynder et folketingsår normalt?",
+      "options": {
+        "A": "Den første mandag i januar",
+        "B": "Den sidste fredag i juni",
+        "C": "Den første tirsdag i oktober"
+      },
+      "answer": "C",
+      "explanation": "Folketingsåret åbner den første tirsdag i oktober med statsministerens tale.",
+      "source_pages": [
+        72
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0065",
+      "question": "Hvem kom som missionær til Grønland i 1721?",
+      "options": {
+        "A": "Ansgar",
+        "B": "Hans Egede",
+        "C": "Hans Tausen"
+      },
+      "answer": "B",
+      "explanation": "Den norske præst Hans Egede rejste til Grønland med den danske konges støtte.",
+      "source_pages": [
+        18
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0919",
+      "question": "Hvordan har samlivs- og familieformerne i Danmark udviklet sig gennem de seneste årtier?",
+      "options": {
+        "A": "Flere forskellige samlivs- og familieformer er blevet almindelige",
+        "B": "Ægteskab er blevet mere udbredt blandt unge voksne",
+        "C": "Ugifte samliv er blevet sjældnere siden 1970erne"
+      },
+      "answer": "A",
+      "explanation": "Ud over gifte par findes blandt andet ugifte par, enlige med børn og par af samme køn.",
+      "source_pages": [
+        229
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0447-e2",
+      "question": "Får man normalt løn for frivilligt arbejde?",
+      "options": {
+        "A": "Ja",
+        "B": "Nej"
+      },
+      "answer": "B",
+      "explanation": "Frivillige bidrager uden løn, eksempelvis med besøgsordninger og foreningsarbejde.",
+      "source_pages": [
+        112
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0254",
+      "question": "Hvornår blev den første dansker vaccineret mod Covid-19?",
+      "options": {
+        "A": "December 2020",
+        "B": "December 2022",
+        "C": "Februar 2020"
+      },
+      "answer": "A",
+      "explanation": "Vaccinationerne begyndte i december 2020, omtrent et år efter sygdommens udbrud.",
+      "source_pages": [
+        63
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0681",
+      "question": "Hvad kendetegner Line Knutzons skuespil?",
+      "options": {
+        "A": "Historiske versdramaer i højtideligt sprog",
+        "B": "Dokumentarisk gengivelse af autentiske samtaler",
+        "C": "Satire og absurde replikker"
+      },
+      "answer": "C",
+      "explanation": "Knutzon fornyede dramatikken med samfundskritik, humor og absurde dialoger.",
+      "source_pages": [
+        167
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    }
+  ],
+  "snapshot_sha256": "1c962d7c9fff02a608646fb187964c18b9303382d05ca7cb86fc87f6a50aa1db"
+}
