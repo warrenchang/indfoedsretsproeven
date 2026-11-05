@@ -1,0 +1,181 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-05",
+  "timezone": "Europe/Copenhagen",
+  "bank_sha256": "eb5632a9bc01ec0964b98eedc4ac675347ebb3e766c26f821ec790140a38f9f6",
+  "news_verified_at": "2026-10-26",
+  "official": false,
+  "questions": [
+    {
+      "id": "DK0126",
+      "question": "Hvilket navn tog det gamle parti Højre i 1915-16?",
+      "options": {
+        "A": "Socialistisk Folkeparti",
+        "B": "Dansk Folkeparti",
+        "C": "Det Konservative Folkeparti"
+      },
+      "answer": "C",
+      "explanation": "Omorganiseringen til Det Konservative Folkeparti signalerede en bredere vælgerappel.",
+      "source_pages": [
+        31
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0813",
+      "question": "Hvad er Inatsisartut?",
+      "options": {
+        "A": "Grønlands landsret",
+        "B": "Grønlands folkevalgte lovgivende forsamling",
+        "C": "Grønlands regering"
+      },
+      "answer": "B",
+      "explanation": "Inatsisartut er Landstinget; Naalakkersuisut er Landsstyret, altså den politiske ledelse.",
+      "source_pages": [
+        201
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0302-e2",
+      "question": "Hvilken kategori placerede Freedom House Danmark i i Freedom in the World 2026?",
+      "options": {
+        "A": "Delvist frit",
+        "B": "Frit",
+        "C": "Ikke frit"
+      },
+      "answer": "B",
+      "explanation": "Danmark blev klassificeret som frit med 97 af 100 point. Vurderingen omfatter politiske rettigheder og borgerlige frihedsrettigheder.",
+      "source_pages": [],
+      "source_url": "https://freedomhouse.org/country/denmark/freedom-world/2026",
+      "source_edition": "Politiske rettigheder 2026",
+      "exam_domain": "values",
+      "source_title": "Freedom House: Denmark, Freedom in the World 2026",
+      "verified_at": "2026-09-27"
+    },
+    {
+      "id": "DK0704",
+      "question": "Hvilken film modtog både en Oscar og De Gyldne Palmer?",
+      "options": {
+        "A": "Pelle Erobreren",
+        "B": "Busters Verden",
+        "C": "Olsenbanden"
+      },
+      "answer": "A",
+      "explanation": "Bille Augusts Pelle Erobreren fra 1987 fik begge store internationale priser.",
+      "source_pages": [
+        171
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0474-e2",
+      "question": "Må parterne som hovedregel strejke eller lockoute, mens en overenskomst gælder?",
+      "options": {
+        "A": "Ja",
+        "B": "Nej"
+      },
+      "answer": "B",
+      "explanation": "Fredspligten begrænser arbejdsstandsninger i den periode, hvor overenskomsten gælder.",
+      "source_pages": [
+        117
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0387",
+      "question": "Hvornår blev Den Europæiske Menneskerettighedskonvention en del af dansk lovgivning?",
+      "options": {
+        "A": "1849",
+        "B": "1973",
+        "C": "1992"
+      },
+      "answer": "C",
+      "explanation": "Konventionen blev indarbejdet i dansk ret i 1992 og supplerer grundlovens rettigheder.",
+      "source_pages": [
+        97
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0862",
+      "question": "Hvilken opdagelse var baggrunden for Morten Meldals Nobelpris i kemi i 2022?",
+      "options": {
+        "A": "Elektromagnetisme",
+        "B": "Klik-kemi",
+        "C": "Natrium-kaliumpumpen"
+      },
+      "answer": "B",
+      "explanation": "Klik-kemi gør det muligt at forbinde molekylære byggesten effektivt, blandt andet til medicinudvikling.",
+      "source_pages": [
+        214
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "CA-P052",
+      "event_date": "2026-09-22",
+      "question": "Hvilket forsvarssamarbejde fremhævede Danmark som ramme for Grønlandsaftalen i september 2026?",
+      "options": {
+        "A": "NORDEFCO",
+        "B": "EU’s forsvarssamarbejde",
+        "C": "NATO"
+      },
+      "answer": "C",
+      "explanation": "Statsministeren beskrev aftalen som forankret i NATO.",
+      "source_url": "https://stm.dk/presse/pressemeddelelser/2026/aftale-mellem-groenland-danmark-og-usa/",
+      "source_title": "Aftale mellem Grønland, Danmark og USA",
+      "verified_at": "2026-09-25",
+      "exam_domain": "current_affairs",
+      "source_pages": [],
+      "source_edition": "Nyhedskilde kontrolleret 2026-09-25"
+    },
+    {
+      "id": "DK0499",
+      "question": "Hvornår trådte EU's indre marked i kraft?",
+      "options": {
+        "A": "1973",
+        "B": "2004",
+        "C": "1993"
+      },
+      "answer": "C",
+      "explanation": "Det indre marked trådte i kraft i 1993, da EF også skiftede navn til EU.",
+      "source_pages": [
+        122
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0202",
+      "question": "Hvad krævede studenteroprøret fra 1968 blandt andet?",
+      "options": {
+        "A": "Mere central ledelse fra professorerne",
+        "B": "Mere indflydelse på universiteterne",
+        "C": "Færre studerende ved universiteterne"
+      },
+      "answer": "B",
+      "explanation": "Studerende og yngre undervisere gjorde op med professorvældet og krævede medbestemmelse.",
+      "source_pages": [
+        49
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    }
+  ],
+  "snapshot_sha256": "3423a1ad59f901ceb267cc2e008b9819bef19d8fa319cbfcf9f6501a77cd4129"
+}
