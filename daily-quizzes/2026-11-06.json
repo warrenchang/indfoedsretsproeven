@@ -1,0 +1,182 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-06",
+  "timezone": "Europe/Copenhagen",
+  "bank_sha256": "eb5632a9bc01ec0964b98eedc4ac675347ebb3e766c26f821ec790140a38f9f6",
+  "news_verified_at": "2026-10-26",
+  "official": false,
+  "questions": [
+    {
+      "id": "CA-S010-v2",
+      "event_date": "2026-09-09",
+      "question": "Fra hvilken alder blev man inviteret til efterårets gratis vaccination mod influenza og covid-19 ifølge meddelelsen i september 2026?",
+      "options": {
+        "A": "80 år",
+        "B": "50 år",
+        "C": "65 år"
+      },
+      "answer": "C",
+      "explanation": "Invitationerne var til personer på 65 år og derover. Visse personer under 65 år kunne også få gratis vaccination på grund af øget helbredsrisiko.",
+      "source_url": "https://www.sst.dk/nyheder/2026/invitationer-til-efteraarets-vaccination-mod-influenza-og-covid-19-er-paa-vej",
+      "source_title": "Invitationer til efterårets vaccination mod influenza og covid-19 er på vej",
+      "verified_at": "2026-09-25",
+      "exam_domain": "current_affairs",
+      "source_pages": [],
+      "source_edition": "Nyhedskilde kontrolleret 2026-09-25"
+    },
+    {
+      "id": "DK0150",
+      "question": "Hvorfor hed det politiske forlig fra 1933 Kanslergadeforliget?",
+      "options": {
+        "A": "Det blev indgået hos den tyske rigskansler",
+        "B": "Det var opkaldt efter regeringens socialminister",
+        "C": "Forhandlingerne foregik i Staunings bolig i Kanslergade"
+      },
+      "answer": "C",
+      "explanation": "Navnet henviser til statsministerens adresse i København.",
+      "source_pages": [
+        37
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0461",
+      "question": "Hvilke produkter forbindes GN Resound, Oticon og Widex med?",
+      "options": {
+        "A": "Høreapparater",
+        "B": "Mejeriprodukter",
+        "C": "Vindmøller"
+      },
+      "answer": "A",
+      "explanation": "De tre navne er knyttet til Danmarks betydelige produktion af høreapparater.",
+      "source_pages": [
+        115
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0631",
+      "question": "Hvilken opgave skulle Det Kongelige Danske Kunstakademi især løse?",
+      "options": {
+        "A": "at samle hoffets kunst i et museum",
+        "B": "at uddanne kunstnere på internationalt niveau",
+        "C": "at regulere kunsthandlernes priser"
+      },
+      "answer": "B",
+      "explanation": "Frederik 5. ønskede danske kunstnere, der kunne måle sig med udlandets.",
+      "source_pages": [
+        154
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0935-e2",
+      "question": "Kan et hadmotiv gøre straffen for en forbrydelse strengere?",
+      "options": {
+        "A": "Ja",
+        "B": "Nej"
+      },
+      "answer": "A",
+      "explanation": "Hadforbrydelser kan straffes strengere for at beskytte udsatte grupper mod overgreb.",
+      "source_pages": [
+        231
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "values"
+    },
+    {
+      "id": "DK0579",
+      "question": "Hvad er et formål med Vestens økonomiske sanktioner mod Rusland efter invasionen af Ukraine?",
+      "options": {
+        "A": "At øge russiske bankers adgang til vestlig finansiering",
+        "B": "At gøre vestlige lande mere afhængige af russisk olie",
+        "C": "At svække den russiske økonomi"
+      },
+      "answer": "C",
+      "explanation": "Sanktionerne skal lægge økonomisk pres på Rusland som reaktion på angrebet.",
+      "source_pages": [
+        140
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0195",
+      "question": "I hvilket år blev folkepensionen indført?",
+      "options": {
+        "A": "1956",
+        "B": "1933",
+        "C": "1979"
+      },
+      "answer": "A",
+      "explanation": "Folkepensionen kom i 1956 som del af udbygningen af det sociale sikkerhedsnet.",
+      "source_pages": [
+        48
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0978",
+      "question": "Hvilken ulempe har nogle borgere oplevet ved sygehussammenlægninger?",
+      "options": {
+        "A": "Kortere afstand for alle borgere uden undtagelse",
+        "B": "Længere afstand til sygehuset",
+        "C": "Flere små sygehuse i samme lokalområde"
+      },
+      "answer": "B",
+      "explanation": "Når lokale sygehuse lukker, kan afstanden til behandling og tabet af arbejdspladser skabe utilfredshed.",
+      "source_pages": [
+        240,
+        241
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0311",
+      "question": "Hvad hedder Danmarks øverste domstol?",
+      "options": {
+        "A": "Sø- og Handelsretten",
+        "B": "Højesteret",
+        "C": "Østre Landsret"
+      },
+      "answer": "B",
+      "explanation": "Højesteret er den øverste danske domstol og fungerer som appelret.",
+      "source_pages": [
+        79
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0970",
+      "question": "Hvad menes med en livsstilssygdom?",
+      "options": {
+        "A": "En sygdom, hvor levevaner kan øge risikoen",
+        "B": "En sygdom, som kun kan opstå på arbejdspladsen",
+        "C": "En sygdom, der altid skyldes en bestemt bakterie"
+      },
+      "answer": "A",
+      "explanation": "Levevaner som rygning, kost og motion kan påvirke risikoen for flere sygdomme.",
+      "source_pages": [
+        239
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    }
+  ],
+  "snapshot_sha256": "d30a3944f4816e64a508bcfa9e0f6711acecfd8a670dc5050b7041ee4a8fda58"
+}
