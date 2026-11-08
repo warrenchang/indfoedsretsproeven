@@ -1,0 +1,181 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-08",
+  "timezone": "Europe/Copenhagen",
+  "bank_sha256": "eb5632a9bc01ec0964b98eedc4ac675347ebb3e766c26f821ec790140a38f9f6",
+  "news_verified_at": "2026-10-26",
+  "official": false,
+  "questions": [
+    {
+      "id": "CA-P070",
+      "event_date": "2026-07-23",
+      "question": "Hvilket land var hovedmålet for EU’s 21. sanktionspakke fra juli 2026?",
+      "options": {
+        "A": "Rusland",
+        "B": "Nordkorea",
+        "C": "Iran"
+      },
+      "answer": "A",
+      "explanation": "Pakken skulle mindske Ruslands evne til at finansiere krigen mod Ukraine.",
+      "source_url": "https://www.consilium.europa.eu/en/press/press-releases/2026/07/23/21st-package-of-sanctions-eu-hits-russian-energy-financial-services-and-crypto-hard/",
+      "source_title": "21st package of sanctions: EU hits Russian energy, financial services and crypto hard",
+      "verified_at": "2026-09-25",
+      "exam_domain": "current_affairs",
+      "source_pages": [],
+      "source_edition": "Nyhedskilde kontrolleret 2026-09-25"
+    },
+    {
+      "id": "DK0769",
+      "question": "Hvordan ser Dannebrog ud?",
+      "options": {
+        "A": "Et rødt kors på hvid baggrund",
+        "B": "Et hvidt kors på rød baggrund",
+        "C": "Et gult kors på blå baggrund"
+      },
+      "answer": "B",
+      "explanation": "Dannebrog har hvidt kors på rød bund.",
+      "source_pages": [
+        190
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0437-e2",
+      "question": "Steg eller faldt den økonomiske ulighed i Danmark overordnet fra 1945 til 1980?",
+      "options": {
+        "A": "Steg",
+        "B": "Faldt"
+      },
+      "answer": "B",
+      "explanation": "Velfærdsudbygning, lønstigninger og lav ledighed bidrog til mindre ulighed.",
+      "source_pages": [
+        110
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0349",
+      "question": "Hvad afløste amterne ved strukturreformen i 2007?",
+      "options": {
+        "A": "Storkredse",
+        "B": "Sogne",
+        "C": "Regioner"
+      },
+      "answer": "C",
+      "explanation": "De 14 amter blev erstattet af fem regioner.",
+      "source_pages": [
+        87
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0025",
+      "question": "Hvem underskrev den første håndfæstning i 1282?",
+      "options": {
+        "A": "Harald Blåtand",
+        "B": "Erik Klipping",
+        "C": "Christian 4."
+      },
+      "answer": "B",
+      "explanation": "Erik Klippings håndfæstning fra 1282 var den første; ordningen ophørte ved enevælden.",
+      "source_pages": [
+        10
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0538",
+      "question": "Hvilken opgave hører til FN's centrale arbejdsområder?",
+      "options": {
+        "A": "Humanitær hjælp",
+        "B": "At vedtage fælles skattesatser for medlemslandene",
+        "C": "At udpege medlemslandenes regeringer"
+      },
+      "answer": "A",
+      "explanation": "FN arbejder blandt andet med fred, menneskerettigheder, udvikling og humanitære indsatser.",
+      "source_pages": [
+        131
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0967",
+      "question": "Hvilken forbedring bidrog til bedre sundhed fra 1800-tallet?",
+      "options": {
+        "A": "Flere mennesker i boliger uden rindende vand",
+        "B": "Kloakker og rent rindende drikkevand",
+        "C": "Mindre varieret kost i befolkningen"
+      },
+      "answer": "B",
+      "explanation": "Bedre hygiejne og vandforsyning var blandt årsagerne til bedre folkesundhed.",
+      "source_pages": [
+        238
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0223",
+      "question": "Hvad kendetegnede mange græsrodsbevægelser i 1970'erne?",
+      "options": {
+        "A": "De havde brede programmer til folketingsvalg",
+        "B": "De var faste udvalg i de etablerede partier",
+        "C": "De arbejdede for et bestemt politisk mål"
+      },
+      "answer": "C",
+      "explanation": "Græsrodsbevægelser samlede mennesker om enkelte mål, eksempelvis fred eller modstand mod atomkraft.",
+      "source_pages": [
+        54
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0675",
+      "question": "Hvilken musikgruppe samarbejdede Flemming Flindt med om Dødens triumf?",
+      "options": {
+        "A": "Brødrene Olsen",
+        "B": "Lukas Graham",
+        "C": "Savage Rose"
+      },
+      "answer": "C",
+      "explanation": "Balletten Dødens triumf fra 1971 blev skabt med musikerne i Savage Rose.",
+      "source_pages": [
+        166
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0410",
+      "question": "Hvor hurtigt skal en anholdt, som fortsat tilbageholdes, stilles for en dommer?",
+      "options": {
+        "A": "Inden for 24 timer",
+        "B": "Inden for 72 timer",
+        "C": "Inden for syv dage"
+      },
+      "answer": "A",
+      "explanation": "En anholdt, der fortsat tilbageholdes, skal stilles for en dommer inden for 24 timer; dommeren tager stilling til den videre frihedsberøvelse.",
+      "source_pages": [
+        102
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "values"
+    }
+  ],
+  "snapshot_sha256": "00404e8bef02ee96551ea3b3fd1650406589cf4751284056caffb48d6f9c4d3a"
+}
