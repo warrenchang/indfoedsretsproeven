@@ -1,0 +1,181 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-09",
+  "timezone": "Europe/Copenhagen",
+  "bank_sha256": "eb5632a9bc01ec0964b98eedc4ac675347ebb3e766c26f821ec790140a38f9f6",
+  "news_verified_at": "2026-10-26",
+  "official": false,
+  "questions": [
+    {
+      "id": "DK0718",
+      "question": "Hvilke stræder forbinder Kattegat med Østersøen?",
+      "options": {
+        "A": "Lillebælt, Storebælt og Øresund",
+        "B": "Lillebælt, Limfjorden og Øresund",
+        "C": "Storebælt, Skagerrak og Isefjorden"
+      },
+      "answer": "A",
+      "explanation": "De tre danske stræder leder sydpå fra Kattegat til Østersøen.",
+      "source_pages": [
+        175
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0630",
+      "question": "Hvad skulle de vævede kongetapeter på Kronborg blandt andet vise?",
+      "options": {
+        "A": "Den katolske paves overhøjhed",
+        "B": "Købstædernes uafhængighed af kronen",
+        "C": "Kongens magt og betydning"
+      },
+      "answer": "C",
+      "explanation": "Kongen og adelen brugte efter reformationen kunst til at vise rigdom og magt.",
+      "source_pages": [
+        154
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0912",
+      "question": "Hvilken uddannelse kræves normalt før en lang videregående uddannelse?",
+      "options": {
+        "A": "Et almindeligt højskoleophold",
+        "B": "En afsluttet folkeskoleuddannelse",
+        "C": "En gymnasial uddannelse"
+      },
+      "answer": "C",
+      "explanation": "En gymnasial uddannelse er den normale adgangsvej til lange videregående uddannelser.",
+      "source_pages": [
+        226
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0255",
+      "question": "Hvilken politik forbindes Liberal Alliance med?",
+      "options": {
+        "A": "Lavere skatter og mere privat markedsøkonomi",
+        "B": "Højere skatter og en større offentlig sektor",
+        "C": "Mere statslig styring af private virksomheders priser"
+      },
+      "answer": "A",
+      "explanation": "Lærematerialet fremhæver skattelettelser, arbejdsincitamenter og en større privat markedsøkonomi.",
+      "source_pages": [
+        63
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0396-e2",
+      "question": "Hvilken placering fik Danmark i World Justice Projects retsstatsindeks i 2025?",
+      "options": {
+        "A": "Nr. 41",
+        "B": "Nr. 21",
+        "C": "Nr. 1"
+      },
+      "answer": "C",
+      "explanation": "Danmark lå nummer 1 blandt 143 lande og jurisdiktioner i retsstatsindekset for 2025, offentliggjort i oktober 2025.",
+      "source_pages": [],
+      "source_url": "https://worldjusticeproject.org/news/wjp-rule-law-index-2025-global-press-release",
+      "source_edition": "Retsstat 2025",
+      "exam_domain": "values",
+      "source_title": "World Justice Project: Rule of Law Index 2025",
+      "verified_at": "2026-09-27"
+    },
+    {
+      "id": "CA-P035",
+      "event_date": "2026-09-03",
+      "question": "Hvem skal ifølge den toldreform, EU-Rådet godkendte 3. september 2026, regnes som importør ved salg fra en netplatform uden for EU?",
+      "options": {
+        "A": "Pakkebuddets arbejdsgiver i EU",
+        "B": "Netplatformen uden for EU",
+        "C": "Pakkens private modtager i EU"
+      },
+      "answer": "B",
+      "explanation": "Rådets reformtekst placerer importøransvaret hos platformen. Meddelelsen om Rådets godkendelse oplyste, at Europa-Parlamentets godkendelse forventedes senere i september; den beskrev ikke alle regler som allerede gældende.",
+      "source_url": "https://www.consilium.europa.eu/en/press/press-releases/2026/09/03/eu-customs-council-greenlights-landmark-reform/",
+      "source_title": "EU customs: Council greenlights landmark reform",
+      "verified_at": "2026-09-25",
+      "exam_domain": "current_affairs",
+      "source_pages": [],
+      "source_edition": "Nyhedskilde kontrolleret 2026-09-25"
+    },
+    {
+      "id": "DK0037",
+      "question": "Hvilket land forlod endeligt Kalmarunionen i 1523?",
+      "options": {
+        "A": "Danmark",
+        "B": "Norge",
+        "C": "Sverige"
+      },
+      "answer": "C",
+      "explanation": "Sverige løsrev sig i 1523, mens Norge forblev forbundet med Danmark.",
+      "source_pages": [
+        12
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0463",
+      "question": "Hvad er navnet LEGO en forkortelse af?",
+      "options": {
+        "A": "Let gods",
+        "B": "Leg godt",
+        "C": "Lær godt"
+      },
+      "answer": "B",
+      "explanation": "Virksomhedens navn er dannet af ordene leg godt.",
+      "source_pages": [
+        115
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0559",
+      "question": "Hvilken begivenhed skabte grundlag for ændringen i Danmarks sikkerhedspolitik omkring 1990?",
+      "options": {
+        "A": "Danmarks indtræden i NATO",
+        "B": "Den Kolde Krigs afslutning",
+        "C": "Danmarks indtræden i EF"
+      },
+      "answer": "B",
+      "explanation": "Efter Den Kolde Krig ændredes NATO's rolle og rammerne for dansk udenrigspolitik.",
+      "source_pages": [
+        136
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0947-e2",
+      "question": "Betyder lige rettigheder, at mænd og kvinder nødvendigvis klarer sig ens på alle områder?",
+      "options": {
+        "A": "Ja",
+        "B": "Nej"
+      },
+      "answer": "B",
+      "explanation": "Lige rettigheder betyder ikke i sig selv, at kønnene klarer sig ens på alle områder.",
+      "source_pages": [
+        234
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "values"
+    }
+  ],
+  "snapshot_sha256": "643770de509ac063203841d31c0929fb08e4a420043f096089afe374949143cf"
+}
