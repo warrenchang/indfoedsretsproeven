@@ -1,0 +1,181 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-10",
+  "timezone": "Europe/Copenhagen",
+  "bank_sha256": "eb5632a9bc01ec0964b98eedc4ac675347ebb3e766c26f821ec790140a38f9f6",
+  "news_verified_at": "2026-10-26",
+  "official": false,
+  "questions": [
+    {
+      "id": "DK0160",
+      "question": "Hvilket tysk krav afviste regeringen i august 1943?",
+      "options": {
+        "A": "Forbud mod privatbilisme i København",
+        "B": "Tvungen tyskundervisning i folkeskolen",
+        "C": "Dødsstraf for sabotage"
+      },
+      "answer": "C",
+      "explanation": "Afvisningen af skærpede krav, herunder dødsstraf, førte til samarbejdspolitikkens ophør.",
+      "source_pages": [
+        39
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0456",
+      "question": "Hvor stor en del af arbejdsstyrken arbejder omtrent i selve landbruget i Danmark i midten af 2020’erne?",
+      "options": {
+        "A": "Cirka 50 procent",
+        "B": "Cirka 20 procent",
+        "C": "Cirka 2 procent"
+      },
+      "answer": "C",
+      "explanation": "Landbruget producerer meget, men effektivisering betyder, at relativt få arbejder i selve erhvervet.",
+      "source_pages": [
+        114
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0829",
+      "question": "Hvad kaldes Færøernes folkevalgte lovgivende forsamling?",
+      "options": {
+        "A": "Statsrådet",
+        "B": "Landstinget i Nuuk",
+        "C": "Lagtinget"
+      },
+      "answer": "C",
+      "explanation": "Lagtinget vedtager love på områder, som det færøske hjemmestyre har overtaget.",
+      "source_pages": [
+        205
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0502",
+      "question": "Hvad er hovedideen bag Schengensamarbejdet?",
+      "options": {
+        "A": "Et område uden almindelig personkontrol ved de indre grænser",
+        "B": "Fælles statsborgerskab som erstatning for nationale pas",
+        "C": "Fælles kontrol ved alle grænser mellem medlemslandene"
+      },
+      "answer": "A",
+      "explanation": "Schengen fjerner som udgangspunkt personkontrol internt og indebærer samarbejde om den ydre grænse.",
+      "source_pages": [
+        123
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0334",
+      "question": "Hvor mange folketingsmedlemmer skal mindst deltage, før en afstemning er gyldig?",
+      "options": {
+        "A": "60",
+        "B": "150",
+        "C": "90"
+      },
+      "answer": "C",
+      "explanation": "Over halvdelen af de 179 medlemmer skal deltage, altså mindst 90.",
+      "source_pages": [
+        84
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0064-e2",
+      "question": "Hvad blev først forbudt i de danske kolonier?",
+      "options": {
+        "A": "Slavehandel",
+        "B": "Slavehold"
+      },
+      "answer": "A",
+      "explanation": "Handelen blev forbudt fra 1803, men det var tilladt at holde slaver indtil 1848.",
+      "source_pages": [
+        18
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0610",
+      "question": "Hvad møder hovedpersonen i Lykke-Per, da han forlader præstefamilien?",
+      "options": {
+        "A": "Et liv som købmand i en dansk koloni",
+        "B": "Det moderne samfunds muligheder og rodløshed",
+        "C": "En officerskarriere og dens militære æresbegreber"
+      },
+      "answer": "B",
+      "explanation": "Per møder industri, videnskab og nye muligheder i København, men også rodløshed.",
+      "source_pages": [
+        148
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0923-e2",
+      "question": "Hvilken placering fik Danmark på ILGA-Europes Rainbow Map 2026 over LGBT+-personers juridiske rettigheder?",
+      "options": {
+        "A": "Nr. 35",
+        "B": "Nr. 20",
+        "C": "Nr. 5"
+      },
+      "answer": "C",
+      "explanation": "Danmark blev nummer 5 blandt 49 europæiske lande. Rainbow Map vurderer lovgivning og politiske tiltag; placeringen måler ikke direkte borgernes oplevelser eller holdninger.",
+      "source_pages": [],
+      "source_url": "https://www.ilga-europe.org/report/rainbow-map-2026/",
+      "source_edition": "LGBT+-rettigheder 2026",
+      "exam_domain": "values",
+      "source_title": "ILGA-Europe: Rainbow Map 2026",
+      "verified_at": "2026-09-27"
+    },
+    {
+      "id": "CA-C046",
+      "event_date": "2026-06-24",
+      "question": "Hvilket geografisk samarbejde står bag miljømærket, som Roskilde Festival modtog i juni 2026?",
+      "options": {
+        "A": "EU-samarbejdet",
+        "B": "FN-samarbejdet",
+        "C": "Det nordiske samarbejde"
+      },
+      "answer": "C",
+      "explanation": "Svanemærket er det officielle nordiske miljømærke. EU har et andet miljømærke, EU-Blomsten.",
+      "source_url": "https://www.roskilde-festival.dk/nyheder/rf26-bliver-nordens-foerste-svanemaerkede-festival",
+      "source_title": "RF26 bliver første svanemærkede festival",
+      "verified_at": "2026-09-25",
+      "exam_domain": "current_affairs",
+      "source_pages": [],
+      "source_edition": "Nyhedskilde kontrolleret 2026-09-25"
+    },
+    {
+      "id": "DK0806",
+      "question": "Hvad betød Den Kongelige Grønlandske Handels monopol for grønlandske producenter?",
+      "options": {
+        "A": "De måtte frit vælge mellem konkurrerende handelsselskaber",
+        "B": "De måtte sælge deres varer til de danske kolonibestyrere",
+        "C": "De skulle eksportere gennem færøske havne"
+      },
+      "answer": "B",
+      "explanation": "Monopolet gav det danske selskab kontrol over handelen med Grønland.",
+      "source_pages": [
+        199
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    }
+  ],
+  "snapshot_sha256": "20ef262e4e2a536ae55f0a1b74a5cdd073f41df6b3ca87562427b8cda1a378e9"
+}
