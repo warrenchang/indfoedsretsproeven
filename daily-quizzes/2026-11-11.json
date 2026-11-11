@@ -1,0 +1,181 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-11",
+  "timezone": "Europe/Copenhagen",
+  "bank_sha256": "eb5632a9bc01ec0964b98eedc4ac675347ebb3e766c26f821ec790140a38f9f6",
+  "news_verified_at": "2026-10-26",
+  "official": false,
+  "questions": [
+    {
+      "id": "DK0641",
+      "question": "Hvilken begivenhed henviser Asger Jorns Stalingrad til?",
+      "options": {
+        "A": "Den russiske revolution i 1905",
+        "B": "Oprettelsen af Sovjetunionen i 1922",
+        "C": "Et stort slag under 2. Verdenskrig"
+      },
+      "answer": "C",
+      "explanation": "Maleriets navn henviser til slaget ved Stalingrad i 1942-43.",
+      "source_pages": [
+        156
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0796",
+      "question": "Hvilken fælles forfatningsmæssig ramme gælder i Danmark, Grønland og på Færøerne?",
+      "options": {
+        "A": "EU's traktater som fælles grundlov",
+        "B": "Danmarks Riges Grundlov",
+        "C": "Tre helt uafhængige staters forfatninger"
+      },
+      "answer": "B",
+      "explanation": "Grundloven gælder for hele riget, samtidig med at Grønland og Færøerne har selvstyreordninger.",
+      "source_pages": [
+        196
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0588",
+      "question": "Hvornår blev Arktisk Råd oprettet?",
+      "options": {
+        "A": "1996",
+        "B": "1945",
+        "C": "1973"
+      },
+      "answer": "A",
+      "explanation": "Arktisk Råd blev oprettet i 1996 for at styrke samarbejdet om bæredygtig udvikling i Arktis.",
+      "source_pages": [
+        143
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0428",
+      "question": "Hvem er tidlig pension, også kaldet Arne-pension, især rettet mod?",
+      "options": {
+        "A": "Personer med meget mange år på arbejdsmarkedet",
+        "B": "Personer med de højeste pensionsopsparinger",
+        "C": "Unge, der netop har afsluttet en uddannelse"
+      },
+      "answer": "A",
+      "explanation": "Ordningen fra 2022 giver tidligere tilbagetrækning til personer med meget lang arbejdsmarkedstilknytning.",
+      "source_pages": [
+        108
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "CA-S034",
+      "event_date": "2026-06-18",
+      "question": "Hvem indgik regeringen i juni 2026 en aftale med om kommunernes økonomi for 2027?",
+      "options": {
+        "A": "KL",
+        "B": "Danske Regioner",
+        "C": "Dansk Industri"
+      },
+      "answer": "A",
+      "explanation": "Aftalen blev indgået med KL, som repræsenterer kommunerne. Den fastlægger blandt andet rammer for kommunal service og anlæg.",
+      "source_url": "https://www.kl.dk/forsidenyheder/2026/juni/kommunernes-oekonomiaftale-for-2027-er-paa-plads",
+      "source_title": "Kommunernes økonomiaftale for 2027 er på plads",
+      "verified_at": "2026-09-25",
+      "exam_domain": "current_affairs",
+      "source_pages": [],
+      "source_edition": "Nyhedskilde kontrolleret 2026-09-25"
+    },
+    {
+      "id": "DK0205",
+      "question": "Hvornår trådte Danmark ind i EF efter folkeafstemningen i 1972?",
+      "options": {
+        "A": "1. januar 1993",
+        "B": "1. januar 1973",
+        "C": "1. januar 1958"
+      },
+      "answer": "B",
+      "explanation": "Et flertal stemte ja i oktober 1972, og medlemskabet begyndte i januar 1973.",
+      "source_pages": [
+        50
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0282",
+      "question": "Hvor mange folketingsmedlemmer vælges på Færøerne?",
+      "options": {
+        "A": "To",
+        "B": "Seks",
+        "C": "Fire"
+      },
+      "answer": "A",
+      "explanation": "Færøerne vælger to medlemmer; Grønland vælger også to.",
+      "source_pages": [
+        72
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0156",
+      "question": "Hvorfor havde Norge stor strategisk betydning for Tyskland?",
+      "options": {
+        "A": "Store kornleverancer til den tyske hær",
+        "B": "Kontrol over indsejlingen til Østersøen",
+        "C": "Jernmalm og adgang til Atlanterhavet"
+      },
+      "answer": "C",
+      "explanation": "Norsk kyst og udskibning af svensk jernmalm ved Narvik var vigtige for den tyske krigsførelse.",
+      "source_pages": [
+        38
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0383-e2",
+      "question": "Kan man kritisere en offentlig institution, selv om flertallet er uenigt?",
+      "options": {
+        "A": "Ja",
+        "B": "Nej"
+      },
+      "answer": "A",
+      "explanation": "Fri debat og kritik er beskyttet, også når holdninger går imod flertallet.",
+      "source_pages": [
+        96
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "values"
+    },
+    {
+      "id": "DK0733",
+      "question": "Hvilken form har FN Byens bygning på Marmormolen i København?",
+      "options": {
+        "A": "En stor glaspyramide",
+        "B": "En cirkelformet ring",
+        "C": "En ottetakket stjerne"
+      },
+      "answer": "C",
+      "explanation": "FN Byen er tegnet af 3XN som en ottetakket stjerne.",
+      "source_pages": [
+        189
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    }
+  ],
+  "snapshot_sha256": "706aefc3ee29f495343df4dc2cb5a32be7ec910da641151256f0936017596443"
+}
