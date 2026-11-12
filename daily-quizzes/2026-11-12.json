@@ -1,0 +1,183 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-12",
+  "timezone": "Europe/Copenhagen",
+  "bank_sha256": "eb5632a9bc01ec0964b98eedc4ac675347ebb3e766c26f821ec790140a38f9f6",
+  "news_verified_at": "2026-10-26",
+  "official": false,
+  "questions": [
+    {
+      "id": "DK0263",
+      "question": "Hvordan kan forældre få demokratisk indflydelse på en skoles forhold?",
+      "options": {
+        "A": "Gennem skolebestyrelsen",
+        "B": "Gennem et menighedsråd",
+        "C": "Gennem et regionsråd"
+      },
+      "answer": "A",
+      "explanation": "Skolebestyrelsen er et eksempel på borgernes deltagelse i det nære demokrati.",
+      "source_pages": [
+        67
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "values"
+    },
+    {
+      "id": "DK0375",
+      "question": "Hvad samler ofte medlemmerne af en fritidsforening?",
+      "options": {
+        "A": "En fælles interesse eller hobby",
+        "B": "En fælles tilknytning til et bestemt parti",
+        "C": "Et fælles offentligt ansættelsesforhold"
+      },
+      "answer": "A",
+      "explanation": "Fritidsforeninger kan samles om eksempelvis fodbold, skak eller spejderaktiviteter.",
+      "source_pages": [
+        94
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0082",
+      "question": "Hvilket erhverv blomstrede især i Den Florissante Periode?",
+      "options": {
+        "A": "Søfart",
+        "B": "Landbrug",
+        "C": "Håndværk"
+      },
+      "answer": "A",
+      "explanation": "Perioden var præget af voksende søhandel, og København blev en international storhavn.",
+      "source_pages": [
+        21
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0457",
+      "question": "Hvad omfatter begrebet fødevareklynge ud over selve landbruget?",
+      "options": {
+        "A": "Forarbejdning, transport, salg og udvikling",
+        "B": "Landbrugets egne marker og stalde",
+        "C": "Myndighedernes kontrol med fødevaresikkerhed"
+      },
+      "answer": "A",
+      "explanation": "Begrebet samler de mange aktiviteter, der er knyttet til fødevarer gennem hele værdikæden.",
+      "source_pages": [
+        114
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "CA-P029",
+      "event_date": "2026-07-08",
+      "question": "I hvilken by blev NATO-topmødet i juli 2026 afholdt?",
+      "options": {
+        "A": "Vilnius",
+        "B": "Bruxelles",
+        "C": "Ankara"
+      },
+      "answer": "C",
+      "explanation": "Topmødet fandt sted i Tyrkiets hovedstad den 7.–8. juli.",
+      "source_url": "https://nato.int/en/news-and-events/events/2026/07/overview---2026-nato-summit-in-ankara-",
+      "source_title": "2026 NATO Summit in Ankara",
+      "verified_at": "2026-09-25",
+      "exam_domain": "current_affairs",
+      "source_pages": [],
+      "source_edition": "Nyhedskilde kontrolleret 2026-09-25"
+    },
+    {
+      "id": "DK0164",
+      "question": "Hvornår forsøgte besættelsesmagten at anholde de danske jøder?",
+      "options": {
+        "A": "Oktober 1943",
+        "B": "Maj 1945",
+        "C": "April 1940"
+      },
+      "answer": "A",
+      "explanation": "Aktionen fandt sted i oktober 1943, efter at mange var blevet advaret og hjulpet væk.",
+      "source_pages": [
+        41
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0755",
+      "question": "Hvor ligger borgruinen Hammershus?",
+      "options": {
+        "A": "På Møn",
+        "B": "På Lolland",
+        "C": "På Bornholm"
+      },
+      "answer": "C",
+      "explanation": "Hammershus ligger på en klippe på Bornholm og er Nordeuropas største borgruin.",
+      "source_pages": [
+        185
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0551",
+      "question": "Hvilket ministerium hører Danida under?",
+      "options": {
+        "A": "Skatteministeriet",
+        "B": "Udenrigsministeriet",
+        "C": "Justitsministeriet"
+      },
+      "answer": "B",
+      "explanation": "Danida er en afdeling under Udenrigsministeriet med ansvar for udviklingspolitikken.",
+      "source_pages": [
+        134
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0860",
+      "question": "Hvilke stoffer flytter den cellepumpe, som Jens Christian Skou opdagede?",
+      "options": {
+        "A": "Ilt og kuldioxid",
+        "B": "Natrium og kalium",
+        "C": "Calcium og magnesium"
+      },
+      "answer": "B",
+      "explanation": "Pumpen transporterer natrium ud af og kalium ind i cellerne og er vigtig for cellernes funktion.",
+      "source_pages": [
+        213,
+        214
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0685",
+      "question": "Hvad er et karakteristisk træk ved Dreyers film?",
+      "options": {
+        "A": "Hurtig klipning og store actionscener",
+        "B": "Nærbilleder og langsomt tempo",
+        "C": "Improviserede gadeoptagelser og håndholdt kamera"
+      },
+      "answer": "B",
+      "explanation": "Dreyer er især kendt for sine udtryksfulde nærbilleder og rolige filmtempo.",
+      "source_pages": [
+        168
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    }
+  ],
+  "snapshot_sha256": "371585551e3cf63bec86e6aa3a12591ea452630e52ed9075d17df14b67472687"
+}
