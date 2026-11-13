@@ -1,0 +1,181 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-13",
+  "timezone": "Europe/Copenhagen",
+  "bank_sha256": "eb5632a9bc01ec0964b98eedc4ac675347ebb3e766c26f821ec790140a38f9f6",
+  "news_verified_at": "2026-10-26",
+  "official": false,
+  "questions": [
+    {
+      "id": "DK0047",
+      "question": "Hvilken nutidig hovedstad hed tidligere Kristiania?",
+      "options": {
+        "A": "Helsinki",
+        "B": "Stockholm",
+        "C": "Oslo"
+      },
+      "answer": "C",
+      "explanation": "Christian 4. grundlagde Kristiania, som senere fik navnet Oslo.",
+      "source_pages": [
+        14
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0443",
+      "question": "Hvorfor modtager børnefamilier børne- og ungeydelse?",
+      "options": {
+        "A": "Ydelsen erstatter børnenes skoleundervisning",
+        "B": "Ydelsen er betaling for forældrenes erhvervsarbejde",
+        "C": "De har ekstra udgifter ved at forsørge børn"
+      },
+      "answer": "C",
+      "explanation": "Ydelsen er begrundet i familiers udgifter til børn, også når forældrene arbejder.",
+      "source_pages": [
+        111
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0602",
+      "question": "Hvad afslører Jeppes opførsel, da han tror, at han er herremand?",
+      "options": {
+        "A": "At han selv kan opføre sig tyrannisk",
+        "B": "At han afviser magten og vender tilbage til arbejdet",
+        "C": "At han bruger magten til at befri bønderne"
+      },
+      "answer": "A",
+      "explanation": "Komedien viser, at den undertrykte Jeppe også kan misbruge magt, når rollerne byttes.",
+      "source_pages": [
+        146
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0856",
+      "question": "Hvilken debat var Mathilde Fibigers Clara Raphael med til at rejse?",
+      "options": {
+        "A": "Debatten om kvinders frigørelse og ligestilling",
+        "B": "Debatten om kvinders arveret til tronen",
+        "C": "Debatten om præsters rolle i skolevæsenet"
+      },
+      "answer": "A",
+      "explanation": "Brevromanen fra 1851 udfordrede samtidens opfattelse af kvinders rolle.",
+      "source_pages": [
+        212
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0177",
+      "question": "Hvilken dansk erhvervsgruppe mistede mange liv ved transportopgaver i allieret tjeneste?",
+      "options": {
+        "A": "Jernbanearbejdere i Danmark",
+        "B": "Søfolk i allieret tjeneste",
+        "C": "Lastbilchauffører i Danmark"
+      },
+      "answer": "B",
+      "explanation": "Mange af de cirka 7.000 dræbte danskere var søfolk i allieret krigstjeneste.",
+      "source_pages": [
+        42
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0738",
+      "question": "Hvilke fugle skaber fænomenet Sort Sol?",
+      "options": {
+        "A": "Havørne",
+        "B": "Stære",
+        "C": "Svaner"
+      },
+      "answer": "B",
+      "explanation": "Store flokke af stære samles og bevæger sig som en fugleballet før natten.",
+      "source_pages": [
+        179
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0389",
+      "question": "Hvad er en hovedopgave for den offentlige forvaltning?",
+      "options": {
+        "A": "At føre lovene ud i livet",
+        "B": "At afgøre skyld i straffesager",
+        "C": "At vedtage lovforslag i stedet for Folketinget"
+      },
+      "answer": "A",
+      "explanation": "Statslige, regionale og kommunale myndigheder gennemfører lovene og leverer offentlige tilbud.",
+      "source_pages": [
+        98
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0922",
+      "question": "Hvad markerer Danmarkshistoriens ændring i 1981 for homoseksuelle?",
+      "options": {
+        "A": "Par af samme køn fik ret til adoption",
+        "B": "Par af samme køn fik ret til registreret partnerskab",
+        "C": "Homoseksualitet blev fjernet fra listen over psykiske sygdomme"
+      },
+      "answer": "C",
+      "explanation": "Sundhedsstyrelsen fjernede homoseksualitet fra sygdomslisten i 1981.",
+      "source_pages": [
+        229
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "values"
+    },
+    {
+      "id": "CA-C075",
+      "event_date": "2026-06-19",
+      "question": "Hvilken oplevelse blev fremhævet ved det nye Skyspace på ARoS i sommeren 2026?",
+      "options": {
+        "A": "En udstilling af historiske teleskoper",
+        "B": "Lyset ved solopgang og solnedgang",
+        "C": "En digital rejse gennem solsystemet"
+      },
+      "answer": "B",
+      "explanation": "ARoS tilbød særlige oplevelser ved solopgang og solnedgang.",
+      "source_url": "https://www.aros.dk/en/lp/summer-at-aros/",
+      "source_title": "Experience summer at ARoS",
+      "verified_at": "2026-09-25",
+      "exam_domain": "current_affairs",
+      "source_pages": [],
+      "source_edition": "Nyhedskilde kontrolleret 2026-09-25"
+    },
+    {
+      "id": "DK0555-e2",
+      "question": "Kan afrikanske lande med lav CO₂-udledning pr. indbygger blive hårdt ramt af klimaforandringer?",
+      "options": {
+        "A": "Ja",
+        "B": "Nej"
+      },
+      "answer": "A",
+      "explanation": "Materialet fremhæver, at Afrika trods lav udledning pr. person oplever alvorlige følger.",
+      "source_pages": [
+        135
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    }
+  ],
+  "snapshot_sha256": "2f7af6cd3d0ead3bd49a3a3e8c817014a557576119cae2106a5db6ee0498efaf"
+}
