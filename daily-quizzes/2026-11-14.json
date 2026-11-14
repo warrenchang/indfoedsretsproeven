@@ -1,0 +1,182 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-14",
+  "timezone": "Europe/Copenhagen",
+  "bank_sha256": "eb5632a9bc01ec0964b98eedc4ac675347ebb3e766c26f821ec790140a38f9f6",
+  "news_verified_at": "2026-10-26",
+  "official": false,
+  "questions": [
+    {
+      "id": "DK0507",
+      "question": "Hvad betyder suverænitetsafgivelse i forbindelse med EU?",
+      "options": {
+        "A": "At Folketinget afgiver samtlige lovgivningsopgaver",
+        "B": "At danske domstole afskaffes som institutioner",
+        "C": "At EU får beføjelser, som før lå hos nationale myndigheder"
+      },
+      "answer": "C",
+      "explanation": "Danmark har på bestemte områder givet EU mulighed for at træffe bindende beslutninger.",
+      "source_pages": [
+        124
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "CA-C049",
+      "event_date": "2026-06-19",
+      "question": "Hvad hedder James Turrells nye Skyspace på ARoS, åbnet i 2026?",
+      "options": {
+        "A": "Your Rainbow Panorama",
+        "B": "As Seen Below",
+        "C": "The Weather Project"
+      },
+      "answer": "B",
+      "explanation": "Det nye værk hedder As Seen Below.",
+      "source_url": "https://www.aros.dk/en/lp/summer-at-aros/",
+      "source_title": "Experience summer at ARoS",
+      "verified_at": "2026-09-25",
+      "exam_domain": "current_affairs",
+      "source_pages": [],
+      "source_edition": "Nyhedskilde kontrolleret 2026-09-25"
+    },
+    {
+      "id": "DK0050",
+      "question": "Hvilke tre landskaber blev endeligt afstået til Sverige ved Roskilde-freden i 1658?",
+      "options": {
+        "A": "Skåne, Halland og Blekinge",
+        "B": "Slesvig, Holsten og Lauenborg",
+        "C": "Fyn, Lolland og Falster"
+      },
+      "answer": "A",
+      "explanation": "Roskilde-freden kostede Danmark de østlige landskaber Skåne, Halland og Blekinge.",
+      "source_pages": [
+        15
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0976",
+      "question": "Hvordan er praktiserende læger normalt organiseret økonomisk?",
+      "options": {
+        "A": "Som kommunalt ansatte med en fast kommunal løn",
+        "B": "Som selvstændige, der aflønnes af regionerne",
+        "C": "Som statsansatte direkte under Sundhedsministeriet"
+      },
+      "answer": "B",
+      "explanation": "De praktiserende læger er selvstændige erhvervsdrivende, men finansieres gennem regionerne.",
+      "source_pages": [
+        240
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0169",
+      "question": "Hvordan besluttede islændingene sig for fuld selvstændighed?",
+      "options": {
+        "A": "Ved en folkeafstemning",
+        "B": "Ved en afgørelse i Folkeforbundet",
+        "C": "Ved en dansk militær ordre"
+      },
+      "answer": "A",
+      "explanation": "Et meget stort flertal af den islandske befolkning stemte for selvstændighed.",
+      "source_pages": [
+        41
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0890",
+      "question": "En højskole bruger samtaler og nysgerrige spørgsmål frem for udenadslære. Hvilken idé følger den?",
+      "options": {
+        "A": "Latinskolens ideal om tekstlig udenadslære",
+        "B": "Grundtvigs idé om det levende ord",
+        "C": "Eksamensskolens ideal om målbare karakterer"
+      },
+      "answer": "B",
+      "explanation": "Grundtvig ønskede levende formidling og diskussion frem for terperi.",
+      "source_pages": [
+        222
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "CA-P074",
+      "event_date": "2026-07-23",
+      "question": "Hvilken våbentype lå bag særligt mange af julipakkens sanktioner mod russisk militærindustri i 2026?",
+      "options": {
+        "A": "Atomubåde",
+        "B": "Kampvogne",
+        "C": "Langtrækkende droner"
+      },
+      "answer": "C",
+      "explanation": "Mange af de nye opførelser vedrørte produktion af langtrækkende droner.",
+      "source_url": "https://www.consilium.europa.eu/en/press/press-releases/2026/07/23/21st-package-of-sanctions-eu-hits-russian-energy-financial-services-and-crypto-hard/",
+      "source_title": "21st package of sanctions: EU hits Russian energy, financial services and crypto hard",
+      "verified_at": "2026-09-25",
+      "exam_domain": "current_affairs",
+      "source_pages": [],
+      "source_edition": "Nyhedskilde kontrolleret 2026-09-25"
+    },
+    {
+      "id": "DK0620",
+      "question": "Hvilken erfaring ligger bag Naja Marie Aidts Carls bog?",
+      "options": {
+        "A": "Sorgen over et afsluttet ægteskab",
+        "B": "Omsorgen for hendes syge mor",
+        "C": "Sorgen over hendes søns død"
+      },
+      "answer": "C",
+      "explanation": "Carls bog handler om tabet af forfatterens unge søn.",
+      "source_pages": [
+        150
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0956-e2",
+      "question": "Hvem tager størstedelen af barselsorloven?",
+      "options": {
+        "A": "Kvinder",
+        "B": "Mænd"
+      },
+      "answer": "A",
+      "explanation": "Materialet angiver, at kvinder fortsat tager omkring 80 procent af orloven.",
+      "source_pages": [
+        236
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "values"
+    },
+    {
+      "id": "DK0405",
+      "question": "Hvilke straffe er de almindelige i Danmark?",
+      "options": {
+        "A": "Bøde og dødsstraf",
+        "B": "Legemsstraf og fængsel",
+        "C": "Bøde og fængsel"
+      },
+      "answer": "C",
+      "explanation": "De almindelige straffe er bøde og fængsel; dødsstraf kan ikke idømmes.",
+      "source_pages": [
+        101
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    }
+  ],
+  "snapshot_sha256": "277726f615806f157821b76b1cff8aa1ba2c772bcc6c0e028d2cf2234e36f3fe"
+}
