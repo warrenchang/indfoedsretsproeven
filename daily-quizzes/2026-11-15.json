@@ -1,0 +1,179 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-15",
+  "timezone": "Europe/Copenhagen",
+  "bank_sha256": "eb5632a9bc01ec0964b98eedc4ac675347ebb3e766c26f821ec790140a38f9f6",
+  "news_verified_at": "2026-10-26",
+  "official": false,
+  "questions": [
+    {
+      "id": "DK0510-e2",
+      "question": "Stemte danskerne ja til at omdanne retsforbeholdet til en tilvalgsordning i 2015?",
+      "options": {
+        "A": "Ja",
+        "B": "Nej"
+      },
+      "answer": "B",
+      "explanation": "Vælgerne afviste at ændre retsforbeholdet til den foreslåede tilvalgsordning.",
+      "source_pages": [
+        125
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "CA-S039",
+      "event_date": "2026-08-22",
+      "question": "Hvilken ringvej følger den letbane, som åbnede i fuld længde i august 2026?",
+      "options": {
+        "A": "Ring 3",
+        "B": "Ring 4",
+        "C": "Ring 2"
+      },
+      "answer": "A",
+      "explanation": "Den samlede strækning går langs Ring 3.",
+      "source_url": "https://dinletbane.dk/da/nyheder/50000-koerte-med-da-hele-letbanen-blev-indviet/",
+      "source_title": "Stor tilslutning: 50.000 kørte med da hele Letbanen blev indviet",
+      "verified_at": "2026-09-25",
+      "exam_domain": "current_affairs",
+      "source_pages": [],
+      "source_edition": "Nyhedskilde kontrolleret 2026-09-25"
+    },
+    {
+      "id": "DK0286",
+      "question": "Hvad sker der ved en kongerunde?",
+      "options": {
+        "A": "Partierne forhandler om, hvem der skal være tronfølger",
+        "B": "Monarken offentliggør regeringens forslag til finanslov",
+        "C": "Partierne rådgiver om dannelsen af en regering"
+      },
+      "answer": "C",
+      "explanation": "Partirepræsentanter rådgiver kongen om en forhandlingsleder eller statsminister.",
+      "source_pages": [
+        72
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0868",
+      "question": "Hvad betyder det, at folkekirken beskrives som rummelig?",
+      "options": {
+        "A": "Kirken har en fælles bindende partipolitisk holdning",
+        "B": "Medlemskabet omfatter enhver religiøs trosretning",
+        "C": "Der er plads til forskellige kristendomsopfattelser"
+      },
+      "answer": "C",
+      "explanation": "Folkekirken giver plads til betydelige forskelle i opfattelsen af den evangelisk-lutherske tro.",
+      "source_pages": [
+        216
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0249-e2",
+      "question": "Skulle Tilbagetrækningsreformen fra 2011 få folk til at trække sig tidligere eller senere tilbage?",
+      "options": {
+        "A": "Tidligere",
+        "B": "Senere"
+      },
+      "answer": "B",
+      "explanation": "Reformen skulle forlænge arbejdslivet og øge arbejdsudbuddet.",
+      "source_pages": [
+        61
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0609",
+      "question": "Hvem skrev romanen Ved Vejen?",
+      "options": {
+        "A": "Johannes V. Jensen",
+        "B": "Herman Bang",
+        "C": "Martin Andersen Nexø"
+      },
+      "answer": "B",
+      "explanation": "Ved Vejen fra 1886 er et af Herman Bangs hovedværker.",
+      "source_pages": [
+        147
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0791",
+      "question": "Hvorfor kunne gæstearbejderes familier fortsat komme efter indvandringsstoppet i 1973?",
+      "options": {
+        "A": "Familierne fik automatisk dansk statsborgerskab",
+        "B": "Familiesammenføring var fortsat mulig",
+        "C": "Stoppet gjaldt ikke personer fra de tre største indvandrerlande"
+      },
+      "answer": "B",
+      "explanation": "Indvandringsstoppet lukkede ikke for familiesammenføring.",
+      "source_pages": [
+        194
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0003",
+      "question": "Hvordan har det danske riges størrelse overordnet udviklet sig gennem historien?",
+      "options": {
+        "A": "Fra regional magt til småstat",
+        "B": "Fra småstat til europæisk stormagt",
+        "C": "Fra bystat til verdensomspændende imperium"
+      },
+      "answer": "A",
+      "explanation": "Danmark var en magt i Norden og ved Østersøen, men mistede gradvist store områder.",
+      "source_pages": [
+        5
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0372-e2",
+      "question": "Er det en opgave for medierne at undersøge og kritisere magthaverne?",
+      "options": {
+        "A": "Ja",
+        "B": "Nej"
+      },
+      "answer": "A",
+      "explanation": "Betegnelsen henviser til mediernes kontrolfunktion som samfundets vagthund.",
+      "source_pages": [
+        93
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "values"
+    },
+    {
+      "id": "DK0469",
+      "question": "Hvilket land eksporterer Danmark mest til i midten af 2020’erne?",
+      "options": {
+        "A": "Japan",
+        "B": "Norge",
+        "C": "USA"
+      },
+      "answer": "C",
+      "explanation": "USA er angivet som det største enkelte eksportmarked.",
+      "source_pages": [
+        116
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    }
+  ],
+  "snapshot_sha256": "d5137d71062a64e0a1fd0c8bc58d5b27563248f4b49164408df30863804a9b15"
+}
