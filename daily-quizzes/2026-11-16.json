@@ -1,0 +1,181 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-16",
+  "timezone": "Europe/Copenhagen",
+  "bank_sha256": "eb5632a9bc01ec0964b98eedc4ac675347ebb3e766c26f821ec790140a38f9f6",
+  "news_verified_at": "2026-10-26",
+  "official": false,
+  "questions": [
+    {
+      "id": "DK0982-e2",
+      "question": "Gør drivhusgasser det sværere for varme at slippe ud i rummet?",
+      "options": {
+        "A": "Ja",
+        "B": "Nej"
+      },
+      "answer": "A",
+      "explanation": "Drivhusgasser holder på mere af varmen og ændrer derved Jordens energibalance.",
+      "source_pages": [
+        242
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "CA-C036",
+      "event_date": "2026-08-31",
+      "question": "Hvilken film annoncerede Nordisk Film i august 2026 en 50-års jubilæumsfejring for?",
+      "options": {
+        "A": "Olsen Banden ser rødt",
+        "B": "Olsen Banden på sporet",
+        "C": "Olsen Banden går i krig"
+      },
+      "answer": "A",
+      "explanation": "Nordisk Film annoncerede jubilæumsmarkeringen for Olsen Banden ser rødt, som udkom i 1976.",
+      "source_url": "https://via.ritzau.dk/pressemeddelelse/15115408/efter-50-ar-er-det-endnu-ikke-lykkedes-nogen-at-sla-egon-benny-og-kjeld-af-pinden?lang=da&publisherId=13561688",
+      "source_title": "Efter 50 år er det endnu ikke lykkedes nogen at slå Egon, Benny og Kjeld af pinden",
+      "verified_at": "2026-09-25",
+      "exam_domain": "current_affairs",
+      "source_pages": [],
+      "source_edition": "Nyhedskilde kontrolleret 2026-09-25"
+    },
+    {
+      "id": "DK0784",
+      "question": "Hvordan kom de første jøder til Danmark i 1600-tallet?",
+      "options": {
+        "A": "På invitation fra kongen",
+        "B": "Som fordrevne under en dansk-tysk krig",
+        "C": "Som udsendte missionærer fra Sydeuropa"
+      },
+      "answer": "A",
+      "explanation": "Kongen inviterede jøder til landet, selv om deres ophold var underlagt særlige begrænsninger.",
+      "source_pages": [
+        193
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0124",
+      "question": "Hvilken regering ville stride mod princippet fra Systemskiftet?",
+      "options": {
+        "A": "En regering med et folketingsflertal imod sig",
+        "B": "En regering uden et absolut flertal bag sig",
+        "C": "En regering med flere partier i koalition"
+      },
+      "answer": "A",
+      "explanation": "Parlamentarismen kræver, at der ikke er et flertal imod regeringen.",
+      "source_pages": [
+        31
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0445",
+      "question": "Hvilken opgave overtog staten fra kommunerne ved strukturreformen i 2007?",
+      "options": {
+        "A": "Al skatteopkrævning",
+        "B": "Drift af folkeskoler",
+        "C": "Drift af folkebiblioteker"
+      },
+      "answer": "A",
+      "explanation": "Staten overtog skatteopkrævningen i 2007, mens folkeskoler og biblioteker fortsat var kommunale opgaver.",
+      "source_pages": [
+        111
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0358",
+      "question": "Hvem er ifølge demokratiets grundsætning kilden til den politiske magt?",
+      "options": {
+        "A": "Embedsmændene",
+        "B": "Folket",
+        "C": "Kongehuset"
+      },
+      "answer": "B",
+      "explanation": "Vælgerne giver de folkevalgte deres demokratiske mandat.",
+      "source_pages": [
+        89
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "values"
+    },
+    {
+      "id": "DK0362",
+      "question": "Hvem afgør normalt, hvilke kandidater et parti opstiller?",
+      "options": {
+        "A": "Partiets medlemmer",
+        "B": "De øvrige folketingspartier",
+        "C": "Indenrigsministeren"
+      },
+      "answer": "A",
+      "explanation": "Partiernes medlemmer har indflydelse på valget af kandidater til offentlige valg.",
+      "source_pages": [
+        90
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0596",
+      "question": "Hvilket materiale er stenalderens Skarpsalling-kar lavet af?",
+      "options": {
+        "A": "Bronze",
+        "B": "Glas",
+        "C": "Brændt ler"
+      },
+      "answer": "C",
+      "explanation": "Skarpsalling-karret er keramik, altså formet og brændt ler, fra omkring 3200 før Kristus.",
+      "source_pages": [
+        145
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0180",
+      "question": "Hvilke to supermagter stod over for hinanden under Den Kolde Krig?",
+      "options": {
+        "A": "USA og Sovjetunionen",
+        "B": "Tyskland og Japan",
+        "C": "Storbritannien og Frankrig"
+      },
+      "answer": "A",
+      "explanation": "Den Kolde Krig var præget af ideologisk konflikt og våbenkapløb mellem USA og Sovjetunionen.",
+      "source_pages": [
+        43
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0550",
+      "question": "Hvilket mål har FN for rige landes udviklingsbistand som andel af BNI?",
+      "options": {
+        "A": "0,2 procent",
+        "B": "1,5 procent",
+        "C": "0,7 procent"
+      },
+      "answer": "C",
+      "explanation": "Materialet beskriver FN's målsætning på 0,7 procent af bruttonationalindkomsten.",
+      "source_pages": [
+        134
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    }
+  ],
+  "snapshot_sha256": "c5264be9ac02001e7a1efa316c5dbd39c3e09bc7e1487912966b3abe124f7840"
+}
