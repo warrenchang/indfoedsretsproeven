@@ -1,0 +1,181 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-18",
+  "timezone": "Europe/Copenhagen",
+  "bank_sha256": "eb5632a9bc01ec0964b98eedc4ac675347ebb3e766c26f821ec790140a38f9f6",
+  "news_verified_at": "2026-10-26",
+  "official": false,
+  "questions": [
+    {
+      "id": "DK0455",
+      "question": "Hvad kendetegner et videns- og servicesamfund?",
+      "options": {
+        "A": "Viden og tjenesteydelser spiller en stor økonomisk rolle",
+        "B": "Næsten alle arbejder med at dyrke jorden",
+        "C": "Landet producerer kun råvarer til eksport"
+      },
+      "answer": "A",
+      "explanation": "Økonomien afhænger i høj grad af uddannet arbejdskraft, nye ideer og service som rådgivning og uddannelse.",
+      "source_pages": [
+        114
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0713",
+      "question": "Hvor stort er Danmark uden Grønland og Færøerne omtrent?",
+      "options": {
+        "A": "4.300 kvadratkilometer",
+        "B": "430.000 kvadratkilometer",
+        "C": "43.000 kvadratkilometer"
+      },
+      "answer": "C",
+      "explanation": "Danmarks areal er cirka 43.000 kvadratkilometer.",
+      "source_pages": [
+        174
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0260-e2",
+      "question": "Steg eller faldt den samlede vælgerandel for Folketingets fem ældste partier fra 2001 til 2026?",
+      "options": {
+        "A": "Steg",
+        "B": "Faldt"
+      },
+      "answer": "B",
+      "explanation": "Materialet sammenligner valgene 2001-2026 og viser en faldende samlet andel til de fem ældste partier.",
+      "source_pages": [
+        64
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "CA-C039-e2",
+      "event_date": "2026-05-31",
+      "question": "I hvilken sportsgren vandt Jonas Vingegaard Giro d’Italia i maj 2026?",
+      "options": {
+        "A": "Løb",
+        "B": "Cykling",
+        "C": "Triatlon"
+      },
+      "answer": "B",
+      "explanation": "Giro d’Italia er et etapeløb i landevejscykling. Jonas Vingegaard vandt den samlede konkurrence i maj 2026.",
+      "source_url": "https://www.giroditalia.it/en/news/vingegaard-makes-cycling-history-milan-wins-in-rome/",
+      "source_title": "Vingegaard makes cycling history. Milan wins in Rome",
+      "verified_at": "2026-09-25",
+      "exam_domain": "current_affairs",
+      "source_pages": [],
+      "source_edition": "Nyhedskilde kontrolleret 2026-09-25"
+    },
+    {
+      "id": "DK0055",
+      "question": "Hvad skete der med kongeskiftet ved indførelsen af arvekongedømmet?",
+      "options": {
+        "A": "Tronen gik automatisk videre til en arving",
+        "B": "Befolkningen valgte kongen ved afstemning",
+        "C": "Adelen valgte en ny konge hvert fjerde år"
+      },
+      "answer": "A",
+      "explanation": "Adelens valg af kongen blev erstattet af arvelig tronfølge.",
+      "source_pages": [
+        16
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0557",
+      "question": "Hvad var en typisk opgave for danske soldater på FN's fredsbevarende missioner?",
+      "options": {
+        "A": "At overvåge våbenhviler og beskytte civile",
+        "B": "At starte angreb uden hensyn til våbenhvileaftaler",
+        "C": "At indsætte danske regeringer i missionslandene"
+      },
+      "answer": "A",
+      "explanation": "Fredsbevarende missioner skulle blandt andet understøtte våbenhviler og civil sikkerhed.",
+      "source_pages": [
+        136
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0368",
+      "question": "Hvilket parti havde historisk tætte bånd til LO?",
+      "options": {
+        "A": "Socialdemokratiet",
+        "B": "Radikale Venstre",
+        "C": "Det Konservative Folkeparti"
+      },
+      "answer": "A",
+      "explanation": "LO, senere FH, samarbejdede historisk tæt med Socialdemokratiet.",
+      "source_pages": [
+        92
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0955-e2",
+      "question": "Hvilken placering fik Danmark blandt EU-landene i EIGE’s Gender Equality Index 2025?",
+      "options": {
+        "A": "Nr. 3",
+        "B": "Nr. 13",
+        "C": "Nr. 23"
+      },
+      "answer": "A",
+      "explanation": "Danmark var nummer 3 i EIGE’s ligestillingsindeks for 2025, efter Sverige og Frankrig, med 71,8 point. Indeksets årstal er udgivelsesåret og betyder ikke, at alle underliggende data er fra 2025.",
+      "source_pages": [],
+      "source_url": "https://dgs-p.eige.europa.eu/data/view?code=index__index_scores",
+      "source_edition": "Ligestillingsindeks 2025",
+      "exam_domain": "values",
+      "source_title": "EIGE: Gender Equality Index 2025",
+      "verified_at": "2026-09-27"
+    },
+    {
+      "id": "DK0712",
+      "question": "Hvad hedder Danmarks højeste naturlige punkt?",
+      "options": {
+        "A": "Ejer Bavnehøj",
+        "B": "Møllehøj",
+        "C": "Himmelbjerget"
+      },
+      "answer": "B",
+      "explanation": "Møllehøj i Østjylland ligger omkring 170 meter over havet.",
+      "source_pages": [
+        174
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0608",
+      "question": "Hvad ville forfatterne i det moderne gennembrud typisk gøre?",
+      "options": {
+        "A": "Udfordre traditionelle kønsroller og normer",
+        "B": "Forsvare traditionernes autoritet i familielivet",
+        "C": "Idealisere nationens historie og gamle sagn"
+      },
+      "answer": "A",
+      "explanation": "Det moderne gennembrud satte etablerede holdninger og samfundstraditioner til debat.",
+      "source_pages": [
+        147
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    }
+  ],
+  "snapshot_sha256": "04530d999d13f58c0ae4b70bb21b1a46bf814c4c0f8e6762c0e372d3919fbbb2"
+}
