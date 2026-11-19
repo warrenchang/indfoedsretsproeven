@@ -1,7 +1,11 @@
 {
   "schema_version": 1,
-  "latest": "2026-11-18",
+  "latest": "2026-11-19",
   "quizzes": [
+    {
+      "date": "2026-11-19",
+      "snapshot_sha256": "2ba3212959e737d392492c6984f22a759feb947741c5ab7ea770d6e74807668f"
+    },
     {
       "date": "2026-11-18",
       "snapshot_sha256": "04530d999d13f58c0ae4b70bb21b1a46bf814c4c0f8e6762c0e372d3919fbbb2"

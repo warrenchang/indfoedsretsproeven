@@ -1,0 +1,181 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-19",
+  "timezone": "Europe/Copenhagen",
+  "bank_sha256": "eb5632a9bc01ec0964b98eedc4ac675347ebb3e766c26f821ec790140a38f9f6",
+  "news_verified_at": "2026-10-26",
+  "official": false,
+  "questions": [
+    {
+      "id": "DK0409",
+      "question": "Hvilke oplysninger skal man opgive til politiet?",
+      "options": {
+        "A": "Navn, adresse og fødselsdato",
+        "B": "Adgangskoder, bankkode og helbredsoplysninger",
+        "C": "Partivalg, religion og løn"
+      },
+      "answer": "A",
+      "explanation": "Man er forpligtet til at opgive identitetsoplysningerne, men kan ikke tvinges til en forklaring.",
+      "source_pages": [
+        102
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "values"
+    },
+    {
+      "id": "DK0887",
+      "question": "Hvilket kirkeligt arbejde havde N.F.S. Grundtvig gennem det meste af sit liv?",
+      "options": {
+        "A": "Biskop",
+        "B": "Domprovst",
+        "C": "Præst"
+      },
+      "answer": "C",
+      "explanation": "Grundtvig var uddannet teolog og arbejdede som præst, samtidig med at han skrev og deltog i samfundsdebatten.",
+      "source_pages": [
+        221
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0094",
+      "question": "Ved hvilken by vandt den danske hær et slag i juli 1849?",
+      "options": {
+        "A": "Roskilde",
+        "B": "Aalborg",
+        "C": "Fredericia"
+      },
+      "answer": "C",
+      "explanation": "Sejren ved Fredericia fandt sted under Den 1. Slesvigske Krig.",
+      "source_pages": [
+        25
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0954-e2",
+      "question": "Kan mænds og kvinders arbejde i forskellige fag forklare en del af lønforskellen?",
+      "options": {
+        "A": "Ja",
+        "B": "Nej"
+      },
+      "answer": "A",
+      "explanation": "Fagfordelingen og den fortsatte overvægt af mandlige ledere bidrager til lønforskellen.",
+      "source_pages": [
+        235
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "values"
+    },
+    {
+      "id": "DK0087",
+      "question": "Hvilken dato underskrev kongen Danmarks første frie grundlov?",
+      "options": {
+        "A": "9. april 1940",
+        "B": "5. juni 1849",
+        "C": "15. juni 1920"
+      },
+      "answer": "B",
+      "explanation": "Grundloven blev underskrevet 5. juni 1849; datoen markeres som grundlovsdag.",
+      "source_pages": [
+        23
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0736",
+      "question": "Hvilken naturproces skaber gentagne skift mellem højvande og lavvande i Vadehavet?",
+      "options": {
+        "A": "Åernes vekslende vandføring",
+        "B": "Tidevandet",
+        "C": "Årstidernes regnvejr"
+      },
+      "answer": "B",
+      "explanation": "Tidevandet fører vand ind og ud og understøtter områdets rige fødekæde.",
+      "source_pages": [
+        179
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0652",
+      "question": "Hvem var forsanger i Gasolin?",
+      "options": {
+        "A": "Kim Larsen",
+        "B": "Steffen Brandt",
+        "C": "Sebastian"
+      },
+      "answer": "A",
+      "explanation": "Kim Larsen var Gasolins forsanger og fortsatte senere med en lang solokarriere.",
+      "source_pages": [
+        159
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "CA-S004",
+      "event_date": "2026-05-07",
+      "question": "Hvilken milepæl nåede byggeriet af Femern Bælt-tunnelen i maj 2026?",
+      "options": {
+        "A": "Det første passagertog kørte",
+        "B": "Det første element blev sænket",
+        "C": "Hele vejtunnelen åbnede"
+      },
+      "answer": "B",
+      "explanation": "Det første tunnelelement blev placeret på havbunden. Det var en byggemilepæl, ikke åbningen af den færdige forbindelse.",
+      "source_url": "https://www.femern.com/press/news/",
+      "source_title": "Femern A/S – News and press releases",
+      "verified_at": "2026-09-25",
+      "exam_domain": "current_affairs",
+      "source_pages": [],
+      "source_edition": "Nyhedskilde kontrolleret 2026-09-25"
+    },
+    {
+      "id": "DK0331",
+      "question": "Hvad kan et forslag til folketingsbeslutning blandt andet gå ud på?",
+      "options": {
+        "A": "At ændre grundloven uden vælgernes tilslutning",
+        "B": "At ophæve en dom i en bestemt straffesag",
+        "C": "At pålægge regeringen at udarbejde et lovforslag"
+      },
+      "answer": "C",
+      "explanation": "En folketingsbeslutning kan give regeringen en opgave om at fremsætte lovgivning.",
+      "source_pages": [
+        83
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0564",
+      "question": "Hvilken begivenhed gjorde terrorbekæmpelse til en vigtigere NATO-opgave i 2001?",
+      "options": {
+        "A": "Danmarks folkeafstemning om euroen",
+        "B": "Terrorangrebet på USA den 11. september",
+        "C": "Faldet af Berlinmuren"
+      },
+      "answer": "B",
+      "explanation": "Angrebet den 11. september blev et vendepunkt i alliancens sikkerhedspolitik.",
+      "source_pages": [
+        137
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    }
+  ],
+  "snapshot_sha256": "2ba3212959e737d392492c6984f22a759feb947741c5ab7ea770d6e74807668f"
+}
