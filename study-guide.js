@@ -7,7 +7,7 @@
   const tabs = [...document.querySelectorAll('[role="tab"]')];
   const panels = [...document.querySelectorAll('.guide-panel')];
   const cards = [...document.querySelectorAll('.study-card')];
-  const headings = [...document.querySelectorAll('[data-first]')];
+  const folds = [...document.querySelectorAll('.study-fold')];
   const search = document.querySelector('#study-search');
   const group = document.querySelector('#study-group');
   const section = document.querySelector('#study-section');
@@ -69,7 +69,15 @@
     selectOptions(section, ui[lang].allSections, new Map(choices.map(item => [item.section_id, localized(item).section])));
   }
 
-  function render() {
+  function visibleFolds() {
+    return folds.filter(fold => !fold.hidden);
+  }
+
+  function setFolds(open) {
+    visibleFolds().forEach(fold => { fold.open = open; });
+  }
+
+  function render(revealMatches = false) {
     const term = normalize(search.value.trim());
     let count = 0;
     let total = 0;
@@ -87,9 +95,11 @@
       if (visible) count++;
     }
     // Hidden ancestors collapse completely when a filter excludes their last bullet.
-    for (const heading of headings) {
-      heading.hidden = !heading.querySelector('.study-card:not([hidden])');
+    for (const fold of folds) {
+      fold.hidden = !fold.querySelector('.study-card:not([hidden])');
     }
+    if (revealMatches && (term || group.value || section.value || tested.checked)) setFolds(true);
+    document.querySelector('#fold-controls').hidden = count === 0;
     document.querySelector('#result-count').textContent = ui[lang].count
       .replace('{n}', count).replace('{total}', total);
     document.querySelector('#empty-state').hidden = count !== 0;
@@ -111,7 +121,7 @@
     selectOptions(group, u.allGroups, new Map(data.filter(item => item.view === view)
       .map(item => [item.group_id, localized(item).group])));
     if (view === 'points') updateSections();
-    render();
+    render(true);
   }
 
   function changeLanguage() {
@@ -121,12 +131,10 @@
     document.querySelectorAll('[data-i18n]').forEach(element => { element.textContent = u[element.dataset.i18n]; });
     document.querySelector('[role="tablist"]').setAttribute('aria-label', u.views);
     search.placeholder = u.placeholder;
-    for (const heading of headings) {
-      const t = localized(byId.get(heading.dataset.first));
-      for (const [selector, key] of [['.group-heading', 'group'], ['.section-heading', 'section'], ['.subsection-heading', 'subsection']]) {
-        const label = heading.querySelector(':scope > ' + selector);
-        if (label) label.textContent = t[key];
-      }
+    for (const fold of folds) {
+      const t = localized(byId.get(fold.dataset.first));
+      const label = fold.querySelector(':scope > summary > .fold-heading');
+      label.textContent = t[label.dataset.label];
     }
     cards.forEach(card => { card.innerHTML = cardContent(byId.get(card.dataset.id)); });
     updateView();
@@ -158,13 +166,13 @@
     });
   });
   window.addEventListener('hashchange', () => selectView(viewFromHash()));
-  search.addEventListener('input', render);
+  search.addEventListener('input', () => render(true));
   group.addEventListener('change', () => {
     if (view === 'points') updateSections();
-    render();
+    render(true);
   });
-  section.addEventListener('change', render);
-  tested.addEventListener('change', render);
+  section.addEventListener('change', () => render(true));
+  tested.addEventListener('change', () => render(true));
   language.addEventListener('change', changeLanguage);
   document.querySelector('#clear-filters').addEventListener('click', () => {
     search.value = '';
@@ -172,6 +180,18 @@
     section.value = '';
     tested.checked = false;
     updateView();
+  });
+  document.querySelector('#expand-sections').addEventListener('click', () => setFolds(true));
+  document.querySelector('#collapse-sections').addEventListener('click', () => setFolds(false));
+
+  let openedForPrint = [];
+  window.addEventListener('beforeprint', () => {
+    openedForPrint = visibleFolds().filter(fold => !fold.open);
+    openedForPrint.forEach(fold => { fold.open = true; });
+  });
+  window.addEventListener('afterprint', () => {
+    openedForPrint.forEach(fold => { fold.open = false; });
+    openedForPrint = [];
   });
   document.querySelector('#print-guide').addEventListener('click', () => window.print());
 

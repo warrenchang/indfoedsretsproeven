@@ -3,7 +3,7 @@
   color: #17372e;
 }
 
-.study-hero, .study-toolbar, .result-heading, #view-note, .view-options,
+.study-hero, .study-toolbar, .result-heading, #view-note, .view-options, .fold-controls,
 .guide-panel, .study-sources, #empty-state {
   max-width: 62rem;
 }
@@ -67,10 +67,18 @@
 .view-options p, .view-options label { font-size: .92rem; }
 .view-options input { accent-color: #145846; }
 
-.study-group { padding-top: 1.1rem; margin: 1.5rem 0; border-top: 1px solid #c5d7ce; }
-.group-heading { font-size: 1.55rem; margin: 0 0 .85rem; }
-.section-heading { font-size: 1.26rem; margin: 1.3rem 0 .55rem; }
-.subsection-heading { font-size: 1.07rem; margin: 1rem 0 .4rem; }
+.fold-controls { display: flex; flex-wrap: wrap; gap: .5rem; margin: 1.25rem 0 .8rem; }
+.study-group { border-top: 1px solid #c5d7ce; }
+.study-group:last-child { border-bottom: 1px solid #c5d7ce; }
+.study-fold > summary { cursor: pointer; padding: .6rem .25rem; }
+.study-fold > summary::marker { color: #145846; }
+.fold-heading { display: inline; margin: 0; }
+.study-group > summary { padding-block: .8rem; }
+.study-group > summary > .fold-heading { font-size: 1.45rem; }
+.study-section > summary > .fold-heading { font-size: 1.22rem; }
+.study-subsection > summary > .fold-heading { font-size: 1.06rem; }
+.study-section { margin-left: .6rem; border-top: 1px solid #d9e5df; }
+.study-subsection { margin-left: .6rem; }
 .study-grid { list-style: disc; padding-left: 1.4rem; margin: .45rem 0 1rem; }
 .study-card { display: list-item; margin: 0 0 .65rem; padding: 0 0 0 .2rem; line-height: 1.62; font-size: 1.025rem; }
 .exam-star { color: #755916; font-weight: 700; }
@@ -93,10 +101,10 @@
 
 @media print {
   .site-header, .test-switcher, .site-footer, .study-toolbar, .hero-links,
-  .result-heading button, .view-options label, .entry-sources { display: none !important; }
+  .result-heading button, .view-options label, .entry-sources, .fold-controls { display: none !important; }
   .study-page { background: white; }
   .study-hero { padding: 0; }
   .study-hero h1 { font-size: 26pt; }
-  .group-heading, .section-heading, .subsection-heading { break-after: avoid; }
+  .study-fold > summary { break-after: avoid; }
   .study-card { break-inside: avoid; }
 }
