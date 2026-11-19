@@ -37,3 +37,7 @@
 !/sources.html
 !/daily-quizzes/
 !/daily-quizzes/*.json
+!/study-guide.html
+!/study-guide.css
+!/study-guide.js
+!/study-guide-data.js
