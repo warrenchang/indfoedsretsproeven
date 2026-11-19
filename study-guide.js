@@ -1,31 +1,48 @@
 'use strict';
 (()=>{
- const data=globalThis.STUDY_GUIDE, cards=[...document.querySelectorAll('.study-card')];
- const search=document.querySelector('#study-search'),group=document.querySelector('#study-group'),status=document.querySelector('#study-status');
- const key='proeveklar-study-reviewed-v1';let reviewed=new Set();
- try{const stored=JSON.parse(localStorage.getItem(key)||'[]');if(Array.isArray(stored))reviewed=new Set(stored.filter(id=>data.some(i=>i.id===id)));}catch{}
- let view=['points','people','timeline'].includes(location.hash.slice(1))?location.hash.slice(1):'points';
+ const data=globalThis.STUDY_GUIDE, cards=[...document.querySelectorAll('.study-card')], ui=globalThis.STUDY_UI;
+ const search=document.querySelector('#study-search'),group=document.querySelector('#study-group'),status=document.querySelector('#study-status'),language=document.querySelector('#study-language');
+ let lang='da',view=['points','people','timeline'].includes(location.hash.slice(1))?location.hash.slice(1):'points';
  const normalize=s=>s.toLocaleLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g,'');
- function save(){try{localStorage.setItem(key,JSON.stringify([...reviewed]));}catch{document.querySelector('#storage-note').textContent='Storage is unavailable. Checkmarks work for this visit but cannot be saved.';}}
+ const escape=s=>String(s||'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+ const localized=i=>lang==='da'?i.da:i;
+ function renderCards(){
+  data.forEach((i,ix)=>{
+   const t=localized(i),u=ui[lang];
+   const refs=i.refs.map(r=>{const label=lang==='da'?r.label.replace('May','maj').replace('June','juni').replace('November','november').replace(' · Q',' · spørgsmål '):r.label;
+    const title=r.question.startsWith('Example paper:')?u.example:r.question;
+    return `<a href="${escape(r.url)}" title="${escape(title)}">${escape(label)}</a>`;}).join('');
+   cards[ix].innerHTML=`<div class="card-top"><span class="category">${escape(t.section||t.group)}</span>${i.tested?`<span class="tested">${u.tested}</span>`:''}</div>${t.dates?`<p class="date-label">${escape(t.dates)}</p>`:''}${t.title?`<h3>${escape(t.title)}</h3>`:''}${t.body?`<p class="fact">${t.html}</p>`:''}<div class="card-sources">${refs}<a href="${escape(i.source)}">${u.reading}</a></div>`;
+  });
+ }
  function render(){
   document.body.dataset.studyView=view;
   const term=normalize(search.value.trim());let n=0;
-  data.forEach((i,ix)=>{let yes=i.view===view&&(!group.value||i.group===group.value)&&(!term||normalize([i.title,i.body,i.dates||'',i.group,i.section,...i.refs.map(r=>r.label)].join(' ')).includes(term))&&(status.value!=='tested'||i.tested)&&(status.value!=='unread'||!reviewed.has(i.id))&&(status.value!=='reviewed'||reviewed.has(i.id));cards[ix].hidden=!yes;if(yes)n++;cards[ix].classList.toggle('is-reviewed',reviewed.has(i.id));cards[ix].querySelector('input').checked=reviewed.has(i.id);});
-  document.querySelector('#result-count').textContent=`${n} of ${data.filter(i=>i.view===view).length} entries`;
+  data.forEach((i,ix)=>{const t=localized(i);const yes=i.view===view&&(!group.value||i.group===group.value)&&(!term||normalize([t.title,t.body,t.dates||'',t.group,t.section,...i.refs.map(r=>r.label)].join(' ')).includes(term))&&(status.value!=='tested'||i.tested);cards[ix].hidden=!yes;if(yes)n++;});
+  document.querySelector('#result-count').textContent=ui[lang].count.replace('{n}',n).replace('{total}',data.filter(i=>i.view===view).length);
   document.querySelector('#empty-state').hidden=n!==0;
-  document.querySelector('#progress').textContent=`${reviewed.size} of ${data.length} entries reviewed on this device`;
-  const bar=document.querySelector('#progress-bar');bar.max=data.length;bar.value=reviewed.size;
  }
- function changeView(){
+ function changeView(keepGroup=false){
+  const selected=keepGroup?group.value:'';
   document.querySelectorAll('[data-view]').forEach(b=>b.setAttribute('aria-pressed',String(b.dataset.view===view)));
-  group.replaceChildren(new Option('All topics',''),...[...new Set(data.filter(i=>i.view===view).map(i=>i.group))].map(g=>new Option(g,g)));
-  document.querySelector('#view-heading').textContent={points:'Key points',timeline:'History timeline',people:'People & reigns'}[view];
-  document.querySelector('#view-note').textContent={points:'Follow the six chapters, then use the past-exam links to see how facts are tested.',timeline:'Browse historical periods in order. Dates in an entry may add context beyond the specific fact tested.',people:'Birth–death years for other people; Danish reign dates for monarchs. b. = born · c. = approximately. A star does not mean the lifespan was tested.'}[view];render();
+  const groups=[...new Map(data.filter(i=>i.view===view).map(i=>[i.group,localized(i).group])).entries()];
+  group.replaceChildren(new Option(ui[lang].allTopics,''),...groups.map(([value,label])=>new Option(label,value)));
+  group.value=selected;
+  document.querySelector('#view-heading').textContent=ui[lang][view];
+  document.querySelector('#view-note').textContent=ui[lang][view+'Note'];render();
+ }
+ function changeLanguage(){
+  lang=language.value;
+  document.querySelector('main').lang=lang;
+  document.querySelectorAll('[data-i18n]').forEach(e=>{e.textContent=ui[lang][e.dataset.i18n];});
+  search.placeholder=ui[lang].placeholder;
+  document.querySelector('.view-buttons').setAttribute('aria-label',lang==='da'?'Visning':'Study view');
+  renderCards();changeView(true);
  }
  document.querySelectorAll('[data-view]').forEach(b=>b.addEventListener('click',()=>{view=b.dataset.view;history.replaceState(null,'','#'+view);changeView();}));
  window.addEventListener('hashchange',()=>{if(['points','people','timeline'].includes(location.hash.slice(1))){view=location.hash.slice(1);changeView();}});
- search.addEventListener('input',render);group.addEventListener('change',render);status.addEventListener('change',render);
+ search.addEventListener('input',render);group.addEventListener('change',render);status.addEventListener('change',render);language.addEventListener('change',changeLanguage);
  document.querySelector('#clear-filters').addEventListener('click',()=>{search.value='';group.value='';status.value='all';render();});
- document.querySelector('#study-cards').addEventListener('change',e=>{if(e.target.type!=='checkbox')return;e.target.checked?reviewed.add(e.target.value):reviewed.delete(e.target.value);save();render();});
- document.querySelector('#print-guide').addEventListener('click',()=>window.print());changeView();
+ document.querySelector('#print-guide').addEventListener('click',()=>window.print());
+ language.value='da';changeLanguage();
 })();
