@@ -21,6 +21,12 @@
   document.body.dataset.studyView=view;
   const term=normalize(search.value.trim());let n=0;
   data.forEach((i,ix)=>{const t=localized(i);const yes=i.view===view&&(!group.value||i.group===group.value)&&(!term||normalize([t.title,t.body,t.dates||'',t.group,t.section,...i.refs.map(r=>r.label)].join(' ')).includes(term))&&(status.value!=='tested'||i.tested);cards[ix].hidden=!yes;if(yes)n++;});
+  document.querySelectorAll('.study-topic').forEach(section=>{
+   const t=localized(data[Number(section.dataset.first)]);
+   section.hidden=![...section.querySelectorAll('.study-card')].some(card=>!card.hidden);
+   section.querySelector('.topic-heading').textContent=t.section||t.group;
+   const chapter=section.querySelector('.topic-chapter');if(chapter)chapter.textContent=t.group;
+  });
   document.querySelector('#result-count').textContent=ui[lang].count.replace('{n}',n).replace('{total}',data.filter(i=>i.view===view).length);
   document.querySelector('#empty-state').hidden=n!==0;
  }

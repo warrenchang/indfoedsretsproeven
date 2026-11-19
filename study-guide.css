@@ -12,3 +12,5 @@ body[data-study-view=timeline] .study-card{border:0}
 .entry-sources summary{cursor:pointer;width:fit-content;text-decoration:underline;text-underline-offset:3px}
 .card-sources{padding:.3rem 0 .2rem;gap:.75rem}
 @media print{.study-grid{display:block;list-style:disc}.study-card{display:list-item;border:0;background:none;break-inside:avoid}.entry-sources{display:none}}
+
+.study-topic{margin:2rem 0;max-width:900px}.study-topic[hidden]{display:none}.topic-chapter{font-size:.85rem;color:#53685f;margin:0 0 .3rem}.topic-heading{font-size:1.35rem;margin:0 0 .8rem;color:#17372e}.study-topic .study-grid{margin:.7rem 0 1.5rem}@media print{.topic-heading{break-after:avoid}.study-topic{margin:1rem 0}}
