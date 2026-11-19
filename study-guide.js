@@ -1,56 +1,180 @@
 'use strict';
-(()=>{
- const data=globalThis.STUDY_GUIDE, cards=[...document.querySelectorAll('.study-card')], ui=globalThis.STUDY_UI;
- const search=document.querySelector('#study-search'),group=document.querySelector('#study-group'),status=document.querySelector('#study-status'),language=document.querySelector('#study-language');
- let lang='da',view=['points','people','timeline'].includes(location.hash.slice(1))?location.hash.slice(1):'points';
- const normalize=s=>s.toLocaleLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g,'');
- const escape=s=>String(s||'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
- const localized=i=>lang==='da'?i.da:i;
- function renderCards(){
-  data.forEach((i,ix)=>{
-   const t=localized(i),u=ui[lang];
-   const refs=i.refs.map(r=>{const label=lang==='da'?r.label.replace('May','maj').replace('June','juni').replace('November','november').replace(' · Q',' · spørgsmål '):r.label;
-    const title=r.question.startsWith('Example paper:')?u.example:r.question;
-    return `<a href="${escape(r.url)}" title="${escape(title)}">${escape(label)}</a>`;}).join('');
-   const heading=[t.dates,t.title].filter(Boolean).map(escape).join(' · ');
-   cards[ix].innerHTML=`${i.tested?`<span class="exam-star" title="${escape(u.tested)}" aria-label="${escape(u.tested)}">★</span> `:''}${heading?`<strong>${heading}</strong>${t.body?' — ':''}`:''}${t.html}<details class="entry-sources"><summary>${lang==='da'?'Kilder':'Sources'}</summary><div class="card-sources">${refs}<a href="${escape(i.source)}">${u.reading}</a></div></details>`;
 
+(() => {
+  const data = globalThis.STUDY_GUIDE;
+  const ui = globalThis.STUDY_UI;
+  const byId = new Map(data.map(item => [item.id, item]));
+  const tabs = [...document.querySelectorAll('[role="tab"]')];
+  const panels = [...document.querySelectorAll('.guide-panel')];
+  const cards = [...document.querySelectorAll('.study-card')];
+  const headings = [...document.querySelectorAll('[data-first]')];
+  const search = document.querySelector('#study-search');
+  const group = document.querySelector('#study-group');
+  const section = document.querySelector('#study-section');
+  const language = document.querySelector('#study-language');
+  const tested = document.querySelector('#study-tested');
+
+  const viewFromHash = () => {
+    const hash = location.hash.slice(1);
+    if (hash === 'people') return 'timeline';
+    return tabs.some(tab => tab.dataset.view === hash) ? hash : 'points';
+  };
+  let lang = 'da';
+  let view = viewFromHash();
+  const localized = item => lang === 'da' ? item.da : item;
+  const normalize = value => value.toLowerCase().normalize('NFD')
+    .replace(/[\u0300-\u036f]/g, '').replace(/ø/g, 'o').replace(/æ/g, 'ae');
+  const escape = value => String(value).replace(/[&<>"']/g, character => ({
+    '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;'
+  })[character]);
+
+  function cardContent(item) {
+    const t = localized(item);
+    const u = ui[lang];
+    let heading = '';
+    if (t.title) {
+      const title = escape(t.title);
+      const dates = escape(t.dates);
+      const label = item.kind === 'event'
+        ? `${dates} · ${title}`
+        : `${title} (${item.kind === 'ruler' ? u.reign + ' ' : ''}${dates})`;
+      heading = `<strong>${label}</strong>${t.body ? ' — ' : ''}`;
+    }
+    let marker = '';
+    if (item.view === 'recurring') {
+      marker = `<strong class="repeat-count" aria-label="${item.count} ${u.papersCount}">×${item.count}</strong> `;
+    } else if (item.tested) {
+      marker = `<span class="exam-star" title="${u.tested}" aria-label="${u.tested}">★</span> `;
+    }
+    if (item.view === 'points') return marker + heading + t.html;
+    const links = item.refs.map(ref =>
+      `<a href="${escape(ref.url)}">${escape(ref.label)}</a>`
+    );
+    if (item.source) links.push(`<a href="${escape(item.source)}">${u.reading}</a>`);
+    const summary = item.view === 'recurring' ? u.examRefs : u.sources;
+    const details = links.length
+      ? `<details class="entry-sources"><summary>${summary}</summary><div class="card-sources">${links.join('')}</div></details>`
+      : '';
+    return marker + heading + t.html + details;
+  }
+
+  function selectOptions(select, emptyLabel, options) {
+    const selected = select.value;
+    select.replaceChildren(new Option(emptyLabel, ''), ...Array.from(options, ([id, title]) => new Option(title, id)));
+    select.value = options.has(selected) ? selected : '';
+  }
+
+  function updateSections() {
+    const choices = data.filter(item => item.view === 'points' && (!group.value || item.group_id === group.value));
+    selectOptions(section, ui[lang].allSections, new Map(choices.map(item => [item.section_id, localized(item).section])));
+  }
+
+  function render() {
+    const term = normalize(search.value.trim());
+    let count = 0;
+    let total = 0;
+    for (const card of cards) {
+      const item = byId.get(card.dataset.id);
+      const t = localized(item);
+      const inView = item.view === view;
+      if (inView) total++;
+      const visible = inView
+        && (!group.value || item.group_id === group.value)
+        && (view !== 'points' || !section.value || item.section_id === section.value)
+        && (view === 'recurring' || !tested.checked || item.tested)
+        && (!term || normalize([t.title, t.body, t.dates, t.group, t.section, t.subsection].join(' ')).includes(term));
+      card.hidden = !visible;
+      if (visible) count++;
+    }
+    // Hidden ancestors collapse completely when a filter excludes their last bullet.
+    for (const heading of headings) {
+      heading.hidden = !heading.querySelector('.study-card:not([hidden])');
+    }
+    document.querySelector('#result-count').textContent = ui[lang].count
+      .replace('{n}', count).replace('{total}', total);
+    document.querySelector('#empty-state').hidden = count !== 0;
+  }
+
+  function updateView() {
+    const u = ui[lang];
+    tabs.forEach(tab => {
+      const active = tab.dataset.view === view;
+      tab.setAttribute('aria-selected', String(active));
+      tab.tabIndex = active ? 0 : -1;
+    });
+    panels.forEach(panel => { panel.hidden = panel.id !== 'panel-' + view; });
+    document.querySelector('#view-heading').textContent = u[view];
+    document.querySelector('#view-note').textContent = u[view + 'Note'];
+    document.querySelector('#group-label').textContent = u[{ points: 'chapter', timeline: 'era', recurring: 'topic' }[view]];
+    document.querySelector('#section-filter').hidden = view !== 'points';
+    document.querySelector('#exam-options').hidden = view === 'recurring';
+    selectOptions(group, u.allGroups, new Map(data.filter(item => item.view === view)
+      .map(item => [item.group_id, localized(item).group])));
+    if (view === 'points') updateSections();
+    render();
+  }
+
+  function changeLanguage() {
+    lang = language.value;
+    document.querySelector('main').lang = lang;
+    const u = ui[lang];
+    document.querySelectorAll('[data-i18n]').forEach(element => { element.textContent = u[element.dataset.i18n]; });
+    document.querySelector('[role="tablist"]').setAttribute('aria-label', u.views);
+    search.placeholder = u.placeholder;
+    for (const heading of headings) {
+      const t = localized(byId.get(heading.dataset.first));
+      for (const [selector, key] of [['.group-heading', 'group'], ['.section-heading', 'section'], ['.subsection-heading', 'subsection']]) {
+        const label = heading.querySelector(':scope > ' + selector);
+        if (label) label.textContent = t[key];
+      }
+    }
+    cards.forEach(card => { card.innerHTML = cardContent(byId.get(card.dataset.id)); });
+    updateView();
+  }
+
+  function selectView(next) {
+    if (next !== view) {
+      view = next;
+      group.value = '';
+      section.value = '';
+      tested.checked = false;
+      updateView();
+    }
+  }
+
+  tabs.forEach((tab, index) => {
+    tab.addEventListener('click', () => {
+      selectView(tab.dataset.view);
+      history.replaceState(null, '', '#' + view);
+    });
+    tab.addEventListener('keydown', event => {
+      const key = event.key;
+      if (!['ArrowLeft', 'ArrowRight', 'Home', 'End'].includes(key)) return;
+      const next = key === 'Home' ? 0 : key === 'End' ? tabs.length - 1
+        : (index + (key === 'ArrowRight' ? 1 : -1) + tabs.length) % tabs.length;
+      event.preventDefault();
+      tabs[next].focus();
+      tabs[next].click();
+    });
   });
- }
- function render(){
-  document.body.dataset.studyView=view;
-  const term=normalize(search.value.trim());let n=0;
-  data.forEach((i,ix)=>{const t=localized(i);const yes=i.view===view&&(!group.value||i.group===group.value)&&(!term||normalize([t.title,t.body,t.dates||'',t.group,t.section,...i.refs.map(r=>r.label)].join(' ')).includes(term))&&(status.value!=='tested'||i.tested);cards[ix].hidden=!yes;if(yes)n++;});
-  document.querySelectorAll('.study-topic').forEach(section=>{
-   const t=localized(data[Number(section.dataset.first)]);
-   section.hidden=![...section.querySelectorAll('.study-card')].some(card=>!card.hidden);
-   section.querySelector('.topic-heading').textContent=t.section||t.group;
-   const chapter=section.querySelector('.topic-chapter');if(chapter)chapter.textContent=t.group;
+  window.addEventListener('hashchange', () => selectView(viewFromHash()));
+  search.addEventListener('input', render);
+  group.addEventListener('change', () => {
+    if (view === 'points') updateSections();
+    render();
   });
-  document.querySelector('#result-count').textContent=ui[lang].count.replace('{n}',n).replace('{total}',data.filter(i=>i.view===view).length);
-  document.querySelector('#empty-state').hidden=n!==0;
- }
- function changeView(keepGroup=false){
-  const selected=keepGroup?group.value:'';
-  document.querySelectorAll('[data-view]').forEach(b=>b.setAttribute('aria-pressed',String(b.dataset.view===view)));
-  const groups=[...new Map(data.filter(i=>i.view===view).map(i=>[i.group,localized(i).group])).entries()];
-  group.replaceChildren(new Option(ui[lang].allTopics,''),...groups.map(([value,label])=>new Option(label,value)));
-  group.value=selected;
-  document.querySelector('#view-heading').textContent=ui[lang][view];
-  document.querySelector('#view-note').textContent=ui[lang][view+'Note'];render();
- }
- function changeLanguage(){
-  lang=language.value;
-  document.querySelector('main').lang=lang;
-  document.querySelectorAll('[data-i18n]').forEach(e=>{e.textContent=ui[lang][e.dataset.i18n];});
-  search.placeholder=ui[lang].placeholder;
-  document.querySelector('.view-buttons').setAttribute('aria-label',lang==='da'?'Visning':'Study view');
-  renderCards();changeView(true);
- }
- document.querySelectorAll('[data-view]').forEach(b=>b.addEventListener('click',()=>{view=b.dataset.view;history.replaceState(null,'','#'+view);changeView();}));
- window.addEventListener('hashchange',()=>{if(['points','people','timeline'].includes(location.hash.slice(1))){view=location.hash.slice(1);changeView();}});
- search.addEventListener('input',render);group.addEventListener('change',render);status.addEventListener('change',render);language.addEventListener('change',changeLanguage);
- document.querySelector('#clear-filters').addEventListener('click',()=>{search.value='';group.value='';status.value='all';render();});
- document.querySelector('#print-guide').addEventListener('click',()=>window.print());
- language.value='da';changeLanguage();
+  section.addEventListener('change', render);
+  tested.addEventListener('change', render);
+  language.addEventListener('change', changeLanguage);
+  document.querySelector('#clear-filters').addEventListener('click', () => {
+    search.value = '';
+    group.value = '';
+    section.value = '';
+    tested.checked = false;
+    updateView();
+  });
+  document.querySelector('#print-guide').addEventListener('click', () => window.print());
+
+  language.value = 'da';
+  changeLanguage();
 })();
