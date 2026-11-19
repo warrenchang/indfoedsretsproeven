@@ -12,7 +12,9 @@
    const refs=i.refs.map(r=>{const label=lang==='da'?r.label.replace('May','maj').replace('June','juni').replace('November','november').replace(' · Q',' · spørgsmål '):r.label;
     const title=r.question.startsWith('Example paper:')?u.example:r.question;
     return `<a href="${escape(r.url)}" title="${escape(title)}">${escape(label)}</a>`;}).join('');
-   cards[ix].innerHTML=`<div class="card-top"><span class="category">${escape(t.section||t.group)}</span>${i.tested?`<span class="tested">${u.tested}</span>`:''}</div>${t.dates?`<p class="date-label">${escape(t.dates)}</p>`:''}${t.title?`<h3>${escape(t.title)}</h3>`:''}${t.body?`<p class="fact">${t.html}</p>`:''}<div class="card-sources">${refs}<a href="${escape(i.source)}">${u.reading}</a></div>`;
+   const heading=[t.dates,t.title].filter(Boolean).map(escape).join(' · ');
+   cards[ix].innerHTML=`${i.tested?`<span class="exam-star" title="${escape(u.tested)}" aria-label="${escape(u.tested)}">★</span> `:''}${heading?`<strong>${heading}</strong>${t.body?' — ':''}`:''}${t.html}<details class="entry-sources"><summary>${lang==='da'?'Kilder':'Sources'}</summary><div class="card-sources">${refs}<a href="${escape(i.source)}">${u.reading}</a></div></details>`;
+
   });
  }
  function render(){
