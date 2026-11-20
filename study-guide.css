@@ -87,6 +87,33 @@
 .entry-sources summary { cursor: pointer; width: fit-content; text-decoration: underline; text-underline-offset: .16em; }
 .card-sources { display: flex; flex-wrap: wrap; gap: .3rem .9rem; padding: .3rem 0; }
 .card-sources a { text-decoration: underline; text-underline-offset: .16em; }
+.party-overview { margin: 1.5rem .25rem; scroll-margin-top: 1rem; }
+.party-overview h6 { font-size: 1.2rem; margin: 0 0 .4rem; }
+.party-overview p { margin: .45rem 0; }
+.party-scroll-hint, .party-notes { color: #415d51; font-size: .9rem; }
+.party-table-scroll { overflow-x: auto; margin: .65rem 0; border: 1px solid #b8cec3; }
+.party-table { width: 100%; min-width: 58rem; border-collapse: separate; border-spacing: 0; font-size: .9rem; }
+.party-table th, .party-table td { padding: .6rem; text-align: left; vertical-align: top; border-bottom: 1px solid #d9e5df; }
+.party-table thead tr, .party-table tfoot { background: #e1eee8; }
+.party-table tbody tr { background: white; }
+.party-table tbody tr:nth-child(even) { background: #f5f8f7; }
+.party-table tbody tr:hover { background: #e8efe6; }
+.party-table :is(thead, tbody) th:first-child {
+  position: sticky;
+  left: 0;
+  width: 8.5rem;
+  min-width: 8.5rem;
+  max-width: 8.5rem;
+  overflow-wrap: anywhere;
+  background: inherit;
+  border-right: 1px solid #d9e5df;
+}
+.party-table tbody th, .party-table tfoot th { font-size: inherit; text-transform: none; letter-spacing: normal; color: inherit; }
+.party-table tbody th { font-weight: 400; }
+.party-table tbody td:nth-child(n+3):nth-child(-n+7) { white-space: nowrap; font-variant-numeric: tabular-nums; }
+.party-table tfoot :is(td,th) { font-weight: 700; border-bottom: 0; }
+.party-notes { padding-left: 1.5rem; }
+.party-notes li { margin-bottom: .3rem; }
 .study-sources { margin: 2rem 0; border-top: 1px solid #b8cec3; padding-top: 1rem; }
 .study-sources h2 { font-size: 1.25rem; }
 .study-page [hidden] { display: none !important; }
@@ -107,4 +134,10 @@
   .study-hero h1 { font-size: 26pt; }
   .study-fold > summary { break-after: avoid; }
   .study-card { break-inside: avoid; }
+  .party-scroll-hint { display: none; }
+  .party-table-scroll { overflow: visible; }
+  .party-table { min-width: 0; font-size: 8pt; }
+  .party-table th, .party-table td { padding: .15rem; }
+  .party-table :is(thead, tbody) th:first-child { position: static; width: auto; min-width: 0; }
+  .party-table tr { break-inside: avoid; }
 }

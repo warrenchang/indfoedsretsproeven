@@ -13,6 +13,7 @@
   const section = document.querySelector('#study-section');
   const language = document.querySelector('#study-language');
   const tested = document.querySelector('#study-tested');
+  const partyOverview = document.querySelector('#politiske-partier');
 
   const viewFromHash = () => {
     const hash = location.hash.slice(1);
@@ -94,15 +95,21 @@
       card.hidden = !visible;
       if (visible) count++;
     }
-    // Hidden ancestors collapse completely when a filter excludes their last bullet.
+    const partyText = partyOverview.querySelectorAll('h6, th, td, li');
+    partyOverview.hidden = view !== 'points' || !!(group.value && group.value !== '2')
+      || !!(section.value && section.value !== '2.2') || tested.checked
+      || (term && ![...partyText].some(cell => normalize(cell.textContent).includes(term)));
+    const hasResults = count !== 0 || !partyOverview.hidden;
     for (const fold of folds) {
-      fold.hidden = !fold.querySelector('.study-card:not([hidden])');
+      fold.hidden = !fold.querySelector('.study-card:not([hidden]), .party-overview:not([hidden])');
     }
     if (revealMatches && (term || group.value || section.value || tested.checked)) setFolds(true);
-    document.querySelector('#fold-controls').hidden = count === 0;
-    document.querySelector('#result-count').textContent = ui[lang].count
-      .replace('{n}', count).replace('{total}', total);
-    document.querySelector('#empty-state').hidden = count !== 0;
+    document.querySelector('#fold-controls').hidden = !hasResults;
+    const resultCount = ui[lang].count.replace('{n}', count).replace('{total}', total);
+    document.querySelector('#result-count').textContent = term && !partyOverview.hidden
+      ? resultCount + ui[lang].partyMatch
+      : resultCount;
+    document.querySelector('#empty-state').hidden = hasResults;
   }
 
   function updateView() {
@@ -129,6 +136,7 @@
     document.querySelector('main').lang = lang;
     const u = ui[lang];
     document.querySelectorAll('[data-i18n]').forEach(element => { element.textContent = u[element.dataset.i18n]; });
+    partyOverview.querySelectorAll('[data-da]').forEach(element => { element.textContent = element.dataset[lang]; });
     document.querySelector('[role="tablist"]').setAttribute('aria-label', u.views);
     search.placeholder = u.placeholder;
     for (const fold of folds) {
@@ -150,6 +158,21 @@
     }
   }
 
+  function clearFilters() {
+    search.value = '';
+    group.value = '';
+    section.value = '';
+    tested.checked = false;
+    updateView();
+  }
+
+  function revealPartyOverview() {
+    if (location.hash !== '#' + partyOverview.id) return;
+    clearFilters();
+    folds.filter(fold => fold.contains(partyOverview)).forEach(fold => { fold.open = true; });
+    partyOverview.scrollIntoView();
+  }
+
   tabs.forEach((tab, index) => {
     tab.addEventListener('click', () => {
       selectView(tab.dataset.view);
@@ -165,7 +188,10 @@
       tabs[next].click();
     });
   });
-  window.addEventListener('hashchange', () => selectView(viewFromHash()));
+  window.addEventListener('hashchange', () => {
+    selectView(viewFromHash());
+    revealPartyOverview();
+  });
   search.addEventListener('input', () => render(true));
   group.addEventListener('change', () => {
     if (view === 'points') updateSections();
@@ -174,13 +200,7 @@
   section.addEventListener('change', () => render(true));
   tested.addEventListener('change', () => render(true));
   language.addEventListener('change', changeLanguage);
-  document.querySelector('#clear-filters').addEventListener('click', () => {
-    search.value = '';
-    group.value = '';
-    section.value = '';
-    tested.checked = false;
-    updateView();
-  });
+  document.querySelector('#clear-filters').addEventListener('click', clearFilters);
   document.querySelector('#expand-sections').addEventListener('click', () => setFolds(true));
   document.querySelector('#collapse-sections').addEventListener('click', () => setFolds(false));
 
@@ -197,4 +217,5 @@
 
   language.value = 'da';
   changeLanguage();
+  revealPartyOverview();
 })();
