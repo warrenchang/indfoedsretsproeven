@@ -217,5 +217,10 @@
 
   language.value = 'da';
   changeLanguage();
+  const linkedSection = new URLSearchParams(location.search).get('section');
+  if (view === 'points' && [...section.options].some(option => option.value === linkedSection)) {
+    section.value = linkedSection;
+    render(true);
+  }
   revealPartyOverview();
 })();
