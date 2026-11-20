@@ -111,6 +111,8 @@
 .party-table tbody th, .party-table tfoot th { font-size: inherit; text-transform: none; letter-spacing: normal; color: inherit; }
 .party-table tbody th { font-weight: 400; }
 .party-table tbody td:nth-child(n+3):nth-child(-n+7) { white-space: nowrap; font-variant-numeric: tabular-nums; }
+.party-founder { display: block; max-width: 11rem; white-space: normal; }
+.party-founder:first-of-type { margin-top: .2rem; }
 .party-table tfoot :is(td,th) { font-weight: 700; border-bottom: 0; }
 .party-notes { padding-left: 1.5rem; }
 .party-notes li { margin-bottom: .3rem; }
