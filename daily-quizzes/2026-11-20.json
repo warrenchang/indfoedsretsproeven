@@ -1,0 +1,180 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-20",
+  "timezone": "Europe/Copenhagen",
+  "bank_sha256": "eb5632a9bc01ec0964b98eedc4ac675347ebb3e766c26f821ec790140a38f9f6",
+  "news_verified_at": "2026-10-26",
+  "official": false,
+  "questions": [
+    {
+      "id": "DK0662",
+      "question": "Til hvilken organisation udviklede Børge Mogensen møbler i 1940'erne?",
+      "options": {
+        "A": "FDB",
+        "B": "Illums Bolighus",
+        "C": "Magasin du Nord"
+      },
+      "answer": "A",
+      "explanation": "Mogensens enkle møbelprogram blev udviklet for FDB, senere Coop.",
+      "source_pages": [
+        162
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "CA-S009",
+      "event_date": "2026-05-04",
+      "question": "Hvad var baggrunden for fødevarechecken, som begyndte at blive udbetalt i maj 2026?",
+      "options": {
+        "A": "Stigende fødevarepriser",
+        "B": "Stigende togpriser",
+        "C": "Stigende boligskatter"
+      },
+      "answer": "A",
+      "explanation": "Fødevarechecken skulle give økonomisk støtte til berettigede grupper på grund af dyrere fødevarer.",
+      "source_url": "https://star.dk/da/om-styrelsen/nyt/nyheder-og-aktuelt-fra-styrelsen-for-arbejdsmarked-og-rekruttering/2026/05/udbetaling-af-foedevarecheck",
+      "source_title": "Udbetaling af fødevarecheck",
+      "verified_at": "2026-09-25",
+      "exam_domain": "current_affairs",
+      "source_pages": [],
+      "source_edition": "Nyhedskilde kontrolleret 2026-09-25"
+    },
+    {
+      "id": "DK0857",
+      "question": "Hvad påviste Knud Rasmussen gennem møder med inuitter over store afstande?",
+      "options": {
+        "A": "Fælles kulturelle træk og traditioner",
+        "B": "At inuitternes fælles kultur stammede fra nordboerne",
+        "C": "At inuitternes kulturer havde helt uafhængige rødder"
+      },
+      "answer": "A",
+      "explanation": "Hans ekspeditioner dokumenterede sammenhænge mellem forskellige inuitgruppers kultur og mytologi.",
+      "source_pages": [
+        213
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0019",
+      "question": "Hvad var en ofring i asatroen?",
+      "options": {
+        "A": "En hyldest til en afdød høvding",
+        "B": "En gave til guderne",
+        "C": "En ed mellem to krigere"
+      },
+      "answer": "B",
+      "explanation": "Ved ofringer gav man guderne blandt andet mad, smykker eller dyr.",
+      "source_pages": [
+        9
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0467",
+      "question": "Hvor stor er Danmarks eksport omtrent i forhold til landets samlede produktion i midten af 2020’erne?",
+      "options": {
+        "A": "Cirka det dobbelte",
+        "B": "Cirka en tyvendedel",
+        "C": "Cirka halvdelen"
+      },
+      "answer": "C",
+      "explanation": "Eksportens store størrelse viser, hvor åben og international dansk økonomi er.",
+      "source_pages": [
+        116
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0273-e2",
+      "question": "Må regeringen have et flertal imod sig i Folketinget?",
+      "options": {
+        "A": "Ja",
+        "B": "Nej"
+      },
+      "answer": "B",
+      "explanation": "Parlamentarisme betyder, at regeringen ikke kan blive siddende med et folketingsflertal imod sig.",
+      "source_pages": [
+        70
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "values"
+    },
+    {
+      "id": "DK0537",
+      "question": "Hvad kaldes FN's øverste leder?",
+      "options": {
+        "A": "Generalsekretæren",
+        "B": "Formanden for Generalforsamlingen",
+        "C": "Formanden for Sikkerhedsrådet"
+      },
+      "answer": "A",
+      "explanation": "FN's øverste administrative leder er generalsekretæren.",
+      "source_pages": [
+        131
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0816-e2",
+      "question": "Kan større grønlandske råstofindtægter medføre mindre dansk tilskud?",
+      "options": {
+        "A": "Ja",
+        "B": "Nej"
+      },
+      "answer": "A",
+      "explanation": "Indtægterne tilfalder selvstyret, men kan efter ordningen reducere bloktilskuddet.",
+      "source_pages": [
+        202
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0121",
+      "question": "Hvilken befolkningsgruppe repræsenterede Venstre især i 1800-tallet?",
+      "options": {
+        "A": "Godsejerne",
+        "B": "Industriarbejderne",
+        "C": "Bønderne"
+      },
+      "answer": "C",
+      "explanation": "Venstre var bondepartiet, mens Højre især stod stærkt blandt godsejere.",
+      "source_pages": [
+        30
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0357",
+      "question": "Hvilken organisation arbejder for regionernes fælles interesser?",
+      "options": {
+        "A": "Danske Regioner",
+        "B": "Dansk Erhverv",
+        "C": "Kommunernes Landsforening"
+      },
+      "answer": "A",
+      "explanation": "Danske Regioner varetager regionernes fælles interesser og arbejder for det regionale selvstyre.",
+      "source_pages": [
+        89
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    }
+  ],
+  "snapshot_sha256": "614576ab980ff77e3149d2f52511c6105e52835fe6fdfa5eb89b31e926e0eb3c"
+}
