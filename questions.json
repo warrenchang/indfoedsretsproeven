@@ -1,8 +1,8 @@
 {
   "title": "Indfødsretsprøven – november 2026",
   "official": false,
-  "version": "2026-09-27",
-  "news_coverage_through": "2026-09-25",
+  "version": "2026-11-21",
+  "news_coverage_through": "2026-11-21",
   "news_window_start": "2026-05-01",
   "author": "Huanren Warren Zhang",
   "author_url": "https://sites.google.com/site/huanrenzhang/",
@@ -874,19 +874,18 @@
       "source_edition": "August 2026"
     },
     {
-      "id": "DK0037",
+      "id": "DK0037-s3",
       "chapter": 1,
       "chapter_title": "Danmarks historie",
       "section": "1.3",
       "topic": "1.3.2 Pest, genopbygning og Kalmarunion",
-      "question": "Hvilket land forlod endeligt Kalmarunionen i 1523?",
+      "question": "Var det Sverige eller Norge, der forlod Kalmarunionen i 1523?",
       "options": {
-        "A": "Danmark",
-        "B": "Norge",
-        "C": "Sverige"
+        "A": "Sverige",
+        "B": "Norge"
       },
-      "answer": "C",
-      "explanation": "Sverige løsrev sig i 1523, mens Norge forblev forbundet med Danmark.",
+      "answer": "A",
+      "explanation": "Sverige forlod Kalmarunionen i 1523. Norge forblev knyttet til Danmark.",
       "difficulty": "medium",
       "cognitive": "recall",
       "values": false,
@@ -895,7 +894,8 @@
         12
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "original_id": "DK0037"
     },
     {
       "id": "DK0038",
@@ -1114,19 +1114,19 @@
       "source_edition": "August 2026"
     },
     {
-      "id": "DK0047",
+      "id": "DK0047-s3",
       "chapter": 1,
       "chapter_title": "Danmarks historie",
       "section": "1.4",
       "topic": "1.4.2 Christian 4. og svenskekrigene",
-      "question": "Hvilken nutidig hovedstad hed tidligere Kristiania?",
+      "question": "Hvilken nutidig hovedstad hed Kristiania efter Christian 4.s genopbygning af byen?",
       "options": {
-        "A": "Helsinki",
-        "B": "Stockholm",
+        "A": "Stockholm",
+        "B": "Helsinki",
         "C": "Oslo"
       },
       "answer": "C",
-      "explanation": "Christian 4. grundlagde Kristiania, som senere fik navnet Oslo.",
+      "explanation": "Christian 4. lod byen genopbygge efter en brand. Kristiania hedder i dag Oslo.",
       "difficulty": "medium",
       "cognitive": "recall",
       "values": false,
@@ -1135,7 +1135,8 @@
         14
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "original_id": "DK0047"
     },
     {
       "id": "DK0048",
@@ -2125,19 +2126,19 @@
       "source_edition": "August 2026"
     },
     {
-      "id": "DK0090",
+      "id": "DK0090-s3",
       "chapter": 1,
       "chapter_title": "Danmarks historie",
       "section": "1.7",
       "topic": "1.7.1 Den 1. Slesvigske Krig",
-      "question": "Hvilke hertugdømmer indgik sammen med kongeriget i den danske helstat i midten af 1800-tallet?",
+      "question": "Hvilke to hertugdømmer stod i centrum for de slesvigske krige?",
       "options": {
         "A": "Slesvig og Holsten",
-        "B": "Skåne og Blekinge",
-        "C": "Halland og Gotland"
+        "B": "Holsten og Lauenborg",
+        "C": "Slesvig og Lauenborg"
       },
       "answer": "A",
-      "explanation": "Den danske konge regerede både kongeriget og hertugdømmerne Slesvig og Holsten.",
+      "explanation": "De slesvigske krige handlede især om Slesvigs og Holstens forhold til Danmark. Danmark måtte afstå begge i 1864.",
       "difficulty": "medium",
       "cognitive": "recall",
       "values": false,
@@ -2146,7 +2147,8 @@
         24
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "original_id": "DK0090"
     },
     {
       "id": "DK0091",
@@ -3281,19 +3283,19 @@
       "source_edition": "August 2026"
     },
     {
-      "id": "DK0138-e2",
+      "id": "DK0138-e2-s3",
       "chapter": 1,
       "chapter_title": "Danmarks historie",
       "section": "1.9",
       "topic": "1.9.2 Den Spanske Syge",
-      "question": "Hvilken aldersgruppe blev usædvanligt hårdt ramt af dødsfald under Den Spanske Syge?",
+      "question": "Mod slutningen af hvilken krig blev Danmark ramt af Den Spanske Syge?",
       "options": {
-        "A": "0–10-årige",
-        "B": "20–40-årige",
-        "C": "70–90-årige"
+        "A": "2. verdenskrig",
+        "B": "Den anden slesvigske krig",
+        "C": "1. verdenskrig"
       },
-      "answer": "B",
-      "explanation": "Mange af de døde var relativt unge voksne mellem 20 og 40 år.",
+      "answer": "C",
+      "explanation": "Influenzaen ramte Danmark i 1918, da 1. verdenskrig nærmede sig sin afslutning.",
       "difficulty": "medium",
       "cognitive": "recall",
       "values": false,
@@ -3572,28 +3574,30 @@
       "source_edition": "August 2026"
     },
     {
-      "id": "DK0150",
+      "id": "DK0150-s3",
       "chapter": 1,
       "chapter_title": "Danmarks historie",
       "section": "1.9",
       "topic": "1.9.4 Økonomisk krise og socialreformer",
-      "question": "Hvorfor hed det politiske forlig fra 1933 Kanslergadeforliget?",
+      "question": "Hvilken international krise dannede baggrund for Kanslergadeforliget i 1933?",
       "options": {
-        "A": "Det blev indgået hos den tyske rigskansler",
-        "B": "Det var opkaldt efter regeringens socialminister",
-        "C": "Forhandlingerne foregik i Staunings bolig i Kanslergade"
+        "A": "Finanskrisen i 2008",
+        "B": "Verdenskrisen efter børskrakket",
+        "C": "Oliekrisen i 1970’erne"
       },
-      "answer": "C",
-      "explanation": "Navnet henviser til statsministerens adresse i København.",
+      "answer": "B",
+      "explanation": "Krisen efter børskrakket i 1929 førte til blandt andet stor arbejdsløshed. Kanslergadeforliget var en dansk politisk reaktion på krisen.",
       "difficulty": "medium",
       "cognitive": "recall",
       "values": false,
       "exam_domain": "reading",
       "source_pages": [
+        36,
         37
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "original_id": "DK0150"
     },
     {
       "id": "DK0151",
@@ -3716,28 +3720,29 @@
       "source_edition": "August 2026"
     },
     {
-      "id": "DK0156",
+      "id": "DK0156-s3",
       "chapter": 1,
       "chapter_title": "Danmarks historie",
       "section": "1.10",
       "topic": "1.10.1 Besættelse og samarbejde",
-      "question": "Hvorfor havde Norge stor strategisk betydning for Tyskland?",
+      "question": "Hvilket land blev sammen med Danmark angrebet af Tyskland den 9. april 1940?",
       "options": {
-        "A": "Store kornleverancer til den tyske hær",
-        "B": "Kontrol over indsejlingen til Østersøen",
-        "C": "Jernmalm og adgang til Atlanterhavet"
+        "A": "Sverige",
+        "B": "Finland",
+        "C": "Norge"
       },
       "answer": "C",
-      "explanation": "Norsk kyst og udskibning af svensk jernmalm ved Narvik var vigtige for den tyske krigsførelse.",
-      "difficulty": "hard",
-      "cognitive": "understanding",
+      "explanation": "Tyskland angreb Danmark og Norge samme dag.",
+      "difficulty": "medium",
+      "cognitive": "recall",
       "values": false,
       "exam_domain": "reading",
       "source_pages": [
         38
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "original_id": "DK0156"
     },
     {
       "id": "DK0157",
@@ -3788,19 +3793,19 @@
       "source_edition": "August 2026"
     },
     {
-      "id": "DK0159",
+      "id": "DK0159-s3",
       "chapter": 1,
       "chapter_title": "Danmarks historie",
       "section": "1.10",
       "topic": "1.10.1 Besættelse og samarbejde",
-      "question": "Hvem blev regeringsleder efter tysk pres i oktober 1942?",
+      "question": "Hvem stod i spidsen for den regering, der blev dannet i Danmark efter krisen i forholdet til Tyskland i 1942?",
       "options": {
-        "A": "Erik Scavenius",
-        "B": "Poul Schlüter",
-        "C": "Jens Otto Krag"
+        "A": "Thorvald Stauning",
+        "B": "Erik Scavenius",
+        "C": "Vilhelm Buhl"
       },
-      "answer": "A",
-      "explanation": "Scavenius var en stærk fortaler for samarbejdspolitikken og blev regeringsleder i 1942.",
+      "answer": "B",
+      "explanation": "Efter krisen i oktober 1942 blev der efter tysk krav dannet en regering under Erik Scavenius.",
       "difficulty": "hard",
       "cognitive": "recall",
       "values": false,
@@ -3809,7 +3814,8 @@
         39
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "original_id": "DK0159"
     },
     {
       "id": "DK0160",
@@ -4196,19 +4202,19 @@
       "source_edition": "August 2026"
     },
     {
-      "id": "DK0176-e2",
+      "id": "DK0176-e2-s3",
       "chapter": 1,
       "chapter_title": "Danmarks historie",
       "section": "1.10",
       "topic": "1.10.4 Modstand og befrielse",
-      "question": "Hvad betød rationering under besættelsen?",
+      "question": "Hvad betød rationering i Danmark under besættelsen?",
       "options": {
-        "A": "Man måtte kun købe bestemte mængder af visse varer",
-        "B": "Alle varer fik samme pris",
-        "C": "Kun staten måtte sælge varer"
+        "A": "Visse varer blev solgt til en fælles pris",
+        "B": "Visse varer blev kun solgt af staten",
+        "C": "Visse varer blev solgt i begrænsede mængder"
       },
-      "answer": "A",
-      "explanation": "Rationering fordelte knappe varer ved at begrænse den mængde, hver borger kunne købe.",
+      "answer": "C",
+      "explanation": "Med rationering blev der sat en grænse for, hvor meget den enkelte kunne købe af knappe varer.",
       "difficulty": "medium",
       "cognitive": "application",
       "values": false,
@@ -4438,28 +4444,29 @@
       "source_edition": "August 2026"
     },
     {
-      "id": "DK0186",
+      "id": "DK0186-s3",
       "chapter": 1,
       "chapter_title": "Danmarks historie",
       "section": "1.11",
       "topic": "1.11.1 Dansk politik og Den Kolde Krig",
-      "question": "Hvilket formål havde Marshall-planen blandt andet?",
+      "question": "Hvornår modtog Danmark økonomisk hjælp gennem Marshall-planen?",
       "options": {
-        "A": "At skabe en fælles europæisk valuta med det samme",
-        "B": "At genopbygge international handel",
-        "C": "At give USA ejendomsretten til europæiske virksomheder"
+        "A": "I årene efter oliekrisen i 1973",
+        "B": "I årene efter 2. verdenskrig",
+        "C": "I årene efter 1. verdenskrig"
       },
       "answer": "B",
-      "explanation": "Hjælpen skulle sætte samhandlen i gang og begrænse kommunismens udbredelse.",
+      "explanation": "USA ydede Marshall-hjælp til blandt andet Danmark for at få gang i økonomien og den internationale handel efter 2. verdenskrig.",
       "difficulty": "medium",
-      "cognitive": "understanding",
+      "cognitive": "recall",
       "values": false,
       "exam_domain": "reading",
       "source_pages": [
         44
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "original_id": "DK0186"
     },
     {
       "id": "DK0187",
@@ -4655,19 +4662,19 @@
       "editorial_revision": "2026-09-27"
     },
     {
-      "id": "DK0195",
+      "id": "DK0195-s3",
       "chapter": 1,
       "chapter_title": "Danmarks historie",
       "section": "1.11",
       "topic": "1.11.2 Større velfærd",
-      "question": "I hvilket år blev folkepensionen indført?",
+      "question": "I hvilket år blev den første lov om folkepension vedtaget?",
       "options": {
-        "A": "1956",
-        "B": "1933",
-        "C": "1979"
+        "A": "1979",
+        "B": "1956",
+        "C": "1933"
       },
-      "answer": "A",
-      "explanation": "Folkepensionen kom i 1956 som del af udbygningen af det sociale sikkerhedsnet.",
+      "answer": "B",
+      "explanation": "Den første folkepensionslov blev vedtaget i 1956 som led i udbygningen af det sociale sikkerhedsnet.",
       "difficulty": "easy",
       "cognitive": "recall",
       "values": false,
@@ -4676,7 +4683,8 @@
         48
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "original_id": "DK0195"
     },
     {
       "id": "DK0196",
@@ -6203,19 +6211,18 @@
       "wording_revision": "2026-09-26"
     },
     {
-      "id": "DK0259",
+      "id": "DK0259-s3",
       "chapter": 1,
       "chapter_title": "Danmarks historie",
       "section": "1.13",
       "topic": "1.13.7 Nyt politisk opbrud",
-      "question": "Hvilke tre partier dannede regering efter folketingsvalget i 2022?",
+      "question": "Sad Venstre i den regering, Mette Frederiksen dannede efter folketingsvalget i 2022?",
       "options": {
-        "A": "Socialdemokratiet, Venstre og Moderaterne",
-        "B": "Socialdemokratiet, SF og Enhedslisten",
-        "C": "Venstre, Konservative og Dansk Folkeparti"
+        "A": "Ja",
+        "B": "Nej"
       },
       "answer": "A",
-      "explanation": "Regeringen fra 2022 samlede Socialdemokratiet, Venstre og Moderaterne under Mette Frederiksen.",
+      "explanation": "Socialdemokratiet, Venstre og Moderaterne dannede regering efter valget i 2022.",
       "difficulty": "medium",
       "cognitive": "recall",
       "values": false,
@@ -6224,7 +6231,8 @@
         64
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "original_id": "DK0259"
     },
     {
       "id": "DK0260-e2",
@@ -6877,19 +6885,19 @@
       "source_edition": "August 2026"
     },
     {
-      "id": "DK0301",
+      "id": "DK0301-s3",
       "chapter": 2,
       "chapter_title": "Det danske demokrati",
       "section": "2.2",
       "topic": "2.2.2 Demokratiets institutioner – Regeringen",
-      "question": "Hvad er oppositionen?",
+      "question": "Hvad kaldes de partier i Folketinget, der står i politisk modsætning til regeringen?",
       "options": {
-        "A": "Partier og medlemmer uden for regeringen, som er imod den",
-        "B": "De partier, der sammen udgør regeringen",
-        "C": "De partier, der støtter regeringen uden ministerposter"
+        "A": "Støttepartierne",
+        "B": "Regeringspartierne",
+        "C": "Oppositionen"
       },
-      "answer": "A",
-      "explanation": "Oppositionen fører politisk modstand mod regeringen fra Folketinget.",
+      "answer": "C",
+      "explanation": "Oppositionen består af partier og medlemmer uden for regeringen, der arbejder imod dens politik.",
       "difficulty": "easy",
       "cognitive": "recall",
       "values": false,
@@ -6898,7 +6906,8 @@
         76
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "original_id": "DK0301"
     },
     {
       "id": "DK0303-e2",
@@ -7192,19 +7201,18 @@
       "source_edition": "August 2026"
     },
     {
-      "id": "DK0323",
+      "id": "DK0323-s3",
       "chapter": 2,
       "chapter_title": "Det danske demokrati",
       "section": "2.2",
       "topic": "2.2.2 Demokratiets institutioner – Folketingsvalg",
-      "question": "Hvilke partier er automatisk opstillingsberettigede til næste folketingsvalg?",
+      "question": "Skal partier, der blev valgt ved sidste folketingsvalg og stadig er repræsenteret i Folketinget, normalt indsamle nye vælgererklæringer for at stille op igen?",
       "options": {
-        "A": "Partier valgt ved det seneste folketingsvalg",
-        "B": "Alle partier med mindst ét års registrering",
-        "C": "Alle partier med et medlem af et regionsråd"
+        "A": "Ja",
+        "B": "Nej"
       },
-      "answer": "A",
-      "explanation": "Partier valgt ved det seneste folketingsvalg behøver ikke på ny opnå retten gennem vælgererklæringer.",
+      "answer": "B",
+      "explanation": "Partier, der er opstillingsberettigede på baggrund af det seneste valg, behøver ikke indsamle nye vælgererklæringer.",
       "difficulty": "medium",
       "cognitive": "recall",
       "values": false,
@@ -7213,7 +7221,8 @@
         81
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "original_id": "DK0323"
     },
     {
       "id": "DK0325",
@@ -7456,19 +7465,19 @@
       "source_edition": "August 2026"
     },
     {
-      "id": "DK0338-e2",
+      "id": "DK0338-e2-s3",
       "chapter": 2,
       "chapter_title": "Det danske demokrati",
       "section": "2.2",
       "topic": "2.2.4 Direkte demokrati: Folkeafstemninger og borgerforslag",
-      "question": "Hvor mange folketingsmedlemmer skal der mindst til for at kræve en folkeafstemning efter grundlovens regler?",
+      "question": "Hvor mange medlemmer af Folketinget kan som minimum kræve folkeafstemning efter grundlovens § 42?",
       "options": {
         "A": "120",
-        "B": "90",
-        "C": "60"
+        "B": "60",
+        "C": "90"
       },
-      "answer": "C",
-      "explanation": "En tredjedel af Folketinget er i denne sammenhæng mindst 60 medlemmer; reglerne har undtagelser.",
+      "answer": "B",
+      "explanation": "Mindst en tredjedel af Folketingets medlemmer, altså 60, kan kræve folkeafstemning efter § 42. Bestemmelsen gælder kun visse lovforslag.",
       "difficulty": "hard",
       "cognitive": "recall",
       "values": false,
@@ -7482,19 +7491,19 @@
       "editorial_revision": "2026-09-27"
     },
     {
-      "id": "DK0339-e2",
+      "id": "DK0339-e2-s3",
       "chapter": 2,
       "chapter_title": "Det danske demokrati",
       "section": "2.2",
       "topic": "2.2.4 Direkte demokrati: Folkeafstemninger og borgerforslag",
-      "question": "Hvor mange folketingsmedlemmer skal stemme for suverænitetsafgivelse efter § 20, hvis der ikke skal være folkeafstemning?",
+      "question": "Hvor mange medlemmer af Folketinget skal som minimum stemme for en suverænitetsafgivelse efter grundlovens § 20, hvis den vedtages uden folkeafstemning?",
       "options": {
-        "A": "120",
-        "B": "90",
-        "C": "150"
+        "A": "150",
+        "B": "120",
+        "C": "90"
       },
-      "answer": "C",
-      "explanation": "Grundloven kræver fem sjettedeles flertal, svarende til mindst 150 medlemmer.",
+      "answer": "A",
+      "explanation": "Der kræves tilslutning fra fem sjettedele af Folketingets 179 medlemmer, altså mindst 150.",
       "difficulty": "hard",
       "cognitive": "recall",
       "values": false,
@@ -7652,19 +7661,18 @@
       "source_edition": "August 2026"
     },
     {
-      "id": "DK0350",
+      "id": "DK0350-s3",
       "chapter": 2,
       "chapter_title": "Det danske demokrati",
       "section": "2.2",
       "topic": "2.2.5 Det lokale selvstyre i kommuner og regioner",
-      "question": "Hvilket niveau kan ikke selv udskrive skat?",
+      "question": "Kan en region i Danmark selv udskrive skat?",
       "options": {
-        "A": "Staten",
-        "B": "Kommunerne",
-        "C": "Regionerne"
+        "A": "Ja",
+        "B": "Nej"
       },
-      "answer": "C",
-      "explanation": "Regionerne finansieres gennem penge fra staten og kommunerne og har ikke egen skatteudskrivning.",
+      "answer": "B",
+      "explanation": "Regionerne finansieres af staten og kommunerne og har ikke selv ret til at udskrive skat.",
       "difficulty": "medium",
       "cognitive": "recall",
       "values": false,
@@ -7673,7 +7681,8 @@
         87
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "original_id": "DK0350"
     },
     {
       "id": "DK0351-e2",
@@ -8506,19 +8515,18 @@
       "source_edition": "August 2026"
     },
     {
-      "id": "DK0418",
+      "id": "DK0418-s3",
       "chapter": 3,
       "chapter_title": "Den danske økonomi",
       "section": "3.2",
       "topic": "3.2 Velfærdssamfundet",
-      "question": "Hvordan finansieres de fleste danske velfærdsydelser?",
+      "question": "Finansieres de fleste danske velfærdsydelser gennem skatter og afgifter eller gennem private forsikringer?",
       "options": {
-        "A": "Udelukkende gennem private donationer",
-        "B": "Kun gennem bidrag fra ydelsens modtagere",
-        "C": "Gennem fælles skatter og afgifter"
+        "A": "Gennem skatter og afgifter",
+        "B": "Gennem private forsikringer"
       },
-      "answer": "C",
-      "explanation": "Skattefinansiering er et centralt træk ved den nordiske velfærdsmodel.",
+      "answer": "A",
+      "explanation": "Det meste af den danske velfærd finansieres af fælles skatter og afgifter.",
       "difficulty": "easy",
       "cognitive": "recall",
       "values": false,
@@ -8527,7 +8535,8 @@
         105
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "original_id": "DK0418"
     },
     {
       "id": "DK0420",
@@ -8578,20 +8587,20 @@
       "source_edition": "August 2026"
     },
     {
-      "id": "DK0422",
+      "id": "DK0422-s3",
       "chapter": 3,
       "chapter_title": "Den danske økonomi",
       "section": "3.2",
       "topic": "3.2.1 Den danske velfærdsmodels udvikling",
-      "question": "Hvad skete der med 55 socialpolitiske love ved socialreformen i 1933?",
+      "question": "I hvilke årtier blev flere af grundprincipperne for det nuværende danske velfærdssamfund etableret?",
       "options": {
-        "A": "De blev erstattet af private forsikringsaftaler",
-        "B": "De blev overladt til hver enkelt kommune",
-        "C": "De blev samlet i fire folkeforsikringslove"
+        "A": "1930’erne og 1940’erne",
+        "B": "1950’erne og 1960’erne",
+        "C": "1980’erne og 1990’erne"
       },
-      "answer": "C",
-      "explanation": "Socialreformen samlede de mange love i fire folkeforsikringslove og gjorde systemet mere ensartet.",
-      "difficulty": "hard",
+      "answer": "B",
+      "explanation": "I 1950’erne og 1960’erne blev velfærdssamfundet udbygget, blandt andet med folkepension og flere offentlige serviceydelser.",
+      "difficulty": "medium",
       "cognitive": "recall",
       "values": false,
       "exam_domain": "reading",
@@ -8599,7 +8608,8 @@
         106
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "original_id": "DK0422"
     },
     {
       "id": "DK0423",
@@ -8919,28 +8929,29 @@
       "source_edition": "August 2026"
     },
     {
-      "id": "DK0436",
+      "id": "DK0436-s3",
       "chapter": 3,
       "chapter_title": "Den danske økonomi",
       "section": "3.2",
       "topic": "3.2.2 Lighed og omfordeling",
-      "question": "Hvorfor omfordeler moms normalt mindre end progressiv indkomstskat?",
+      "question": "Hvad betaler man normalt moms af i Danmark?",
       "options": {
-        "A": "Lavindkomstgrupper bruger ofte en større del af indkomsten",
-        "B": "Moms beregnes af opsparing frem for forbrug",
-        "C": "Momsprocenten stiger normalt med køberens indkomst"
+        "A": "Løn og pension",
+        "B": "Renter og aktieudbytte",
+        "C": "Varer og tjenesteydelser"
       },
-      "answer": "A",
-      "explanation": "Når lavindkomstgrupper bruger en større indkomstandel, rammer forbrugsafgifter relativt hårdere.",
-      "difficulty": "hard",
-      "cognitive": "understanding",
+      "answer": "C",
+      "explanation": "Moms er en afgift på forbrug, som normalt er en del af prisen på varer og tjenesteydelser.",
+      "difficulty": "medium",
+      "cognitive": "recall",
       "values": false,
       "exam_domain": "reading",
       "source_pages": [
         110
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "original_id": "DK0436"
     },
     {
       "id": "DK0437-e2",
@@ -8968,28 +8979,29 @@
       "editorial_revision": "2026-09-27"
     },
     {
-      "id": "DK0438",
+      "id": "DK0438-s3",
       "chapter": 3,
       "chapter_title": "Den danske økonomi",
       "section": "3.2",
       "topic": "3.2.2 Lighed og omfordeling",
-      "question": "Hvordan kan kraftigt stigende boligpriser øge formueforskelle?",
+      "question": "Hvordan har den økonomiske ulighed i Danmark udviklet sig siden 1980’erne?",
       "options": {
-        "A": "Boligejere får gevinster, som lejere ikke får",
-        "B": "Lønmodtagere uden bolig får automatisk samme gevinst",
-        "C": "Alle borgeres opsparing stiger lige meget"
+        "A": "Den er blevet større",
+        "B": "Den er blevet mindre",
+        "C": "Den har været omtrent uændret"
       },
       "answer": "A",
-      "explanation": "Boliggevinster tilfaller ejere og kan øge forskellen til borgere uden tilsvarende ejendom.",
-      "difficulty": "hard",
-      "cognitive": "application",
+      "explanation": "Den økonomiske ulighed er steget siden 1980’erne, selv om Danmark fortsat har relativt små indkomstforskelle.",
+      "difficulty": "medium",
+      "cognitive": "recall",
       "values": false,
       "exam_domain": "reading",
       "source_pages": [
         110
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "original_id": "DK0438"
     },
     {
       "id": "DK0439",
@@ -9652,19 +9664,18 @@
       "source_edition": "August 2026"
     },
     {
-      "id": "DK0466",
+      "id": "DK0466-s3",
       "chapter": 3,
       "chapter_title": "Den danske økonomi",
       "section": "3.3",
       "topic": "3.3.1 Fra landbrugssamfund til videns- og servicesamfund",
-      "question": "Omtrent hvor stor en andel af lønmodtagerne arbejder i den offentlige sektor i Danmark i midten af 2020’erne?",
+      "question": "Arbejder mere eller mindre end halvdelen af de danske lønmodtagere i den offentlige sektor i midten af 2020’erne?",
       "options": {
-        "A": "30 procent",
-        "B": "5 procent",
-        "C": "70 procent"
+        "A": "Mindre end halvdelen",
+        "B": "Mere end halvdelen"
       },
       "answer": "A",
-      "explanation": "Materialet angiver omkring 30 procent i den offentlige sektor.",
+      "explanation": "Omkring 30 procent af lønmodtagerne arbejder i den offentlige sektor.",
       "difficulty": "medium",
       "cognitive": "recall",
       "values": false,
@@ -9674,7 +9685,8 @@
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
       "source_edition": "August 2026",
-      "wording_revision": "2026-09-26"
+      "wording_revision": "2026-09-26",
+      "original_id": "DK0466"
     },
     {
       "id": "DK0467",
@@ -9778,19 +9790,19 @@
       "editorial_revision": "2026-09-27"
     },
     {
-      "id": "DK0471",
+      "id": "DK0471-s3",
       "chapter": 3,
       "chapter_title": "Den danske økonomi",
       "section": "3.3",
       "topic": "3.3.2 Danmarks samhandel med udlandet",
-      "question": "Hvilke organisationer arbejder sammen med EU for mere fri handel?",
+      "question": "Hvilken international organisation arbejder især med regler for verdenshandelen?",
       "options": {
-        "A": "NATO og Europarådet",
-        "B": "OECD og WTO",
-        "C": "Den Europæiske Centralbank og Den Internationale Domstol"
+        "A": "OECD",
+        "B": "Europarådet",
+        "C": "WTO"
       },
-      "answer": "B",
-      "explanation": "OECD og WTO beskæftiger sig med økonomisk samarbejde og handel; de øvrige nævnte har andre formål.",
+      "answer": "C",
+      "explanation": "WTO er Verdenshandelsorganisationen. Den arbejder med regler og aftaler om international handel.",
       "difficulty": "medium",
       "cognitive": "recall",
       "values": false,
@@ -9799,7 +9811,8 @@
         116
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "original_id": "DK0471"
     },
     {
       "id": "DK0472",
@@ -11017,19 +11030,19 @@
       "source_edition": "August 2026"
     },
     {
-      "id": "DK0526",
+      "id": "DK0526-s3",
       "chapter": 4,
       "chapter_title": "Danmark og omverdenen",
       "section": "4.2",
       "topic": "4.2.1 Den Europæiske Union – Rådet",
-      "question": "Et EU-forslag om miljø skal behandles i Ministerrådet. Hvem møder typisk fra landene?",
+      "question": "Hvem repræsenterer normalt EU-landene i Ministerrådet?",
       "options": {
-        "A": "Kulturministrene",
-        "B": "Miljøministrene",
-        "C": "Justitsministrene"
+        "A": "Ministre fra medlemslandene",
+        "B": "Medlemslandenes stats- og regeringschefer",
+        "C": "Medlemmer af Europa-Parlamentet"
       },
-      "answer": "B",
-      "explanation": "Ministerrådets sammensætning afhænger af det fagområde, der behandles.",
+      "answer": "A",
+      "explanation": "I Ministerrådet mødes relevante fagministre fra medlemslandene. Emnet afgør, hvilke ministre der deltager.",
       "difficulty": "medium",
       "cognitive": "application",
       "values": false,
@@ -11038,7 +11051,8 @@
         129
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "original_id": "DK0526"
     },
     {
       "id": "DK0527",
@@ -11234,19 +11248,19 @@
       "source_edition": "August 2026"
     },
     {
-      "id": "DK0539",
+      "id": "DK0539-s3",
       "chapter": 4,
       "chapter_title": "Danmark og omverdenen",
       "section": "4.3",
       "topic": "4.3.1 FN (De Forenede Nationer)",
-      "question": "Hvilken FN-forsamling vedtager blandt andet organisationens budget?",
+      "question": "Hvilke lande er repræsenteret i FN’s Generalforsamling?",
       "options": {
-        "A": "Generalforsamlingen",
-        "B": "FN's Sikkerhedsråd",
-        "C": "Den Internationale Domstol"
+        "A": "Kun landene, der var med til at grundlægge FN",
+        "B": "Kun Sikkerhedsrådets medlemslande",
+        "C": "Alle FN’s medlemslande"
       },
-      "answer": "A",
-      "explanation": "FN's årlige Generalforsamling behandler blandt andet budgettet og internationale spørgsmål.",
+      "answer": "C",
+      "explanation": "Alle FN’s medlemslande er repræsenteret i Generalforsamlingen. Her drøfter de internationale spørgsmål, herunder FN’s budget.",
       "difficulty": "medium",
       "cognitive": "recall",
       "values": false,
@@ -11255,7 +11269,8 @@
         132
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "original_id": "DK0539"
     },
     {
       "id": "DK0540",
@@ -11354,19 +11369,19 @@
       "source_edition": "August 2026"
     },
     {
-      "id": "DK0544",
+      "id": "DK0544-s3",
       "chapter": 4,
       "chapter_title": "Danmark og omverdenen",
       "section": "4.3",
       "topic": "4.3.1 FN (De Forenede Nationer)",
-      "question": "Hvad betyder de faste sikkerhedsrådsmedlemmers vetoret?",
+      "question": "Hvad kan et fast medlem af FN’s Sikkerhedsråd gøre med sin vetoret?",
       "options": {
-        "A": "Et fast medlem kan afgive ti stemmer ved alle afstemninger",
-        "B": "Et fast medlem kan alene vedtage enhver beslutning",
-        "C": "Et fast medlem kan blokere en beslutning ved at stemme imod"
+        "A": "Vedtage et forslag uden de øvrige landes stemmer",
+        "B": "Udelukke et medlemsland fra Sikkerhedsrådet",
+        "C": "Blokere et forslag om en sag, der ikke er et procedurespørgsmål"
       },
       "answer": "C",
-      "explanation": "Vetoretten giver hvert af de fem faste medlemmer mulighed for at blokere substantielle beslutninger.",
+      "explanation": "Et nej fra et fast medlem blokerer forslag i substantielle spørgsmål. Vetoretten gælder ikke rene procedurespørgsmål.",
       "difficulty": "medium",
       "cognitive": "understanding",
       "values": false,
@@ -11375,7 +11390,8 @@
         132
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "original_id": "DK0544"
     },
     {
       "id": "DK0545",
@@ -11598,19 +11614,19 @@
       "source_edition": "August 2026"
     },
     {
-      "id": "DK0554",
+      "id": "DK0554-s3",
       "chapter": 4,
       "chapter_title": "Danmark og omverdenen",
       "section": "4.3",
       "topic": "4.3.2 Internationalt samarbejde om udvikling – Fokus på Afrika",
-      "question": "Hvilken verdensdel har historisk modtaget størstedelen af dansk udviklingsbistand?",
+      "question": "Hvilken verdensdel har historisk modtaget den største andel af den danske udviklingsbistand?",
       "options": {
-        "A": "Afrika",
-        "B": "Latinamerika",
-        "C": "Asien"
+        "A": "Latinamerika",
+        "B": "Asien",
+        "C": "Afrika"
       },
-      "answer": "A",
-      "explanation": "Afrika har historisk stået centralt i dansk udviklingspolitik.",
+      "answer": "C",
+      "explanation": "Afrika har i mange år været den største modtager af dansk udviklingsbistand.",
       "difficulty": "easy",
       "cognitive": "recall",
       "values": false,
@@ -11619,23 +11635,25 @@
         134
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "original_id": "DK0554"
     },
     {
-      "id": "DK0555-e2",
+      "id": "DK0555-e2-s3",
       "chapter": 4,
       "chapter_title": "Danmark og omverdenen",
       "section": "4.3",
       "topic": "4.3.2 Internationalt samarbejde om udvikling – Fokus på Afrika",
-      "question": "Kan afrikanske lande med lav CO₂-udledning pr. indbygger blive hårdt ramt af klimaforandringer?",
+      "question": "Hvilket område lægger Danmarks Afrikastrategi fra 2024 blandt andet vægt på ud over handel og investeringer?",
       "options": {
-        "A": "Ja",
-        "B": "Nej"
+        "A": "Fred og sikkerhed",
+        "B": "En fælles mønt for de deltagende lande",
+        "C": "En fælles nordisk fiskeripolitik"
       },
       "answer": "A",
-      "explanation": "Materialet fremhæver, at Afrika trods lav udledning pr. person oplever alvorlige følger.",
-      "difficulty": "hard",
-      "cognitive": "understanding",
+      "explanation": "Strategien lægger blandt andet vægt på fred, sikkerhed og bekæmpelse af klimaforandringer i samarbejde med afrikanske lande.",
+      "difficulty": "medium",
+      "cognitive": "recall",
       "values": false,
       "exam_domain": "reading",
       "source_pages": [
@@ -11914,28 +11932,30 @@
       "source_edition": "August 2026"
     },
     {
-      "id": "DK0567",
+      "id": "DK0567-s3",
       "chapter": 4,
       "chapter_title": "Danmark og omverdenen",
       "section": "4.4",
       "topic": "4.4.2 Indsatser efter terrorangrebet på USA i 2001",
-      "question": "I hvilken afghansk provins var mange danske soldater udstationeret med britiske tropper?",
+      "question": "I hvilket land deltog danske soldater i en international militær indsats fra 2002 efter terrorangrebene den 11. september 2001?",
       "options": {
-        "A": "Bamiyan",
-        "B": "Helmand",
-        "C": "Kandahar"
+        "A": "Afghanistan",
+        "B": "Irak",
+        "C": "Libyen"
       },
-      "answer": "B",
-      "explanation": "Danske soldater var blandt andet i Helmand-provinsen i det sydlige Afghanistan.",
+      "answer": "A",
+      "explanation": "Efter angrebene den 11. september 2001 deltog Danmark fra 2002 i den internationale indsats i Afghanistan.",
       "difficulty": "medium",
       "cognitive": "recall",
       "values": false,
       "exam_domain": "reading",
       "source_pages": [
+        137,
         138
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "original_id": "DK0567"
     },
     {
       "id": "DK0568",
@@ -12351,19 +12371,19 @@
       "source_edition": "August 2026"
     },
     {
-      "id": "DK0585",
+      "id": "DK0585-s3",
       "chapter": 4,
       "chapter_title": "Danmark og omverdenen",
       "section": "4.4",
       "topic": "4.4.4 Rigsfællesskabet, Grønland og Arktis i dansk udenrigspolitik",
-      "question": "Hvilken opgave havde radarstationen ved den amerikanske base i Grønland?",
+      "question": "Hvilket land byggede i begyndelsen af 1950’erne den militære luftbase ved Thule i Grønland?",
       "options": {
-        "A": "At regulere Grønlands import og eksport",
-        "B": "At kontrollere fiskekvoter for alle arktiske lande",
-        "C": "At overvåge luftrummet og understøtte luftforsvaret"
+        "A": "Canada",
+        "B": "USA",
+        "C": "Storbritannien"
       },
-      "answer": "C",
-      "explanation": "Radaren var en vigtig del af USA's og NATO's varsling og luftforsvar.",
+      "answer": "B",
+      "explanation": "USA anlagde luftbasen i det nordlige Grønland efter en forsvarsaftale med Danmark fra 1951.",
       "difficulty": "medium",
       "cognitive": "recall",
       "values": false,
@@ -12372,7 +12392,8 @@
         142
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "original_id": "DK0585"
     },
     {
       "id": "DK0586",
@@ -12640,20 +12661,20 @@
       "source_edition": "August 2026"
     },
     {
-      "id": "DK0597",
+      "id": "DK0597-s3",
       "chapter": 5,
       "chapter_title": "Dansk kulturliv",
       "section": "5.2",
       "topic": "Yahya Hassan",
-      "question": "Hvilket tema præger Yahya Hassans første digtsamling?",
+      "question": "Hvad var Yahya Hassan kendt for at skrive?",
       "options": {
-        "A": "Opvækst i et traditionsbundet fiskerleje",
-        "B": "Opvækst blandt københavnske embedsmænd",
-        "C": "Opvækst i et socialt belastet indvandrermiljø"
+        "A": "Komedier",
+        "B": "Digte",
+        "C": "Kriminalromaner"
       },
-      "answer": "C",
-      "explanation": "Samlingen fra 2013 skildrer ungdomsliv og sammenstød mellem normer i indvandrermiljøer og det omgivende samfund.",
-      "difficulty": "easy",
+      "answer": "B",
+      "explanation": "Yahya Hassans debutdigtsamling udkom i 2013 og blev læst og debatteret bredt.",
+      "difficulty": "medium",
       "cognitive": "recall",
       "values": false,
       "exam_domain": "reading",
@@ -12661,7 +12682,8 @@
         151
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "original_id": "DK0597"
     },
     {
       "id": "DK0598",
@@ -12760,28 +12782,29 @@
       "source_edition": "August 2026"
     },
     {
-      "id": "DK0602",
+      "id": "DK0602-s3",
       "chapter": 5,
       "chapter_title": "Dansk kulturliv",
       "section": "5.2",
       "topic": "Jeppe på Bjerget",
-      "question": "Hvad afslører Jeppes opførsel, da han tror, at han er herremand?",
+      "question": "Hvem skrev komedien Jeppe på Bjerget?",
       "options": {
-        "A": "At han selv kan opføre sig tyrannisk",
-        "B": "At han afviser magten og vender tilbage til arbejdet",
-        "C": "At han bruger magten til at befri bønderne"
+        "A": "N.F.S. Grundtvig",
+        "B": "Adam Oehlenschläger",
+        "C": "Ludvig Holberg"
       },
-      "answer": "A",
-      "explanation": "Komedien viser, at den undertrykte Jeppe også kan misbruge magt, når rollerne byttes.",
-      "difficulty": "hard",
-      "cognitive": "understanding",
+      "answer": "C",
+      "explanation": "Jeppe på Bjerget er en af Ludvig Holbergs kendte komedier.",
+      "difficulty": "medium",
+      "cognitive": "recall",
       "values": false,
       "exam_domain": "reading",
       "source_pages": [
         146
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "original_id": "DK0602"
     },
     {
       "id": "DK0603",
@@ -12952,28 +12975,29 @@
       "source_edition": "August 2026"
     },
     {
-      "id": "DK0610",
+      "id": "DK0610-s3",
       "chapter": 5,
       "chapter_title": "Dansk kulturliv",
       "section": "5.2",
       "topic": "Henrik Pontoppidan",
-      "question": "Hvad møder hovedpersonen i Lykke-Per, da han forlader præstefamilien?",
+      "question": "Hvem skrev romanen Lykke-Per?",
       "options": {
-        "A": "Et liv som købmand i en dansk koloni",
-        "B": "Det moderne samfunds muligheder og rodløshed",
-        "C": "En officerskarriere og dens militære æresbegreber"
+        "A": "Henrik Pontoppidan",
+        "B": "Johannes V. Jensen",
+        "C": "Martin Andersen Nexø"
       },
-      "answer": "B",
-      "explanation": "Per møder industri, videnskab og nye muligheder i København, men også rodløshed.",
-      "difficulty": "hard",
-      "cognitive": "understanding",
+      "answer": "A",
+      "explanation": "Henrik Pontoppidan skrev Lykke-Per og fik Nobelprisen i litteratur i 1917.",
+      "difficulty": "medium",
+      "cognitive": "recall",
       "values": false,
       "exam_domain": "reading",
       "source_pages": [
         148
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "original_id": "DK0610"
     },
     {
       "id": "DK0611",
@@ -13072,20 +13096,20 @@
       "source_edition": "August 2026"
     },
     {
-      "id": "DK0615",
+      "id": "DK0615-s3",
       "chapter": 5,
       "chapter_title": "Dansk kulturliv",
       "section": "5.2",
       "topic": "Karen Blixen",
-      "question": "I hvilket land foregår Karen Blixens Den Afrikanske Farm?",
+      "question": "Hvem skrev Den Afrikanske Farm?",
       "options": {
-        "A": "Sydafrika",
-        "B": "Kenya",
-        "C": "Egypten"
+        "A": "Helle Helle",
+        "B": "Karen Blixen",
+        "C": "Tove Ditlevsen"
       },
       "answer": "B",
-      "explanation": "Bogen bygger på Blixens oplevelser på sin kaffefarm i Kenya.",
-      "difficulty": "easy",
+      "explanation": "Karen Blixen skrev om sine oplevelser på en kaffefarm i det nuværende Kenya.",
+      "difficulty": "medium",
       "cognitive": "recall",
       "values": false,
       "exam_domain": "reading",
@@ -13093,7 +13117,8 @@
         149
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "original_id": "DK0615"
     },
     {
       "id": "DK0616",
@@ -13120,19 +13145,19 @@
       "source_edition": "August 2026"
     },
     {
-      "id": "DK0617",
+      "id": "DK0617-s3",
       "chapter": 5,
       "chapter_title": "Dansk kulturliv",
       "section": "5.2",
       "topic": "Klaus Rifbjerg",
-      "question": "Hvad står centralt i Den kroniske uskyld?",
+      "question": "Hvem skrev romanen Den kroniske uskyld?",
       "options": {
-        "A": "Ungdom og skoleliv",
-        "B": "Ægteskab og familieliv i alderdommen",
-        "C": "Arbejdsliv og faglig organisering"
+        "A": "Klaus Rifbjerg",
+        "B": "Peter Høeg",
+        "C": "Johannes V. Jensen"
       },
       "answer": "A",
-      "explanation": "Rifbjergs roman skildrer ungdommen og kritiserer blandt andet voksnes snæversyn.",
+      "explanation": "Den kroniske uskyld er Klaus Rifbjergs roman fra 1958.",
       "difficulty": "medium",
       "cognitive": "recall",
       "values": false,
@@ -13141,7 +13166,8 @@
         150
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "original_id": "DK0617"
     },
     {
       "id": "DK0618",
@@ -13240,20 +13266,20 @@
       "source_edition": "August 2026"
     },
     {
-      "id": "DK0622",
+      "id": "DK0622-s3",
       "chapter": 5,
       "chapter_title": "Dansk kulturliv",
       "section": "5.2",
       "topic": "Helle Helle",
-      "question": "Hvilket arbejde har søstrene Jane og Tine i Helle Helles Rødby-Puttgarden?",
+      "question": "Hvem skrev romanen Rødby-Puttgarden?",
       "options": {
-        "A": "Billetkontrollører på færgen",
-        "B": "Ekspeditricer på færgen",
-        "C": "Rengøringsassistenter på færgen"
+        "A": "Naja Marie Aidt",
+        "B": "Tove Ditlevsen",
+        "C": "Helle Helle"
       },
-      "answer": "B",
-      "explanation": "Jane og Tine arbejder som ekspeditricer på færgen i Helle Helles roman Rødby-Puttgarden.",
-      "difficulty": "hard",
+      "answer": "C",
+      "explanation": "Helle Helles roman beskriver hverdagslivet for to søstre, der arbejder på færgen.",
+      "difficulty": "medium",
       "cognitive": "recall",
       "values": false,
       "exam_domain": "reading",
@@ -13261,7 +13287,8 @@
         151
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "original_id": "DK0622"
     },
     {
       "id": "DK0623",
@@ -13552,20 +13579,20 @@
       "source_edition": "August 2026"
     },
     {
-      "id": "DK0635",
+      "id": "DK0635-s3",
       "chapter": 5,
       "chapter_title": "Dansk kulturliv",
       "section": "5.3",
       "topic": "Thorvaldsens Museum",
-      "question": "Hvad var særligt ved Thorvaldsens Museum, da det åbnede i 1848?",
+      "question": "Hvilken dansk billedhugger har sit eget museum i København, som åbnede i 1848?",
       "options": {
-        "A": "Det var Danmarks første offentligt tilgængelige museumsbygning",
-        "B": "Det udstillede udelukkende kunst fra bronzealderen",
-        "C": "Det var indrettet som kongens private samling"
+        "A": "Herman Wilhelm Bissen",
+        "B": "Edvard Eriksen",
+        "C": "Bertel Thorvaldsen"
       },
-      "answer": "A",
-      "explanation": "Museet var den første museumsbygning i Danmark, som befolkningen havde adgang til.",
-      "difficulty": "hard",
+      "answer": "C",
+      "explanation": "Thorvaldsens Museum udstiller Bertel Thorvaldsens skulpturer og de kunstgenstande, han samlede.",
+      "difficulty": "medium",
       "cognitive": "recall",
       "values": false,
       "exam_domain": "reading",
@@ -13573,7 +13600,8 @@
         155
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "original_id": "DK0635"
     },
     {
       "id": "DK0636",
@@ -13889,20 +13917,20 @@
       "source_edition": "August 2026"
     },
     {
-      "id": "DK0649",
+      "id": "DK0649-s3",
       "chapter": 5,
       "chapter_title": "Dansk kulturliv",
       "section": "5.4",
       "topic": "Carl Nielsen",
-      "question": "Hvilke musikformer arbejdede Carl Nielsen blandt andet med?",
+      "question": "Hvad er Carl Nielsen kendt for?",
       "options": {
-        "A": "Jazzimprovisationer, blues og swing",
-        "B": "Operaer, symfonier og sange",
-        "C": "Elektronisk musik, dansepop og rock"
+        "A": "Han skrev skuespil",
+        "B": "Han komponerede musik",
+        "C": "Han malede landskaber"
       },
       "answer": "B",
-      "explanation": "Nielsens værker spænder over både store klassiske former og folkelige sange.",
-      "difficulty": "easy",
+      "explanation": "Carl Nielsen var komponist og skrev blandt andet operaer, symfonier og sange.",
+      "difficulty": "medium",
       "cognitive": "recall",
       "values": false,
       "exam_domain": "reading",
@@ -13910,7 +13938,8 @@
         158
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "original_id": "DK0649"
     },
     {
       "id": "DK0650",
@@ -13985,19 +14014,19 @@
       "source_edition": "August 2026"
     },
     {
-      "id": "DK0653",
+      "id": "DK0653-s3",
       "chapter": 5,
       "chapter_title": "Dansk kulturliv",
       "section": "5.4",
       "topic": "Anne Linnet",
-      "question": "Hvilket tema har Anne Linnets Smuk og dejlig?",
+      "question": "Hvilken dansk musiker står bag sangen Smuk og dejlig?",
       "options": {
-        "A": "Lesbisk kærlighed",
-        "B": "Længsel efter en afdød ægtefælle",
-        "C": "Kærlighed mellem forældre og børn"
+        "A": "Anne Linnet",
+        "B": "Tina Dickow",
+        "C": "Sanne Salomonsen"
       },
       "answer": "A",
-      "explanation": "Smuk og dejlig fra 1976 handler om kærlighed mellem kvinder.",
+      "explanation": "Anne Linnet skrev og sang Smuk og dejlig, som udkom i 1976.",
       "difficulty": "medium",
       "cognitive": "recall",
       "values": false,
@@ -14006,7 +14035,8 @@
         159
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "original_id": "DK0653"
     },
     {
       "id": "DK0654",
@@ -14491,19 +14521,19 @@
       "source_edition": "August 2026"
     },
     {
-      "id": "DK0674",
+      "id": "DK0674-s3",
       "chapter": 5,
       "chapter_title": "Dansk kulturliv",
       "section": "5.6",
       "topic": "August Bournonville",
-      "question": "Hvem forbindes med den bevarede koreografi til Sylfiden?",
+      "question": "Hvad er August Bournonville især kendt for?",
       "options": {
-        "A": "Harald Lander",
-        "B": "Flemming Flindt",
-        "C": "August Bournonville"
+        "A": "Manuskripter til komedier",
+        "B": "Koreografi til ballet",
+        "C": "Musik til opera"
       },
-      "answer": "C",
-      "explanation": "Bournonvilles udgave blev opført i 1836 og er fortsat bevaret.",
+      "answer": "B",
+      "explanation": "August Bournonville var balletkoreograf. Hans version af Sylfiden blev opført første gang i 1836.",
       "difficulty": "medium",
       "cognitive": "recall",
       "values": false,
@@ -14512,7 +14542,8 @@
         165
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "original_id": "DK0674"
     },
     {
       "id": "DK0675",
@@ -14996,28 +15027,29 @@
       "source_edition": "August 2026"
     },
     {
-      "id": "DK0695",
+      "id": "DK0695-s3",
       "chapter": 5,
       "chapter_title": "Dansk kulturliv",
       "section": "5.7",
       "topic": "Busters Verden",
-      "question": "Hvad hjælper Buster med at håndtere problemerne i skolen og hjemmet?",
+      "question": "Hvem instruerede børnefilmen Busters Verden?",
       "options": {
-        "A": "Sportslige præstationer og popularitet",
-        "B": "Fantasi og tryllekunst",
-        "C": "En ny skoles strenge disciplin"
+        "A": "Thomas Vinterberg",
+        "B": "Erik Balling",
+        "C": "Bille August"
       },
-      "answer": "B",
-      "explanation": "Busters fantasi og talent for trylleri hjælper ham gennem en vanskelig hverdag.",
+      "answer": "C",
+      "explanation": "Bille August instruerede filmen fra 1984, som bygger på en roman af Bjarne Reuter.",
       "difficulty": "medium",
-      "cognitive": "understanding",
+      "cognitive": "recall",
       "values": false,
       "exam_domain": "reading",
       "source_pages": [
         170
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "original_id": "DK0695"
     },
     {
       "id": "DK0696",
@@ -15092,19 +15124,19 @@
       "source_edition": "August 2026"
     },
     {
-      "id": "DK0699",
+      "id": "DK0699-s3",
       "chapter": 5,
       "chapter_title": "Dansk kulturliv",
       "section": "5.7",
       "topic": "Lars von Trier",
-      "question": "Hvilken sangerinde spillede hovedrollen i Dancer in the Dark?",
+      "question": "Hvilken dansk instruktør vandt Den Gyldne Palme i Cannes for Dancer in the Dark?",
       "options": {
-        "A": "Anne Linnet",
-        "B": "MØ",
-        "C": "Björk"
+        "A": "Lars von Trier",
+        "B": "Thomas Vinterberg",
+        "C": "Bille August"
       },
-      "answer": "C",
-      "explanation": "Den islandske sangerinde Björk medvirkede i von Triers prisvindende musicalfilm.",
+      "answer": "A",
+      "explanation": "Lars von Trier vandt Den Gyldne Palme for filmen i 2000.",
       "difficulty": "medium",
       "cognitive": "recall",
       "values": false,
@@ -15113,7 +15145,8 @@
         170
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "original_id": "DK0699"
     },
     {
       "id": "DK0700",
@@ -15140,19 +15173,19 @@
       "source_edition": "August 2026"
     },
     {
-      "id": "DK0701",
+      "id": "DK0701-s3",
       "chapter": 5,
       "chapter_title": "Dansk kulturliv",
       "section": "5.7",
       "topic": "Druk",
-      "question": "Hvilket forsøg sætter handlingen i Druk i gang?",
+      "question": "Hvilken dansk film vandt juryens pris ved filmfestivalen i Cannes i 1998?",
       "options": {
-        "A": "Fire lærere prøver at forbedre livet gennem faste",
-        "B": "Fire lærere forsøger at have alkohol i blodet hele dagen",
-        "C": "Fire lærere opgiver deres familier for at bo sammen"
+        "A": "Idioterne",
+        "B": "Dancer in the Dark",
+        "C": "Festen"
       },
-      "answer": "B",
-      "explanation": "Lærernes alkoholforsøg giver først energi, men får senere alvorlige konsekvenser.",
+      "answer": "C",
+      "explanation": "Thomas Vinterbergs Festen fik Prix du Jury i Cannes i 1998. Filmen var en del af Dogme 95.",
       "difficulty": "medium",
       "cognitive": "recall",
       "values": false,
@@ -15161,7 +15194,8 @@
         170
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "original_id": "DK0701"
     },
     {
       "id": "DK0702",
@@ -15260,19 +15294,19 @@
       "source_edition": "August 2026"
     },
     {
-      "id": "DK0706",
+      "id": "DK0706-s3",
       "chapter": 5,
       "chapter_title": "Dansk kulturliv",
       "section": "5.7",
       "topic": "Mads Mikkelsen",
-      "question": "For hvilken filmrolle modtog Mads Mikkelsen skuespillerprisen i Cannes i 2012?",
+      "question": "Hvilken dansk skuespiller vandt en pris i Cannes i 2012 for filmen Jagten?",
       "options": {
-        "A": "Le Chiffre i Casino Royale",
-        "B": "Martin i Druk",
-        "C": "Lucas i Jagten"
+        "A": "Mads Mikkelsen",
+        "B": "Pilou Asbæk",
+        "C": "Nikolaj Coster-Waldau"
       },
-      "answer": "C",
-      "explanation": "Mikkelsen blev belønnet for rollen som den falsk anklagede Lucas i Jagten.",
+      "answer": "A",
+      "explanation": "Mads Mikkelsen fik skuespillerprisen i Cannes for sin rolle som Lucas i Jagten.",
       "difficulty": "medium",
       "cognitive": "recall",
       "values": false,
@@ -15281,7 +15315,8 @@
         172
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "original_id": "DK0706"
     },
     {
       "id": "DK0707",
@@ -15332,19 +15367,19 @@
       "source_edition": "August 2026"
     },
     {
-      "id": "DK0709",
+      "id": "DK0709-s3",
       "chapter": 5,
       "chapter_title": "Dansk kulturliv",
       "section": "5.7",
       "topic": "Sofie Gråbøl",
-      "question": "Hvilken rolle spiller Sofie Gråbøl i Forbrydelsen?",
+      "question": "I hvilken tv-serie spillede Sofie Gråbøl efterforskeren Sarah Lund?",
       "options": {
-        "A": "Efterforskeren Sarah Lund",
-        "B": "Advokaten Anne",
-        "C": "Lærerinden Lillian"
+        "A": "Borgen",
+        "B": "Rejseholdet",
+        "C": "Forbrydelsen"
       },
-      "answer": "A",
-      "explanation": "Gråbøl er kendt internationalt som Sarah Lund i krimiserien Forbrydelsen.",
+      "answer": "C",
+      "explanation": "Sarah Lund er efterforskeren i krimiserien Forbrydelsen, som også blev populær i udlandet.",
       "difficulty": "easy",
       "cognitive": "recall",
       "values": false,
@@ -15353,7 +15388,8 @@
         173
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "original_id": "DK0709"
     },
     {
       "id": "DK0710",
@@ -16245,19 +16281,19 @@
       "source_edition": "August 2026"
     },
     {
-      "id": "DK0747",
+      "id": "DK0747-s3",
       "chapter": 6,
       "chapter_title": "Temaopslag",
       "section": "6.2",
       "topic": "Gotisk arkitektur",
-      "question": "Hvilket træk er typisk for gotikken i Roskilde Domkirke?",
+      "question": "Hvilken byggestil ses blandt andet i Roskilde Domkirkes spidse buer?",
       "options": {
-        "A": "Rundbuer og kraftige vandrette murpartier",
-        "B": "Klassiske søjler og en tempellignende front",
-        "C": "Spidse buer, der leder blikket opad"
+        "A": "Barok",
+        "B": "Klassicisme",
+        "C": "Gotik"
       },
       "answer": "C",
-      "explanation": "Gotisk arkitektur fremhæver blandt andet højde og spidse buer.",
+      "explanation": "Spidse buer er et karakteristisk træk ved gotisk arkitektur.",
       "difficulty": "medium",
       "cognitive": "recall",
       "values": false,
@@ -16266,7 +16302,8 @@
         183
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "original_id": "DK0747"
     },
     {
       "id": "DK0748",
@@ -16413,19 +16450,19 @@
       "source_edition": "August 2026"
     },
     {
-      "id": "DK0754",
+      "id": "DK0754-s3",
       "chapter": 6,
       "chapter_title": "Temaopslag",
       "section": "6.2",
       "topic": "H.C. Andersens Hus",
-      "question": "Hvem tegnede det nye museum H.C. Andersens Hus?",
+      "question": "Hvilket dansk museum er tegnet af den japanske arkitekt Kengo Kuma?",
       "options": {
-        "A": "Dorte Mandrup",
-        "B": "Bjarke Ingels",
-        "C": "Kengo Kuma"
+        "A": "H.C. Andersens Hus",
+        "B": "ARoS",
+        "C": "Moesgaard Museum"
       },
-      "answer": "C",
-      "explanation": "Den japanske arkitekt Kengo Kuma tegnede museet, som åbnede i 2021.",
+      "answer": "A",
+      "explanation": "Kengo Kuma tegnede H.C. Andersens Hus i Odense, som åbnede i 2021.",
       "difficulty": "hard",
       "cognitive": "recall",
       "values": false,
@@ -16434,7 +16471,8 @@
         184
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "original_id": "DK0754"
     },
     {
       "id": "DK0755",
@@ -16485,28 +16523,29 @@
       "source_edition": "August 2026"
     },
     {
-      "id": "DK0757",
+      "id": "DK0757-s3",
       "chapter": 6,
       "chapter_title": "Temaopslag",
       "section": "6.2",
       "topic": "Østerlars Kirke",
-      "question": "Hvilken funktion havde Østerlars Kirke ud over gudstjenester?",
+      "question": "Hvilken ø i Danmark er kendt for rundkirker, blandt andet Østerlars Kirke?",
       "options": {
-        "A": "Handelsplads og kongeligt toldsted",
-        "B": "Præsteskole og kongeligt arkiv",
-        "C": "Tilflugtssted og forsvarsværk"
+        "A": "Langeland",
+        "B": "Bornholm",
+        "C": "Samsø"
       },
-      "answer": "C",
-      "explanation": "Rundkirken var indrettet, så befolkningen kunne søge beskyttelse og forsvare sig.",
+      "answer": "B",
+      "explanation": "Bornholm har fire rundkirker. Østerlars Kirke er den største.",
       "difficulty": "medium",
-      "cognitive": "understanding",
+      "cognitive": "recall",
       "values": false,
       "exam_domain": "reading",
       "source_pages": [
         185
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "original_id": "DK0757"
     },
     {
       "id": "DK0758",
@@ -17524,20 +17563,20 @@
       "source_edition": "August 2026"
     },
     {
-      "id": "DK0800",
+      "id": "DK0800-s3",
       "chapter": 6,
       "chapter_title": "Temaopslag",
       "section": "6.6",
       "topic": "Grønlands højder",
-      "question": "Hvad hedder Grønlands højeste bjerg?",
+      "question": "Hvor mange indbyggere har Grønland omtrent i midten af 2020’erne?",
       "options": {
-        "A": "Uummannaq",
-        "B": "Slættaratindur",
-        "C": "Gunnbjørn Fjeld"
+        "A": "157.000",
+        "B": "570.000",
+        "C": "57.000"
       },
       "answer": "C",
-      "explanation": "Gunnbjørn Fjeld ligger i Østgrønland og når 3.694 meter.",
-      "difficulty": "hard",
+      "explanation": "Grønland har omkring 57.000 indbyggere. Omkring 20.000 bor i hovedstaden Nuuk.",
+      "difficulty": "medium",
       "cognitive": "recall",
       "values": false,
       "exam_domain": "reading",
@@ -17545,7 +17584,8 @@
         198
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "original_id": "DK0800"
     },
     {
       "id": "DK0801",
@@ -17644,28 +17684,30 @@
       "source_edition": "August 2026"
     },
     {
-      "id": "DK0805",
+      "id": "DK0805-s3",
       "chapter": 6,
       "chapter_title": "Temaopslag",
       "section": "6.6",
       "topic": "Kolonihandel",
-      "question": "Hvad blev spæk fra sæler og hvaler tidligere brugt til i Europa?",
+      "question": "Omtrent hvor stor en del af Grønland er dækket af indlandsis?",
       "options": {
-        "A": "At farve bomuldsstoffer mørke",
-        "B": "At fremstille lægemidler mod kopper",
-        "C": "At fremstille tran til belysning"
+        "A": "Fire femtedele",
+        "B": "To femtedele",
+        "C": "En femtedel"
       },
-      "answer": "C",
-      "explanation": "Spækket kunne koges til olie, som blev brugt i lamper.",
-      "difficulty": "hard",
+      "answer": "A",
+      "explanation": "Indlandsisen dækker omkring 80 procent af Grønland. De beboede områder ligger langs kysten.",
+      "difficulty": "medium",
       "cognitive": "recall",
       "values": false,
       "exam_domain": "reading",
       "source_pages": [
-        199
+        197,
+        198
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "original_id": "DK0805"
     },
     {
       "id": "DK0806",
@@ -17764,28 +17806,29 @@
       "source_edition": "August 2026"
     },
     {
-      "id": "DK0810",
+      "id": "DK0810-s3",
       "chapter": 6,
       "chapter_title": "Temaopslag",
       "section": "6.6",
       "topic": "Vónbjørt Vang",
-      "question": "Hvem fik Nordisk Råds Litteraturpris i 2025 for digtsamlingen Svørt Orkidé?",
+      "question": "Omtrent hvor mange indbyggere har Færøerne i midten af 2020’erne?",
       "options": {
-        "A": "William Heinesen",
-        "B": "Niviaq Korneliussen",
-        "C": "Vónbjørt Vang"
+        "A": "15.000",
+        "B": "150.000",
+        "C": "55.000"
       },
       "answer": "C",
-      "explanation": "Vónbjørt Vangs digtsamling handler om en mors frygt for at miste sin søn til misbrug og psykiske problemer.",
-      "difficulty": "hard",
+      "explanation": "Færøerne har omkring 55.000 indbyggere. Hovedstaden hedder Tórshavn.",
+      "difficulty": "medium",
       "cognitive": "recall",
       "values": false,
       "exam_domain": "reading",
       "source_pages": [
-        206
+        203
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "original_id": "DK0810"
     },
     {
       "id": "DK0811",
@@ -18321,28 +18364,29 @@
       "source_edition": "August 2026"
     },
     {
-      "id": "DK0833",
+      "id": "DK0833-s3",
       "chapter": 6,
       "chapter_title": "Temaopslag",
       "section": "6.6",
       "topic": "Færøsk litteratur",
-      "question": "Hvilket tema forbinder Barbara og De fortabte spillemænd?",
+      "question": "Hvem skrev romanen De fortabte spillemænd fra 1950?",
       "options": {
-        "A": "Mennesker, der ikke passer ind i lokalsamfundets normer",
-        "B": "Modsætninger mellem danske og britiske kolonister",
-        "C": "Kampen om kongemagten i middelalderens Norden"
+        "A": "William Heinesen",
+        "B": "Jørgen-Frantz Jacobsen",
+        "C": "Vónbjørt Vang"
       },
       "answer": "A",
-      "explanation": "Begge romaner undersøger sociale normer og den udstødelse, afvigere kan opleve.",
-      "difficulty": "hard",
-      "cognitive": "understanding",
+      "explanation": "De fortabte spillemænd er William Heinesens hovedværk. Romanen skildrer en gruppe spillemænd på Færøerne.",
+      "difficulty": "medium",
+      "cognitive": "recall",
       "values": false,
       "exam_domain": "reading",
       "source_pages": [
         206
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "original_id": "DK0833"
     },
     {
       "id": "DK0834",
@@ -18756,18 +18800,19 @@
       "source_edition": "August 2026"
     },
     {
-      "id": "DK0851-e2",
+      "id": "DK0851-e2-s3",
       "chapter": 6,
       "chapter_title": "Temaopslag",
       "section": "6.8",
       "topic": "Ole Rømer",
-      "question": "Viste Ole Rømer, at lys bevæger sig øjeblikkeligt?",
+      "question": "Hvad fandt Ole Rømer ud af om lys i 1676?",
       "options": {
-        "A": "Ja",
-        "B": "Nej"
+        "A": "At Jorden bevæger sig rundt om Solen",
+        "B": "At sollys kan deles i flere farver",
+        "C": "At lys bruger tid på at bevæge sig"
       },
-      "answer": "B",
-      "explanation": "Rømer viste lysets endelige udbredelseshastighed, kaldet lysets tøven.",
+      "answer": "C",
+      "explanation": "Ole Rømer viste i 1676, at lys udbreder sig med en endelig hastighed.",
       "difficulty": "medium",
       "cognitive": "understanding",
       "values": false,
@@ -19022,19 +19067,19 @@
       "source_edition": "August 2026"
     },
     {
-      "id": "DK0862",
+      "id": "DK0862-s3",
       "chapter": 6,
       "chapter_title": "Temaopslag",
       "section": "6.8",
       "topic": "Morten Meldal",
-      "question": "Hvilken opdagelse var baggrunden for Morten Meldals Nobelpris i kemi i 2022?",
+      "question": "Inden for hvilket fag modtog Morten Meldal Nobelprisen i 2022?",
       "options": {
-        "A": "Elektromagnetisme",
-        "B": "Klik-kemi",
-        "C": "Natrium-kaliumpumpen"
+        "A": "Medicin",
+        "B": "Kemi",
+        "C": "Fysik"
       },
       "answer": "B",
-      "explanation": "Klik-kemi gør det muligt at forbinde molekylære byggesten effektivt, blandt andet til medicinudvikling.",
+      "explanation": "Morten Meldal modtog Nobelprisen i kemi for arbejdet med klik-kemi.",
       "difficulty": "medium",
       "cognitive": "recall",
       "values": false,
@@ -19043,7 +19088,8 @@
         214
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "original_id": "DK0862"
     },
     {
       "id": "DK0865",
@@ -19335,19 +19381,19 @@
       "source_edition": "August 2026"
     },
     {
-      "id": "DK0881",
+      "id": "DK0881-s3",
       "chapter": 6,
       "chapter_title": "Temaopslag",
       "section": "6.10",
       "topic": "Sankthans",
-      "question": "Hvornår holdes der traditionelt sankthansbål?",
+      "question": "Ved hvilken tradition tændes der ofte bål den 23. juni?",
       "options": {
-        "A": "Om aftenen den 31. oktober",
-        "B": "Om aftenen den 23. juni",
-        "C": "Om aftenen den 5. maj"
+        "A": "Store bededag",
+        "B": "Valborgsaften",
+        "C": "Sankthans"
       },
-      "answer": "B",
-      "explanation": "Sankthansaften ligger den 23. juni og markerer midsommer.",
+      "answer": "C",
+      "explanation": "Sankthansaften fejres den 23. juni, ofte med bål og fællessang.",
       "difficulty": "easy",
       "cognitive": "recall",
       "values": false,
@@ -19356,7 +19402,8 @@
         219
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "original_id": "DK0881"
     },
     {
       "id": "DK0882",
@@ -19551,19 +19598,19 @@
       "source_edition": "August 2026"
     },
     {
-      "id": "DK0890",
+      "id": "DK0890-s3",
       "chapter": 6,
       "chapter_title": "Temaopslag",
       "section": "6.11",
       "topic": "Det levende ord",
-      "question": "En højskole bruger samtaler og nysgerrige spørgsmål frem for udenadslære. Hvilken idé følger den?",
+      "question": "Hvem lagde vægt på det levende ord som grundlag for undervisning på højskoler?",
       "options": {
-        "A": "Latinskolens ideal om tekstlig udenadslære",
-        "B": "Grundtvigs idé om det levende ord",
-        "C": "Eksamensskolens ideal om målbare karakterer"
+        "A": "N.F.S. Grundtvig",
+        "B": "H.C. Ørsted",
+        "C": "Søren Kierkegaard"
       },
-      "answer": "B",
-      "explanation": "Grundtvig ønskede levende formidling og diskussion frem for terperi.",
+      "answer": "A",
+      "explanation": "Grundtvig fremhævede samtale og mundtlig formidling i sin idé om folkehøjskolen.",
       "difficulty": "medium",
       "cognitive": "application",
       "values": false,
@@ -19572,7 +19619,8 @@
         222
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "original_id": "DK0890"
     },
     {
       "id": "DK0891",
@@ -19743,19 +19791,19 @@
       "source_edition": "August 2026"
     },
     {
-      "id": "DK0898",
+      "id": "DK0898-s3",
       "chapter": 6,
       "chapter_title": "Temaopslag",
       "section": "6.11",
       "topic": "Grundtvigs salmer",
-      "question": "Hvilken sang ved bryllupper er skrevet af Grundtvig?",
+      "question": "Hvem skrev bryllupssalmen Det er så yndigt at følges ad?",
       "options": {
-        "A": "I østen stiger solen op",
-        "B": "Det er så yndigt at følges ad",
-        "C": "Dejlig er jorden"
+        "A": "Thomas Kingo",
+        "B": "B.S. Ingemann",
+        "C": "N.F.S. Grundtvig"
       },
-      "answer": "B",
-      "explanation": "Grundtvig skrev mange salmer, herunder denne kendte bryllupssalme.",
+      "answer": "C",
+      "explanation": "Grundtvig skrev salmen, der ofte synges ved bryllupper.",
       "difficulty": "medium",
       "cognitive": "recall",
       "values": false,
@@ -19764,7 +19812,8 @@
         223
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "original_id": "DK0898"
     },
     {
       "id": "DK0899",
@@ -20112,24 +20161,25 @@
       "editorial_revision": "2026-09-27"
     },
     {
-      "id": "DK0916-e2",
+      "id": "DK0916-e2-s3",
       "chapter": 6,
       "chapter_title": "Temaopslag",
       "section": "6.12",
       "topic": "Dimensionering",
-      "question": "Skal ledighedsbaseret dimensionering begrænse eller øge optaget på uddannelser med høj ledighed?",
+      "question": "Hvor længe varer en lang videregående uddannelse normalt?",
       "options": {
-        "A": "Begrænse",
-        "B": "Øge"
+        "A": "Omkring 2–3 år",
+        "B": "Omkring 5–6 år",
+        "C": "Omkring 3–4 år"
       },
-      "answer": "A",
-      "explanation": "Optagslofter skal tilpasse uddannelsesudbuddet til arbejdsmarkedets behov.",
-      "difficulty": "hard",
-      "cognitive": "understanding",
+      "answer": "B",
+      "explanation": "Lange videregående uddannelser varer typisk 5–6 år. Korte og mellemlange uddannelser varer typisk 2–3 og 3–4 år.",
+      "difficulty": "medium",
+      "cognitive": "recall",
       "values": false,
       "exam_domain": "reading",
       "source_pages": [
-        227
+        226
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
       "source_edition": "August 2026",
@@ -20387,25 +20437,25 @@
       "source_edition": "August 2026"
     },
     {
-      "id": "DK0942-e2",
+      "id": "DK0942-e2-s3",
       "chapter": 6,
       "chapter_title": "Temaopslag",
       "section": "6.14",
       "topic": "6.14 Diskrimination, antisemitisme, hadforbrydelser og ekstremisme",
-      "question": "Hvem var ofrene i den sag, hvor tre personer i 2025 blev dømt for et filmet overfald?",
+      "question": "Hvad er mindestenen i København, som blev udsat for hærværk den 5. maj 2023, rejst til minde om?",
       "options": {
-        "A": "To jødiske mænd",
-        "B": "To homoseksuelle mænd",
-        "C": "To muslimske mænd"
+        "A": "Hjælpen til de danske jøder under besættelsen",
+        "B": "Genforeningen med Sønderjylland",
+        "C": "Danmarks deltagelse i FN’s fredsmissioner"
       },
-      "answer": "B",
-      "explanation": "Materialet beskriver overfaldet på to homoseksuelle mænd som eksempel på hadforbrydelser.",
+      "answer": "A",
+      "explanation": "Mindestenen hædrer dem, der hjalp de danske jøder under 2. verdenskrig.",
       "difficulty": "medium",
       "cognitive": "recall",
       "values": false,
       "exam_domain": "reading",
       "source_pages": [
-        233
+        232
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
       "source_edition": "August 2026",
@@ -21048,24 +21098,26 @@
       "source_edition": "August 2026"
     },
     {
-      "id": "DK0982-e2",
+      "id": "DK0982-e2-s3",
       "chapter": 6,
       "chapter_title": "Temaopslag",
       "section": "6.17",
       "topic": "6.17 Klima – Global opvarmning",
-      "question": "Gør drivhusgasser det sværere for varme at slippe ud i rummet?",
+      "question": "Hvilken drivhusgas udledes blandt andet ved afbrænding af kul, olie og naturgas?",
       "options": {
-        "A": "Ja",
-        "B": "Nej"
+        "A": "Brint (H₂)",
+        "B": "Ilt (O₂)",
+        "C": "Kuldioxid (CO₂)"
       },
-      "answer": "A",
-      "explanation": "Drivhusgasser holder på mere af varmen og ændrer derved Jordens energibalance.",
+      "answer": "C",
+      "explanation": "Afbrænding af fossile brændstoffer udleder blandt andet CO₂. Det bidrager til den globale opvarmning.",
       "difficulty": "medium",
-      "cognitive": "understanding",
+      "cognitive": "recall",
       "values": false,
       "exam_domain": "reading",
       "source_pages": [
-        242
+        242,
+        243
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
       "source_edition": "August 2026",
@@ -21146,19 +21198,19 @@
       "source_edition": "August 2026"
     },
     {
-      "id": "DK0986",
+      "id": "DK0986-s3",
       "chapter": 6,
       "chapter_title": "Temaopslag",
       "section": "6.17",
       "topic": "6.17 Klima – Den danske klimaindsats",
-      "question": "Regeringen ønsker en uafhængig faglig vurdering af sin klimapolitik. Hvilket organ har denne opgave?",
+      "question": "Hvilket råd vurderer uafhængigt Danmarks klimaindsats og giver anbefalinger til regeringen?",
       "options": {
-        "A": "Folketingets Ombudsmand",
-        "B": "Klimarådet",
-        "C": "Den Uafhængige Politiklagemyndighed"
+        "A": "Klimarådet",
+        "B": "Det Økonomiske Råd",
+        "C": "Nordisk Råd"
       },
-      "answer": "B",
-      "explanation": "Klimarådet giver faglige vurderinger og egne anbefalinger om klimapolitikken.",
+      "answer": "A",
+      "explanation": "Klimarådet giver faglige anbefalinger og vurderer den danske klimaindsats.",
       "difficulty": "medium",
       "cognitive": "application",
       "values": false,
@@ -21167,7 +21219,8 @@
         243
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "original_id": "DK0986"
     },
     {
       "id": "DK0987-e2",
@@ -21197,19 +21250,19 @@
       "editorial_revision": "2026-09-27"
     },
     {
-      "id": "DK0988",
+      "id": "DK0988-s3",
       "chapter": 6,
       "chapter_title": "Temaopslag",
       "section": "6.17",
       "topic": "6.17 Klima – Den danske klimaindsats",
-      "question": "Et land optager lige så mange drivhusgasser, som det udleder. Hvilken betegnelse passer til det?",
+      "question": "Hvad betyder det at være klimaneutral?",
       "options": {
-        "A": "Udelukkende forsynet med vindenergi",
-        "B": "Klimaneutralt",
-        "C": "Helt uden energiforbrug"
+        "A": "At udledningen af drivhusgasser falder lidt hvert år",
+        "B": "At udledningen af drivhusgasser er lige stor hvert år",
+        "C": "At nettoudledningen af drivhusgasser er nul"
       },
-      "answer": "B",
-      "explanation": "Klimaneutralitet handler om balance mellem udledning og optag af drivhusgasser.",
+      "answer": "C",
+      "explanation": "Klimaneutralitet betyder, at de resterende udledninger modsvares af optag af drivhusgasser.",
       "difficulty": "medium",
       "cognitive": "application",
       "values": false,
@@ -21218,7 +21271,8 @@
         243
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "original_id": "DK0988"
     },
     {
       "id": "DK0989",
@@ -21319,19 +21373,19 @@
       "editorial_revision": "2026-09-27"
     },
     {
-      "id": "DK0993",
+      "id": "DK0993-s3",
       "chapter": 6,
       "chapter_title": "Temaopslag",
       "section": "6.17",
       "topic": "6.17 Klima – Energi og transport",
-      "question": "Hvad udnytter en varmepumpe blandt andet?",
+      "question": "Hvilken energikilde dækkede omtrent halvdelen af Danmarks elforbrug i 2025?",
       "options": {
-        "A": "Varme fra afbrænding af olie i selve pumpen",
-        "B": "Varme fra afbrænding af gas i selve pumpen",
-        "C": "Varme fra jord eller luft"
+        "A": "Vindenergi",
+        "B": "Biomasse",
+        "C": "Solenergi"
       },
-      "answer": "C",
-      "explanation": "Varmepumper optager varme fra omgivelserne og hæver temperaturen ved hjælp af elektricitet.",
+      "answer": "A",
+      "explanation": "Vindmøller producerede strøm svarende til 52 procent af det danske elforbrug i 2025.",
       "difficulty": "medium",
       "cognitive": "recall",
       "values": false,
@@ -21340,7 +21394,8 @@
         244
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "original_id": "DK0993"
     },
     {
       "id": "DK0994",
@@ -21608,28 +21663,26 @@
       "source_edition": "August 2026"
     },
     {
-      "id": "DK0266-e2",
+      "id": "DK0266-e2-s3",
       "chapter": 2,
       "chapter_title": "Det danske demokrati",
       "section": "2.1",
       "topic": "2.1 Indledning",
-      "question": "Skal lokalt selvstyre give borgerne indflydelse på lokale forhold?",
+      "question": "Skal en kommune som udgangspunkt begrunde et skriftligt afslag på en ansøgning?",
       "options": {
         "A": "Ja",
         "B": "Nej"
       },
       "answer": "A",
-      "explanation": "Kommunalt selvstyre giver borgerne mulighed for at påvirke forhold i deres lokalsamfund.",
+      "explanation": "En skriftlig afgørelse skal som hovedregel begrundes, hvis borgeren ikke får fuldt medhold.",
       "difficulty": "medium",
-      "cognitive": "understanding",
+      "cognitive": "recall",
       "values": true,
       "exam_domain": "values",
-      "source_pages": [
-        66,
-        67
-      ],
-      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026",
+      "source_pages": [],
+      "source_url": "https://www.retsinformation.dk/eli/lta/2014/433/pdf",
+      "source_title": "Forvaltningsloven · § 22",
+      "source_edition": "Dansk lovgivning og myndighedsvejledning",
       "original_id": "DK0266",
       "editorial_revision": "2026-09-27"
     },
@@ -21736,51 +21789,50 @@
       "editorial_revision": "2026-09-27"
     },
     {
-      "id": "DK0274",
+      "id": "DK0274-s3",
       "chapter": 2,
       "chapter_title": "Det danske demokrati",
       "section": "2.2",
       "topic": "2.2.1 Grundloven – Danmarks forfatning",
-      "question": "Hvem har den lovgivende magt efter grundlovens tredeling?",
+      "question": "Hvem har ifølge grundlovens § 3 formelt den lovgivende magt i Danmark?",
       "options": {
-        "A": "Folketinget og regeringen i forening",
-        "B": "Folketinget og kommunerne i forening",
-        "C": "Regeringen og domstolene i forening"
+        "A": "Folketinget og domstolene i forening",
+        "B": "Kongen og domstolene i forening",
+        "C": "Kongen og Folketinget i forening"
       },
-      "answer": "A",
-      "explanation": "Lovgivningsmagten ligger hos Folketinget og regeringen, mens domstolene dømmer.",
+      "answer": "C",
+      "explanation": "Grundlovens § 3 placerer formelt den lovgivende magt hos kongen og Folketinget. I praksis vedtager Folketinget lovene, og kongen stadfæster dem.",
       "difficulty": "medium",
       "cognitive": "recall",
       "values": true,
       "exam_domain": "values",
-      "source_pages": [
-        70
-      ],
-      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_pages": [],
+      "source_url": "https://www.ft.dk/da/dokumenter/bestil-publikationer/publikationer/mingrundlov/min-grundlov?rfd=1",
+      "source_title": "Folketinget · Grundlovens § 3",
+      "source_edition": "Dansk lovgivning og myndighedsvejledning",
+      "original_id": "DK0274"
     },
     {
-      "id": "DK0275-e2",
+      "id": "DK0275-e2-s3",
       "chapter": 2,
       "chapter_title": "Det danske demokrati",
       "section": "2.2",
       "topic": "2.2.1 Grundloven – Danmarks forfatning",
-      "question": "Skal magtens tredeling forebygge magtmisbrug?",
+      "question": "Kan en myndighed som hovedregel ransage en privat bolig uden en kendelse fra en dommer?",
       "options": {
         "A": "Ja",
         "B": "Nej"
       },
-      "answer": "A",
-      "explanation": "De tre magter skal kontrollere og begrænse hinanden og beskytte borgerne.",
+      "answer": "B",
+      "explanation": "Grundlovens § 72 beskytter boligen. En ransagning kræver som hovedregel en retskendelse. Der kan være undtagelser fastsat i loven.",
       "difficulty": "medium",
-      "cognitive": "understanding",
+      "cognitive": "recall",
       "values": true,
       "exam_domain": "values",
-      "source_pages": [
-        70
-      ],
-      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026",
+      "source_pages": [],
+      "source_url": "https://www.ft.dk/da/dokumenter/bestil-publikationer/publikationer/mingrundlov/min-grundlov?rfd=1",
+      "source_title": "Folketinget · Grundlovens § 72",
+      "source_edition": "Dansk lovgivning og myndighedsvejledning",
       "original_id": "DK0275",
       "editorial_revision": "2026-09-27"
     },
@@ -22330,51 +22382,49 @@
       "source_edition": "August 2026"
     },
     {
-      "id": "DK0358",
+      "id": "DK0358-s3",
       "chapter": 2,
       "chapter_title": "Det danske demokrati",
       "section": "2.2",
       "topic": "2.2.6 Demokratiets deltagere – Vælgerne",
-      "question": "Hvem er ifølge demokratiets grundsætning kilden til den politiske magt?",
-      "options": {
-        "A": "Embedsmændene",
-        "B": "Folket",
-        "C": "Kongehuset"
-      },
-      "answer": "B",
-      "explanation": "Vælgerne giver de folkevalgte deres demokratiske mandat.",
-      "difficulty": "easy",
-      "cognitive": "understanding",
-      "values": true,
-      "exam_domain": "values",
-      "source_pages": [
-        89
-      ],
-      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
-    },
-    {
-      "id": "DK0364-e2",
-      "chapter": 2,
-      "chapter_title": "Det danske demokrati",
-      "section": "2.2",
-      "topic": "2.2.6 Demokratiets deltagere – Folketingsmedlemmerne",
-      "question": "Er et folketingsmedlem ifølge grundloven bundet af sin egen overbevisning?",
+      "question": "Kan man straffes med fængsel for forsætligt at forvanske resultatet af et folketingsvalg?",
       "options": {
         "A": "Ja",
         "B": "Nej"
       },
       "answer": "A",
-      "explanation": "Grundloven beskytter det enkelte medlems frie mandat.",
+      "explanation": "Efter straffelovens § 116 kan den, der med vilje forvansker resultatet af en omfattet offentlig afstemning, straffes med fængsel.",
+      "difficulty": "medium",
+      "cognitive": "recall",
+      "values": true,
+      "exam_domain": "values",
+      "source_pages": [],
+      "source_url": "https://www.retsinformation.dk/eli/lta/2025/1294",
+      "source_title": "Straffeloven · § 116",
+      "source_edition": "Dansk lovgivning og myndighedsvejledning",
+      "original_id": "DK0358"
+    },
+    {
+      "id": "DK0364-e2-s3",
+      "chapter": 2,
+      "chapter_title": "Det danske demokrati",
+      "section": "2.2",
+      "topic": "2.2.6 Demokratiets deltagere – Folketingsmedlemmerne",
+      "question": "Kan vælgerne give et folketingsmedlem bindende besked om, hvordan medlemmet skal stemme?",
+      "options": {
+        "A": "Ja",
+        "B": "Nej"
+      },
+      "answer": "B",
+      "explanation": "Efter grundlovens § 56 er et folketingsmedlem bundet af sin egen overbevisning. Vælgerne kan ikke give en bindende ordre om afstemninger.",
       "difficulty": "medium",
       "cognitive": "understanding",
       "values": true,
       "exam_domain": "values",
-      "source_pages": [
-        91
-      ],
-      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026",
+      "source_pages": [],
+      "source_url": "https://www.ft.dk/da/dokumenter/bestil-publikationer/publikationer/mingrundlov/min-grundlov?rfd=1",
+      "source_title": "Folketinget · Grundlovens § 56",
+      "source_edition": "Dansk lovgivning og myndighedsvejledning",
       "original_id": "DK0364",
       "editorial_revision": "2026-09-27"
     },
@@ -22431,101 +22481,98 @@
       "values_indicator": true
     },
     {
-      "id": "DK0372-e2",
+      "id": "DK0372-e2-s3",
       "chapter": 2,
       "chapter_title": "Det danske demokrati",
       "section": "2.2",
       "topic": "2.2.6 Demokratiets deltagere – Medierne",
-      "question": "Er det en opgave for medierne at undersøge og kritisere magthaverne?",
+      "question": "Er det som udgangspunkt lovligt for en avis at kritisere en ministers politik?",
       "options": {
         "A": "Ja",
         "B": "Nej"
       },
       "answer": "A",
-      "explanation": "Betegnelsen henviser til mediernes kontrolfunktion som samfundets vagthund.",
-      "difficulty": "easy",
-      "cognitive": "understanding",
-      "values": true,
-      "exam_domain": "values",
-      "source_pages": [
-        93
-      ],
-      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026",
-      "original_id": "DK0372",
-      "editorial_revision": "2026-09-27"
-    },
-    {
-      "id": "DK0373",
-      "chapter": 2,
-      "chapter_title": "Det danske demokrati",
-      "section": "2.2",
-      "topic": "2.2.6 Demokratiets deltagere – Medierne",
-      "question": "Hvilken udfordring kan politikeres opslag på sociale medier skabe for kritisk journalistik?",
-      "options": {
-        "A": "Journalister kan ikke længere omtale opslagets indhold",
-        "B": "Journalister får ikke altid mulighed for at stille opfølgende spørgsmål",
-        "C": "Journalister får formel pligt til at støtte politikerens opslag"
-      },
-      "answer": "B",
-      "explanation": "Direkte opslag kan omgå det interview, hvor journalister ellers ville stille kritiske spørgsmål.",
-      "difficulty": "medium",
-      "cognitive": "understanding",
-      "values": true,
-      "exam_domain": "values",
-      "source_pages": [
-        93
-      ],
-      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
-    },
-    {
-      "id": "DK0374",
-      "chapter": 2,
-      "chapter_title": "Det danske demokrati",
-      "section": "2.2",
-      "topic": "2.2.7 Demokrati i hverdagen – Medborgerskab",
-      "question": "Hvilket organ kan give medarbejdere indflydelse på arbejdspladsens forhold?",
-      "options": {
-        "A": "Et samarbejdsudvalg",
-        "B": "Et elevråd",
-        "C": "Et menighedsråd"
-      },
-      "answer": "A",
-      "explanation": "Samarbejdsudvalg giver medarbejdere indsigt og indflydelse på deres arbejdsplads.",
+      "explanation": "Ytringsfriheden beskytter som udgangspunkt politisk kritik. Avisen står til ansvar for ytringer, der overskrider lovens grænser.",
       "difficulty": "medium",
       "cognitive": "recall",
       "values": true,
       "exam_domain": "values",
-      "source_pages": [
-        94
-      ],
-      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_pages": [],
+      "source_url": "https://www.ft.dk/da/dokumenter/bestil-publikationer/publikationer/mingrundlov/min-grundlov?rfd=1",
+      "source_title": "Folketinget · Grundlovens § 77",
+      "source_edition": "Dansk lovgivning og myndighedsvejledning",
+      "original_id": "DK0372",
+      "editorial_revision": "2026-09-27"
     },
     {
-      "id": "DK0376",
+      "id": "DK0373-s3",
+      "chapter": 2,
+      "chapter_title": "Det danske demokrati",
+      "section": "2.2",
+      "topic": "2.2.6 Demokratiets deltagere – Medierne",
+      "question": "Kan en avis stilles til ansvar for en bevidst falsk beskyldning om, at en privatperson har begået kriminalitet?",
+      "options": {
+        "A": "Ja",
+        "B": "Nej"
+      },
+      "answer": "A",
+      "explanation": "Grundloven beskytter ytringsfriheden under ansvar for domstolene. En bevidst falsk beskyldning kan derfor få retslige følger.",
+      "difficulty": "medium",
+      "cognitive": "recall",
+      "values": true,
+      "exam_domain": "values",
+      "source_pages": [],
+      "source_url": "https://www.retsinformation.dk/eli/lta/2025/1294",
+      "source_title": "Straffeloven · §§ 267–269",
+      "source_edition": "Dansk lovgivning og myndighedsvejledning",
+      "original_id": "DK0373"
+    },
+    {
+      "id": "DK0374-s3",
       "chapter": 2,
       "chapter_title": "Det danske demokrati",
       "section": "2.2",
       "topic": "2.2.7 Demokrati i hverdagen – Medborgerskab",
-      "question": "Hvordan kan foreningsarbejde være træning i demokrati?",
+      "question": "Kan en almindelig fagforening ifølge grundloven dannes uden først at få tilladelse fra staten?",
       "options": {
-        "A": "Man overlader alle beslutninger til staten",
-        "B": "Man lærer at undgå alle uenigheder",
-        "C": "Man drøfter forslag, søger kompromiser og stemmer"
+        "A": "Ja",
+        "B": "Nej"
       },
-      "answer": "C",
-      "explanation": "Foreningslivet giver praktisk erfaring med argumenter, samarbejde og demokratiske beslutninger.",
+      "answer": "A",
+      "explanation": "Foreningsfriheden giver borgere ret til at danne foreninger med et lovligt formål uden forudgående tilladelse.",
       "difficulty": "medium",
-      "cognitive": "understanding",
+      "cognitive": "recall",
       "values": true,
       "exam_domain": "values",
-      "source_pages": [
-        95
-      ],
-      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_pages": [],
+      "source_url": "https://www.ft.dk/da/dokumenter/bestil-publikationer/publikationer/mingrundlov/min-grundlov?rfd=1",
+      "source_title": "Folketinget · Grundlovens § 78",
+      "source_edition": "Dansk lovgivning og myndighedsvejledning",
+      "original_id": "DK0374"
+    },
+    {
+      "id": "DK0376-s3",
+      "chapter": 2,
+      "chapter_title": "Det danske demokrati",
+      "section": "2.2",
+      "topic": "2.2.7 Demokrati i hverdagen – Medborgerskab",
+      "question": "Hvem kan endeligt opløse en forening, der søger at nå sine mål med vold?",
+      "options": {
+        "A": "Folketingets Ombudsmand",
+        "B": "Regeringen",
+        "C": "Domstolene"
+      },
+      "answer": "C",
+      "explanation": "Efter grundlovens § 78 kan foreningen opløses ved dom. Et foreløbigt forbud skal følges af en retssag.",
+      "difficulty": "medium",
+      "cognitive": "recall",
+      "values": true,
+      "exam_domain": "values",
+      "source_pages": [],
+      "source_url": "https://www.ft.dk/da/dokumenter/bestil-publikationer/publikationer/mingrundlov/min-grundlov?rfd=1",
+      "source_title": "Folketinget · Grundlovens § 78",
+      "source_edition": "Dansk lovgivning og myndighedsvejledning",
+      "original_id": "DK0376"
     },
     {
       "id": "DK0377-e2",
@@ -22555,28 +22602,27 @@
       "values_indicator": true
     },
     {
-      "id": "DK0379",
+      "id": "DK0379-s3",
       "chapter": 2,
       "chapter_title": "Det danske demokrati",
       "section": "2.2",
       "topic": "2.2.7 Demokrati i hverdagen – Medborgerskab",
-      "question": "Hvilken handling er et eksempel på politisk deltagelse uden for et parti?",
+      "question": "Kræver en fredelig demonstration på en offentlig plads som udgangspunkt politiets tilladelse?",
       "options": {
-        "A": "At underskrive en politisk underskriftsindsamling",
-        "B": "At betale en almindelig parkeringsbillet",
-        "C": "At skifte adresse inden for samme kommune"
+        "A": "Ja",
+        "B": "Nej"
       },
-      "answer": "A",
-      "explanation": "Underskriftsindsamlinger er en af flere måder at udtrykke politiske holdninger på.",
+      "answer": "B",
+      "explanation": "En demonstration skal normalt anmeldes til politiet. Forsamlingsfriheden betyder som udgangspunkt, at den ikke skal godkendes på forhånd.",
       "difficulty": "medium",
-      "cognitive": "application",
+      "cognitive": "recall",
       "values": true,
       "exam_domain": "values",
-      "source_pages": [
-        95
-      ],
-      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_pages": [],
+      "source_url": "https://www.ft.dk/da/dokumenter/bestil-publikationer/publikationer/mingrundlov/min-grundlov?rfd=1",
+      "source_title": "Folketinget · Grundlovens § 79",
+      "source_edition": "Dansk lovgivning og myndighedsvejledning",
+      "original_id": "DK0379"
     },
     {
       "id": "DK0380",
@@ -23121,27 +23167,26 @@
       "source_edition": "August 2026"
     },
     {
-      "id": "DK0419-e2",
+      "id": "DK0419-e2-s3",
       "chapter": 3,
       "chapter_title": "Den danske økonomi",
       "section": "3.2",
       "topic": "3.2 Velfærdssamfundet",
-      "question": "Får alle borgere automatisk alle sociale ydelser uden betingelser?",
+      "question": "Kan en ansøgers formue få betydning for retten til kontanthjælp?",
       "options": {
         "A": "Ja",
         "B": "Nej"
       },
-      "answer": "B",
-      "explanation": "Den brede adgang er knyttet til betingelser for den enkelte ydelse, ikke til ens udbetalinger.",
+      "answer": "A",
+      "explanation": "Kommunen tager normalt højde for en formue, som ansøgeren kan leve af. Kommunen ser dog bort fra visse beløb og typer af formue.",
       "difficulty": "medium",
-      "cognitive": "understanding",
+      "cognitive": "recall",
       "values": true,
       "exam_domain": "values",
-      "source_pages": [
-        105
-      ],
-      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026",
+      "source_pages": [],
+      "source_url": "https://star.dk/ydelser/ledighed/kontanthjaelp",
+      "source_title": "STAR · Betingelser for kontanthjælp",
+      "source_edition": "Dansk lovgivning og myndighedsvejledning",
       "original_id": "DK0419",
       "editorial_revision": "2026-09-27"
     },
@@ -23493,19 +23538,19 @@
       "source_edition": "August 2026"
     },
     {
-      "id": "DK0904",
+      "id": "DK0904-s3",
       "chapter": 6,
       "chapter_title": "Temaopslag",
       "section": "6.12",
       "topic": "Folkeskolens formål",
-      "question": "Hvilke værdier skal præge folkeskolens virke?",
+      "question": "Hvilke værdier skal folkeskolens virke ifølge folkeskolelovens formål bygge på?",
       "options": {
-        "A": "Politisk ensretning, tilpasning og lydighed",
-        "B": "Konkurrence, rangorden og streng disciplin",
+        "A": "Ligebehandling, erhvervsfrihed og retssikkerhed",
+        "B": "Selvstyre, ligeløn og mindretalsbeskyttelse",
         "C": "Åndsfrihed, ligeværd og demokrati"
       },
       "answer": "C",
-      "explanation": "Folkeskolen skal forberede eleverne på medansvar og deltagelse i et frit folkestyre.",
+      "explanation": "Folkeskoleloven fremhæver åndsfrihed, ligeværd og demokrati som grundlag for skolens virke.",
       "difficulty": "easy",
       "cognitive": "understanding",
       "values": true,
@@ -23514,7 +23559,8 @@
         225
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "original_id": "DK0904"
     },
     {
       "id": "DK0905-e2",
@@ -23543,27 +23589,26 @@
       "editorial_revision": "2026-09-27"
     },
     {
-      "id": "DK0908-e2",
+      "id": "DK0908-e2-s3",
       "chapter": 6,
       "chapter_title": "Temaopslag",
       "section": "6.12",
       "topic": "Fælles undervisning",
-      "question": "Gælder folkeskolens fag for både piger og drenge?",
+      "question": "Har friskoler og private grundskoler pligt til at styrke elevernes respekt for ligestilling mellem kønnene?",
       "options": {
         "A": "Ja",
         "B": "Nej"
       },
       "answer": "A",
-      "explanation": "Alle fag er fælles for piger og drenge, som normalt undervises sammen.",
-      "difficulty": "easy",
-      "cognitive": "understanding",
+      "explanation": "Friskoleloven kræver, at skolerne styrker elevernes kendskab til og respekt for grundlæggende rettigheder, herunder ligestilling mellem kønnene.",
+      "difficulty": "medium",
+      "cognitive": "recall",
       "values": true,
       "exam_domain": "values",
-      "source_pages": [
-        225
-      ],
-      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026",
+      "source_pages": [],
+      "source_url": "https://www.retsinformation.dk/api/pdf/257119",
+      "source_title": "Friskoleloven · § 1, stk. 2",
+      "source_edition": "Dansk lovgivning og myndighedsvejledning",
       "original_id": "DK0908",
       "editorial_revision": "2026-09-27"
     },
@@ -23619,27 +23664,26 @@
       "values_indicator": true
     },
     {
-      "id": "DK0925-e2",
+      "id": "DK0925-e2-s3",
       "chapter": 6,
       "chapter_title": "Temaopslag",
       "section": "6.13",
       "topic": "Tvangsægteskab",
-      "question": "Er det strafbart at tvinge en person til at gifte sig?",
+      "question": "Kan man straffes for at true med vold for at tvinge en anden til en religiøs vielse uden borgerlig gyldighed?",
       "options": {
         "A": "Ja",
         "B": "Nej"
       },
       "answer": "A",
-      "explanation": "Ægteskab kræver frivillighed, og forsøg på tvang er strafbart.",
-      "difficulty": "easy",
-      "cognitive": "application",
+      "explanation": "Straffelovens regler om ulovlig tvang omfatter tvang til en religiøs vielse uden borgerlig gyldighed.",
+      "difficulty": "medium",
+      "cognitive": "recall",
       "values": true,
       "exam_domain": "values",
-      "source_pages": [
-        230
-      ],
-      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026",
+      "source_pages": [],
+      "source_url": "https://www.retsinformation.dk/eli/lta/2025/1294",
+      "source_title": "Straffeloven · § 260",
+      "source_edition": "Dansk lovgivning og myndighedsvejledning",
       "wording_revision": "2026-09-26",
       "original_id": "DK0925",
       "editorial_revision": "2026-09-27"
@@ -23671,43 +23715,42 @@
       "editorial_revision": "2026-09-27"
     },
     {
-      "id": "DK0927-e2",
+      "id": "DK0927-e2-s3",
       "chapter": 6,
       "chapter_title": "Temaopslag",
       "section": "6.13",
       "topic": "Skilsmisse",
-      "question": "Kan ægtefæller blive skilt straks, hvis de er enige om skilsmissen?",
+      "question": "Kan to ægtefæller, der begge ønsker skilsmisse og er enige om de relevante vilkår, som udgangspunkt blive skilt uden først at blive separeret?",
       "options": {
         "A": "Ja",
         "B": "Nej"
       },
       "answer": "A",
-      "explanation": "Enighed giver mulighed for direkte skilsmisse; separation er ikke altid nødvendig.",
+      "explanation": "Ved direkte skilsmisse uden særlig begrundelse skal parret være enige både om at blive skilt og om eventuelt ægtefællebidrag samt om, hvem der fortsætter i en fælles lejebolig.",
       "difficulty": "medium",
       "cognitive": "application",
       "values": true,
       "exam_domain": "values",
-      "source_pages": [
-        230
-      ],
-      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026",
+      "source_pages": [],
+      "source_url": "https://familieretshuset.dk/emner/brud-i-familien/for-gifte/skilsmisse-uden-saerlig-begrundelse-uden-boern-under-18/",
+      "source_title": "Familieretshuset · Direkte skilsmisse",
+      "source_edition": "Dansk lovgivning og myndighedsvejledning",
       "original_id": "DK0927",
       "editorial_revision": "2026-09-27"
     },
     {
-      "id": "DK0928-e2",
+      "id": "DK0928-e2-s3",
       "chapter": 6,
       "chapter_title": "Temaopslag",
       "section": "6.13",
       "topic": "Forældremyndighed",
-      "question": "Fortsætter fælles forældremyndighed som udgangspunkt efter en skilsmisse?",
+      "question": "Ophører fælles forældremyndighed automatisk, når barnets forældre bliver skilt?",
       "options": {
         "A": "Ja",
         "B": "Nej"
       },
-      "answer": "A",
-      "explanation": "Fælles forældremyndighed fortsætter som udgangspunkt; ved uenighed kan retten afgøre spørgsmålet.",
+      "answer": "B",
+      "explanation": "Fælles forældremyndighed fortsætter som udgangspunkt efter separation eller skilsmisse.",
       "difficulty": "medium",
       "cognitive": "understanding",
       "values": true,
@@ -23746,54 +23789,52 @@
       "source_edition": "August 2026"
     },
     {
-      "id": "DK0930-e2",
+      "id": "DK0930-e2-s3",
       "chapter": 6,
       "chapter_title": "Temaopslag",
       "section": "6.14",
       "topic": "6.14 Diskrimination, antisemitisme, hadforbrydelser og ekstremisme",
-      "question": "Er det diskrimination at afvise en kvalificeret jobansøger alene på grund af personens etniske navn?",
+      "question": "Må en almindelig virksomhed afvise en kvalificeret jobansøger alene på grund af ansøgerens etniske oprindelse?",
       "options": {
         "A": "Ja",
         "B": "Nej"
       },
-      "answer": "A",
-      "explanation": "Etnisk oprindelse er ikke en saglig begrundelse for at fravælge en kvalificeret ansøger.",
+      "answer": "B",
+      "explanation": "Loven forbyder usaglig forskelsbehandling ved ansættelse på grund af blandt andet etnisk oprindelse.",
       "difficulty": "medium",
       "cognitive": "application",
       "values": true,
       "exam_domain": "values",
-      "source_pages": [
-        231
-      ],
-      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026",
+      "source_pages": [],
+      "source_url": "https://www.retsinformation.dk/eli/lta/2024/399",
+      "source_title": "Forskelsbehandlingsloven · §§ 1–2",
+      "source_edition": "Dansk lovgivning og myndighedsvejledning",
       "original_id": "DK0930",
       "editorial_revision": "2026-09-27"
     },
     {
-      "id": "DK0931",
+      "id": "DK0931-s3",
       "chapter": 6,
       "chapter_title": "Temaopslag",
       "section": "6.14",
       "topic": "6.14 Diskrimination, antisemitisme, hadforbrydelser og ekstremisme",
-      "question": "Hvad viser undersøgelser om betydningen af ansøgeres navne for deres mulighed for at få en lejebolig?",
+      "question": "Må et boligselskab give en ansøger længere ventetid alene på grund af etnisk oprindelse, når boligen udbydes til offentligheden?",
       "options": {
-        "A": "Udenlandske navne gav generelt fortrinsret til en lejebolig",
-        "B": "Danske og udenlandske navne gav altid præcis samme svar",
-        "C": "Visse udenlandske navne kan gøre det sværere at få bolig"
+        "A": "Ja",
+        "B": "Nej"
       },
-      "answer": "C",
-      "explanation": "Undersøgelser peger på forskelsbehandling af ansøgere med visse udenlandske navne.",
+      "answer": "B",
+      "explanation": "Forbuddet mod etnisk forskelsbehandling gælder også boliger, der udbydes til offentligheden.",
       "difficulty": "medium",
       "cognitive": "recall",
       "values": true,
       "exam_domain": "values",
-      "source_pages": [
-        231
-      ],
-      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026",
-      "wording_revision": "2026-09-26"
+      "source_pages": [],
+      "source_url": "https://www.retsinformation.dk/eli/lta/2012/438",
+      "source_title": "Lov om etnisk ligebehandling · §§ 2–3",
+      "source_edition": "Dansk lovgivning og myndighedsvejledning",
+      "wording_revision": "2026-09-26",
+      "original_id": "DK0931"
     },
     {
       "id": "DK0932-e2",
@@ -23921,29 +23962,28 @@
       "wording_revision": "2026-09-26"
     },
     {
-      "id": "DK0941",
+      "id": "DK0941-s3",
       "chapter": 6,
       "chapter_title": "Temaopslag",
       "section": "6.14",
       "topic": "6.14 Diskrimination, antisemitisme, hadforbrydelser og ekstremisme",
-      "question": "Hvilket problem oplevede danske jøder efter oktober 2023 i forbindelse med konflikten i Mellemøsten?",
+      "question": "Er det som udgangspunkt lovligt at udtale sig kritisk om en religion i Danmark?",
       "options": {
-        "A": "Deres danske statsborgerskab blev gjort midlertidigt",
-        "B": "De blev udsat for trusler og gjort ansvarlige for Israels politik",
-        "C": "Deres adgang til offentlige stillinger blev begrænset ved lov"
+        "A": "Ja",
+        "B": "Nej"
       },
-      "answer": "B",
-      "explanation": "Materialet beskriver tiltagende chikane, herunder på sociale medier, hvor jødiske borgere blev gjort kollektivt ansvarlige.",
+      "answer": "A",
+      "explanation": "Ytringsfriheden giver plads til kritik af religion. Regler om for eksempel trusler og nedværdigelse af befolkningsgrupper gælder fortsat.",
       "difficulty": "medium",
       "cognitive": "recall",
       "values": true,
       "exam_domain": "values",
-      "source_pages": [
-        232
-      ],
-      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026",
-      "wording_revision": "2026-09-26"
+      "source_pages": [],
+      "source_url": "https://www.ft.dk/da/dokumenter/bestil-publikationer/publikationer/mingrundlov/min-grundlov?rfd=1",
+      "source_title": "Folketinget · Grundlovens § 77",
+      "source_edition": "Dansk lovgivning og myndighedsvejledning",
+      "wording_revision": "2026-09-26",
+      "original_id": "DK0941"
     },
     {
       "id": "DK0943",
@@ -23970,52 +24010,50 @@
       "source_edition": "August 2026"
     },
     {
-      "id": "DK0945-e2",
+      "id": "DK0945-e2-s3",
       "chapter": 6,
       "chapter_title": "Temaopslag",
       "section": "6.15",
       "topic": "6.15 Ligestilling mellem kønnene – Ligestilling",
-      "question": "Er ligestilling mellem mænd og kvinder en grundværdi i Danmark?",
-      "options": {
-        "A": "Ja",
-        "B": "Nej"
-      },
-      "answer": "A",
-      "explanation": "Materialet fremhæver ligestilling som en grundværdi, selv om der stadig er udfordringer.",
-      "difficulty": "easy",
-      "cognitive": "recall",
-      "values": true,
-      "exam_domain": "values",
-      "source_pages": [
-        234
-      ],
-      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026",
-      "original_id": "DK0945",
-      "editorial_revision": "2026-09-27"
-    },
-    {
-      "id": "DK0947-e2",
-      "chapter": 6,
-      "chapter_title": "Temaopslag",
-      "section": "6.15",
-      "topic": "6.15 Ligestilling mellem kønnene – Ligestilling",
-      "question": "Betyder lige rettigheder, at mænd og kvinder nødvendigvis klarer sig ens på alle områder?",
+      "question": "Må en virksomhed afslå at ansætte en ansøger alene med den begrundelse, at hun er gravid?",
       "options": {
         "A": "Ja",
         "B": "Nej"
       },
       "answer": "B",
-      "explanation": "Lige rettigheder betyder ikke i sig selv, at kønnene klarer sig ens på alle områder.",
+      "explanation": "Ligebehandlingsloven forbyder forskelsbehandling ved ansættelse på grund af graviditet.",
       "difficulty": "medium",
-      "cognitive": "understanding",
+      "cognitive": "recall",
       "values": true,
       "exam_domain": "values",
-      "source_pages": [
-        234
-      ],
-      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026",
+      "source_pages": [],
+      "source_url": "https://www.retsinformation.dk/eli/lta/2024/942",
+      "source_title": "Ligebehandlingsloven · §§ 1–2",
+      "source_edition": "Dansk lovgivning og myndighedsvejledning",
+      "original_id": "DK0945",
+      "editorial_revision": "2026-09-27"
+    },
+    {
+      "id": "DK0947-e2-s3",
+      "chapter": 6,
+      "chapter_title": "Temaopslag",
+      "section": "6.15",
+      "topic": "6.15 Ligestilling mellem kønnene – Ligestilling",
+      "question": "Må en arbejdsgiver give en kvinde lavere løn end en mand alene på grund af køn, hvis de udfører samme arbejde?",
+      "options": {
+        "A": "Ja",
+        "B": "Nej"
+      },
+      "answer": "B",
+      "explanation": "Ligelønsloven forbyder lønforskelsbehandling på grund af køn ved samme arbejde eller arbejde af samme værdi.",
+      "difficulty": "medium",
+      "cognitive": "recall",
+      "values": true,
+      "exam_domain": "values",
+      "source_pages": [],
+      "source_url": "https://www.retsinformation.dk/eli/lta/2019/156",
+      "source_title": "Ligelønsloven · § 1",
+      "source_edition": "Dansk lovgivning og myndighedsvejledning",
       "wording_revision": "2026-09-26",
       "original_id": "DK0947",
       "editorial_revision": "2026-09-27"
@@ -24048,19 +24086,19 @@
       "editorial_revision": "2026-09-27"
     },
     {
-      "id": "DK0951-e2",
+      "id": "DK0951-e2-s3",
       "chapter": 6,
       "chapter_title": "Temaopslag",
       "section": "6.15",
       "topic": "6.15 Ligestilling mellem kønnene – Ligeløn",
-      "question": "Bliver den målte lønforskel mellem mænd og kvinder mindre, når der tages højde for blandt andet uddannelse og branche?",
+      "question": "Kan der stadig være forskel på kvinders og mænds gennemsnitlige løn, selv om loven kræver ligeløn for arbejde af samme værdi?",
       "options": {
         "A": "Ja",
         "B": "Nej"
       },
       "answer": "A",
-      "explanation": "Materialet angiver typisk en korrigeret forskel på 4-7 procent mod 12 procent samlet i 2022.",
-      "difficulty": "hard",
+      "explanation": "Gennemsnit over hele arbejdsmarkedet sammenligner blandt andet forskellige stillinger og fag. Ligelønslovens regel angår samme arbejde eller arbejde af samme værdi.",
+      "difficulty": "medium",
       "cognitive": "understanding",
       "values": true,
       "exam_domain": "values",
@@ -24073,27 +24111,26 @@
       "editorial_revision": "2026-09-27"
     },
     {
-      "id": "DK0954-e2",
+      "id": "DK0954-e2-s3",
       "chapter": 6,
       "chapter_title": "Temaopslag",
       "section": "6.15",
       "topic": "6.15 Ligestilling mellem kønnene – Ligeløn",
-      "question": "Kan mænds og kvinders arbejde i forskellige fag forklare en del af lønforskellen?",
+      "question": "Må en virksomhed som udgangspunkt skrive i et opslag til et almindeligt kontorjob, at den kun søger mænd?",
       "options": {
         "A": "Ja",
         "B": "Nej"
       },
-      "answer": "A",
-      "explanation": "Fagfordelingen og den fortsatte overvægt af mandlige ledere bidrager til lønforskellen.",
+      "answer": "B",
+      "explanation": "Ligebehandlingsloven forbyder som udgangspunkt kønspræferencer i jobannoncer.",
       "difficulty": "medium",
-      "cognitive": "understanding",
+      "cognitive": "recall",
       "values": true,
       "exam_domain": "values",
-      "source_pages": [
-        235
-      ],
-      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026",
+      "source_pages": [],
+      "source_url": "https://www.retsinformation.dk/eli/lta/2024/942",
+      "source_title": "Ligebehandlingsloven · § 6",
+      "source_edition": "Dansk lovgivning og myndighedsvejledning",
       "original_id": "DK0954",
       "editorial_revision": "2026-09-27"
     },
@@ -24125,53 +24162,51 @@
       "values_indicator": true
     },
     {
-      "id": "DK0956-e2",
+      "id": "DK0956-e2-s3",
       "chapter": 6,
       "chapter_title": "Temaopslag",
       "section": "6.15",
       "topic": "6.15 Ligestilling mellem kønnene – Barsel",
-      "question": "Hvem tager størstedelen af barselsorloven?",
+      "question": "To lønmodtagere bor sammen, da de får barn. Kan de som hovedregel overdrage al orlov med barselsdagpenge til den ene forælder?",
       "options": {
-        "A": "Kvinder",
-        "B": "Mænd"
+        "A": "Ja",
+        "B": "Nej"
       },
-      "answer": "A",
-      "explanation": "Materialet angiver, at kvinder fortsat tager omkring 80 procent af orloven.",
-      "difficulty": "easy",
+      "answer": "B",
+      "explanation": "For lønmodtagere er dele af orloven øremærket. De ni uger, der er øremærket for hver lønmodtager, kan som hovedregel ikke overdrages.",
+      "difficulty": "medium",
       "cognitive": "recall",
       "values": true,
       "exam_domain": "values",
-      "source_pages": [
-        236
-      ],
-      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026",
+      "source_pages": [],
+      "source_url": "https://www.borger.dk/familie-og-boern/barsel-oversigt/barsel-loenmodtagere-ny-orlovsmodel",
+      "source_title": "Borger.dk · Lønmodtager på barsel",
+      "source_edition": "Dansk lovgivning og myndighedsvejledning",
       "wording_revision": "2026-09-26",
       "original_id": "DK0956",
       "editorial_revision": "2026-09-27"
     },
     {
-      "id": "DK0957-e2",
+      "id": "DK0957-e2-s3",
       "chapter": 6,
       "chapter_title": "Temaopslag",
       "section": "6.15",
       "topic": "6.15 Ligestilling mellem kønnene – Barsel",
-      "question": "Kan lang barselsorlov dæmpe lønudviklingen for den, der tager orloven?",
+      "question": "Må en arbejdsgiver afskedige en medarbejder alene, fordi medarbejderen har bedt om barselsorlov, som vedkommende har ret til?",
       "options": {
         "A": "Ja",
         "B": "Nej"
       },
-      "answer": "A",
-      "explanation": "Langvarigt fravær fra arbejdspladsen kan påvirke lønudvikling og karrieremuligheder.",
+      "answer": "B",
+      "explanation": "Ligebehandlingsloven beskytter mod afskedigelse, fordi en medarbejder beder om eller holder den orlov, loven giver ret til.",
       "difficulty": "medium",
-      "cognitive": "understanding",
+      "cognitive": "recall",
       "values": true,
       "exam_domain": "values",
-      "source_pages": [
-        236
-      ],
-      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026",
+      "source_pages": [],
+      "source_url": "https://www.retsinformation.dk/eli/lta/2024/942",
+      "source_title": "Ligebehandlingsloven · § 9",
+      "source_edition": "Dansk lovgivning og myndighedsvejledning",
       "original_id": "DK0957",
       "editorial_revision": "2026-09-27"
     },
@@ -24227,27 +24262,26 @@
       "values_indicator": true
     },
     {
-      "id": "DK0962-e2",
+      "id": "DK0962-e2-s3",
       "chapter": 6,
       "chapter_title": "Temaopslag",
       "section": "6.15",
       "topic": "6.15 Ligestilling mellem kønnene – Seksuelle krænkelser",
-      "question": "Kan det hjælpe indsatsen mod seksuelle krænkelser at gøre det lettere for medarbejderne at anmelde dem?",
+      "question": "Har en arbejdsgiver ifølge ligebehandlingsloven pligt til at håndtere seksuel chikane på arbejdspladsen?",
       "options": {
         "A": "Ja",
         "B": "Nej"
       },
       "answer": "A",
-      "explanation": "Arbejdspladser arbejder blandt andet med kulturændringer og bedre muligheder for at indberette krænkelser.",
-      "difficulty": "easy",
-      "cognitive": "application",
+      "explanation": "Arbejdsgiveren skal stille et chikanefrit arbejdsmiljø til rådighed og håndtere tilfælde af seksuel chikane.",
+      "difficulty": "medium",
+      "cognitive": "recall",
       "values": true,
       "exam_domain": "values",
-      "source_pages": [
-        237
-      ],
-      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026",
+      "source_pages": [],
+      "source_url": "https://www.retsinformation.dk/eli/lta/2024/942",
+      "source_title": "Ligebehandlingsloven · § 4, stk. 2",
+      "source_edition": "Dansk lovgivning og myndighedsvejledning",
       "wording_revision": "2026-09-26",
       "original_id": "DK0962",
       "editorial_revision": "2026-09-27"
@@ -24617,28 +24651,29 @@
       "priority": "core"
     },
     {
-      "id": "CA-P019-v2-e2",
+      "id": "CA-P019-v2-e2-s3",
       "chapter": 0,
       "chapter_title": "Aktuelle begivenheder",
       "section": "CA.politics",
       "topic": "Grønland og USA",
-      "question": "Trådte den nye aftale mellem Grønland, Danmark og USA i kraft straks ved underskriften i september 2026?",
+      "question": "Hvilken godkendelse var nødvendig efter underskriften af den nye forsvars- og sikkerhedsaftale om Grønland i september 2026?",
       "options": {
-        "A": "Ja",
-        "B": "Nej"
+        "A": "Godkendelse ved folkeafstemninger i Danmark og Grønland",
+        "B": "Godkendelse i Folketinget og Inatsisartut",
+        "C": "Godkendelse i FN’s Sikkerhedsråd"
       },
       "answer": "B",
-      "explanation": "Underskrift og ikrafttræden var særskilte trin.",
+      "explanation": "Både Folketinget og Inatsisartut skulle godkende aftalen. Derefter kunne regeringen underrette USA.",
       "difficulty": "medium",
       "cognitive": "understanding",
       "values": false,
       "exam_domain": "current_affairs",
       "source_pages": [],
-      "source_url": "https://stm.dk/presse/pressemeddelelser/2026/aftale-mellem-groenland-danmark-og-usa/",
-      "source_title": "Aftale mellem Grønland, Danmark og USA",
-      "source_edition": "Nyhedskilde kontrolleret 2026-09-25",
+      "source_url": "https://www.ft.dk/da/aktuelt/nyheder/2026/11/folketinget-godkender-aftale-om-forsvaret-af-groenland",
+      "source_title": "Folketinget · Aftalen om forsvaret af Grønland",
+      "source_edition": "Nyhedskilde kontrolleret 2026-11-21",
       "event_date": "2026-09-22",
-      "verified_at": "2026-09-25",
+      "verified_at": "2026-11-21",
       "priority": "core",
       "original_id": "CA-P019-v2",
       "editorial_revision": "2026-09-27"
@@ -24696,30 +24731,30 @@
       "priority": "core"
     },
     {
-      "id": "CA-P022",
+      "id": "CA-P078",
       "chapter": 0,
       "chapter_title": "Aktuelle begivenheder",
       "section": "CA.politics",
-      "topic": "Ukraine og dansk støtte",
-      "question": "Hvilken type ukrainske virksomheder skal initiativet »Build with Ukraine« få til at etablere sig i Danmark ifølge juliaftalen 2026?",
+      "topic": "Dansk støtte til ukrainsk forsvarsproduktion",
+      "question": "Hvad skulle EIFO’s finansiering til Fire Point i oktober 2026 understøtte?",
       "options": {
-        "A": "Forsvarsvirksomheder",
-        "B": "Landbrugsvirksomheder",
-        "C": "Energivirksomheder"
+        "A": "Ukrainsk forsvarsproduktion i Danmark",
+        "B": "Ukrainsk fødevareproduktion i Danmark",
+        "C": "Ukrainsk medicinproduktion i Danmark"
       },
       "answer": "A",
-      "explanation": "»Build with Ukraine« omfatter ukrainsk forsvarsproduktion i Danmark.",
-      "difficulty": "medium",
-      "cognitive": "understanding",
+      "explanation": "EIFO meddelte 21. oktober 2026, at 750 mio. kr. skulle understøtte Fire Points danske datterselskab og etableringen af ukrainsk forsvarsproduktion i Danmark.",
+      "difficulty": "easy",
+      "cognitive": "recall",
       "values": false,
       "exam_domain": "current_affairs",
       "source_pages": [],
-      "source_url": "https://www.fmn.dk/da/nyheder/2026/aftale-om-tattere-sikkerheds--og-forsvarssamarbejde-mellem-ukraine-og-danmark/",
-      "source_title": "Aftale om tættere sikkerheds- og forsvarssamarbejde mellem Ukraine og Danmark",
-      "source_edition": "Nyhedskilde kontrolleret 2026-09-25",
-      "event_date": "2026-07-07",
-      "verified_at": "2026-09-25",
-      "priority": "core"
+      "source_url": "https://eifo.dk/videnshub/eifo-stiller-finansiering-til-ukrainsk-forsvarsproduktion-i-danmark",
+      "source_title": "EIFO stiller finansiering til ukrainsk forsvarsproduktion i Danmark",
+      "source_edition": "Nyhedskilde kontrolleret 2026-10-26",
+      "event_date": "2026-10-21",
+      "verified_at": "2026-10-26",
+      "priority": "practice"
     },
     {
       "id": "CA-P023",
@@ -24800,18 +24835,19 @@
       "priority": "core"
     },
     {
-      "id": "CA-P026-e2",
+      "id": "CA-P026-e2-s3",
       "chapter": 0,
       "chapter_title": "Aktuelle begivenheder",
       "section": "CA.politics",
       "topic": "Den nye værnepligt",
-      "question": "Hvem er omfattet af den nye værnepligtsordning, som startede fuldt op i august 2026?",
+      "question": "Hvem er omfattet af værnepligten efter den reform, som blev sat fuldt i gang i august 2026?",
       "options": {
-        "A": "Kun mænd",
-        "B": "Både mænd og kvinder"
+        "A": "Kun kvinder",
+        "B": "Kun mænd",
+        "C": "Både kvinder og mænd"
       },
-      "answer": "B",
-      "explanation": "Ordningen omfatter værnepligt for begge køn.",
+      "answer": "C",
+      "explanation": "Et fuldt hold begyndte på den ligestillede og længere værnepligt i august 2026.",
       "difficulty": "easy",
       "cognitive": "understanding",
       "values": false,
@@ -24819,9 +24855,9 @@
       "source_pages": [],
       "source_url": "https://www.forsvaret.dk/da/nyheder/2026/ny-varnepligt-begynder-i-dag-og-er-med-til-at-styrke-forsvaret/",
       "source_title": "Ny værnepligt er med til at styrke Forsvaret",
-      "source_edition": "Nyhedskilde kontrolleret 2026-09-25",
+      "source_edition": "Nyhedskilde kontrolleret 2026-11-21",
       "event_date": "2026-08-03",
-      "verified_at": "2026-09-25",
+      "verified_at": "2026-11-21",
       "priority": "core",
       "original_id": "CA-P026",
       "editorial_revision": "2026-09-27"
@@ -24957,30 +24993,32 @@
       "priority": "core"
     },
     {
-      "id": "CA-P035",
+      "id": "CA-P035-s3",
       "chapter": 0,
       "chapter_title": "Aktuelle begivenheder",
       "section": "CA.politics",
-      "topic": "EU og nethandel",
-      "question": "Hvem skal ifølge den toldreform, EU-Rådet godkendte 3. september 2026, regnes som importør ved salg fra en netplatform uden for EU?",
+      "topic": "Folketingets samtykke til Grønlandsaftalen",
+      "question": "Hvilken forsamling gav i november 2026 på Danmarks vegne samtykke til den nye forsvars- og sikkerhedsaftale om Grønland?",
       "options": {
-        "A": "Pakkebuddets arbejdsgiver i EU",
-        "B": "Netplatformen uden for EU",
-        "C": "Pakkens private modtager i EU"
+        "A": "Europa-Parlamentet",
+        "B": "Folketinget",
+        "C": "Nordisk Råd"
       },
       "answer": "B",
-      "explanation": "Rådets reformtekst placerer importøransvaret hos platformen. Meddelelsen om Rådets godkendelse oplyste, at Europa-Parlamentets godkendelse forventedes senere i september; den beskrev ikke alle regler som allerede gældende.",
-      "difficulty": "hard",
-      "cognitive": "understanding",
+      "explanation": "Folketinget gav samtykke til forsvars- og sikkerhedsaftalen mellem Grønland, Danmark og USA den 19. november. Den ændrer og supplerer forsvarsaftalen fra 1951.",
+      "difficulty": "medium",
+      "cognitive": "recall",
       "values": false,
       "exam_domain": "current_affairs",
       "source_pages": [],
-      "source_url": "https://www.consilium.europa.eu/en/press/press-releases/2026/09/03/eu-customs-council-greenlights-landmark-reform/",
-      "source_title": "EU customs: Council greenlights landmark reform",
-      "source_edition": "Nyhedskilde kontrolleret 2026-09-25",
-      "event_date": "2026-09-03",
-      "verified_at": "2026-09-25",
-      "priority": "core"
+      "source_url": "https://www.ft.dk/da/aktuelt/nyheder/2026/11/folketinget-godkender-aftale-om-forsvaret-af-groenland",
+      "source_title": "Folketinget · Aftalen om forsvaret af Grønland",
+      "source_edition": "Nyhedskilde kontrolleret 2026-11-21",
+      "event_date": "2026-11-19",
+      "verified_at": "2026-11-21",
+      "priority": "core",
+      "original_id": "CA-P035",
+      "news_event_group": "https://stm.dk/presse/pressemeddelelser/2026/aftale-mellem-groenland-danmark-og-usa/"
     },
     {
       "id": "CA-P039",
@@ -25375,30 +25413,32 @@
       "priority": "practice"
     },
     {
-      "id": "CA-P054",
+      "id": "CA-P054-s3",
       "chapter": 0,
       "chapter_title": "Aktuelle begivenheder",
       "section": "CA.politics",
-      "topic": "Partnerskab med Ukraine",
-      "question": "Hvad skulle Danmark især lære af Ukraine gennem juliaftalen 2026?",
+      "topic": "Danmark og de nordisk-baltiske lande i Kyiv",
+      "question": "I hvilket land mødtes lederne fra Danmark og de øvrige nordisk-baltiske lande den 23. august 2026 for at markere 35-årsdagen for landets uafhængighed?",
       "options": {
-        "A": "Erfaringer fra operative krigsindsatser",
-        "B": "Erfaringer fra fredsbevarende FN-missioner",
-        "C": "Erfaringer fra bekæmpelse af pirateri"
+        "A": "Estland",
+        "B": "Letland",
+        "C": "Ukraine"
       },
-      "answer": "A",
-      "explanation": "Aftalen omfatter udveksling af operative erfaringer fra krigen.",
+      "answer": "C",
+      "explanation": "Lederne samledes i Kyiv og udsendte en fælleserklæring sammen med Ukraine i anledning af ukrainsk uafhængighed.",
       "difficulty": "medium",
-      "cognitive": "understanding",
+      "cognitive": "recall",
       "values": false,
       "exam_domain": "current_affairs",
       "source_pages": [],
-      "source_url": "https://www.fmn.dk/da/nyheder/2026/aftale-om-tattere-sikkerheds--og-forsvarssamarbejde-mellem-ukraine-og-danmark/",
-      "source_title": "Aftale om tættere sikkerheds- og forsvarssamarbejde mellem Ukraine og Danmark",
-      "source_edition": "Nyhedskilde kontrolleret 2026-09-25",
-      "event_date": "2026-07-07",
-      "verified_at": "2026-09-25",
-      "priority": "practice"
+      "source_url": "https://stm.dk/statsministeriet/publikationer/faelleserklaering-fra-ukraine-og-de-nordisk-baltiske-lande-nb8/",
+      "source_title": "Statsministeriet · Fælleserklæringen fra Kyiv",
+      "source_edition": "Nyhedskilde kontrolleret 2026-11-21",
+      "event_date": "2026-08-23",
+      "verified_at": "2026-11-21",
+      "priority": "core",
+      "original_id": "CA-P054",
+      "news_event_group": "nb8-kyiv-2026"
     },
     {
       "id": "CA-P055",
@@ -25453,30 +25493,30 @@
       "priority": "practice"
     },
     {
-      "id": "CA-P057",
+      "id": "CA-P077",
       "chapter": 0,
       "chapter_title": "Aktuelle begivenheder",
       "section": "CA.politics",
-      "topic": "Danske soldater i Letland",
-      "question": "Hvilket land ledede den brigade i Letland, som de danske soldater skulle tilknyttes i 2026?",
+      "topic": "Forslag til finanslov for 2027",
+      "question": "Hvor meget ekstra om måneden efter skat foreslog regeringen i oktober 2026 at give de folkepensionister, der har mindst?",
       "options": {
-        "A": "Storbritannien",
-        "B": "Tyskland",
-        "C": "Canada"
+        "A": "2.000 kroner",
+        "B": "500 kroner",
+        "C": "1.000 kroner"
       },
       "answer": "C",
-      "explanation": "Forsvarsministeriet beskrev brigaden som canadisk ledet.",
-      "difficulty": "medium",
+      "explanation": "Regeringens finanslovsforslag for 2027 indeholdt en forhøjelse svarende til 1.000 kroner om måneden efter skat til de folkepensionister, der har mindst. Det var et forslag, ikke en allerede gennemført forhøjelse.",
+      "difficulty": "easy",
       "cognitive": "recall",
       "values": false,
       "exam_domain": "current_affairs",
       "source_pages": [],
-      "source_url": "https://www.fmn.dk/da/nyheder/2026/beslutning-om-landmilitart-bidrag-til-letland/",
-      "source_title": "Beslutning om landmilitært bidrag til Letland",
-      "source_edition": "Nyhedskilde kontrolleret 2026-09-25",
-      "event_date": "2026-06-17",
-      "verified_at": "2026-09-25",
-      "priority": "practice"
+      "source_url": "https://fm.dk/nyheder/nyhedsarkiv/2026/oktober/finanslovforslag-med-fokus-paa-tryghed-og-sikkerhed-loeft-af-velfaerden-og-groen-omstilling/",
+      "source_title": "Finanslovforslag med fokus på tryghed og sikkerhed, løft af velfærden og grøn omstilling",
+      "source_edition": "Nyhedskilde kontrolleret 2026-10-12",
+      "event_date": "2026-10-09",
+      "verified_at": "2026-10-12",
+      "priority": "core"
     },
     {
       "id": "CA-P058",
@@ -25635,30 +25675,32 @@
       "priority": "practice"
     },
     {
-      "id": "CA-P064",
+      "id": "CA-P064-s3",
       "chapter": 0,
       "chapter_title": "Aktuelle begivenheder",
       "section": "CA.politics",
-      "topic": "Irsk EU-formandskab",
-      "question": "Hvor længe skulle Irlands EU-formandskab, der begyndte i juli 2026, vare?",
+      "topic": "Godtgørelse i spiralsagen",
+      "question": "Hvad var baggrunden for den godtgørelsesordning i spiralsagen, som Folketinget vedtog i august 2026?",
       "options": {
-        "A": "Et helt år",
-        "B": "Et halvt år",
-        "C": "To år"
+        "A": "For sen diagnose af livmoderhalskræft",
+        "B": "Prævention uden samtykke",
+        "C": "Utilstrækkelig adgang til fertilitetsbehandling"
       },
       "answer": "B",
-      "explanation": "Perioden løber fra juli til december 2026.",
+      "explanation": "Ordningen giver kvinder, der opfylder lovens betingelser, mulighed for at søge godtgørelse for at have fået prævention uden samtykke.",
       "difficulty": "medium",
       "cognitive": "recall",
       "values": false,
       "exam_domain": "current_affairs",
       "source_pages": [],
-      "source_url": "https://irish-presidency.consilium.europa.eu/en/presidency/ireland-in-the-european-union/",
-      "source_title": "Ireland in the European Union",
-      "source_edition": "Nyhedskilde kontrolleret 2026-09-25",
-      "event_date": "2026-07-01",
-      "verified_at": "2026-09-25",
-      "priority": "practice"
+      "source_url": "https://www.ft.dk/samling/20252/lovforslag/L11/index.htm",
+      "source_title": "Folketinget · Godtgørelse i spiralsagen (L 11)",
+      "source_edition": "Nyhedskilde kontrolleret 2026-11-21",
+      "event_date": "2026-08-27",
+      "verified_at": "2026-11-21",
+      "priority": "core",
+      "original_id": "CA-P064",
+      "news_event_group": "spiralsagen-godtgoerelse-2026"
     },
     {
       "id": "CA-P065",
@@ -25687,58 +25729,61 @@
       "priority": "practice"
     },
     {
-      "id": "CA-P066",
+      "id": "CA-P066-s3",
       "chapter": 0,
       "chapter_title": "Aktuelle begivenheder",
       "section": "CA.politics",
-      "topic": "EU’s toldreform",
-      "question": "I hvilken fransk by skulle den nye EU-toldmyndighed ligge ifølge reformen fra september 2026?",
+      "topic": "Nordisk Råds præsidentskab",
+      "question": "Hvem skal sammen varetage præsidentskabet for Nordisk Råd i 2027 ifølge meddelelsen i oktober 2026?",
       "options": {
-        "A": "Lille",
-        "B": "Lyon",
-        "C": "Strasbourg"
+        "A": "Danmark, Færøerne og Grønland",
+        "B": "Danmark, Norge og Island",
+        "C": "Danmark, Sverige og Finland"
       },
       "answer": "A",
-      "explanation": "Reformen placerer den nye myndighed i Lille.",
+      "explanation": "Danmark, Færøerne og Grønland skal for første gang varetage præsidentskabet sammen i 2027.",
       "difficulty": "medium",
       "cognitive": "recall",
       "values": false,
       "exam_domain": "current_affairs",
       "source_pages": [],
-      "source_url": "https://www.consilium.europa.eu/en/press/press-releases/2026/09/03/eu-customs-council-greenlights-landmark-reform/",
-      "source_title": "EU customs: Council greenlights landmark reform",
-      "source_edition": "Nyhedskilde kontrolleret 2026-09-25",
-      "event_date": "2026-09-03",
-      "verified_at": "2026-09-25",
-      "priority": "practice"
+      "source_url": "https://www.ft.dk/da/aktuelt/nyheder/2026/10/danmark-faeroeerne-og-groenland-overtager-praesidentskabet-for-nordisk-raad",
+      "source_title": "Folketinget · Præsidentskabet for Nordisk Råd",
+      "source_edition": "Nyhedskilde kontrolleret 2026-11-21",
+      "event_date": "2026-10-29",
+      "verified_at": "2026-11-21",
+      "priority": "core",
+      "original_id": "CA-P066",
+      "news_event_group": "nordisk-raad-praesidentskab-2027"
     },
     {
-      "id": "CA-P067-e2",
+      "id": "CA-P067-e2-s3",
       "chapter": 0,
       "chapter_title": "Aktuelle begivenheder",
       "section": "CA.politics",
-      "topic": "EU’s toldreform",
-      "question": "Hvilket område skal EU’s nye fælles dataplatform fra toldreformen i september 2026 styrke?",
+      "topic": "Færøernes abortlov",
+      "question": "Hvad gav den nye færøske abortlov, som trådte i kraft i juli 2026, kvinder med bopæl på Færøerne ret til under lovens betingelser?",
       "options": {
-        "A": "Kontrol med internationale betalinger",
-        "B": "Kontrol med vareforsendelser",
-        "C": "Kontrol med personrejser"
+        "A": "Abort uden særlig tilladelse inden udgangen af 18. graviditetsuge",
+        "B": "Abort uden særlig tilladelse inden udgangen af 12. graviditetsuge",
+        "C": "Abort uden særlig tilladelse inden udgangen af 8. graviditetsuge"
       },
       "answer": "B",
-      "explanation": "Import- og eksportdata skal hjælpe med målrettet toldkontrol.",
+      "explanation": "Loven giver adgang til abort uden særlig tilladelse inden udgangen af 12. graviditetsuge efter tilbud om rådgivning og lægefaglig vejledning.",
       "difficulty": "medium",
-      "cognitive": "understanding",
+      "cognitive": "recall",
       "values": false,
       "exam_domain": "current_affairs",
       "source_pages": [],
-      "source_url": "https://www.consilium.europa.eu/en/press/press-releases/2026/09/03/eu-customs-council-greenlights-landmark-reform/",
-      "source_title": "EU customs: Council greenlights landmark reform",
-      "source_edition": "Nyhedskilde kontrolleret 2026-09-25",
-      "event_date": "2026-09-03",
-      "verified_at": "2026-09-25",
-      "priority": "practice",
+      "source_url": "https://www.kunngerdaportalur.fo/Umbraco/surface/Document/GetDocument?id=5915",
+      "source_title": "Færøernes lovportal · Abortloven",
+      "source_edition": "Nyhedskilde kontrolleret 2026-11-21",
+      "event_date": "2026-07-01",
+      "verified_at": "2026-11-21",
+      "priority": "core",
       "original_id": "CA-P067",
-      "editorial_revision": "2026-09-27"
+      "editorial_revision": "2026-09-27",
+      "news_event_group": "faeroerne-abortlov-2026"
     },
     {
       "id": "CA-P068-e2",
@@ -25769,30 +25814,32 @@
       "editorial_revision": "2026-09-27"
     },
     {
-      "id": "CA-P069",
+      "id": "CA-P069-s3",
       "chapter": 0,
       "chapter_title": "Aktuelle begivenheder",
       "section": "CA.politics",
-      "topic": "EU’s toldreform",
-      "question": "Hvad skulle særligt pålidelige virksomheder opnå med toldreformen fra september 2026?",
+      "topic": "Nordisk møde om Ukraine",
+      "question": "Hvilken præsident deltog i et møde med Mette Frederiksen og de øvrige nordiske ledere i Danmark i november 2026?",
       "options": {
-        "A": "Enklere toldprocedurer",
-        "B": "Fritagelse fra moms",
-        "C": "Fritagelse fra produktkrav"
+        "A": "Emmanuel Macron",
+        "B": "Karol Nawrocki",
+        "C": "Volodymyr Zelenskyy"
       },
-      "answer": "A",
-      "explanation": "Ordningen giver enklere toldbehandling, ikke generel fritagelse fra regler.",
+      "answer": "C",
+      "explanation": "Ukraines præsident Volodymyr Zelenskyy kom til Danmark den 10. november for blandt andet at drøfte støtte til Ukraine og europæisk sikkerhed.",
       "difficulty": "medium",
-      "cognitive": "understanding",
+      "cognitive": "recall",
       "values": false,
       "exam_domain": "current_affairs",
       "source_pages": [],
-      "source_url": "https://www.consilium.europa.eu/en/press/press-releases/2026/09/03/eu-customs-council-greenlights-landmark-reform/",
-      "source_title": "EU customs: Council greenlights landmark reform",
-      "source_edition": "Nyhedskilde kontrolleret 2026-09-25",
-      "event_date": "2026-09-03",
-      "verified_at": "2026-09-25",
-      "priority": "practice"
+      "source_url": "https://stm.dk/presse/pressemeddelelser/2026/praesident-zelenskyy-og-de-nordiske-lande-besoeger-danmark/",
+      "source_title": "Statsministeriet · Besøget i Danmark",
+      "source_edition": "Nyhedskilde kontrolleret 2026-11-21",
+      "event_date": "2026-11-10",
+      "verified_at": "2026-11-21",
+      "priority": "core",
+      "original_id": "CA-P069",
+      "news_event_group": "zelenskyj-norden-2026"
     },
     {
       "id": "CA-P070",
@@ -25847,30 +25894,32 @@
       "priority": "practice"
     },
     {
-      "id": "CA-P072",
+      "id": "CA-P072-s3",
       "chapter": 0,
       "chapter_title": "Aktuelle begivenheder",
       "section": "CA.politics",
-      "topic": "EU-sanktioner juli 2026",
-      "question": "Hvilken finansiel teknologi blev særskilt ramt af EU’s julisanktioner i 2026?",
+      "topic": "Skattereformen fra november",
+      "question": "Hvilket parti indgik regeringen en aftale om en skattereform med i november 2026?",
       "options": {
-        "A": "Kryptotjenester",
-        "B": "Europæiske pensionskonti",
-        "C": "Danske realkreditlån"
+        "A": "Dansk Folkeparti",
+        "B": "Liberal Alliance",
+        "C": "Venstre"
       },
       "answer": "A",
-      "explanation": "Pakken udvidede forbud mod transaktioner med bestemte kryptoplatforme.",
+      "explanation": "Regeringen og Dansk Folkeparti indgik aftalen den 12. november. Den lægger blandt andet op til lavere selskabsskat.",
       "difficulty": "medium",
       "cognitive": "recall",
       "values": false,
       "exam_domain": "current_affairs",
       "source_pages": [],
-      "source_url": "https://www.consilium.europa.eu/en/press/press-releases/2026/07/23/21st-package-of-sanctions-eu-hits-russian-energy-financial-services-and-crypto-hard/",
-      "source_title": "21st package of sanctions: EU hits Russian energy, financial services and crypto hard",
-      "source_edition": "Nyhedskilde kontrolleret 2026-09-25",
-      "event_date": "2026-07-23",
-      "verified_at": "2026-09-25",
-      "priority": "practice"
+      "source_url": "https://svmn.dk/media/pxscl3pa/aftaletekst-skattereform.pdf",
+      "source_title": "Aftaletekst · Skattereformen af 12. november",
+      "source_edition": "Nyhedskilde kontrolleret 2026-11-21",
+      "event_date": "2026-11-12",
+      "verified_at": "2026-11-21",
+      "priority": "core",
+      "original_id": "CA-P072",
+      "news_event_group": "skattereform-november-2026"
     },
     {
       "id": "CA-P073",
@@ -25899,30 +25948,32 @@
       "priority": "practice"
     },
     {
-      "id": "CA-P074",
+      "id": "CA-P074-s3",
       "chapter": 0,
       "chapter_title": "Aktuelle begivenheder",
       "section": "CA.politics",
-      "topic": "EU-sanktioner juli 2026",
-      "question": "Hvilken våbentype lå bag særligt mange af julipakkens sanktioner mod russisk militærindustri i 2026?",
+      "topic": "Forslag til finanslov for 2027",
+      "question": "Hvad foreslog regeringen i sit finanslovsforslag fra oktober 2026 at gøre gratis for unge under 22 år?",
       "options": {
-        "A": "Atomubåde",
-        "B": "Kampvogne",
-        "C": "Langtrækkende droner"
+        "A": "Kørekortundervisning",
+        "B": "Kollektiv transport",
+        "C": "Medlemskab af en fagforening"
       },
-      "answer": "C",
-      "explanation": "Mange af de nye opførelser vedrørte produktion af langtrækkende droner.",
+      "answer": "B",
+      "explanation": "Regeringen foreslog at indføre gratis kollektiv transport for unge under 22 år gradvist.",
       "difficulty": "medium",
       "cognitive": "recall",
       "values": false,
       "exam_domain": "current_affairs",
       "source_pages": [],
-      "source_url": "https://www.consilium.europa.eu/en/press/press-releases/2026/07/23/21st-package-of-sanctions-eu-hits-russian-energy-financial-services-and-crypto-hard/",
-      "source_title": "21st package of sanctions: EU hits Russian energy, financial services and crypto hard",
-      "source_edition": "Nyhedskilde kontrolleret 2026-09-25",
-      "event_date": "2026-07-23",
-      "verified_at": "2026-09-25",
-      "priority": "practice"
+      "source_url": "https://fm.dk/nyheder/nyhedsarkiv/2026/oktober/finanslovforslag-med-fokus-paa-tryghed-og-sikkerhed-loeft-af-velfaerden-og-groen-omstilling/",
+      "source_title": "Finansministeriet · Finanslovsforslaget for 2027",
+      "source_edition": "Nyhedskilde kontrolleret 2026-11-21",
+      "event_date": "2026-10-09",
+      "verified_at": "2026-11-21",
+      "priority": "core",
+      "original_id": "CA-P074",
+      "news_event_group": "finanslovforslag-2027"
     },
     {
       "id": "CA-P075",
@@ -26679,30 +26730,32 @@
       "priority": "practice"
     },
     {
-      "id": "CA-S040",
+      "id": "CA-S040-s3",
       "chapter": 0,
       "chapter_title": "Aktuelle begivenheder",
       "section": "CA.society",
-      "topic": "Hovedstadens Letbane",
-      "question": "Hvor mange kilometer blev Hovedstadens Letbane ved den fulde åbning i august 2026?",
+      "topic": "Afskaffelse af kaffeafgiften",
+      "question": "Hvilken afgift vedtog Folketinget at afskaffe med virkning fra 1. januar 2027?",
       "options": {
-        "A": "56 kilometer",
-        "B": "14 kilometer",
-        "C": "28 kilometer"
+        "A": "Kaffeafgiften",
+        "B": "Tobaksafgiften",
+        "C": "Ølafgiften"
       },
-      "answer": "C",
-      "explanation": "Den fulde bane mellem Ishøj og Lundtofte er 28 kilometer.",
+      "answer": "A",
+      "explanation": "Folketinget vedtog at afskaffe punktafgiften på kaffe fra 1. januar 2027.",
       "difficulty": "medium",
       "cognitive": "recall",
       "values": false,
       "exam_domain": "current_affairs",
       "source_pages": [],
-      "source_url": "https://dinletbane.dk/da/nyheder/50000-koerte-med-da-hele-letbanen-blev-indviet/",
-      "source_title": "Stor tilslutning: 50.000 kørte med da hele Letbanen blev indviet",
-      "source_edition": "Nyhedskilde kontrolleret 2026-09-25",
-      "event_date": "2026-08-22",
-      "verified_at": "2026-09-25",
-      "priority": "practice"
+      "source_url": "https://www.ft.dk/ripdf/samling/20261/lovforslag/l36a/20261_l36a_som_vedtaget.pdf",
+      "source_title": "Folketinget · Afskaffelse af kaffeafgiften (L 36 A)",
+      "source_edition": "Nyhedskilde kontrolleret 2026-11-21",
+      "event_date": "2026-11-12",
+      "verified_at": "2026-11-21",
+      "priority": "core",
+      "original_id": "CA-S040",
+      "news_event_group": "l36-skatteaftale-2026"
     },
     {
       "id": "CA-S041",
@@ -26757,31 +26810,33 @@
       "priority": "practice"
     },
     {
-      "id": "CA-S043-e2",
+      "id": "CA-S043-e2-s3",
       "chapter": 0,
       "chapter_title": "Aktuelle begivenheder",
       "section": "CA.society",
-      "topic": "Direkte tog til Prag",
-      "question": "Kunne man rejse fra København til Prag uden togskift med den nye forbindelse fra maj 2026?",
+      "topic": "Dansk investering i supercomputeren Gefion",
+      "question": "Hvad hedder den danske supercomputer til kunstig intelligens, som var i centrum for en ny investeringsaftale i november 2026?",
       "options": {
-        "A": "Ja",
-        "B": "Nej"
+        "A": "Sirius",
+        "B": "LUMI",
+        "C": "Gefion"
       },
-      "answer": "A",
-      "explanation": "Forbindelsen gjorde det muligt at rejse direkte mellem København, Berlin og Prag.",
-      "difficulty": "easy",
-      "cognitive": "understanding",
+      "answer": "C",
+      "explanation": "Ifølge aftalen investerer Netcompany og de hidtidige ejere tilsammen 500 millioner kroner i selskabet bag Gefion.",
+      "difficulty": "medium",
+      "cognitive": "recall",
       "values": false,
       "exam_domain": "current_affairs",
       "source_pages": [],
-      "source_url": "https://www.dsb.dk/om-dsb/presse/nyheder/forste-direkte-tog-mellem-kobenhavn-berlin-og-prag-er-sendt-afsted/",
-      "source_title": "Første direkte tog mellem København, Berlin og Prag er sendt afsted",
-      "source_edition": "Nyhedskilde kontrolleret 2026-09-25",
-      "event_date": "2026-05-01",
-      "verified_at": "2026-09-25",
-      "priority": "practice",
+      "source_url": "https://eifo.dk/videnshub/dcai-ny-investering",
+      "source_title": "Danmarks Eksport- og Investeringsfond · Investering i Gefion",
+      "source_edition": "Nyhedskilde kontrolleret 2026-11-21",
+      "event_date": "2026-11-10",
+      "verified_at": "2026-11-21",
+      "priority": "core",
       "original_id": "CA-S043",
-      "editorial_revision": "2026-09-27"
+      "editorial_revision": "2026-09-27",
+      "news_event_group": "gefion-investering-2026"
     },
     {
       "id": "CA-S044",
@@ -26810,30 +26865,32 @@
       "priority": "practice"
     },
     {
-      "id": "CA-S045",
+      "id": "CA-S045-s3",
       "chapter": 0,
       "chapter_title": "Aktuelle begivenheder",
       "section": "CA.society",
-      "topic": "Femern Bælt-tunnelen",
-      "question": "Hvad brugte Femern-projektet en undervandsdrone til ifølge en nyhed i august 2026?",
+      "topic": "Nulmoms på bøger",
+      "question": "Hvad vedtog Folketinget i november 2026 at indføre nulmoms på fra 1. juli 2027?",
       "options": {
-        "A": "At inspicere revner i tunnelelementer",
-        "B": "At kontrollere kabelsamlinger på havbunden",
-        "C": "At overvåge sediment og vandkvalitet"
+        "A": "Plader og musikdownloads",
+        "B": "Biografbilletter",
+        "C": "Bøger og e-bøger"
       },
       "answer": "C",
-      "explanation": "Dronen indsamler oplysninger om partikler hvirvlet op fra havbunden.",
+      "explanation": "Lovændringen indfører nulmoms på bøger, også elektronisk leverede bøger, fra 1. juli 2027.",
       "difficulty": "medium",
       "cognitive": "recall",
       "values": false,
       "exam_domain": "current_affairs",
       "source_pages": [],
-      "source_url": "https://www.femern.com/press/news/",
-      "source_title": "Femern A/S – News and press releases",
-      "source_edition": "Nyhedskilde kontrolleret 2026-09-25",
-      "event_date": "2026-08-25",
-      "verified_at": "2026-09-25",
-      "priority": "practice"
+      "source_url": "https://www.ft.dk/ripdf/samling/20261/lovforslag/l36b/20261_l36b_som_vedtaget.pdf",
+      "source_title": "Folketinget · Nulmoms på bøger (L 36 B)",
+      "source_edition": "Nyhedskilde kontrolleret 2026-11-21",
+      "event_date": "2026-11-12",
+      "verified_at": "2026-11-21",
+      "priority": "core",
+      "original_id": "CA-S045",
+      "news_event_group": "l36-skatteaftale-2026"
     },
     {
       "id": "CA-S046-e2",
@@ -26916,18 +26973,19 @@
       "priority": "practice"
     },
     {
-      "id": "CA-S049-e2",
+      "id": "CA-S049-e2-s3",
       "chapter": 0,
       "chapter_title": "Aktuelle begivenheder",
       "section": "CA.society",
       "topic": "Fødevarecheck",
-      "question": "Blev fødevarechecken som hovedregel udbetalt automatisk fra maj 2026?",
+      "question": "Hvordan blev fødevarechecken som hovedregel udbetalt i 2026?",
       "options": {
-        "A": "Ja",
-        "B": "Nej"
+        "A": "Kun efter ansøgning hos kommunen",
+        "B": "Automatisk til alle voksne over 18 år",
+        "C": "Automatisk til dem, der opfyldte betingelserne"
       },
-      "answer": "A",
-      "explanation": "Hovedreglen var automatisk udbetaling; særlige tilfælde krævede ansøgning.",
+      "answer": "C",
+      "explanation": "De fleste berettigede fik fødevarechecken automatisk. I enkelte situationer krævede udbetalingen en ansøgning.",
       "difficulty": "medium",
       "cognitive": "recall",
       "values": false,
@@ -26935,9 +26993,9 @@
       "source_pages": [],
       "source_url": "https://star.dk/da/om-styrelsen/nyt/nyheder-og-aktuelt-fra-styrelsen-for-arbejdsmarked-og-rekruttering/2026/05/udbetaling-af-foedevarecheck",
       "source_title": "Udbetaling af fødevarecheck",
-      "source_edition": "Nyhedskilde kontrolleret 2026-09-25",
+      "source_edition": "Nyhedskilde kontrolleret 2026-11-21",
       "event_date": "2026-05-04",
-      "verified_at": "2026-09-25",
+      "verified_at": "2026-11-21",
       "priority": "practice",
       "original_id": "CA-S049",
       "editorial_revision": "2026-09-27"
@@ -27127,57 +27185,61 @@
       "priority": "practice"
     },
     {
-      "id": "CA-S057",
+      "id": "CA-S057-s3",
       "chapter": 0,
       "chapter_title": "Aktuelle begivenheder",
       "section": "CA.society",
-      "topic": "Flere gode leveår",
-      "question": "Hvilken fond samarbejder med Sundhedsstyrelsen om Flere gode leveår fra september 2026?",
+      "topic": "Datatilsynets undersøgelse af CPR-sagen",
+      "question": "Hvilken myndighed indledte en formel undersøgelse af de mange opslag i CPR-systemet i oktober 2026?",
       "options": {
-        "A": "Villum Fonden",
-        "B": "Carlsbergfondet",
-        "C": "TrygFonden"
+        "A": "Digitaliseringsstyrelsen",
+        "B": "Folketingets Ombudsmand",
+        "C": "Datatilsynet"
       },
       "answer": "C",
-      "explanation": "TrygFonden finansierer initiativet og er samarbejdspartner.",
+      "explanation": "Datatilsynet indledte en undersøgelse for at klarlægge, hvordan opslagene kunne finde sted, og hvilke sikkerhedsforanstaltninger der var.",
       "difficulty": "medium",
       "cognitive": "recall",
       "values": false,
       "exam_domain": "current_affairs",
       "source_pages": [],
-      "source_url": "https://www.sst.dk/nyheder/2026/nyt-initiativ-skal-styrke-faellesskaber-i-voksenlivet",
-      "source_title": "Nyt initiativ skal styrke fællesskaber i voksenlivet",
-      "source_edition": "Nyhedskilde kontrolleret 2026-09-25",
-      "event_date": "2026-09-23",
-      "verified_at": "2026-09-25",
-      "priority": "practice"
+      "source_url": "https://www.datatilsynet.dk/presse-og-nyheder/nyhedsarkiv/2026/okt/datatilsynet-indleder-formel-undersoegelse-af-cpr-sagen",
+      "source_title": "Datatilsynet · Undersøgelsen af CPR-sagen",
+      "source_edition": "Nyhedskilde kontrolleret 2026-11-21",
+      "event_date": "2026-10-23",
+      "verified_at": "2026-11-21",
+      "priority": "core",
+      "original_id": "CA-S057",
+      "news_event_group": "cpr-sagen-2026"
     },
     {
-      "id": "CA-S058-e2",
+      "id": "CA-S058-e2-s3",
       "chapter": 0,
       "chapter_title": "Aktuelle begivenheder",
       "section": "CA.society",
-      "topic": "Novo Nordisks nye brand",
-      "question": "Blev selskabets juridiske navn ændret, da Novo Nordisk lancerede det korte brandnavn Novo i september 2026?",
+      "topic": "Skattereformen fra november",
+      "question": "Hvad aftalte regeringen og Dansk Folkeparti i november 2026 at sænke fra 22 til 19 procent?",
       "options": {
-        "A": "Ja",
-        "B": "Nej"
+        "A": "Arbejdsmarkedsbidraget",
+        "B": "Momsen",
+        "C": "Selskabsskatten"
       },
-      "answer": "B",
-      "explanation": "Det korte daglige navn ændrede ikke det juridiske selskabsnavn.",
+      "answer": "C",
+      "explanation": "Aftalen om skattereformen lægger op til en lavere selskabsskat og indfases gradvist fra 2027 til 2030.",
       "difficulty": "medium",
-      "cognitive": "understanding",
+      "cognitive": "recall",
       "values": false,
       "exam_domain": "current_affairs",
       "source_pages": [],
-      "source_url": "https://www.novonordisk.com/content/nncorp/global/en/news-and-media/news-and-ir-materials/news-details.html?id=916765&trk=public_post_comment-text",
-      "source_title": "Novo Nordisk enters next chapter, supported by Novo rebrand",
-      "source_edition": "Nyhedskilde kontrolleret 2026-09-25",
-      "event_date": "2026-09-14",
-      "verified_at": "2026-09-25",
-      "priority": "practice",
+      "source_url": "https://svmn.dk/media/pxscl3pa/aftaletekst-skattereform.pdf",
+      "source_title": "Aftaletekst · Skattereformen af 12. november",
+      "source_edition": "Nyhedskilde kontrolleret 2026-11-21",
+      "event_date": "2026-11-12",
+      "verified_at": "2026-11-21",
+      "priority": "core",
       "original_id": "CA-S058",
-      "editorial_revision": "2026-09-27"
+      "editorial_revision": "2026-09-27",
+      "news_event_group": "skattereform-november-2026"
     },
     {
       "id": "CA-S059",
@@ -27232,18 +27294,19 @@
       "priority": "practice"
     },
     {
-      "id": "CA-S061-e2",
+      "id": "CA-S061-e2-s3",
       "chapter": 0,
       "chapter_title": "Aktuelle begivenheder",
       "section": "CA.society",
       "topic": "PFAS-forbud",
-      "question": "Kunne butikker fortsat sælge deres eksisterende lager af PFAS-holdigt tøj i overgangsperioden efter juli 2026?",
+      "question": "Hvor længe kunne forretninger efter PFAS-forbuddet i juli 2026 fortsat sælge omfattede varer, der allerede var på lager ved skæringsdatoen?",
       "options": {
-        "A": "Ja",
-        "B": "Nej"
+        "A": "Frem til 1. oktober 2026",
+        "B": "Frem til 1. januar 2027",
+        "C": "Frem til 1. juli 2027"
       },
-      "answer": "A",
-      "explanation": "Eksisterende lager kunne sælges frem til 1. januar 2027.",
+      "answer": "B",
+      "explanation": "Der var en overgangsperiode for omfattede lagervarer frem til 1. januar 2027.",
       "difficulty": "medium",
       "cognitive": "understanding",
       "values": false,
@@ -27251,9 +27314,9 @@
       "source_pages": [],
       "source_url": "https://mst.dk/borger/sundhed-og-kemi/pfas-i-forbrugerprodukter",
       "source_title": "PFAS i forbrugerprodukter",
-      "source_edition": "Nyhedskilde kontrolleret 2026-09-25",
+      "source_edition": "Nyhedskilde kontrolleret 2026-11-21",
       "event_date": "2026-07-01",
-      "verified_at": "2026-09-25",
+      "verified_at": "2026-11-21",
       "priority": "practice",
       "original_id": "CA-S061",
       "editorial_revision": "2026-09-27"
@@ -27390,31 +27453,33 @@
       "priority": "practice"
     },
     {
-      "id": "CA-S067-e2",
+      "id": "CA-S067-e2-s3",
       "chapter": 0,
       "chapter_title": "Aktuelle begivenheder",
       "section": "CA.society",
-      "topic": "Nye havvindmølleparker",
-      "question": "Var de to nye havvindmølleparker allerede færdige ved kontrakttildelingen i august 2026?",
+      "topic": "Aftale om støtte til udsatte borgere",
+      "question": "Hvilken gruppe skulle blandt andet få støtte fra den brede aftale om social-, sundheds- og arbejdsmarkedsreserven i november 2026?",
       "options": {
-        "A": "Ja",
-        "B": "Nej"
+        "A": "Familier, der ønsker at købe en ejerbolig",
+        "B": "Unge, der søger et studieophold i udlandet",
+        "C": "Børn og unge udsat for vold i hjemmet"
       },
-      "answer": "B",
-      "explanation": "Meddelelsen fastsatte en frist for færdigopførelse i 2032.",
-      "difficulty": "easy",
-      "cognitive": "understanding",
+      "answer": "C",
+      "explanation": "Aftalen fra november fordelte over 450 millioner kroner til blandt andet voldsudsatte børn og unge, udsatte med grønlandsk baggrund og borgere med demens.",
+      "difficulty": "medium",
+      "cognitive": "recall",
       "values": false,
       "exam_domain": "current_affairs",
       "source_pages": [],
-      "source_url": "https://ens.dk/presse/danmark-faar-nye-havvindmoelleparker",
-      "source_title": "Danmark får to nye havvindmølleparker",
-      "source_edition": "Nyhedskilde kontrolleret 2026-09-25",
-      "event_date": "2026-08-04",
-      "verified_at": "2026-09-25",
+      "source_url": "https://sm.dk/nyheder/2026/november/bred-aftale-fordeler-over-450-millioner-kroner-til-udsatte-borgere/",
+      "source_title": "Socialministeriet · Bred aftale om støtte til udsatte",
+      "source_edition": "Nyhedskilde kontrolleret 2026-11-21",
+      "event_date": "2026-11-05",
+      "verified_at": "2026-11-21",
       "priority": "practice",
       "original_id": "CA-S067",
-      "editorial_revision": "2026-09-27"
+      "editorial_revision": "2026-09-27",
+      "news_event_group": "ssa-reserve-2027-2030"
     },
     {
       "id": "CA-S068",
@@ -27628,31 +27693,33 @@
       "priority": "practice"
     },
     {
-      "id": "CA-S076-e2",
+      "id": "CA-S076-e2-s3",
       "chapter": 0,
       "chapter_title": "Aktuelle begivenheder",
       "section": "CA.society",
-      "topic": "Nye havdata i Klimaatlas",
-      "question": "Beskrev DMI’s septembertal om op til 250 marine hedebølgedage om året målinger fra 2026 eller en beregning for fremtiden?",
+      "topic": "Dronning Mary ved COP31",
+      "question": "I hvilket land deltog dronning Mary i FN’s klimakonference COP31 i november 2026?",
       "options": {
-        "A": "Målinger fra 2026",
-        "B": "En beregning for fremtiden"
+        "A": "Egypten",
+        "B": "Tyrkiet",
+        "C": "Brasilien"
       },
       "answer": "B",
-      "explanation": "Tallet er en scenarieberegning for 2071–2100, ikke en måling fra 2026.",
+      "explanation": "COP31 blev afholdt i Antalya i Tyrkiet. Dronning Mary deltog og blev ledsaget af klima-, energi- og forsyningsminister Samira Nawa.",
       "difficulty": "medium",
-      "cognitive": "understanding",
+      "cognitive": "recall",
       "values": false,
       "exam_domain": "current_affairs",
       "source_pages": [],
-      "source_url": "https://www.dmi.dk/nyheder/2026/marine-hedeboelger-kan-ramme-danske-farvande-250-dage-om-aaret",
-      "source_title": "Marine hedebølger kan ramme danske farvande 250 dage om året",
-      "source_edition": "Nyhedskilde kontrolleret 2026-09-25",
-      "event_date": "2026-09-17",
-      "verified_at": "2026-09-25",
-      "priority": "practice",
+      "source_url": "https://www.kongehuset.dk/foto-video/ankomst-til-cop31-i-tyrkiet",
+      "source_title": "Kongehuset · Ankomst til COP31",
+      "source_edition": "Nyhedskilde kontrolleret 2026-11-21",
+      "event_date": "2026-11-08",
+      "verified_at": "2026-11-21",
+      "priority": "core",
       "original_id": "CA-S076",
-      "editorial_revision": "2026-09-27"
+      "editorial_revision": "2026-09-27",
+      "news_event_group": "cop31-2026"
     },
     {
       "id": "CA-S077",
@@ -27681,18 +27748,19 @@
       "priority": "practice"
     },
     {
-      "id": "CA-S078-e2",
+      "id": "CA-S078-e2-s3",
       "chapter": 0,
       "chapter_title": "Aktuelle begivenheder",
       "section": "CA.society",
       "topic": "LEGO’s halvårsresultat",
-      "question": "Steg eller faldt LEGO’s omsætning i første halvår 2026?",
+      "question": "Hvordan udviklede LEGO Koncernens omsætning sig i første halvår af 2026 sammenlignet med samme periode i 2025?",
       "options": {
-        "A": "Steg",
-        "B": "Faldt"
+        "A": "Den var omtrent uændret",
+        "B": "Den faldt",
+        "C": "Den steg"
       },
-      "answer": "A",
-      "explanation": "LEGO rapporterede en omsætningsstigning på 21 procent.",
+      "answer": "C",
+      "explanation": "LEGO oplyste, at omsætningen steg med 21 procent.",
       "difficulty": "medium",
       "cognitive": "recall",
       "values": false,
@@ -27700,9 +27768,9 @@
       "source_pages": [],
       "source_url": "https://www.lego.com/en-us/aboutus/news/2026/august/strong-demand-and-brand-relevance-drive-lego-group-revenue-up-21-operating-profit-up-22-in-h1-2026",
       "source_title": "The LEGO Group H1 2026 Results",
-      "source_edition": "Nyhedskilde kontrolleret 2026-09-25",
+      "source_edition": "Nyhedskilde kontrolleret 2026-11-21",
       "event_date": "2026-08-25",
-      "verified_at": "2026-09-25",
+      "verified_at": "2026-11-21",
       "priority": "practice",
       "original_id": "CA-S078",
       "editorial_revision": "2026-09-27"
@@ -27812,30 +27880,32 @@
       "priority": "practice"
     },
     {
-      "id": "CA-S083",
+      "id": "CA-S089-s3",
       "chapter": 0,
       "chapter_title": "Aktuelle begivenheder",
       "section": "CA.society",
-      "topic": "Inflation august 2026",
-      "question": "Hvor høj var den årlige danske inflation i august 2026 ifølge septemberopgørelsen?",
+      "topic": "Inflationen i oktober 2026",
+      "question": "Hvor høj var den årlige inflation i Danmark i oktober 2026 ifølge Danmarks Statistik?",
       "options": {
-        "A": "2,0 procent",
-        "B": "8,0 procent",
-        "C": "5,0 procent"
+        "A": "2,2 procent",
+        "B": "1,1 procent",
+        "C": "4,4 procent"
       },
       "answer": "A",
-      "explanation": "Forbrugerprisindekset var to procent højere end i august 2025.",
+      "explanation": "Forbrugerprisindekset var 2,2 procent højere i oktober 2026 end i oktober 2025. Transport bidrog mest til den årlige stigning.",
       "difficulty": "medium",
       "cognitive": "recall",
       "values": false,
       "exam_domain": "current_affairs",
       "source_pages": [],
-      "source_url": "https://www.dst.dk/da/Statistik/udgivelser/NytHtml?cid=52440",
-      "source_title": "Inflationen steg i august",
-      "source_edition": "Nyhedskilde kontrolleret 2026-09-25",
-      "event_date": "2026-09-10",
-      "verified_at": "2026-09-25",
-      "priority": "practice"
+      "source_url": "https://www.dst.dk/da/Statistik/udgivelser/NytHtml?cid=53348",
+      "source_title": "Danmarks Statistik · Forbrugerprisindekset for oktober",
+      "source_edition": "Nyhedskilde kontrolleret 2026-11-21",
+      "event_date": "2026-11-10",
+      "verified_at": "2026-11-21",
+      "priority": "practice",
+      "original_id": "CA-S089",
+      "news_event_group": "inflation-oktober-2026"
     },
     {
       "id": "CA-S084",
@@ -27864,32 +27934,33 @@
       "priority": "practice"
     },
     {
-      "id": "CA-S085-e2",
+      "id": "CA-S085-e2-s3",
       "chapter": 0,
       "chapter_title": "Aktuelle begivenheder",
       "section": "CA.society",
-      "topic": "Dansk-græsk klimasamarbejde",
-      "question": "Hvad skal et nyt græsk klimaatlas med dansk bistand især hjælpe kommunerne med?",
+      "topic": "Beskyttelse mod digitale efterligninger",
+      "question": "Hvad ville Kulturministeriets lovforslag fra oktober 2026 give bedre beskyttelse mod?",
       "options": {
-        "A": "Planlægning af klimatilpasning",
-        "B": "Beregning af drivhusgasudledning",
-        "C": "Kontrol med luftforurening"
+        "A": "Deling af digitale efterligninger af personer uden samtykke",
+        "B": "Reklamer målrettet mindreårige",
+        "C": "Uanmeldte ændringer i abonnementer"
       },
       "answer": "A",
-      "explanation": "Lokale data skal støtte tilpasning til blandt andet varme, tørke og oversvømmelser.",
+      "explanation": "Kulturministeriet foreslog, at folk skulle have bedre beskyttelse mod offentlig deling af AI-fremstillede efterligninger af deres udseende eller stemme.",
       "difficulty": "medium",
-      "cognitive": "understanding",
+      "cognitive": "recall",
       "values": false,
       "exam_domain": "current_affairs",
       "source_pages": [],
-      "source_url": "https://www.dmi.dk/nyheder/2026/dmis-klimaatlas-bliver-model-for-nyt-graesk-klimaatlas",
-      "source_title": "Dansk-græsk klimasamarbejde",
-      "source_edition": "Nyhedskilde kontrolleret 2026-09-25",
-      "event_date": "2026-09-25",
-      "verified_at": "2026-09-25",
-      "priority": "practice",
+      "source_url": "https://kum.dk/aktuelt/nyheder/kulturminister-vil-daemme-op-for-delinger-af-digitale-efterligninger-fra-aarsskiftet",
+      "source_title": "Kulturministeriet · Forslag om digitale efterligninger",
+      "source_edition": "Nyhedskilde kontrolleret 2026-11-21",
+      "event_date": "2026-10-08",
+      "verified_at": "2026-11-21",
+      "priority": "core",
       "original_id": "CA-S085",
-      "editorial_revision": "2026-09-27"
+      "editorial_revision": "2026-09-27",
+      "news_event_group": "ai-efterligninger-2026"
     },
     {
       "id": "CA-S086",
@@ -28518,84 +28589,89 @@
       "priority": "practice"
     },
     {
-      "id": "CA-C038",
+      "id": "CA-C038-s3",
       "chapter": 0,
       "chapter_title": "Aktuelle begivenheder",
       "section": "CA.culture_sport",
-      "topic": "Giro d’Italia 2026",
-      "question": "Hvilket hold kørte Jonas Vingegaard for ved Giro d’Italia 2026?",
+      "topic": "Kvindelandsholdet kvalificeret til VM",
+      "question": "Hvilken slutrunde kvalificerede Danmarks kvindelandshold i fodbold sig til i juni 2026?",
       "options": {
-        "A": "UAE Team Emirates–XRG",
-        "B": "Visma–Lease a Bike",
-        "C": "Lidl–Trek"
-      },
-      "answer": "B",
-      "explanation": "Vingegaard vandt som rytter på Visma–Lease a Bike.",
-      "difficulty": "medium",
-      "cognitive": "recall",
-      "values": false,
-      "exam_domain": "current_affairs",
-      "source_pages": [],
-      "source_url": "https://www.giroditalia.it/en/news/vingegaard-makes-cycling-history-milan-wins-in-rome/",
-      "source_title": "Vingegaard makes cycling history. Milan wins in Rome",
-      "source_edition": "Nyhedskilde kontrolleret 2026-09-25",
-      "event_date": "2026-05-31",
-      "verified_at": "2026-09-25",
-      "priority": "practice"
-    },
-    {
-      "id": "CA-C039-e2",
-      "chapter": 0,
-      "chapter_title": "Aktuelle begivenheder",
-      "section": "CA.culture_sport",
-      "topic": "Giro d’Italia 2026",
-      "question": "I hvilken sportsgren vandt Jonas Vingegaard Giro d’Italia i maj 2026?",
-      "options": {
-        "A": "Løb",
-        "B": "Cykling",
-        "C": "Triatlon"
-      },
-      "answer": "B",
-      "explanation": "Giro d’Italia er et etapeløb i landevejscykling. Jonas Vingegaard vandt den samlede konkurrence i maj 2026.",
-      "difficulty": "easy",
-      "cognitive": "recall",
-      "values": false,
-      "exam_domain": "current_affairs",
-      "source_pages": [],
-      "source_url": "https://www.giroditalia.it/en/news/vingegaard-makes-cycling-history-milan-wins-in-rome/",
-      "source_title": "Vingegaard makes cycling history. Milan wins in Rome",
-      "source_edition": "Nyhedskilde kontrolleret 2026-09-25",
-      "event_date": "2026-05-31",
-      "verified_at": "2026-09-25",
-      "priority": "practice",
-      "original_id": "CA-C039",
-      "editorial_revision": "2026-09-27"
-    },
-    {
-      "id": "CA-C040",
-      "chapter": 0,
-      "chapter_title": "Aktuelle begivenheder",
-      "section": "CA.culture_sport",
-      "topic": "Tour de France 2026",
-      "question": "Hvilken dansk rytter blev nummer seks samlet i Tour de France 2026?",
-      "options": {
-        "A": "Søren Kragh Andersen",
-        "B": "Magnus Cort",
-        "C": "Mattias Skjelmose"
+        "A": "EM i Tyskland i 2029",
+        "B": "OL i Los Angeles i 2028",
+        "C": "VM i Brasilien i 2027"
       },
       "answer": "C",
-      "explanation": "Team Danmark fremhævede Skjelmoses sjetteplads.",
+      "explanation": "Danmark slog Serbien i kvalifikationen og sikrede sig en plads ved VM i Brasilien i 2027.",
       "difficulty": "medium",
       "cognitive": "recall",
       "values": false,
       "exam_domain": "current_affairs",
       "source_pages": [],
-      "source_url": "https://www.teamdanmark.dk/presse/nyheder/2026/juli/tour-de-france-2026",
-      "source_title": "Tour de France 2026 – ubarmhjertigt uheld og historisk triumf",
-      "source_edition": "Nyhedskilde kontrolleret 2026-09-25",
-      "event_date": "2026-07-26",
-      "verified_at": "2026-09-25",
-      "priority": "practice"
+      "source_url": "https://dbu.dk/nyheder/2026/juni/kvindelandsholdet-skal-til-vm-2027/",
+      "source_title": "DBU · Kvindelandsholdet skal til VM 2027",
+      "source_edition": "Nyhedskilde kontrolleret 2026-11-21",
+      "event_date": "2026-06-09",
+      "verified_at": "2026-11-21",
+      "priority": "core",
+      "original_id": "CA-C038",
+      "news_event_group": "kvindelandsholdet-vm-2027"
+    },
+    {
+      "id": "CA-C039-e2-s3",
+      "chapter": 0,
+      "chapter_title": "Aktuelle begivenheder",
+      "section": "CA.culture_sport",
+      "topic": "Dansk guld ved VM i banecykling",
+      "question": "Hvilken medalje vandt Danmark i mændenes holdforfølgelsesløb ved VM i banecykling i oktober 2026?",
+      "options": {
+        "A": "Bronze",
+        "B": "Guld",
+        "C": "Sølv"
+      },
+      "answer": "B",
+      "explanation": "Danmark slog Italien i finalen i Shanghai og tog guldet i mændenes holdforfølgelsesløb for fjerde år i træk.",
+      "difficulty": "medium",
+      "cognitive": "recall",
+      "values": false,
+      "exam_domain": "current_affairs",
+      "source_pages": [],
+      "source_url": "https://cykelbanen.dk/verdensmester-for-4-aar-i-traek/",
+      "source_title": "Dansk Bicycle Club · Dansk VM-guld",
+      "source_edition": "Nyhedskilde kontrolleret 2026-11-21",
+      "event_date": "2026-10-15",
+      "verified_at": "2026-11-21",
+      "priority": "core",
+      "original_id": "CA-C039",
+      "editorial_revision": "2026-09-27",
+      "news_event_group": "banecykling-vm-2026"
+    },
+    {
+      "id": "CA-C040-s3",
+      "chapter": 0,
+      "chapter_title": "Aktuelle begivenheder",
+      "section": "CA.culture_sport",
+      "topic": "Guldløven til dansk film",
+      "question": "Hvilken dansk film vandt Guldløven ved filmfestivalen i Venedig i september 2026?",
+      "options": {
+        "A": "Druk",
+        "B": "Pigen med nålen",
+        "C": "Kvinde ukendt"
+      },
+      "answer": "C",
+      "explanation": "May el-Toukhys Kvinde ukendt vandt hovedprisen på festivalen, og Mathilde Arcel fik prisen for bedste kvindelige skuespiller.",
+      "difficulty": "medium",
+      "cognitive": "recall",
+      "values": false,
+      "exam_domain": "current_affairs",
+      "source_pages": [],
+      "source_url": "https://via.ritzau.dk/pressemeddelelse/15155265/kvinde-ukendt-vinder-guldloven-i-venedig?lang=da&publisherId=13560928",
+      "source_title": "Det Danske Filminstitut · Guldløven i Venedig",
+      "source_edition": "Nyhedskilde kontrolleret 2026-11-21",
+      "event_date": "2026-09-12",
+      "verified_at": "2026-11-21",
+      "priority": "core",
+      "original_id": "CA-C040",
+      "news_event_group": "kvinde-ukendt-venedig-2026"
     },
     {
       "id": "CA-C041",
@@ -28702,18 +28778,19 @@
       "priority": "practice"
     },
     {
-      "id": "CA-C045-e2",
+      "id": "CA-C045-e2-s3",
       "chapter": 0,
       "chapter_title": "Aktuelle begivenheder",
       "section": "CA.culture_sport",
       "topic": "Roskilde Festival 2026",
-      "question": "Hvad handler Svanemærket, som Roskilde Festival opnåede i juni 2026, om?",
+      "question": "Hvad skulle Roskilde Festival blandt andet leve op til for at få Svanemærket i 2026?",
       "options": {
-        "A": "Miljøhensyn",
-        "B": "Musikalsk kvalitet"
+        "A": "Krav til publikums aldersfordeling",
+        "B": "Krav til andelen af danske musikere",
+        "C": "Krav til miljø og ressourceforbrug"
       },
-      "answer": "A",
-      "explanation": "Kravene omfatter blandt andet energi, mad, affald og ressourcer.",
+      "answer": "C",
+      "explanation": "Miljøkravene gælder blandt andet energi, mad, affald og ressourceforbrug.",
       "difficulty": "easy",
       "cognitive": "understanding",
       "values": false,
@@ -28721,9 +28798,9 @@
       "source_pages": [],
       "source_url": "https://www.roskilde-festival.dk/nyheder/rf26-bliver-nordens-foerste-svanemaerkede-festival",
       "source_title": "RF26 bliver første svanemærkede festival",
-      "source_edition": "Nyhedskilde kontrolleret 2026-09-25",
+      "source_edition": "Nyhedskilde kontrolleret 2026-11-21",
       "event_date": "2026-06-24",
-      "verified_at": "2026-09-25",
+      "verified_at": "2026-11-21",
       "priority": "practice",
       "original_id": "CA-C045",
       "editorial_revision": "2026-09-27"
@@ -28783,31 +28860,33 @@
       "editorial_revision": "2026-09-27"
     },
     {
-      "id": "CA-C048-e2",
+      "id": "CA-C048-e2-s3",
       "chapter": 0,
       "chapter_title": "Aktuelle begivenheder",
       "section": "CA.culture_sport",
-      "topic": "Roskilde Festival 2026",
-      "question": "Går Roskilde Festivals overskud til almennyttige formål eller til private aktionærer?",
+      "topic": "Dansk Oscar-kandidat",
+      "question": "Hvilken film blev i september 2026 udvalgt som Danmarks kandidat til en Oscar i kategorien bedste internationale film?",
       "options": {
-        "A": "Almennyttige formål",
-        "B": "Private aktionærer"
+        "A": "Dobbeltfejl",
+        "B": "Kvinde ukendt",
+        "C": "Hjem"
       },
-      "answer": "A",
-      "explanation": "Festivalen er nonprofit og donerer sit overskud.",
+      "answer": "B",
+      "explanation": "Den danske Oscar-komité valgte Kvinde ukendt som Danmarks bidrag til udvælgelsen til Oscaruddelingen i 2027.",
       "difficulty": "medium",
       "cognitive": "recall",
       "values": false,
       "exam_domain": "current_affairs",
       "source_pages": [],
-      "source_url": "https://www.roskilde-festival.dk/nyheder/tak-for-i-aar-vi-ses-i-2027",
-      "source_title": "Tak for i år – vi ses i 2027",
-      "source_edition": "Nyhedskilde kontrolleret 2026-09-25",
-      "event_date": "2026-07-05",
-      "verified_at": "2026-09-25",
+      "source_url": "https://via.ritzau.dk/pressemeddelelse/15183553/danmarks-oscar-kandidat-kvinde-ukendt?lang=da",
+      "source_title": "Det Danske Filminstitut · Danmarks Oscar-kandidat",
+      "source_edition": "Nyhedskilde kontrolleret 2026-11-21",
+      "event_date": "2026-09-25",
+      "verified_at": "2026-11-21",
       "priority": "practice",
       "original_id": "CA-C048",
-      "editorial_revision": "2026-09-27"
+      "editorial_revision": "2026-09-27",
+      "news_event_group": "kvinde-ukendt-venedig-2026"
     },
     {
       "id": "CA-C049",
@@ -28942,56 +29021,60 @@
       "priority": "practice"
     },
     {
-      "id": "CA-C054",
+      "id": "CA-C054-s3",
       "chapter": 0,
       "chapter_title": "Aktuelle begivenheder",
       "section": "CA.culture_sport",
-      "topic": "Eurovision 2026",
-      "question": "Hvilken sang vandt Eurovision i maj 2026?",
+      "topic": "Statsbesøg fra Vietnam",
+      "question": "Hvilket land kom på statsbesøg i Danmark i oktober 2026?",
       "options": {
-        "A": "Eins, Zwei, Drei",
-        "B": "Før Vi Går Hjem",
-        "C": "Bangaranga"
+        "A": "Indien",
+        "B": "Japan",
+        "C": "Vietnam"
       },
       "answer": "C",
-      "explanation": "DARA vandt for Bulgarien med Bangaranga.",
+      "explanation": "Vietnams præsidentpar kom til Danmark. Kong Frederik holdt tale ved gallataflet den 19. oktober.",
       "difficulty": "medium",
       "cognitive": "recall",
       "values": false,
       "exam_domain": "current_affairs",
       "source_pages": [],
-      "source_url": "https://www.eurovision.com/newsroom/release/x/",
-      "source_title": "Bulgaria's DARA wins spectacular 70th Eurovision Song Contest",
-      "source_edition": "Nyhedskilde kontrolleret 2026-09-25",
-      "event_date": "2026-05-16",
-      "verified_at": "2026-09-25",
-      "priority": "practice"
+      "source_url": "https://www.kongehuset.dk/taler/h-m-kongens-tale-ved-gallataffel-den-19-oktober-2026-i-anledning-af-statsbesoeg-fra-vietnam",
+      "source_title": "Kongehuset · Kongens tale ved statsbesøget",
+      "source_edition": "Nyhedskilde kontrolleret 2026-11-21",
+      "event_date": "2026-10-19",
+      "verified_at": "2026-11-21",
+      "priority": "core",
+      "original_id": "CA-C054",
+      "news_event_group": "vietnam-statsbesoeg-2026"
     },
     {
-      "id": "CA-C055",
+      "id": "CA-C055-s3",
       "chapter": 0,
       "chapter_title": "Aktuelle begivenheder",
       "section": "CA.culture_sport",
-      "topic": "Eurovision 2026",
-      "question": "Hvilken by var vært for Eurovision-finalen i maj 2026?",
+      "topic": "Europæisk kulturhovedstad 2032",
+      "question": "Hvilke to danske byer gik i november 2026 videre til finalen om at blive europæisk kulturhovedstad i 2032?",
       "options": {
-        "A": "Stockholm",
-        "B": "Wien",
-        "C": "Basel"
+        "A": "Aalborg og Helsingør",
+        "B": "Esbjerg og Viborg",
+        "C": "Aarhus og Odense"
       },
-      "answer": "B",
-      "explanation": "Finalen blev afholdt i Wiener Stadthalle i Wien.",
+      "answer": "A",
+      "explanation": "Aalborg og Helsingør gik videre. Vinderen skulle ifølge udmeldingen udpeges i 2027.",
       "difficulty": "medium",
       "cognitive": "recall",
       "values": false,
       "exam_domain": "current_affairs",
       "source_pages": [],
-      "source_url": "https://www.eurovision.com/newsroom/release/x/",
-      "source_title": "Bulgaria's DARA wins spectacular 70th Eurovision Song Contest",
-      "source_edition": "Nyhedskilde kontrolleret 2026-09-25",
-      "event_date": "2026-05-16",
-      "verified_at": "2026-09-25",
-      "priority": "practice"
+      "source_url": "https://kum.dk/aktuelt/nyheder/aalborg-eller-helsingoer-bliver-europaeisk-kulturhovedstad-i-2032",
+      "source_title": "Kulturministeriet · Europæisk kulturhovedstad 2032",
+      "source_edition": "Nyhedskilde kontrolleret 2026-11-21",
+      "event_date": "2026-11-12",
+      "verified_at": "2026-11-21",
+      "priority": "core",
+      "original_id": "CA-C055",
+      "news_event_group": "europaeisk-kulturhovedstad-2032"
     },
     {
       "id": "CA-C056",
@@ -29020,31 +29103,33 @@
       "priority": "practice"
     },
     {
-      "id": "CA-C057-e2",
+      "id": "CA-C057-e2-s3",
       "chapter": 0,
       "chapter_title": "Aktuelle begivenheder",
       "section": "CA.culture_sport",
-      "topic": "VM i landevejsløb 2026",
-      "question": "Var motionsløbene ved VM-weekenden i København i september 2026 også åbne for almindelige motionsløbere?",
+      "topic": "Denmark Open i badminton",
+      "question": "I hvilken by blev badmintonturneringen Denmark Open afholdt i oktober 2026?",
       "options": {
-        "A": "Ja",
-        "B": "Nej"
+        "A": "Herning",
+        "B": "Aarhus",
+        "C": "Odense"
       },
-      "answer": "A",
-      "explanation": "Motionsløbene var åbne for almindelige løbere; arrangørerne forventede omkring 60.000 motionsdeltagere.",
+      "answer": "C",
+      "explanation": "Turneringen fandt sted i Odense. Danske Anders Antonsen nåede herresinglefinalen.",
       "difficulty": "medium",
       "cognitive": "recall",
       "values": false,
       "exam_domain": "current_affairs",
       "source_pages": [],
-      "source_url": "https://dansk-atletik.dk/nyheder/2026/09/optakt-alt-du-skal-vide-om-vm/",
-      "source_title": "Optakt: Alt du skal vide om VM",
-      "source_edition": "Nyhedskilde kontrolleret 2026-09-25",
-      "event_date": "2026-09-19",
-      "verified_at": "2026-09-25",
-      "priority": "practice",
+      "source_url": "https://badminton.dk/2026/10/18/tak-for-i-aar-victor-denmark-open-2026-skrev-historie/",
+      "source_title": "Badminton Danmark · Denmark Open 2026",
+      "source_edition": "Nyhedskilde kontrolleret 2026-11-21",
+      "event_date": "2026-10-18",
+      "verified_at": "2026-11-21",
+      "priority": "core",
       "original_id": "CA-C057",
-      "editorial_revision": "2026-09-27"
+      "editorial_revision": "2026-09-27",
+      "news_event_group": "denmark-open-2026"
     },
     {
       "id": "CA-C058",
@@ -29125,56 +29210,60 @@
       "priority": "practice"
     },
     {
-      "id": "CA-C061",
+      "id": "CA-C061-s3",
       "chapter": 0,
       "chapter_title": "Aktuelle begivenheder",
       "section": "CA.culture_sport",
-      "topic": "Royal Run 2026",
-      "question": "I hvilken by deltog dronning Mary i Royal Run 2026?",
+      "topic": "Herrelandsholdets sejr i Nations League",
+      "question": "Hvilket land slog det danske herrelandshold i fodbold 4–1 på udebane i Nations League i november 2026?",
       "options": {
-        "A": "Randers",
-        "B": "Ringkøbing",
-        "C": "Helsingør"
-      },
-      "answer": "C",
-      "explanation": "Dronningen gik og løb i Helsingør.",
-      "difficulty": "medium",
-      "cognitive": "recall",
-      "values": false,
-      "exam_domain": "current_affairs",
-      "source_pages": [],
-      "source_url": "https://www.kongehuset.dk/den-kongelige-familie/hm-kongen/royal-run/",
-      "source_title": "Royal Run",
-      "source_edition": "Nyhedskilde kontrolleret 2026-09-25",
-      "event_date": "2026-05-25",
-      "verified_at": "2026-09-25",
-      "priority": "practice"
-    },
-    {
-      "id": "CA-C062",
-      "chapter": 0,
-      "chapter_title": "Aktuelle begivenheder",
-      "section": "CA.culture_sport",
-      "topic": "Royal Run 2026",
-      "question": "I hvilken by deltog kronprins Christian i Royal Run 2026?",
-      "options": {
-        "A": "Middelfart",
-        "B": "Ringkøbing",
-        "C": "Randers"
+        "A": "Wales",
+        "B": "Portugal",
+        "C": "Norge"
       },
       "answer": "B",
-      "explanation": "Kronprinsen deltog i Ringkøbing.",
+      "explanation": "Danmark vandt 4–1 mod Portugal i Braga den 14. november.",
       "difficulty": "medium",
       "cognitive": "recall",
       "values": false,
       "exam_domain": "current_affairs",
       "source_pages": [],
-      "source_url": "https://www.kongehuset.dk/den-kongelige-familie/hm-kongen/royal-run/",
-      "source_title": "Royal Run",
-      "source_edition": "Nyhedskilde kontrolleret 2026-09-25",
-      "event_date": "2026-05-25",
-      "verified_at": "2026-09-25",
-      "priority": "practice"
+      "source_url": "https://www.dbu.dk/nyheder/2026/november/dansk-storsejr-i-portugal",
+      "source_title": "DBU · Dansk storsejr i Portugal",
+      "source_edition": "Nyhedskilde kontrolleret 2026-11-21",
+      "event_date": "2026-11-14",
+      "verified_at": "2026-11-21",
+      "priority": "core",
+      "original_id": "CA-C061",
+      "news_event_group": "nations-league-2026"
+    },
+    {
+      "id": "CA-C062-s3",
+      "chapter": 0,
+      "chapter_title": "Aktuelle begivenheder",
+      "section": "CA.culture_sport",
+      "topic": "Statuer af historiske kvinder",
+      "question": "Hvem skulle en ny statspulje til statuer fra oktober 2026 især hædre?",
+      "options": {
+        "A": "Danske OL-medaljetagere",
+        "B": "Kvinder med historisk betydning i rigsfællesskabet",
+        "C": "Tidligere nordiske kulturministre"
+      },
+      "answer": "B",
+      "explanation": "Puljen skal give flere kvinder med historisk betydning i Danmark, på Færøerne eller i Grønland en plads i det offentlige rum.",
+      "difficulty": "medium",
+      "cognitive": "recall",
+      "values": false,
+      "exam_domain": "current_affairs",
+      "source_pages": [],
+      "source_url": "https://kum.dk/aktuelt/nyheder/kulturministeren-aabner-for-pulje-til-statuer",
+      "source_title": "Kulturministeriet · Pulje til statuer",
+      "source_edition": "Nyhedskilde kontrolleret 2026-11-21",
+      "event_date": "2026-10-28",
+      "verified_at": "2026-11-21",
+      "priority": "core",
+      "original_id": "CA-C062",
+      "news_event_group": "statuer-historiske-kvinder-2026"
     },
     {
       "id": "CA-C063",
@@ -29283,30 +29372,32 @@
       "priority": "practice"
     },
     {
-      "id": "CA-C067",
+      "id": "CA-C067-s3",
       "chapter": 0,
       "chapter_title": "Aktuelle begivenheder",
       "section": "CA.culture_sport",
-      "topic": "Universitetsbyen Aarhus",
-      "question": "Hvilken tidligere funktion havde bygninger, der blev indviet som Universitetsbyen i Aarhus i maj 2026?",
+      "topic": "Skives købstadsjubilæum",
+      "question": "Hvilken dansk by besøgte kongeparret i oktober 2026 i anledning af byens 700-års købstadsjubilæum?",
       "options": {
-        "A": "Statsfængsel",
-        "B": "Militær kaserne",
-        "C": "Kommunehospital"
+        "A": "Skive",
+        "B": "Holstebro",
+        "C": "Viborg"
       },
-      "answer": "C",
-      "explanation": "De tidligere hospitalsbygninger blev omdannet til campus.",
+      "answer": "A",
+      "explanation": "Kongeparret besøgte Skive den 9. oktober, da byen markerede 700 år som købstad.",
       "difficulty": "medium",
       "cognitive": "recall",
       "values": false,
       "exam_domain": "current_affairs",
       "source_pages": [],
-      "source_url": "https://www.kongehuset.dk/foto-video/h-m-kongen-deltog-i-den-officielle-aabning-af-universitetsbyen-i-aarhus",
-      "source_title": "H.M. Kongen deltog i den officielle åbning af Universitetsbyen i Aarhus",
-      "source_edition": "Nyhedskilde kontrolleret 2026-09-25",
-      "event_date": "2026-05-21",
-      "verified_at": "2026-09-25",
-      "priority": "practice"
+      "source_url": "https://www.kongehuset.dk/foto-video/besoeg-i-skive-i-anledning-af-byens-700-aars-koebstadsjubilaeum",
+      "source_title": "Kongehuset · Besøget i Skive",
+      "source_edition": "Nyhedskilde kontrolleret 2026-11-21",
+      "event_date": "2026-10-09",
+      "verified_at": "2026-11-21",
+      "priority": "core",
+      "original_id": "CA-C067",
+      "news_event_group": "skive-jubilaeum-2026"
     },
     {
       "id": "CA-C068",
@@ -29493,30 +29584,32 @@
       "priority": "practice"
     },
     {
-      "id": "CA-C075",
+      "id": "CA-C075-s3",
       "chapter": 0,
       "chapter_title": "Aktuelle begivenheder",
       "section": "CA.culture_sport",
-      "topic": "ARoS’ nye Skyspace",
-      "question": "Hvilken oplevelse blev fremhævet ved det nye Skyspace på ARoS i sommeren 2026?",
+      "topic": "Kronprins Christians fødselsdag",
+      "question": "Hvor gammel blev kronprins Christian i oktober 2026?",
       "options": {
-        "A": "En udstilling af historiske teleskoper",
-        "B": "Lyset ved solopgang og solnedgang",
-        "C": "En digital rejse gennem solsystemet"
+        "A": "18 år",
+        "B": "21 år",
+        "C": "25 år"
       },
       "answer": "B",
-      "explanation": "ARoS tilbød særlige oplevelser ved solopgang og solnedgang.",
+      "explanation": "Kronprins Christian fyldte 21 år den 15. oktober 2026.",
       "difficulty": "medium",
       "cognitive": "recall",
       "values": false,
       "exam_domain": "current_affairs",
       "source_pages": [],
-      "source_url": "https://www.aros.dk/en/lp/summer-at-aros/",
-      "source_title": "Experience summer at ARoS",
-      "source_edition": "Nyhedskilde kontrolleret 2026-09-25",
-      "event_date": "2026-06-19",
-      "verified_at": "2026-09-25",
-      "priority": "practice"
+      "source_url": "https://www.kongehuset.dk/nyheder/h-k-h-kronprinsens-21-aars-foedselsdag",
+      "source_title": "Kongehuset · Kronprinsens 21-års fødselsdag",
+      "source_edition": "Nyhedskilde kontrolleret 2026-11-21",
+      "event_date": "2026-10-15",
+      "verified_at": "2026-11-21",
+      "priority": "practice",
+      "original_id": "CA-C075",
+      "news_event_group": "kronprins-foedselsdag-2026"
     }
   ]
 }

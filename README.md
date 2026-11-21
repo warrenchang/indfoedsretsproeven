@@ -2,7 +2,9 @@
 
 Free, unofficial preparation for Indfødsretsprøven and Medborgerskabsprøven, by [Huanren Warren Zhang](https://sites.google.com/site/huanrenzhang/). The website offers 1,800 questions in two separate study paths. Indfødsretsprøven has 1,200 questions with explanations and sources, chapter-based practice, 45-minute mock exams, exam information and links to official reading material and past papers. Medborgerskabsprøven has a bank of 600 questions covering all 26 fact sheets from its August 2026 textbook, and 25-question, 30-minute mock exams with a pass threshold of 20. There is no separate news section or values threshold for that exam. Danish is the language of the practice material.
 
-The revised banks retain 1,000 questions about Denmark and values plus 200 current-affairs questions. Earlier item versions remain in the private local archive. News coverage: 1 May 2026 through 2026-09-25. Earlier news versions remain in the private local archive. Difficulty and topic weights are editorial, not calibrated to the official exam.
+The citizenship practice bank has 1,000 questions about Denmark and values plus 200 current-affairs questions. The latest review revised stems and options using the official archive as a model. Earlier item versions remain in the private local archive. Selected news from 1 May 2026 was last reviewed on 2026-11-21. Difficulty and topic weights are editorial, not calibrated to the official exam.
+
+[Fra tidligere prøver](past-questions.html) offers all 690 official citizenship questions from the 16 papers in the archive, with filters for date and exam section. The original historical key is shown for each question.
 
 ## Publish and update
 

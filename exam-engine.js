@@ -31,7 +31,7 @@
   const end=bank.news_coverage_through<blueprint.target_exam_date?bank.news_coverage_through:blueprint.target_exam_date;
   const pool=bank.questions.filter(q=>q.exam_domain==='current_affairs'&&q.event_date>=blueprint.news_window_start&&q.event_date<=end);
   const topics=new Set();
-  const eventKey=q=>(blueprint.news_event_groups||{})[identity(q)]||q.topic;
+  const eventKey=q=>q.news_event_group||(blueprint.news_event_groups||{})[identity(q)]||q.topic;
   function pick(candidates){if(!candidates.length)throw Error('Der er ikke nok egnede spørgsmål til denne prøve.');const q=candidates[Math.floor(random()*candidates.length)];selected.push(q);return q}
   function newsCandidates(section){return pool.filter(q=>(!section||q.section===section)&&!selected.some(x=>x.id===q.id)&&!topics.has(eventKey(q))&&!conflicts(q,selected,blueprint))}
   for(const section of shuffle(['CA.politics','CA.society','CA.culture_sport'],random)){
