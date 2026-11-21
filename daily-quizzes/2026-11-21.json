@@ -1,0 +1,181 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-21",
+  "timezone": "Europe/Copenhagen",
+  "bank_sha256": "eb5632a9bc01ec0964b98eedc4ac675347ebb3e766c26f821ec790140a38f9f6",
+  "news_verified_at": "2026-10-26",
+  "official": false,
+  "questions": [
+    {
+      "id": "DK0873",
+      "question": "En menighed vil bygge et tempel. Hvilken almindelig tilladelse skal den have?",
+      "options": {
+        "A": "Godkendelse fra det lokale menighedsråd",
+        "B": "Godkendelse fra kirkeministerens arkitekt",
+        "C": "Byggetilladelse fra kommunen"
+      },
+      "answer": "C",
+      "explanation": "Religiøse bygninger skal ligesom andet byggeri følge kommunens plan- og byggeregler.",
+      "source_pages": [
+        217
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "values"
+    },
+    {
+      "id": "DK0783-e2",
+      "question": "Steg eller faldt antallet af indvandrere og efterkommere fra 1980 til 2025?",
+      "options": {
+        "A": "Steg",
+        "B": "Faldt"
+      },
+      "answer": "A",
+      "explanation": "Materialet angiver en stigning fra cirka 150.000 til omkring én million.",
+      "source_pages": [
+        193
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0478",
+      "question": "Hvilken organisation er Danmarks største arbejdsgiver- og erhvervsorganisation?",
+      "options": {
+        "A": "Dansk Erhverv",
+        "B": "Dansk Industri (DI)",
+        "C": "Finans Danmark"
+      },
+      "answer": "B",
+      "explanation": "Materialet fremhæver DI som den største arbejdsgiver- og erhvervsorganisation og som DA’s største medlemsorganisation.",
+      "source_pages": [
+        118
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "CA-P054",
+      "event_date": "2026-07-07",
+      "question": "Hvad skulle Danmark især lære af Ukraine gennem juliaftalen 2026?",
+      "options": {
+        "A": "Erfaringer fra operative krigsindsatser",
+        "B": "Erfaringer fra fredsbevarende FN-missioner",
+        "C": "Erfaringer fra bekæmpelse af pirateri"
+      },
+      "answer": "A",
+      "explanation": "Aftalen omfatter udveksling af operative erfaringer fra krigen.",
+      "source_url": "https://www.fmn.dk/da/nyheder/2026/aftale-om-tattere-sikkerheds--og-forsvarssamarbejde-mellem-ukraine-og-danmark/",
+      "source_title": "Aftale om tættere sikkerheds- og forsvarssamarbejde mellem Ukraine og Danmark",
+      "verified_at": "2026-09-25",
+      "exam_domain": "current_affairs",
+      "source_pages": [],
+      "source_edition": "Nyhedskilde kontrolleret 2026-09-25"
+    },
+    {
+      "id": "DK0875",
+      "question": "Hvilken skik forbindes især med fastelavn?",
+      "options": {
+        "A": "Sankthansbål og midsommertaler",
+        "B": "Udklædning og tøndeslagning",
+        "C": "Fyrværkeri ved midnat"
+      },
+      "answer": "B",
+      "explanation": "Børn klæder sig traditionelt ud og slår katten af tønden til fastelavn.",
+      "source_pages": [
+        218
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0595",
+      "question": "Hvilken rolle kunne provokerende kunst have i velfærdsstatens kultursyn?",
+      "options": {
+        "A": "At udbrede regeringens politiske program",
+        "B": "At stille spørgsmål ved vedtagne sandheder",
+        "C": "At bekræfte de gældende normer uden kritik"
+      },
+      "answer": "B",
+      "explanation": "Kunsten måtte udfordre faste forestillinger som en del af et demokratisk kulturliv.",
+      "source_pages": [
+        144
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0172",
+      "question": "Hvilken handling var typisk for modstandsbevægelsen i besættelsens sidste år?",
+      "options": {
+        "A": "Forhandling om flere leverancer til Tyskland",
+        "B": "Militær støtte til de tyske tropper",
+        "C": "Sabotage mod tyske interesser"
+      },
+      "answer": "C",
+      "explanation": "Sabotagen rettede sig mod tysk militær og danske samarbejdspartnere.",
+      "source_pages": [
+        41
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0206",
+      "question": "Hvilket økonomisk hensyn talte for dansk EF-medlemskab i 1972?",
+      "options": {
+        "A": "Muligheden for højere told på tyske varer",
+        "B": "Bedre adgang til vigtige eksportmarkeder",
+        "C": "Muligheden for at holde britiske varer ude"
+      },
+      "answer": "B",
+      "explanation": "Tilhængerne lagde vægt på handelen med blandt andet Storbritannien og Tyskland.",
+      "source_pages": [
+        50
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0280",
+      "question": "Hvor har Folketinget til huse?",
+      "options": {
+        "A": "Christiansborg",
+        "B": "Frederiksborg",
+        "C": "Amalienborg"
+      },
+      "answer": "A",
+      "explanation": "Folketingets møder finder sted på Christiansborg i København.",
+      "source_pages": [
+        72
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0543",
+      "question": "Hvor længe vælges et ikke-permanent medlem til FN's Sikkerhedsråd?",
+      "options": {
+        "A": "Fire år",
+        "B": "To år",
+        "C": "Fem år"
+      },
+      "answer": "B",
+      "explanation": "Generalforsamlingen vælger de ti øvrige medlemmer for to år ad gangen.",
+      "source_pages": [
+        132
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    }
+  ],
+  "snapshot_sha256": "f5af0485eb969636aa35d183afbafa6e2cac29aab70c6fbd758fca4c737e8ecd"
+}
