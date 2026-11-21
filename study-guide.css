@@ -116,6 +116,161 @@
 .party-table tfoot :is(td,th) { font-weight: 700; border-bottom: 0; }
 .party-notes { padding-left: 1.5rem; }
 .party-notes li { margin-bottom: .3rem; }
+
+.institution-diagram {
+  --institution-line: #37618f;
+  max-width: 40rem;
+  margin: .45rem .25rem 1.3rem;
+  padding: clamp(.6rem, 3vw, 1.4rem);
+  background: white;
+  border: 1px solid #c5d7ce;
+  border-radius: .7rem;
+  scroll-margin-top: 1rem;
+  line-height: 1.3;
+}
+.institution-diagram h6 { font-size: 1.07rem; margin: 0; }
+.institution-diagram figcaption { margin-bottom: 1rem; }
+.institution-diagram figcaption p { color: #415d51; font-size: .9rem; margin: .25rem 0 0; }
+.institution-node {
+  display: grid;
+  place-content: center;
+  gap: .2rem;
+  min-width: 0;
+  max-width: 24rem;
+  margin-inline: auto;
+  padding: .6rem .4rem;
+  border: 1px solid #a7bed8;
+  border-radius: .55rem;
+  background: #eff5fc;
+  color: #182f4c;
+  text-align: center;
+  overflow-wrap: anywhere;
+  hyphens: auto;
+}
+.institution-node span { font-size: .87rem; color: #415777; }
+.eu-law { max-width: 17rem; background: #e0edfa; }
+.institution-arrow {
+  display: flex;
+  align-items: center;
+  position: relative;
+  min-height: 2.8rem;
+  padding: .35rem .1rem .35rem calc(50% + .6rem);
+  font-size: .83rem;
+  line-height: 1.2;
+  color: var(--institution-line);
+}
+.institution-arrow::before {
+  content: "";
+  position: absolute;
+  inset-block: 0 .4rem;
+  left: calc(50% - 1px);
+  border-left: 2px solid var(--institution-line);
+}
+.institution-arrow::after, .eu-co-legislators > .institution-node::before {
+  content: "";
+  position: absolute;
+  left: 50%;
+  bottom: 0;
+  transform: translateX(-50%);
+  border: .25rem solid transparent;
+  border-top: .43rem solid var(--institution-line);
+  border-bottom: 0;
+}
+.eu-arrow-priorities::before { border-left-style: dashed; }
+.eu-arrow-proposal::before { bottom: 0; }
+.eu-arrow-proposal::after { content: none; }
+.eu-co-legislators {
+  --eu-branch-height: 1.25rem;
+  --eu-column-gap: .8rem;
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: var(--eu-column-gap);
+  position: relative;
+  padding-block: var(--eu-branch-height);
+}
+.eu-co-legislators::before, .eu-co-legislators::after {
+  content: "";
+  position: absolute;
+  inset-inline: calc((100% - var(--eu-column-gap)) / 4 - 1px);
+  box-sizing: border-box;
+  height: var(--eu-branch-height);
+  border: 2px solid var(--institution-line);
+}
+.eu-co-legislators::before { top: 0; border-bottom: 0; }
+.eu-co-legislators::after { bottom: 0; border-top: 0; }
+.eu-co-legislators > .institution-node {
+  position: relative;
+  max-width: none;
+  margin-inline: 0;
+  padding-inline: .25rem;
+}
+.eu-co-legislators strong {
+  font-size: clamp(.88rem, 4.3vw, 1.06rem);
+  hyphens: manual;
+}
+.eu-co-legislators > .institution-node::before { top: -.43rem; bottom: auto; }
+.institution-case {
+  --institution-line: #276753;
+  border-top: 1px solid #c5d7ce;
+  padding-top: .8rem;
+  margin-top: 1rem;
+}
+.institution-case h6 { margin-bottom: .6rem; }
+.institution-case p, .institution-note {
+  margin: .65rem 0 0;
+  color: #334e44;
+  font-size: .9rem;
+  line-height: 1.45;
+}
+.institution-note { padding-top: .65rem; border-top: 1px solid #c5d7ce; }
+.institution-court { border-color: #9abfb0; background: #edf6f1; color: #17493a; }
+.institution-court span { color: #415d51; }
+.dk-parliament-government {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem;
+  max-width: 24rem;
+  margin-inline: auto;
+}
+.dk-parliament-government .institution-arrow { min-height: 3.8rem; }
+.dk-scrutiny { justify-content: end; padding-inline: .25rem .6rem; text-align: right; }
+.dk-scrutiny::before { left: auto; right: .1875rem; }
+.dk-scrutiny::after { left: auto; right: 0; transform: none; }
+.dk-proposals { padding-inline: .6rem .25rem; }
+.dk-proposals::before { left: .1875rem; inset-block: .4rem 0; }
+.dk-proposals::after {
+  left: 0;
+  top: 0;
+  bottom: auto;
+  transform: none;
+  border-top: 0;
+  border-bottom: .43rem solid var(--institution-line);
+}
+.institution-relation {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) clamp(1.45rem, 7vw, 3.6rem) minmax(0, 1fr);
+  align-items: stretch;
+}
+.institution-relation .institution-node {
+  margin-inline: 0;
+  padding-inline: .125rem;
+  font-size: clamp(.83rem, 4vw, 1.06rem);
+  hyphens: manual;
+}
+.institution-arrow-right { position: relative; }
+.institution-arrow-right::before, .institution-arrow-right::after {
+  content: "";
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+}
+.institution-arrow-right::before { inset-inline: 0 .45rem; border-top: 2px solid var(--institution-line); }
+.institution-arrow-right::after {
+  right: 0;
+  border-block: .25rem solid transparent;
+  border-left: .45rem solid var(--institution-line);
+}
+
 .study-sources { margin: 2rem 0; border-top: 1px solid #b8cec3; padding-top: 1rem; }
 .study-sources h2 { font-size: 1.25rem; }
 .study-page [hidden] { display: none !important; }
@@ -136,6 +291,7 @@
   .study-hero h1 { font-size: 26pt; }
   .study-fold > summary { break-after: avoid; }
   .study-card { break-inside: avoid; }
+  .institution-diagram { break-inside: avoid; }
   .party-scroll-hint { display: none; }
   .party-table-scroll { overflow: visible; }
   .party-table { min-width: 0; font-size: 8pt; }

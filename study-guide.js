@@ -14,6 +14,7 @@
   const language = document.querySelector('#study-language');
   const tested = document.querySelector('#study-tested');
   const partyOverview = document.querySelector('#politiske-partier');
+  const diagrams = [...document.querySelectorAll('.institution-diagram')];
 
   const viewFromHash = () => {
     const hash = location.hash.slice(1);
@@ -100,6 +101,10 @@
     partyOverview.hidden = view !== 'points' || !!(group.value && group.value !== '2')
       || !!(section.value && section.value !== '2.2') || tested.checked
       || (term && ![...partyText].some(cell => normalize(cell.textContent).includes(term)));
+    for (const diagram of diagrams) {
+      diagram.hidden = view !== 'points' || !!(group.value && group.value !== diagram.dataset.chapter)
+        || !!(section.value && section.value !== diagram.dataset.section) || tested.checked || !!term;
+    }
     const hasResults = count !== 0 || !partyOverview.hidden;
     for (const fold of folds) {
       fold.hidden = !fold.querySelector('.study-card:not([hidden]), .party-overview:not([hidden])');
@@ -138,7 +143,7 @@
     document.querySelector('main').lang = lang;
     const u = ui[lang];
     document.querySelectorAll('[data-i18n]').forEach(element => { element.textContent = u[element.dataset.i18n]; });
-    partyOverview.querySelectorAll('[data-da]').forEach(element => { element.textContent = element.dataset[lang]; });
+    document.querySelectorAll('[data-da][data-en]').forEach(element => { element.textContent = element.dataset[lang]; });
     document.querySelector('[role="tablist"]').setAttribute('aria-label', u.views);
     for (const fold of folds) {
       const t = localized(byId.get(fold.dataset.first));
@@ -167,11 +172,12 @@
     updateView();
   }
 
-  function revealPartyOverview() {
-    if (location.hash !== '#' + partyOverview.id) return;
+  function revealGuideAnchor() {
+    const target = [partyOverview, ...diagrams].find(element => location.hash === '#' + element.id);
+    if (!target) return;
     clearFilters();
-    folds.filter(fold => fold.contains(partyOverview)).forEach(fold => { fold.open = true; });
-    partyOverview.scrollIntoView();
+    folds.filter(fold => fold.contains(target)).forEach(fold => { fold.open = true; });
+    target.scrollIntoView();
   }
 
   tabs.forEach((tab, index) => {
@@ -191,7 +197,7 @@
   });
   window.addEventListener('hashchange', () => {
     selectView(viewFromHash());
-    revealPartyOverview();
+    revealGuideAnchor();
   });
   search.addEventListener('input', () => render(true));
   group.addEventListener('change', () => {
@@ -223,5 +229,5 @@
     section.value = linkedSection;
     render(true);
   }
-  revealPartyOverview();
+  revealGuideAnchor();
 })();
