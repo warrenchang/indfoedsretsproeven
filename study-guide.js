@@ -52,7 +52,7 @@
       `<a href="${escape(ref.url)}">${escape(ref.label)}</a>`
     );
     if (item.source) links.push(`<a href="${escape(item.source)}">${u.reading}</a>`);
-    const summary = item.view === 'recurring' ? u.examRefs : u.sources;
+    const summary = u[{ recurring: 'examRefs', news: 'newsSources' }[item.view] || 'sources'];
     const details = links.length
       ? `<details class="entry-sources"><summary>${summary}</summary><div class="card-sources">${links.join('')}</div></details>`
       : '';
@@ -80,6 +80,7 @@
 
   function render(revealMatches = false) {
     const term = normalize(search.value.trim());
+    const filterTested = tested.checked && !['recurring', 'news'].includes(view);
     let count = 0;
     let total = 0;
     for (const card of cards) {
@@ -90,7 +91,7 @@
       const visible = inView
         && (!group.value || item.group_id === group.value)
         && (view !== 'points' || !section.value || item.section_id === section.value)
-        && (view === 'recurring' || !tested.checked || item.tested)
+        && (!filterTested || item.tested)
         && (!term || normalize([t.title, t.body, t.dates, t.group, t.section, t.subsection].join(' ')).includes(term));
       card.hidden = !visible;
       if (visible) count++;
@@ -103,7 +104,7 @@
     for (const fold of folds) {
       fold.hidden = !fold.querySelector('.study-card:not([hidden]), .party-overview:not([hidden])');
     }
-    if (revealMatches && (term || group.value || section.value || tested.checked)) setFolds(true);
+    if (revealMatches && (term || group.value || section.value || filterTested)) setFolds(true);
     document.querySelector('#fold-controls').hidden = !hasResults;
     const resultCount = ui[lang].count.replace('{n}', count).replace('{total}', total);
     document.querySelector('#result-count').textContent = term && !partyOverview.hidden
@@ -122,9 +123,10 @@
     panels.forEach(panel => { panel.hidden = panel.id !== 'panel-' + view; });
     document.querySelector('#view-heading').textContent = u[view];
     document.querySelector('#view-note').textContent = u[view + 'Note'];
-    document.querySelector('#group-label').textContent = u[{ points: 'chapter', timeline: 'era', recurring: 'topic' }[view]];
+    document.querySelector('#group-label').textContent = u[{ points: 'chapter', timeline: 'era' }[view] || 'topic'];
+    search.placeholder = view === 'news' ? u.newsPlaceholder : u.placeholder;
     document.querySelector('#section-filter').hidden = view !== 'points';
-    document.querySelector('#exam-options').hidden = view === 'recurring';
+    document.querySelector('#exam-options').hidden = ['recurring', 'news'].includes(view);
     selectOptions(group, u.allGroups, new Map(data.filter(item => item.view === view)
       .map(item => [item.group_id, localized(item).group])));
     if (view === 'points') updateSections();
@@ -138,7 +140,6 @@
     document.querySelectorAll('[data-i18n]').forEach(element => { element.textContent = u[element.dataset.i18n]; });
     partyOverview.querySelectorAll('[data-da]').forEach(element => { element.textContent = element.dataset[lang]; });
     document.querySelector('[role="tablist"]').setAttribute('aria-label', u.views);
-    search.placeholder = u.placeholder;
     for (const fold of folds) {
       const t = localized(byId.get(fold.dataset.first));
       const label = fold.querySelector(':scope > summary > .fold-heading');
