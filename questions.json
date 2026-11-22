@@ -1,7 +1,7 @@
 {
   "title": "Indfødsretsprøven – november 2026",
   "official": false,
-  "version": "2026-11-21",
+  "version": "2026-11-22",
   "news_coverage_through": "2026-11-21",
   "news_window_start": "2026-05-01",
   "author": "Huanren Warren Zhang",
@@ -1404,20 +1404,20 @@
       "source_edition": "August 2026"
     },
     {
-      "id": "DK0059",
+      "id": "DK0059-s5",
       "chapter": 1,
       "chapter_title": "Danmarks historie",
       "section": "1.5",
-      "topic": "1.5 Søfartsnation og kolonimagt",
-      "question": "Hvilke varer hentede danske skibe blandt andet i Kina i 1700-tallet?",
+      "topic": "Danmarks handel med Kina",
+      "question": "Hvilket asiatisk land havde Danmark sin mest indbringende handel med i 1700-tallet?",
       "options": {
-        "A": "Te, porcelæn og silke",
-        "B": "Sukker, tobak og kaffe",
-        "C": "Jernmalm, træ og kul"
+        "A": "Kina",
+        "B": "Indien",
+        "C": "Japan"
       },
       "answer": "A",
-      "explanation": "Kina-handlen omfattede især te, porcelæn og silke og var meget indbringende.",
-      "difficulty": "medium",
+      "explanation": "Handelen med Kina var den største og mest indbringende for den danske handelsflåde i 1700-tallet. Danmark havde ikke en koloni i Kina.",
+      "difficulty": "easy",
       "cognitive": "recall",
       "values": false,
       "exam_domain": "reading",
@@ -1425,7 +1425,8 @@
         17
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "original_id": "DK0059"
     },
     {
       "id": "DK0060",
@@ -1500,19 +1501,19 @@
       "source_edition": "August 2026"
     },
     {
-      "id": "DK0063",
+      "id": "DK0063-s5",
       "chapter": 1,
       "chapter_title": "Danmarks historie",
       "section": "1.5",
-      "topic": "1.5 Søfartsnation og kolonimagt",
-      "question": "Hvilken produktion blev slavegjorte mennesker især tvunget til på de dansk-vestindiske plantager?",
+      "topic": "Slaveriets afskaffelse i Dansk Vestindien",
+      "question": "I hvilket år blev slaveriet ophævet i Dansk Vestindien?",
       "options": {
-        "A": "Sukkerproduktion",
-        "B": "Vinproduktion",
-        "C": "Risproduktion"
+        "A": "1848",
+        "B": "1803",
+        "C": "1917"
       },
       "answer": "A",
-      "explanation": "De blev tvunget til at arbejde på sukkerrørsplantager; sukkeret blev sendt til København.",
+      "explanation": "Slaveriet blev ophævet i 1848. Slavehandelen var blevet forbudt fra 1803, og øerne blev solgt til USA i 1917.",
       "difficulty": "easy",
       "cognitive": "recall",
       "values": false,
@@ -1521,7 +1522,8 @@
         18
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "original_id": "DK0063"
     },
     {
       "id": "DK0064-e2",
@@ -1597,28 +1599,29 @@
       "source_edition": "August 2026"
     },
     {
-      "id": "DK0067",
+      "id": "DK0067-s5",
       "chapter": 1,
       "chapter_title": "Danmarks historie",
       "section": "1.5",
-      "topic": "1.5 Søfartsnation og kolonimagt",
-      "question": "Hvilke grønlandske varer ville man handle med fra 1721?",
+      "topic": "Salget af Danmarks kolonier i Indien og på Guldkysten",
+      "question": "Hvilket land købte Danmarks kolonier i Indien og på Guldkysten i midten af 1800-tallet?",
       "options": {
-        "A": "Korn, smør og ost",
-        "B": "Tømmer, tjære og jernmalm",
-        "C": "Sælskind, spæk og hvalkød"
+        "A": "Frankrig",
+        "B": "Nederlandene",
+        "C": "Storbritannien"
       },
       "answer": "C",
-      "explanation": "Ud over missionen ønskede Danmark handel med grønlandske produkter som sælskind, spæk og hvalkød.",
-      "difficulty": "medium",
-      "cognitive": "understanding",
+      "explanation": "Danmark solgte sine kolonier i Indien og på Guldkysten i det nuværende Ghana til Storbritannien i midten af 1800-tallet.",
+      "difficulty": "easy",
+      "cognitive": "recall",
       "values": false,
       "exam_domain": "reading",
       "source_pages": [
         18
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "original_id": "DK0067"
     },
     {
       "id": "DK0069",
@@ -3259,28 +3262,29 @@
       "source_edition": "August 2026"
     },
     {
-      "id": "DK0137",
+      "id": "DK0137-s4",
       "chapter": 1,
       "chapter_title": "Danmarks historie",
       "section": "1.9",
-      "topic": "1.9.2 Den Spanske Syge",
-      "question": "Hvorfor fik Den Spanske Syge sit navn?",
+      "topic": "Mindretallene i grænselandet",
+      "question": "Hvilke to byer lægger navn til erklæringerne fra 1955 om mindretallene ved den dansk-tyske grænse?",
       "options": {
-        "A": "Spanske aviser skrev først om den",
-        "B": "Den blev første gang opdaget i Madrid",
-        "C": "Alle de første smittede var spaniere"
+        "A": "København og Bonn",
+        "B": "København og Hamburg",
+        "C": "København og Flensborg"
       },
       "answer": "A",
-      "explanation": "Navnet skyldtes pressedækningen, ikke at sygdommen opstod i Spanien.",
-      "difficulty": "medium",
-      "cognitive": "understanding",
+      "explanation": "København-Bonn-erklæringerne fra 1955 fastlagde rettighederne for det danske mindretal syd for grænsen og det tyske mindretal nord for grænsen.",
+      "difficulty": "easy",
+      "cognitive": "recall",
       "values": false,
       "exam_domain": "reading",
       "source_pages": [
-        34
+        35
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "original_id": "DK0137"
     },
     {
       "id": "DK0138-e2-s3",
@@ -5073,28 +5077,29 @@
       "source_edition": "August 2026"
     },
     {
-      "id": "DK0212",
+      "id": "DK0212-s4",
       "chapter": 1,
       "chapter_title": "Danmarks historie",
       "section": "1.12",
-      "topic": "1.12.2 Oliekrise",
-      "question": "En boligejer efterisolerede huset efter oliekrisen. Hvilket problem søgte det at mindske?",
+      "topic": "Olieudvinding i Nordsøen",
+      "question": "I hvilket farvand blev der udvundet mere olie i 1980’erne, hvilket bidrog til faldende oliepriser?",
       "options": {
-        "A": "Udgifterne til energiforbrug",
-        "B": "Udgifterne til den kommunale ejendomsskat",
-        "C": "Afhængigheden af importerede byggematerialer"
+        "A": "Nordsøen",
+        "B": "Østersøen",
+        "C": "Middelhavet"
       },
       "answer": "A",
-      "explanation": "Dyr energi øgede interessen for bedre isolering og mere effektivt energiforbrug.",
-      "difficulty": "medium",
-      "cognitive": "application",
+      "explanation": "Efter oliekriserne var øget udvinding blandt andet i Nordsøen med til at få olieprisen til at falde i 1980’erne.",
+      "difficulty": "easy",
+      "cognitive": "recall",
       "values": false,
       "exam_domain": "reading",
       "source_pages": [
         51
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "original_id": "DK0212"
     },
     {
       "id": "DK0213",
@@ -6693,28 +6698,29 @@
       "source_edition": "August 2026"
     },
     {
-      "id": "DK0293",
+      "id": "DK0293-s5",
       "chapter": 2,
       "chapter_title": "Det danske demokrati",
       "section": "2.2",
-      "topic": "2.2.2 Demokratiets institutioner – Udvalg og kontrol",
-      "question": "Hvad kaldes udvalgets skriftlige rapport om et lovforslag?",
+      "topic": "Offentlig adgang til Folketingets møder",
+      "question": "Hvem kan som udgangspunkt overvære Folketingets møder i folketingssalen?",
       "options": {
-        "A": "Et valgprogram",
-        "B": "En betænkning",
-        "C": "En domskendelse"
+        "A": "Kun medlemmer af Folketinget",
+        "B": "Alle fra offentligheden",
+        "C": "Kun inviterede gæster"
       },
       "answer": "B",
-      "explanation": "Betænkningen indeholder blandt andet partiernes holdninger til lovforslaget.",
-      "difficulty": "hard",
+      "explanation": "Folketingets møder er som udgangspunkt offentlige. Publikum kan følge debatterne fra tilhørerpladserne eller via Folketingets hjemmeside.",
+      "difficulty": "easy",
       "cognitive": "recall",
       "values": false,
       "exam_domain": "reading",
       "source_pages": [
-        74
+        72
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "original_id": "DK0293"
     },
     {
       "id": "DK0294",
@@ -8054,20 +8060,20 @@
       "editorial_revision": "2026-09-27"
     },
     {
-      "id": "DK0371",
+      "id": "DK0371-s4",
       "chapter": 2,
       "chapter_title": "Det danske demokrati",
       "section": "2.2",
-      "topic": "2.2.6 Demokratiets deltagere – Medierne",
-      "question": "Hvad er en avisleder?",
+      "topic": "Medierne som den fjerde statsmagt",
+      "question": "Hvilken rolle ligger bag betegnelsen den fjerde statsmagt om danske medier?",
       "options": {
-        "A": "Et læserbrev, som redaktionen skal være enig i",
-        "B": "Avisens egen kommentar til et emne",
-        "C": "En neutral oversigt over avisens kommende udgivelser"
+        "A": "At vedtage regler for den politiske debat",
+        "B": "At holde øje med magthaverne på borgernes vegne",
+        "C": "At afgøre sager om politikeres ansvar efter loven"
       },
       "answer": "B",
-      "explanation": "Lederen udtrykker avisens egen holdning, ofte til aktuelle politiske spørgsmål.",
-      "difficulty": "medium",
+      "explanation": "Danske medier kaldes den fjerde statsmagt, fordi deres kritiske dækning giver borgerne indblik i magthavernes handlinger.",
+      "difficulty": "easy",
       "cognitive": "recall",
       "values": false,
       "exam_domain": "reading",
@@ -8075,22 +8081,23 @@
         93
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "original_id": "DK0371"
     },
     {
-      "id": "DK0375",
+      "id": "DK0375-s4",
       "chapter": 2,
       "chapter_title": "Det danske demokrati",
       "section": "2.2",
-      "topic": "2.2.7 Demokrati i hverdagen – Medborgerskab",
-      "question": "Hvad samler ofte medlemmerne af en fritidsforening?",
+      "topic": "Foreningsmedlemskab i Danmark",
+      "question": "Hvor stor en andel af befolkningen i Danmark er ifølge lærematerialet medlem af mindst én forening?",
       "options": {
-        "A": "En fælles interesse eller hobby",
-        "B": "En fælles tilknytning til et bestemt parti",
-        "C": "Et fælles offentligt ansættelsesforhold"
+        "A": "Omkring 90 procent",
+        "B": "Omkring 65 procent",
+        "C": "Omkring 35 procent"
       },
       "answer": "A",
-      "explanation": "Fritidsforeninger kan samles om eksempelvis fodbold, skak eller spejderaktiviteter.",
+      "explanation": "Lærematerialet anslår, at omkring 90 procent er medlem af mindst én forening. Omkring 35 procent har udført frivilligt arbejde gennem en forening.",
       "difficulty": "easy",
       "cognitive": "recall",
       "values": false,
@@ -8099,7 +8106,8 @@
         94
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "original_id": "DK0375"
     },
     {
       "id": "DK0378",
@@ -8249,20 +8257,20 @@
       "editorial_revision": "2026-09-27"
     },
     {
-      "id": "DK0400",
+      "id": "DK0400-s5",
       "chapter": 2,
       "chapter_title": "Det danske demokrati",
       "section": "2.3",
-      "topic": "2.3.4 Borgernes pligter – Værnepligt",
-      "question": "Hvad betyder det at trække et frinummer ved værnepligtens lodtrækning?",
+      "topic": "Hvem aftjener værnepligten i praksis",
+      "question": "Aftjener alle, der er omfattet af værnepligten i Danmark, den i praksis?",
       "options": {
-        "A": "At man automatisk bliver officer",
-        "B": "At man ikke skal aftjene værnepligt",
-        "C": "At man selv skal betale for sin tjeneste"
+        "A": "Ja, alle skal aftjene den.",
+        "B": "Nej, men nogle kan blive pålagt at aftjene den.",
+        "C": "Nej, kun frivillige kan aftjene den."
       },
       "answer": "B",
-      "explanation": "Et frinummer betyder, at man ikke udtages til tjeneste gennem lodtrækningen.",
-      "difficulty": "medium",
+      "explanation": "Hvis der er tilstrækkeligt med frivillige, er der ikke brug for at pålægge andre at gøre tjeneste. Hvis der mangler frivillige, kan nogle blive udtaget til at aftjene værnepligt.",
+      "difficulty": "easy",
       "cognitive": "recall",
       "values": false,
       "exam_domain": "reading",
@@ -8270,7 +8278,8 @@
         100
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "original_id": "DK0400"
     },
     {
       "id": "DK0404",
@@ -8369,28 +8378,30 @@
       "source_edition": "August 2026"
     },
     {
-      "id": "DK0412",
+      "id": "DK0412-s4",
       "chapter": 3,
       "chapter_title": "Den danske økonomi",
       "section": "3.1",
-      "topic": "3.1 Indledning",
-      "question": "Hvorfor må også et rigt land som Danmark prioritere sine udgifter?",
+      "topic": "Service i den danske blandingsøkonomi",
+      "question": "Hvilken af følgende er et eksempel på en offentlig velfærdsydelse i Danmark?",
       "options": {
-        "A": "Større velstand fjerner behovet for at vælge mellem formål",
-        "B": "Alle behov kan dækkes gennem udenlandske lån",
-        "C": "Ressourcerne er begrænsede"
+        "A": "Kørsel med taxa",
+        "B": "Salg af møbler",
+        "C": "Undervisning i folkeskolen"
       },
       "answer": "C",
-      "explanation": "Økonomi handler om at fordele begrænsede ressourcer mellem forskellige behov.",
+      "explanation": "Den danske blandingsøkonomi kombinerer et privat marked med offentligt finansierede ydelser som undervisning. Taxakørsel og salg af møbler foregår normalt på markedet.",
       "difficulty": "easy",
-      "cognitive": "understanding",
+      "cognitive": "recall",
       "values": false,
       "exam_domain": "reading",
       "source_pages": [
-        103
+        103,
+        104
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "original_id": "DK0412"
     },
     {
       "id": "DK0413",
@@ -8466,24 +8477,24 @@
       "source_edition": "August 2026"
     },
     {
-      "id": "DK0416-e2",
+      "id": "DK0416-e2-s4",
       "chapter": 3,
       "chapter_title": "Den danske økonomi",
       "section": "3.1",
-      "topic": "3.1 Indledning",
-      "question": "Kan offentlig uddannelse også gavne private virksomheder?",
+      "topic": "Danmarks BNP pr. indbygger i EU",
+      "question": "Var Danmark blandt de tre EU-lande med højest BNP pr. indbygger i de IMF-tal for 2026, som lærematerialet gengiver?",
       "options": {
         "A": "Ja",
         "B": "Nej"
       },
       "answer": "A",
-      "explanation": "Offentlig uddannelse leverer kvalificeret arbejdskraft og viser sektorernes gensidige afhængighed.",
-      "difficulty": "medium",
-      "cognitive": "application",
+      "explanation": "I de tal for 2026, som lærematerialet gengiver, ligger Danmark på tredjepladsen blandt de 27 EU-lande målt på BNP pr. indbygger.",
+      "difficulty": "easy",
+      "cognitive": "recall",
       "values": false,
       "exam_domain": "reading",
       "source_pages": [
-        104
+        103
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
       "source_edition": "August 2026",
@@ -9103,28 +9114,29 @@
       "source_edition": "August 2026"
     },
     {
-      "id": "DK0443",
+      "id": "DK0443-s4",
       "chapter": 3,
       "chapter_title": "Den danske økonomi",
       "section": "3.2",
-      "topic": "3.2.3 Velfærdssamfundets opgaver og aktører",
-      "question": "Hvorfor modtager børnefamilier børne- og ungeydelse?",
+      "topic": "Kommunernes ansvar for folkebiblioteker",
+      "question": "Hvilke myndigheder har normalt ansvaret for folkebibliotekerne i Danmark?",
       "options": {
-        "A": "Ydelsen erstatter børnenes skoleundervisning",
-        "B": "Ydelsen er betaling for forældrenes erhvervsarbejde",
-        "C": "De har ekstra udgifter ved at forsørge børn"
+        "A": "Regionerne",
+        "B": "Staten",
+        "C": "Kommunerne"
       },
       "answer": "C",
-      "explanation": "Ydelsen er begrundet i familiers udgifter til børn, også når forældrene arbejder.",
-      "difficulty": "medium",
-      "cognitive": "understanding",
+      "explanation": "Folkebiblioteker og flere andre lokale kulturopgaver er kommunale opgaver.",
+      "difficulty": "easy",
+      "cognitive": "recall",
       "values": false,
       "exam_domain": "reading",
       "source_pages": [
         111
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "original_id": "DK0443"
     },
     {
       "id": "DK0444",
@@ -9199,18 +9211,18 @@
       "source_edition": "August 2026"
     },
     {
-      "id": "DK0447-e2",
+      "id": "DK0447-e2-s4",
       "chapter": 3,
       "chapter_title": "Den danske økonomi",
       "section": "3.2",
-      "topic": "3.2.3 Velfærdssamfundets opgaver og aktører",
-      "question": "Får man normalt løn for frivilligt arbejde?",
+      "topic": "Valg af leverandør af hjemmehjælp",
+      "question": "Kan en borger, der er visiteret til hjemmehjælp, som udgangspunkt vælge en godkendt privat leverandør?",
       "options": {
-        "A": "Ja",
-        "B": "Nej"
+        "A": "Nej",
+        "B": "Ja"
       },
       "answer": "B",
-      "explanation": "Frivillige bidrager uden løn, eksempelvis med besøgsordninger og foreningsarbejde.",
+      "explanation": "Frit valg betyder, at en borger, der er visiteret til hjemmehjælp, som udgangspunkt kan vælge mellem leverandører, som kommunen har godkendt.",
       "difficulty": "easy",
       "cognitive": "recall",
       "values": false,
@@ -9395,28 +9407,30 @@
       "source_edition": "August 2026"
     },
     {
-      "id": "DK0455",
+      "id": "DK0455-s4",
       "chapter": 3,
       "chapter_title": "Den danske økonomi",
       "section": "3.3",
-      "topic": "3.3.1 Fra landbrugssamfund til videns- og servicesamfund",
-      "question": "Hvad kendetegner et videns- og servicesamfund?",
+      "topic": "Servicesektorens beskæftigelse",
+      "question": "Hvilken sektor beskæftiger i midten af 2020’erne flest personer i Danmark?",
       "options": {
-        "A": "Viden og tjenesteydelser spiller en stor økonomisk rolle",
-        "B": "Næsten alle arbejder med at dyrke jorden",
-        "C": "Landet producerer kun råvarer til eksport"
+        "A": "Servicesektoren",
+        "B": "Industrien",
+        "C": "Landbruget"
       },
       "answer": "A",
-      "explanation": "Økonomien afhænger i høj grad af uddannet arbejdskraft, nye ideer og service som rådgivning og uddannelse.",
+      "explanation": "Næsten fire ud af fem beskæftigede arbejder ifølge lærematerialet i privat eller offentlig servicevirksomhed.",
       "difficulty": "easy",
-      "cognitive": "understanding",
+      "cognitive": "recall",
       "values": false,
       "exam_domain": "reading",
       "source_pages": [
-        114
+        114,
+        115
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "original_id": "DK0455"
     },
     {
       "id": "DK0456",
@@ -9494,20 +9508,20 @@
       "original_id": "DK0458"
     },
     {
-      "id": "DK0459-e2",
+      "id": "DK0459-e2-s4",
       "chapter": 3,
       "chapter_title": "Den danske økonomi",
       "section": "3.3",
-      "topic": "3.3.1 Fra landbrugssamfund til videns- og servicesamfund",
-      "question": "Hvad har gjort det muligt for industrien at producere mere med færre ansatte?",
+      "topic": "Den danske mejeribranche",
+      "question": "Hvilken branche tilhører Arla?",
       "options": {
-        "A": "Ny teknologi og flere maskiner",
-        "B": "Mere manuelt arbejde"
+        "A": "Mejeribranchen",
+        "B": "Bryggeribranchen"
       },
       "answer": "A",
-      "explanation": "Mekanisering og teknologisk udvikling kan øge produktionen, selv om beskæftigelsen falder.",
-      "difficulty": "medium",
-      "cognitive": "application",
+      "explanation": "Arla er en mejerivirksomhed og var ifølge lærematerialet blandt de ti største mejerier i verden i 2025.",
+      "difficulty": "easy",
+      "cognitive": "recall",
       "values": false,
       "exam_domain": "reading",
       "source_pages": [
@@ -9988,29 +10002,29 @@
       "source_edition": "August 2026"
     },
     {
-      "id": "DK0482",
+      "id": "DK0482-s4",
       "chapter": 3,
       "chapter_title": "Den danske økonomi",
       "section": "3.4",
-      "topic": "3.4.2 Selvregulering og kollektive overenskomster",
-      "question": "Hvad kaldes det, når lønmodtagere nedlægger arbejdet under en arbejdskonflikt?",
+      "topic": "Overenskomstdækning i Danmark",
+      "question": "Hvor stor en del af det danske arbejdsmarked er ifølge lærematerialet dækket af kollektive overenskomster?",
       "options": {
-        "A": "Strejke",
-        "B": "Lockout",
-        "C": "Udlicitering"
+        "A": "Mere end 80 procent",
+        "B": "Omkring 60 procent",
+        "C": "Under 40 procent"
       },
       "answer": "A",
-      "explanation": "En strejke iværksættes af lønmodtagersiden, mens en lockout iværksættes af arbejdsgiversiden.",
+      "explanation": "Mere end 80 procent af arbejdsmarkedet er dækket af kollektive overenskomster. Overenskomstdækning og medlemskab af en fagforening er forskellige størrelser.",
       "difficulty": "easy",
       "cognitive": "recall",
       "values": false,
       "exam_domain": "reading",
       "source_pages": [
-        117,
         119
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "original_id": "DK0482"
     },
     {
       "id": "DK0483",
@@ -10133,19 +10147,19 @@
       "source_edition": "August 2026"
     },
     {
-      "id": "DK0488",
+      "id": "DK0488-s4",
       "chapter": 3,
       "chapter_title": "Den danske økonomi",
       "section": "3.4",
-      "topic": "3.4.3 Trepartssamarbejde og flexicurity",
-      "question": "Hvilken indsats kan hjælpe en ledig tilbage på arbejdsmarkedet?",
+      "topic": "Forligsinstitutionens historie",
+      "question": "Hvornår blev Forligsinstitutionen oprettet for at hjælpe med at afværge konflikter på det danske arbejdsmarked?",
       "options": {
-        "A": "Begrænsning af jobsøgning til det tidligere fag",
-        "B": "Tilbagetrækning fra jobsøgning i længere perioder",
-        "C": "Uddannelse eller praktik"
+        "A": "1899",
+        "B": "1933",
+        "C": "1910"
       },
       "answer": "C",
-      "explanation": "Aktivering, uddannelse og praktik skal forbedre mulighederne for et nyt job.",
+      "explanation": "Den danske stat oprettede Forligsinstitutionen i 1910. Den kan blandt andet mægle mellem arbejdsmarkedets parter.",
       "difficulty": "easy",
       "cognitive": "recall",
       "values": false,
@@ -10154,7 +10168,8 @@
         120
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "original_id": "DK0488"
     },
     {
       "id": "DK0489",
@@ -11128,28 +11143,29 @@
       "source_edition": "August 2026"
     },
     {
-      "id": "DK0534",
+      "id": "DK0534-s4",
       "chapter": 4,
       "chapter_title": "Danmark og omverdenen",
       "section": "4.3",
-      "topic": "4.3.1 FN (De Forenede Nationer)",
-      "question": "Hvad står forkortelsen FN for?",
+      "topic": "Verdenssundhedsorganisationen i FN-byen",
+      "question": "Hvilken af følgende organisationer har kontor i FN-byen i København?",
       "options": {
-        "A": "De Forenede Nationer",
-        "B": "Fælles Nordisk Råd",
-        "C": "Forbundet af Nationalbanker"
+        "A": "Verdenssundhedsorganisationen (WHO)",
+        "B": "Organisationen for Økonomisk Samarbejde og Udvikling (OECD)",
+        "C": "Den Internationale Valutafond (IMF)"
       },
       "answer": "A",
-      "explanation": "FN er en verdensomspændende organisation af selvstændige stater.",
+      "explanation": "Verdenssundhedsorganisationen er en af de 11 FN-organisationer, der ifølge lærematerialet er samlet i FN-byen.",
       "difficulty": "easy",
       "cognitive": "recall",
       "values": false,
       "exam_domain": "reading",
       "source_pages": [
-        131
+        133
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "original_id": "DK0534"
     },
     {
       "id": "DK0535",
@@ -12079,28 +12095,31 @@
       "source_edition": "August 2026"
     },
     {
-      "id": "DK0573",
+      "id": "DK0573-s4",
       "chapter": 4,
       "chapter_title": "Danmark og omverdenen",
       "section": "4.4",
-      "topic": "4.4.3 Nyt fokus på dansk territorialforsvar",
-      "question": "Hvad betyder territorialforsvar?",
+      "topic": "Forsvaret af dansk territorium efter 2022",
+      "question": "Hvilken krig bidrog til et fornyet fokus på territorialforsvar i dansk forsvarspolitik?",
       "options": {
-        "A": "Militære operationer i andre verdensdele",
-        "B": "Forsvar af eget territorium mod angreb",
-        "C": "Civil nødhjælp efter naturkatastrofer"
+        "A": "Krigen i Afghanistan",
+        "B": "Ruslands krig mod Ukraine",
+        "C": "Krigen i Irak"
       },
       "answer": "B",
-      "explanation": "Territorialforsvar handler om evnen til at forsvare landet selv.",
+      "explanation": "Ruslands invasion af Ukraine i februar 2022 skærpede trusselsbilledet, blandt andet i området omkring Østersøen. Danmark har siden prioriteret at styrke forsvaret af eget territorium.",
       "difficulty": "easy",
-      "cognitive": "understanding",
+      "cognitive": "recall",
       "values": false,
       "exam_domain": "reading",
       "source_pages": [
-        139
+        139,
+        140,
+        141
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "original_id": "DK0573"
     },
     {
       "id": "DK0574-e2",
@@ -13291,28 +13310,29 @@
       "original_id": "DK0622"
     },
     {
-      "id": "DK0623",
+      "id": "DK0623-s4",
       "chapter": 5,
       "chapter_title": "Dansk kulturliv",
       "section": "5.2",
-      "topic": "Autofiktion",
-      "question": "Hvad kendetegner autofiktion?",
+      "topic": "Helle Helles romaner om Hafni",
+      "question": "Hvem skrev romanen Hafni fortæller?",
       "options": {
-        "A": "En samfundsanalyse fremlægges som en saglig rapport",
-        "B": "Egne livserfaringer blandes med opdigtede elementer",
-        "C": "En anden persons liv dokumenteres ud fra kilder"
+        "A": "Naja Marie Aidt",
+        "B": "Helle Helle",
+        "C": "Suzanne Brøgger"
       },
       "answer": "B",
-      "explanation": "Autofiktion kombinerer selvbiografiske erfaringer med fiktion.",
-      "difficulty": "medium",
-      "cognitive": "understanding",
+      "explanation": "Helle Helle udgav romanen Hafni fortæller i 2023. Den følger Hafni på en rejse gennem Danmark efter hendes skilsmisse.",
+      "difficulty": "easy",
+      "cognitive": "recall",
       "values": false,
       "exam_domain": "reading",
       "source_pages": [
         151
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "original_id": "DK0623"
     },
     {
       "id": "DK0624",
@@ -13339,19 +13359,19 @@
       "source_edition": "August 2026"
     },
     {
-      "id": "DK0625",
+      "id": "DK0625-s5",
       "chapter": 5,
       "chapter_title": "Dansk kulturliv",
       "section": "5.3",
-      "topic": "Solvognen",
-      "question": "Hvilket dyr trækker solen på Solvognen?",
+      "topic": "Solvognen fra bronzealderen",
+      "question": "Fra hvilken periode stammer Solvognen?",
       "options": {
-        "A": "En hest",
-        "B": "En hjort",
-        "C": "En ulv"
+        "A": "Bronzealderen",
+        "B": "Stenalderen",
+        "C": "Jernalderen"
       },
       "answer": "A",
-      "explanation": "Solvognen viser solen trukket af en hest i bronzealderens forestillingsverden.",
+      "explanation": "Solvognen stammer fra den ældre bronzealder. Den blev fundet i Trundholm Mose på Nordvestsjælland.",
       "difficulty": "easy",
       "cognitive": "recall",
       "values": false,
@@ -13360,23 +13380,24 @@
         153
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "original_id": "DK0625"
     },
     {
-      "id": "DK0626",
+      "id": "DK0626-s5",
       "chapter": 5,
       "chapter_title": "Dansk kulturliv",
       "section": "5.3",
-      "topic": "Solvognen",
-      "question": "Hvilke materialer består Solvognen af?",
+      "topic": "Guldhornene på Nationalmuseet",
+      "question": "På hvilket museum kan man se genskabte udgaver af guldhornene fra Gallehus?",
       "options": {
-        "A": "Guld og jern",
-        "B": "Guld og bronze",
-        "C": "Sølv og bronze"
+        "A": "Moesgaard Museum ved Aarhus",
+        "B": "Nationalmuseet i København",
+        "C": "Vikingeskibsmuseet i Roskilde"
       },
       "answer": "B",
-      "explanation": "Solvognen er fremstillet af guld og bronze omkring 1350 før Kristus.",
-      "difficulty": "medium",
+      "explanation": "De genskabte guldhorn fra Gallehus er udstillet på Nationalmuseet. De oprindelige horn blev stjålet og smeltet om i 1802.",
+      "difficulty": "easy",
       "cognitive": "recall",
       "values": false,
       "exam_domain": "reading",
@@ -13384,7 +13405,8 @@
         153
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "original_id": "DK0626"
     },
     {
       "id": "DK0627",
@@ -13411,20 +13433,20 @@
       "source_edition": "August 2026"
     },
     {
-      "id": "DK0628",
+      "id": "DK0628-s5",
       "chapter": 5,
       "chapter_title": "Dansk kulturliv",
       "section": "5.3",
-      "topic": "Tidlig kirkekunst",
-      "question": "Hvordan fremstilles Jesus på Harald Blåtands Jellingsten?",
+      "topic": "Kristen billedkunst på Jellingstenen",
+      "question": "Hvilket dansk monument fra vikingetiden viser en fremstilling af Kristus?",
       "options": {
-        "A": "Som en konge på en hest",
-        "B": "Som en stærk og sejrende kriger",
-        "C": "Som et sovende spædbarn"
+        "A": "Gorm den Gamles lille Jellingsten",
+        "B": "Harald Blåtands store Jellingsten",
+        "C": "Trelleborg ved Slagelse"
       },
       "answer": "B",
-      "explanation": "Fremstillingen blander det kristne motiv med vikingetidens formsprog.",
-      "difficulty": "hard",
+      "explanation": "Harald Blåtands store Jellingsten har en fremstilling af Kristus. Stenen er et eksempel på, hvordan kristen billedkunst kom til Danmark.",
+      "difficulty": "easy",
       "cognitive": "recall",
       "values": false,
       "exam_domain": "reading",
@@ -13432,7 +13454,8 @@
         153
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "original_id": "DK0628"
     },
     {
       "id": "DK0629",
@@ -13459,28 +13482,29 @@
       "source_edition": "August 2026"
     },
     {
-      "id": "DK0630",
+      "id": "DK0630-s5",
       "chapter": 5,
       "chapter_title": "Dansk kulturliv",
       "section": "5.3",
-      "topic": "Kongelig kunst",
-      "question": "Hvad skulle de vævede kongetapeter på Kronborg blandt andet vise?",
+      "topic": "Kronborgs kongetapeter",
+      "question": "På hvilket slot kan man se nogle af de kongetapeter, som Frederik 2. lod fremstille?",
       "options": {
-        "A": "Den katolske paves overhøjhed",
-        "B": "Købstædernes uafhængighed af kronen",
-        "C": "Kongens magt og betydning"
+        "A": "Rosenborg Slot",
+        "B": "Frederiksborg Slot",
+        "C": "Kronborg Slot"
       },
       "answer": "C",
-      "explanation": "Kongen og adelen brugte efter reformationen kunst til at vise rigdom og magt.",
-      "difficulty": "medium",
-      "cognitive": "understanding",
+      "explanation": "Frederik 2. lod fremstille kongetapeterne til Kronborg Slot i Helsingør. Nogle af de bevarede tapeter kan stadig ses på slottet.",
+      "difficulty": "easy",
+      "cognitive": "recall",
       "values": false,
       "exam_domain": "reading",
       "source_pages": [
         154
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "original_id": "DK0630"
     },
     {
       "id": "DK0631",
@@ -13820,20 +13844,20 @@
       "source_edition": "August 2026"
     },
     {
-      "id": "DK0645-e2",
+      "id": "DK0645-e2-s5",
       "chapter": 5,
       "chapter_title": "Dansk kulturliv",
       "section": "5.4",
-      "topic": "Tidlig musik",
-      "question": "Kender man med sikkerhed bronzealderlurernes præcise brug?",
+      "topic": "Friedrich Kuhlau og Elverhøi",
+      "question": "Hvem skrev musikken til festspillet Elverhøi fra 1828?",
       "options": {
-        "A": "Ja",
-        "B": "Nej"
+        "A": "Johannes Ewald",
+        "B": "Friedrich Kuhlau"
       },
       "answer": "B",
-      "explanation": "Lurerne viser en gammel musiktradition, men deres oprindelige brug kendes ikke sikkert.",
-      "difficulty": "medium",
-      "cognitive": "understanding",
+      "explanation": "Friedrich Kuhlau skrev musikken til Elverhøi. Johannes Ewald skrev teksten til Kong Christian stod ved højen mast, som indgår i festspillet.",
+      "difficulty": "easy",
+      "cognitive": "recall",
       "values": false,
       "exam_domain": "reading",
       "source_pages": [
@@ -14376,69 +14400,70 @@
       "source_edition": "August 2026"
     },
     {
-      "id": "DK0668",
+      "id": "DK0668-s4",
       "chapter": 5,
       "chapter_title": "Dansk kulturliv",
       "section": "5.5",
-      "topic": "Funktionalisme i praksis",
-      "question": "En designer skaber en enkel, praktisk stol til almindelige hjem. Hvilken tradition passer det især til?",
+      "topic": "Arne Jacobsen og Stelton",
+      "question": "Hvilken type design har Arne Jacobsen lavet for Stelton?",
       "options": {
-        "A": "Funktionalismen",
-        "B": "Art nouveau",
-        "C": "Nyklassicismen"
+        "A": "Kaffe- og tekander",
+        "B": "Spisebordsstole",
+        "C": "Loftslamper"
       },
       "answer": "A",
-      "explanation": "Praktisk brug, enkelhed og bred adgang er centrale funktionalistiske idealer.",
-      "difficulty": "medium",
-      "cognitive": "application",
+      "explanation": "Arne Jacobsen har blandt andet designet kaffe- og tekander for Stelton. Han har også tegnet møbler som Ægget og 7’eren.",
+      "difficulty": "easy",
+      "cognitive": "recall",
       "values": false,
       "exam_domain": "reading",
       "source_pages": [
-        161,
         162
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "original_id": "DK0668"
     },
     {
-      "id": "DK0669",
+      "id": "DK0669-s4",
       "chapter": 5,
       "chapter_title": "Dansk kulturliv",
       "section": "5.6",
-      "topic": "Scenekunstens former",
-      "question": "Hvad har ballet, opera og skuespil som scenekunst til fælles?",
+      "topic": "August Bournonvilles Sylfiden",
+      "question": "Hvilken ballet blev opført på Det Kongelige Teater i 1836 med koreografi af August Bournonville?",
       "options": {
-        "A": "De formidles som redigerede optagelser",
-        "B": "De formidles som udstillede genstande",
-        "C": "De opføres direkte foran et publikum"
+        "A": "Napoli",
+        "B": "Dødens triumf",
+        "C": "Sylfiden"
       },
       "answer": "C",
-      "explanation": "Scenekunst er kendetegnet ved den levende opførelse foran publikum.",
+      "explanation": "Bournonvilles udgave af Sylfiden blev opført første gang på Det Kongelige Teater i 1836. Den er en af de ældste balletter, der stadig opføres.",
       "difficulty": "easy",
-      "cognitive": "understanding",
+      "cognitive": "recall",
       "values": false,
       "exam_domain": "reading",
       "source_pages": [
-        164
+        165
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "original_id": "DK0669"
     },
     {
-      "id": "DK0670",
+      "id": "DK0670-s5",
       "chapter": 5,
       "chapter_title": "Dansk kulturliv",
       "section": "5.6",
-      "topic": "Holbergs komedier",
-      "question": "Hvad gør Rasmus til grin i Erasmus Montanus?",
+      "topic": "Ludvig Holbergs Erasmus Montanus",
+      "question": "Hvem skrev komedien Erasmus Montanus?",
       "options": {
-        "A": "Han skjuler sin uddannelse for forældrene",
-        "B": "Han praler med sin latinske lærdom",
-        "C": "Han forsøger at købe sig en adelstitel"
+        "A": "Adam Oehlenschläger",
+        "B": "Ludvig Holberg",
+        "C": "Johan Ludvig Heiberg"
       },
       "answer": "B",
-      "explanation": "Studenten Rasmus vender hjem og bruger sin lærdom til at hævde sig over andre.",
-      "difficulty": "medium",
+      "explanation": "Erasmus Montanus er en af Ludvig Holbergs mest opførte komedier.",
+      "difficulty": "easy",
       "cognitive": "recall",
       "values": false,
       "exam_domain": "reading",
@@ -14446,7 +14471,8 @@
         164
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "original_id": "DK0670"
     },
     {
       "id": "DK0671",
@@ -14473,28 +14499,29 @@
       "source_edition": "August 2026"
     },
     {
-      "id": "DK0672",
+      "id": "DK0672-s4",
       "chapter": 5,
       "chapter_title": "Dansk kulturliv",
       "section": "5.6",
-      "topic": "Vaudeville",
-      "question": "Hvilken kombination er typisk for en vaudeville?",
+      "topic": "Johan Ludvig Heiberg på Det Kongelige Teater",
+      "question": "Hvilket teater var Johan Ludvig Heiberg direktør for i 1800-tallet?",
       "options": {
-        "A": "Tragedie og religiøs prædiken",
-        "B": "Historisk foredrag og folkedans",
-        "C": "Lystspil og musik"
+        "A": "Folketeatret",
+        "B": "Odense Teater",
+        "C": "Det Kongelige Teater"
       },
       "answer": "C",
-      "explanation": "Vaudevillen forener dramatik og musik, ofte med kærlighedsforviklinger.",
-      "difficulty": "hard",
-      "cognitive": "understanding",
+      "explanation": "Johan Ludvig Heiberg skrev dramatik for Det Kongelige Teater og blev teatrets direktør. Johanne Luise Heiberg var kendt som skuespiller ved teatret.",
+      "difficulty": "easy",
+      "cognitive": "recall",
       "values": false,
       "exam_domain": "reading",
       "source_pages": [
         164
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "original_id": "DK0672"
     },
     {
       "id": "DK0673",
@@ -15222,28 +15249,29 @@
       "source_edition": "August 2026"
     },
     {
-      "id": "DK0703",
+      "id": "DK0703-s5",
       "chapter": 5,
       "chapter_title": "Dansk kulturliv",
       "section": "5.7",
-      "topic": "Babettes Gæstebud",
-      "question": "Hvad forandrer den strenge menighed i Babettes Gæstebud?",
+      "topic": "Fortællingen bag Babettes Gæstebud",
+      "question": "Hvem skrev den fortælling, som filmen Babettes Gæstebud bygger på?",
       "options": {
-        "A": "En rejse til København",
-        "B": "Et overdådigt måltid",
-        "C": "Et valg til menighedsrådet"
+        "A": "Tove Ditlevsen",
+        "B": "Karen Blixen",
+        "C": "Suzanne Brøgger"
       },
       "answer": "B",
-      "explanation": "Det fælles måltid får mennesker, der fornægter livets goder, til at åbne sig.",
-      "difficulty": "hard",
-      "cognitive": "understanding",
+      "explanation": "Gabriel Axels film Babettes Gæstebud bygger på en fortælling af Karen Blixen.",
+      "difficulty": "easy",
+      "cognitive": "recall",
       "values": false,
       "exam_domain": "reading",
       "source_pages": [
         171
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "original_id": "DK0703"
     },
     {
       "id": "DK0704",
@@ -15270,28 +15298,29 @@
       "source_edition": "August 2026"
     },
     {
-      "id": "DK0705",
+      "id": "DK0705-s5",
       "chapter": 5,
       "chapter_title": "Dansk kulturliv",
       "section": "5.7",
-      "topic": "Susanne Bier",
-      "question": "Hvilket moralsk spørgsmål behandler Hævnen især?",
+      "topic": "Susanne Biers Oscar for Hævnen",
+      "question": "Hvilken dansk instruktør vandt en Oscar for filmen Hævnen?",
       "options": {
-        "A": "Hvornår kunstnere bør gå på kompromis med deres idealer",
-        "B": "Hvornår det er rigtigt eller forkert at hævne sig",
-        "C": "Hvornår pligten til familie bør gå foran karrieren"
+        "A": "Bille August",
+        "B": "Susanne Bier",
+        "C": "Thomas Vinterberg"
       },
       "answer": "B",
-      "explanation": "Filmen undersøger hævnens berettigelse og konsekvenser i menneskers liv.",
-      "difficulty": "medium",
-      "cognitive": "understanding",
+      "explanation": "Susanne Bier instruerede Hævnen, der vandt en Oscar i 2011.",
+      "difficulty": "easy",
+      "cognitive": "recall",
       "values": false,
       "exam_domain": "reading",
       "source_pages": [
         171
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "original_id": "DK0705"
     },
     {
       "id": "DK0706-s3",
@@ -15777,28 +15806,29 @@
       "wording_revision": "2026-09-26"
     },
     {
-      "id": "DK0726",
+      "id": "DK0726-s4",
       "chapter": 6,
       "chapter_title": "Temaopslag",
       "section": "6.2",
-      "topic": "Verdensarv",
-      "question": "Hvad betyder det, at et sted optages på UNESCO's verdensarvsliste?",
+      "topic": "Skagen som kunstnerby",
+      "question": "I hvilken by samledes malere som Anna Ancher, Michael Ancher og P.S. Krøyer omkring år 1900?",
       "options": {
-        "A": "Det har særlig betydning for verdens kultur- eller naturarv",
-        "B": "Det har det højeste besøgstal i sit land",
-        "C": "Det overtages som ejendom af FN"
+        "A": "Skagen",
+        "B": "Silkeborg",
+        "C": "Sønderborg"
       },
       "answer": "A",
-      "explanation": "Verdensarv kan omfatte både bygninger og naturområder af særlig betydning.",
-      "difficulty": "medium",
-      "cognitive": "understanding",
+      "explanation": "Skagen tiltrak danske og udenlandske kunstnere i sommermånederne omkring 1875-1910. De blev kendt som Skagensmalerne.",
+      "difficulty": "easy",
+      "cognitive": "recall",
       "values": false,
       "exam_domain": "reading",
       "source_pages": [
         177
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "original_id": "DK0726"
     },
     {
       "id": "DK0727",
@@ -15945,28 +15975,29 @@
       "source_edition": "August 2026"
     },
     {
-      "id": "DK0733",
+      "id": "DK0733-s5",
       "chapter": 6,
       "chapter_title": "Temaopslag",
       "section": "6.2",
-      "topic": "FN Byen",
-      "question": "Hvilken form har FN Byens bygning på Marmormolen i København?",
+      "topic": "Kronborg og Øresundstolden",
+      "question": "Hvilket slot var i flere hundrede år knyttet til opkrævningen af Øresundstolden?",
       "options": {
-        "A": "En stor glaspyramide",
-        "B": "En cirkelformet ring",
-        "C": "En ottetakket stjerne"
+        "A": "Koldinghus",
+        "B": "Frederiksborg Slot",
+        "C": "Kronborg Slot"
       },
       "answer": "C",
-      "explanation": "FN Byen er tegnet af 3XN som en ottetakket stjerne.",
-      "difficulty": "medium",
+      "explanation": "Kronborg ligger ved Øresunds smalleste sted. Fra Helsingør kunne kongemagten kontrollere skibsfarten og opkræve Øresundstold frem til 1857.",
+      "difficulty": "easy",
       "cognitive": "recall",
       "values": false,
       "exam_domain": "reading",
       "source_pages": [
-        189
+        182
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "original_id": "DK0733"
     },
     {
       "id": "DK0734",
@@ -16017,19 +16048,19 @@
       "source_edition": "August 2026"
     },
     {
-      "id": "DK0736",
+      "id": "DK0736-s4",
       "chapter": 6,
       "chapter_title": "Temaopslag",
       "section": "6.2",
-      "topic": "Vadehavet",
-      "question": "Hvilken naturproces skaber gentagne skift mellem højvande og lavvande i Vadehavet?",
+      "topic": "Vadehavets lande",
+      "question": "Hvilke to lande deler Danmark Vadehavet med?",
       "options": {
-        "A": "Åernes vekslende vandføring",
-        "B": "Tidevandet",
-        "C": "Årstidernes regnvejr"
+        "A": "Tyskland og Polen",
+        "B": "Tyskland og Nederlandene",
+        "C": "Nederlandene og Belgien"
       },
       "answer": "B",
-      "explanation": "Tidevandet fører vand ind og ud og understøtter områdets rige fødekæde.",
+      "explanation": "Vadehavet følger kysten fra det nordlige Nederlandene gennem Tyskland til Blåvandshuk i det sydvestlige Jylland.",
       "difficulty": "easy",
       "cognitive": "recall",
       "values": false,
@@ -16038,7 +16069,8 @@
         179
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "original_id": "DK0736"
     },
     {
       "id": "DK0737",
@@ -16161,28 +16193,29 @@
       "source_edition": "August 2026"
     },
     {
-      "id": "DK0742",
+      "id": "DK0742-s5",
       "chapter": 6,
       "chapter_title": "Temaopslag",
       "section": "6.2",
-      "topic": "Naturlige kilder",
-      "question": "Hvorfor holder kilderne ved Rebild næsten samme temperatur året rundt?",
+      "topic": "Dansk udvandring til USA",
+      "question": "Hvilket land rejste mange danske udvandrere til i perioden 1868-1914, som Museum Rebild fortæller om?",
       "options": {
-        "A": "Vandet løber direkte fra solopvarmede overfladesøer",
-        "B": "Vandet kommer fra geotermisk opvarmede kilder",
-        "C": "Vandet opbevares i undergrundens kalk"
+        "A": "Canada",
+        "B": "Australien",
+        "C": "USA"
       },
       "answer": "C",
-      "explanation": "Kalken fungerer som et reservoir, der holder vandet omkring syv-otte grader.",
-      "difficulty": "hard",
-      "cognitive": "understanding",
+      "explanation": "Museum Rebild fortæller om de mange danskere, der udvandrede til USA, især i årene 1868-1914.",
+      "difficulty": "easy",
+      "cognitive": "recall",
       "values": false,
       "exam_domain": "reading",
       "source_pages": [
         181
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "original_id": "DK0742"
     },
     {
       "id": "DK0743",
@@ -16402,20 +16435,20 @@
       "source_edition": "August 2026"
     },
     {
-      "id": "DK0752",
+      "id": "DK0752-s5",
       "chapter": 6,
       "chapter_title": "Temaopslag",
       "section": "6.2",
-      "topic": "Møns Klint",
-      "question": "Hvad kan man blandt andet finde som fossiler ved Møns Klint?",
+      "topic": "De hvide kridtklinter på Møn",
+      "question": "Hvilken dansk ø i Østersøen er kendt for sine høje, hvide kridtklinter?",
       "options": {
-        "A": "Søpindsvin",
-        "B": "Mammutter",
-        "C": "Hulebjørne"
+        "A": "Møn",
+        "B": "Bornholm",
+        "C": "Lolland"
       },
       "answer": "A",
-      "explanation": "Fossiler er bevarede rester af fortidige organismer, blandt andet søpindsvin.",
-      "difficulty": "medium",
+      "explanation": "Møns Klint ligger på den østlige side af Møn. Klinten er især kendt for de høje, hvide kridtskrænter.",
+      "difficulty": "easy",
       "cognitive": "recall",
       "values": false,
       "exam_domain": "reading",
@@ -16423,7 +16456,8 @@
         184
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "original_id": "DK0752"
     },
     {
       "id": "DK0753",
@@ -16499,20 +16533,20 @@
       "source_edition": "August 2026"
     },
     {
-      "id": "DK0756",
+      "id": "DK0756-s5",
       "chapter": 6,
       "chapter_title": "Temaopslag",
       "section": "6.2",
-      "topic": "Hammershus",
-      "question": "Hvordan blev Hammershus brugt, efter at borgen var forladt?",
+      "topic": "Kirkens ejerskab på Bornholm",
+      "question": "Hvem ejede i middelalderen store dele af Bornholm, hvor Hammershus ligger?",
       "options": {
-        "A": "Som kilde til byggesten",
-        "B": "Som militært træningsområde",
-        "C": "Som lager for handelsvarer"
+        "A": "Kirken",
+        "B": "Hansestæderne",
+        "C": "Bønderne på øen"
       },
       "answer": "A",
-      "explanation": "Lokalbefolkningen hentede sten fra ruinen til andre bygninger.",
-      "difficulty": "medium",
+      "explanation": "Kirken ejede store dele af Bornholm frem til 1500-tallet. Hammershus vidner om kirkens magt på øen i middelalderen.",
+      "difficulty": "easy",
       "cognitive": "recall",
       "values": false,
       "exam_domain": "reading",
@@ -16520,7 +16554,8 @@
         185
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "original_id": "DK0756"
     },
     {
       "id": "DK0757-s3",
@@ -19018,29 +19053,29 @@
       "source_edition": "August 2026"
     },
     {
-      "id": "DK0860",
+      "id": "DK0860-s5",
       "chapter": 6,
       "chapter_title": "Temaopslag",
       "section": "6.8",
-      "topic": "Jens Christian Skou",
-      "question": "Hvilke stoffer flytter den cellepumpe, som Jens Christian Skou opdagede?",
+      "topic": "Jens Christian Skous Nobelpris",
+      "question": "Hvilken forsker fik Nobelprisen i kemi i 1997 for sin opdagelse af en pumpe i cellerne?",
       "options": {
-        "A": "Ilt og kuldioxid",
-        "B": "Natrium og kalium",
-        "C": "Calcium og magnesium"
+        "A": "Niels Bohr",
+        "B": "Jens Christian Skou",
+        "C": "August Krogh"
       },
       "answer": "B",
-      "explanation": "Pumpen transporterer natrium ud af og kalium ind i cellerne og er vigtig for cellernes funktion.",
-      "difficulty": "hard",
+      "explanation": "Jens Christian Skou modtog Nobelprisen i kemi i 1997 for sin opdagelse af en pumpe i cellerne.",
+      "difficulty": "easy",
       "cognitive": "recall",
       "values": false,
       "exam_domain": "reading",
       "source_pages": [
-        213,
-        214
+        213
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "original_id": "DK0860"
     },
     {
       "id": "DK0861",
@@ -19309,20 +19344,20 @@
       "source_edition": "August 2026"
     },
     {
-      "id": "DK0877",
+      "id": "DK0877-s5",
       "chapter": 6,
       "chapter_title": "Temaopslag",
       "section": "6.10",
-      "topic": "Påskeæg",
-      "question": "Hvad er ægget traditionelt symbol på ved påske?",
+      "topic": "1. maj i Danmark",
+      "question": "Hvem står typisk bag optog og politiske taler den 1. maj i Danmark?",
       "options": {
-        "A": "Forsoning",
-        "B": "Visdom",
-        "C": "Frugtbarhed"
+        "A": "Folkekirken og de lokale menighedsråd",
+        "B": "Kongehuset og Forsvaret",
+        "C": "Fagbevægelsen og partier med rødder i den"
       },
       "answer": "C",
-      "explanation": "Påskeæg bygger på æggets gamle betydning som frugtbarhedssymbol.",
-      "difficulty": "medium",
+      "explanation": "På arbejderbevægelsens internationale kampdag står fagbevægelsen og partier med rødder i den bag mange af arrangementerne.",
+      "difficulty": "easy",
       "cognitive": "recall",
       "values": false,
       "exam_domain": "reading",
@@ -19330,7 +19365,8 @@
         218
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "original_id": "DK0877"
     },
     {
       "id": "DK0878",
@@ -19430,28 +19466,30 @@
       "source_edition": "August 2026"
     },
     {
-      "id": "DK0883",
+      "id": "DK0883-s4",
       "chapter": 6,
       "chapter_title": "Temaopslag",
       "section": "6.10",
-      "topic": "Nytår",
-      "question": "Hvilken dato er nytårsaften?",
+      "topic": "Danmark og nationaldagen",
+      "question": "Hvilken dag er officielt udpeget som Danmarks nationaldag?",
       "options": {
-        "A": "24. december",
-        "B": "31. december",
-        "C": "1. januar"
+        "A": "Grundlovsdag den 5. juni",
+        "B": "Danmark har ingen officiel nationaldag",
+        "C": "Valdemarsdag den 15. juni"
       },
       "answer": "B",
-      "explanation": "Årets sidste aften er den 31. december; nytårsdag følger den 1. januar.",
+      "explanation": "Danmark har ingen officiel nationaldag. Grundlovsdag den 5. juni fejrer Danmarks demokratiske forfatning.",
       "difficulty": "easy",
       "cognitive": "recall",
       "values": false,
       "exam_domain": "reading",
       "source_pages": [
-        220
+        218,
+        219
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "original_id": "DK0883"
     },
     {
       "id": "DK0884",
@@ -19816,28 +19854,29 @@
       "original_id": "DK0898"
     },
     {
-      "id": "DK0899",
+      "id": "DK0899-s4",
       "chapter": 6,
       "chapter_title": "Temaopslag",
       "section": "6.12",
-      "topic": "Uddannelsens rolle",
-      "question": "Hvorfor har uddannelse betydning for økonomisk velstand?",
+      "topic": "Danmarks første universitet",
+      "question": "Hvilket universitet åbnede i 1479 som Danmarks første?",
       "options": {
-        "A": "Den fastsætter lønnen centralt for hver uddannelse",
-        "B": "Den fordeler job efter antallet af år i skole",
-        "C": "Den giver kundskaber, som kan bruges i arbejdet"
+        "A": "Aarhus Universitet",
+        "B": "Roskilde Universitet",
+        "C": "Københavns Universitet"
       },
       "answer": "C",
-      "explanation": "Uddannelse udvikler færdigheder, som har værdi for den enkelte og samfundets produktion.",
+      "explanation": "Københavns Universitet åbnede som Danmarks første universitet i 1479.",
       "difficulty": "easy",
-      "cognitive": "understanding",
+      "cognitive": "recall",
       "values": false,
       "exam_domain": "reading",
       "source_pages": [
         224
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "original_id": "DK0899"
     },
     {
       "id": "DK0900",
@@ -20086,28 +20125,29 @@
       "wording_revision": "2026-09-26"
     },
     {
-      "id": "DK0913",
+      "id": "DK0913-s4",
       "chapter": 6,
       "chapter_title": "Temaopslag",
       "section": "6.12",
-      "topic": "Livslang uddannelse",
-      "question": "En voksen skal lære at bruge nye maskiner på jobbet. Hvilken mulighed passer til dette behov?",
+      "topic": "Udviklingen i de erhvervsfaglige uddannelser",
+      "question": "Hvordan udviklede andelen af unge, der tog en erhvervsfaglig uddannelse, sig i Danmark fra 1982 til 2023?",
       "options": {
-        "A": "Et nyt studentereksamensforløb",
-        "B": "Førtidspensionering",
-        "C": "Efter- og videreuddannelse"
+        "A": "Den steg",
+        "B": "Den var omtrent uændret",
+        "C": "Den faldt"
       },
       "answer": "C",
-      "explanation": "Efteruddannelse kan opdatere voksne medarbejderes kompetencer, når jobbet forandrer sig.",
+      "explanation": "Andelen af en årgang, der tog en erhvervsfaglig uddannelse, faldt ifølge lærematerialet fra 36 procent i 1982 til 19 procent i 2023.",
       "difficulty": "easy",
-      "cognitive": "application",
+      "cognitive": "recall",
       "values": false,
       "exam_domain": "reading",
       "source_pages": [
         227
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "original_id": "DK0913"
     },
     {
       "id": "DK0914",
@@ -21026,28 +21066,29 @@
       "source_edition": "August 2026"
     },
     {
-      "id": "DK0979",
+      "id": "DK0979-s4",
       "chapter": 6,
       "chapter_title": "Temaopslag",
       "section": "6.16",
-      "topic": "6.16 Sundhed og sundhedsvæsen – Sundhedsvæsenet",
-      "question": "Hvad betyder egenbetaling i sundhedsvæsenet?",
+      "topic": "Børne- og ungdomstandpleje",
+      "question": "Hvem står for børne- og ungdomstandplejen i Danmark?",
       "options": {
-        "A": "At lægens indkomst udelukkende kommer fra staten",
-        "B": "At kommunen betaler hele regningen uden tilskud",
-        "C": "At patienten selv betaler en del af udgiften"
+        "A": "Regionerne",
+        "B": "Staten",
+        "C": "Kommunerne"
       },
       "answer": "C",
-      "explanation": "Ved blandt andet medicin og tandpleje kan der være både tilskud og egenbetaling.",
-      "difficulty": "medium",
-      "cognitive": "understanding",
+      "explanation": "Kommunerne har ansvaret for børne- og ungdomstandplejen. Den er gratis for børn og unge til og med 21 år.",
+      "difficulty": "easy",
+      "cognitive": "recall",
       "values": false,
       "exam_domain": "reading",
       "source_pages": [
         241
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "original_id": "DK0979"
     },
     {
       "id": "DK0980",
@@ -21074,49 +21115,49 @@
       "source_edition": "August 2026"
     },
     {
-      "id": "DK0981",
+      "id": "DK0981-s4",
       "chapter": 6,
       "chapter_title": "Temaopslag",
       "section": "6.17",
-      "topic": "6.17 Klima – Global opvarmning",
-      "question": "Hvilken gruppe består af fossile brændsler?",
+      "topic": "Udviklingen i Danmarks drivhusgasudledning",
+      "question": "Hvordan har Danmarks udledning af drivhusgasser udviklet sig siden 1990 ifølge tallene i lærematerialet fra 2026?",
       "options": {
-        "A": "Sol, vind og vandkraft",
-        "B": "Kul, olie og gas",
-        "C": "Træ, vind og sol"
+        "A": "Den er steget",
+        "B": "Den er faldet",
+        "C": "Den er omtrent uændret"
       },
       "answer": "B",
-      "explanation": "Kul, olie og gas er fossile energikilder, hvis afbrænding udleder CO2.",
+      "explanation": "Ifølge lærematerialet fra august 2026 er den danske udledning faldet med cirka 47 procent siden 1990.",
       "difficulty": "easy",
       "cognitive": "recall",
       "values": false,
       "exam_domain": "reading",
       "source_pages": [
-        242
+        243
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "original_id": "DK0981"
     },
     {
-      "id": "DK0982-e2-s3",
+      "id": "DK0982-e2-s3-s4",
       "chapter": 6,
       "chapter_title": "Temaopslag",
       "section": "6.17",
-      "topic": "6.17 Klima – Global opvarmning",
-      "question": "Hvilken drivhusgas udledes blandt andet ved afbrænding af kul, olie og naturgas?",
+      "topic": "Klimalovens mål for 2050",
+      "question": "Hvilket mål for 2050 beskriver lærematerialet som en del af den danske klimalov?",
       "options": {
-        "A": "Brint (H₂)",
-        "B": "Ilt (O₂)",
-        "C": "Kuldioxid (CO₂)"
+        "A": "50 procent mindre drivhusgasudledning end i 1990",
+        "B": "Klimaneutral elproduktion som eneste klimamål",
+        "C": "Klimaneutralitet"
       },
       "answer": "C",
-      "explanation": "Afbrænding af fossile brændstoffer udleder blandt andet CO₂. Det bidrager til den globale opvarmning.",
-      "difficulty": "medium",
+      "explanation": "Lærematerialet beskriver klimalovens mål om, at Danmark som helhed bliver klimaneutralt i 2050. Det betyder, at udledning og optag af drivhusgasser er i balance.",
+      "difficulty": "easy",
       "cognitive": "recall",
       "values": false,
       "exam_domain": "reading",
       "source_pages": [
-        242,
         243
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
@@ -21125,29 +21166,30 @@
       "editorial_revision": "2026-09-27"
     },
     {
-      "id": "DK0983",
+      "id": "DK0983-s4",
       "chapter": 6,
       "chapter_title": "Temaopslag",
       "section": "6.17",
-      "topic": "6.17 Klima – Global opvarmning",
-      "question": "Hvilken følge kan global opvarmning have?",
+      "topic": "Samarbejde om havvind i Nordsøen",
+      "question": "I hvilket havområde har Danmark sammen med blandt andre Belgien og Storbritannien aftalt at udbygge havvind frem mod 2050?",
       "options": {
-        "A": "Mere ekstrem varme og flere oversvømmelser",
-        "B": "Mindre ekstrem varme og lavere havniveau",
-        "C": "Et ensartet, mere stabilt klima i alle verdensdele"
+        "A": "Nordsøen",
+        "B": "Østersøen",
+        "C": "Den Engelske Kanal"
       },
       "answer": "A",
-      "explanation": "Materialet beskriver blandt andet øget ekstrem varme, ørkendannelse og oversvømmelser.",
+      "explanation": "Danmark og en række andre lande omkring Nordsøen har aftalt at udbygge havvind i området frem mod 2050.",
       "difficulty": "easy",
       "cognitive": "recall",
       "values": false,
       "exam_domain": "reading",
       "source_pages": [
-        242
+        244
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
       "source_edition": "August 2026",
-      "wording_revision": "2026-09-26"
+      "wording_revision": "2026-09-26",
+      "original_id": "DK0983"
     },
     {
       "id": "DK0984",
@@ -21275,28 +21317,29 @@
       "original_id": "DK0988"
     },
     {
-      "id": "DK0989",
+      "id": "DK0989-s4",
       "chapter": 6,
       "chapter_title": "Temaopslag",
       "section": "6.17",
-      "topic": "6.17 Klima – Den danske klimaindsats",
-      "question": "Hvad indebærer den grønne omstilling af energiforbruget?",
+      "topic": "Energiø Bornholms forbindelser",
+      "question": "Hvilket andet land skal ifølge planen kobles til Energiø Bornholm sammen med Danmark?",
       "options": {
-        "A": "At fastholde energiforbruget uden at ændre energikilderne",
-        "B": "Mere olie og gas i stedet for vedvarende energi",
-        "C": "Mere vedvarende energi i stedet for fossile brændsler"
+        "A": "Polen",
+        "B": "Sverige",
+        "C": "Tyskland"
       },
       "answer": "C",
-      "explanation": "Omstillingen flytter energiforbruget mod energikilder med ingen eller lavere drivhusgasudledning.",
+      "explanation": "Planen for Energiø Bornholm er at forbinde havvind i Østersøen med elnettene på Sjælland og i Tyskland.",
       "difficulty": "easy",
-      "cognitive": "understanding",
+      "cognitive": "recall",
       "values": false,
       "exam_domain": "reading",
       "source_pages": [
-        243
+        244
       ],
       "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
-      "source_edition": "August 2026"
+      "source_edition": "August 2026",
+      "original_id": "DK0989"
     },
     {
       "id": "DK0990",
@@ -21348,20 +21391,20 @@
       "wording_revision": "2026-09-26"
     },
     {
-      "id": "DK0992-e2",
+      "id": "DK0992-e2-s4",
       "chapter": 6,
       "chapter_title": "Temaopslag",
       "section": "6.17",
-      "topic": "6.17 Klima – Energi og transport",
-      "question": "Kan bedre isolering mindske energiforbruget til opvarmning?",
+      "topic": "Omstilling af boligopvarmning",
+      "question": "Kan danske boligejere som led i klimaindsatsen få støtte til at udskifte et olie- eller gasfyr med en varmepumpe?",
       "options": {
         "A": "Ja",
         "B": "Nej"
       },
       "answer": "A",
-      "explanation": "Bedre isolering reducerer den energi, der skal bruges for at holde boligen varm.",
+      "explanation": "Der ydes ifølge lærematerialet offentlig støtte til at skifte fra olie- eller gasfyr til eksempelvis en varmepumpe eller fjernvarme.",
       "difficulty": "easy",
-      "cognitive": "understanding",
+      "cognitive": "recall",
       "values": false,
       "exam_domain": "reading",
       "source_pages": [
