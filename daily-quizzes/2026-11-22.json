@@ -1,0 +1,180 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-22",
+  "timezone": "Europe/Copenhagen",
+  "bank_sha256": "c101d7d45fbbf454cc9ece792920b1ecd3f50e12d4110eb25669dac6126a78ac",
+  "news_verified_at": "2026-11-21",
+  "official": false,
+  "questions": [
+    {
+      "id": "DK0644",
+      "question": "På hvilket museum findes Your rainbow panorama?",
+      "options": {
+        "A": "Moesgaard Museum ved Aarhus",
+        "B": "Nationalmuseet i København",
+        "C": "ARoS i Aarhus"
+      },
+      "answer": "C",
+      "explanation": "Eliassons farvede cirkelformede gangbro ligger oven på ARoS.",
+      "source_pages": [
+        157
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0845",
+      "question": "Hvad er forskellen på Nordisk Råd og Nordisk Ministerråd?",
+      "options": {
+        "A": "Rådet samler kommunalpolitikere; Ministerrådet samler embedsmænd",
+        "B": "Rådet samler parlamentarikere; Ministerrådet samler ministre",
+        "C": "Rådet samler ministre; Ministerrådet samler parlamentarikere"
+      },
+      "answer": "B",
+      "explanation": "Det nordiske samarbejde foregår både mellem parlamenter og mellem regeringer.",
+      "source_pages": [
+        210
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "CA-C040-s3",
+      "event_date": "2026-09-12",
+      "question": "Hvilken dansk film vandt Guldløven ved filmfestivalen i Venedig i september 2026?",
+      "options": {
+        "A": "Druk",
+        "B": "Pigen med nålen",
+        "C": "Kvinde ukendt"
+      },
+      "answer": "C",
+      "explanation": "May el-Toukhys Kvinde ukendt vandt hovedprisen på festivalen, og Mathilde Arcel fik prisen for bedste kvindelige skuespiller.",
+      "source_url": "https://via.ritzau.dk/pressemeddelelse/15155265/kvinde-ukendt-vinder-guldloven-i-venedig?lang=da&publisherId=13560928",
+      "source_title": "Det Danske Filminstitut · Guldløven i Venedig",
+      "verified_at": "2026-11-21",
+      "exam_domain": "current_affairs",
+      "source_pages": [],
+      "source_edition": "Nyhedskilde kontrolleret 2026-11-21"
+    },
+    {
+      "id": "DK0413",
+      "question": "Hvorfor kaldes dansk økonomi en blandingsøkonomi?",
+      "options": {
+        "A": "Alle virksomheder ejes sammen af staten og en kommune",
+        "B": "Staten fastsætter priserne på alle varer",
+        "C": "Privat markedsøkonomi kombineres med en stor offentlig sektor"
+      },
+      "answer": "C",
+      "explanation": "Både private markeder og skattefinansierede offentlige aktiviteter spiller store roller.",
+      "source_pages": [
+        103,
+        104
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0393-e2",
+      "question": "Kan regeringen instruere ombudsmanden i at droppe kritik af et ministerium?",
+      "options": {
+        "A": "Ja",
+        "B": "Nej"
+      },
+      "answer": "B",
+      "explanation": "Hverken regering eller Folketing kan gribe ind i ombudsmandens konkrete arbejde.",
+      "source_pages": [
+        98
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "values"
+    },
+    {
+      "id": "DK0244-e2",
+      "question": "Hvad skete der med det danske statsbudget, da finanskrisen satte ind?",
+      "options": {
+        "A": "Fra overskud til underskud",
+        "B": "Fra underskud til overskud"
+      },
+      "answer": "A",
+      "explanation": "Krisen forværrede de offentlige finanser, selv om Danmark var mindre gældsramt end mange andre EU-lande.",
+      "source_pages": [
+        60
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0571-e2",
+      "question": "Blev de påståede masseødelæggelsesvåben, som begrundede invasionen af Irak i 2003, fundet?",
+      "options": {
+        "A": "Ja",
+        "B": "Nej"
+      },
+      "answer": "B",
+      "explanation": "Mistanken om ulovlige masseødelæggelsesvåben var en begrundelse for krigen, men våbnene blev ikke fundet.",
+      "source_pages": [
+        138
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0734",
+      "question": "Hvilket berømt fund kan ses på Moesgaard Museum?",
+      "options": {
+        "A": "Egtvedpigen",
+        "B": "Grauballemanden",
+        "C": "Tollundmanden"
+      },
+      "answer": "B",
+      "explanation": "Moesgaard udstiller det velbevarede moselig Grauballemanden.",
+      "source_pages": [
+        179
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0212",
+      "question": "En boligejer efterisolerede huset efter oliekrisen. Hvilket problem søgte det at mindske?",
+      "options": {
+        "A": "Udgifterne til energiforbrug",
+        "B": "Udgifterne til den kommunale ejendomsskat",
+        "C": "Afhængigheden af importerede byggematerialer"
+      },
+      "answer": "A",
+      "explanation": "Dyr energi øgede interessen for bedre isolering og mere effektivt energiforbrug.",
+      "source_pages": [
+        51
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0285",
+      "question": "Hvad er finansloven?",
+      "options": {
+        "A": "Kommunernes fælles regnskab for det forrige år",
+        "B": "Nationalbankens plan for renten det næste år",
+        "C": "Statens budget for det kommende år"
+      },
+      "answer": "C",
+      "explanation": "Finansloven fastsætter statens samlede budget for næste år.",
+      "source_pages": [
+        72
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    }
+  ],
+  "snapshot_sha256": "0b8b1fdaf0dee3b312f0794f269ecd917a5de27e13a3f4b88d9fb3c91fef74eb"
+}
