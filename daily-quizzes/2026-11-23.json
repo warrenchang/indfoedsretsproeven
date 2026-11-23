@@ -1,0 +1,179 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-23",
+  "timezone": "Europe/Copenhagen",
+  "bank_sha256": "19ff4dd53c52f61867db454cadc523ef39ea0d2a1c80272f79dedeb941321d17",
+  "news_verified_at": "2026-11-21",
+  "official": false,
+  "questions": [
+    {
+      "id": "DK0426-e2",
+      "question": "Skal pensionsalderen ifølge aftalen fra 2006 stige, når danskerne lever længere?",
+      "options": {
+        "A": "Ja",
+        "B": "Nej"
+      },
+      "answer": "A",
+      "explanation": "Beslutningen knyttede en stigende folkepensionsalder til længere levetid.",
+      "source_pages": [
+        108
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0508",
+      "question": "Hvilke regler har Schengenlandene blandt andet gjort fælles for borgere fra en række lande uden for EU?",
+      "options": {
+        "A": "Regler om stemmeret ved nationale valg",
+        "B": "Regler om erhvervelse af statsborgerskab",
+        "C": "Regler om visum"
+      },
+      "answer": "C",
+      "explanation": "Schengensamarbejdet omfatter fælles visumregler for borgere fra en række lande uden for EU. Det gør ikke de nævnte statsborgerskabs- og valgregler fælles.",
+      "source_pages": [
+        123
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0312",
+      "question": "Hvor begynder en retssag som hovedregel?",
+      "options": {
+        "A": "I byretten",
+        "B": "I Rigsretten",
+        "C": "I Højesteret"
+      },
+      "answer": "A",
+      "explanation": "Byretten er normalt første instans; en sag kan derefter normalt ankes.",
+      "source_pages": [
+        79
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "CA-S050",
+      "event_date": "2026-05-04",
+      "question": "Hvilken gruppe skulle ifølge majmeddelelsen modtage fødevarecheck i juni 2026?",
+      "options": {
+        "A": "Berettigede børnefamilier",
+        "B": "Alle virksomhedsejere",
+        "C": "Alle boligejere"
+      },
+      "answer": "A",
+      "explanation": "Børnefamilier, som opfyldte betingelserne, var omfattet af juniudbetalingen.",
+      "source_url": "https://star.dk/da/om-styrelsen/nyt/nyheder-og-aktuelt-fra-styrelsen-for-arbejdsmarked-og-rekruttering/2026/05/udbetaling-af-foedevarecheck",
+      "source_title": "Udbetaling af fødevarecheck",
+      "verified_at": "2026-09-25",
+      "exam_domain": "current_affairs",
+      "source_pages": [],
+      "source_edition": "Nyhedskilde kontrolleret 2026-09-25"
+    },
+    {
+      "id": "DK0167",
+      "question": "Hvad indebar Islands personalunion med Danmark fra 1918?",
+      "options": {
+        "A": "Landene havde fælles præsident og parlament",
+        "B": "Island var del af Danmark uden selvstyre",
+        "C": "Landene havde samme konge"
+      },
+      "answer": "C",
+      "explanation": "Island fik vidtgående selvstyre, men den danske konge var også Islands konge.",
+      "source_pages": [
+        41
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0802",
+      "question": "Hvad er det grønlandske navn for hovedstaden Godthåb?",
+      "options": {
+        "A": "Ilulissat",
+        "B": "Tórshavn",
+        "C": "Nuuk"
+      },
+      "answer": "C",
+      "explanation": "Nuuk er Grønlands hovedstad og største by.",
+      "source_pages": [
+        198
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0945-e2-s3",
+      "question": "Må en virksomhed afslå at ansætte en ansøger alene med den begrundelse, at hun er gravid?",
+      "options": {
+        "A": "Ja",
+        "B": "Nej"
+      },
+      "answer": "B",
+      "explanation": "Ligebehandlingsloven forbyder forskelsbehandling ved ansættelse på grund af graviditet.",
+      "source_pages": [],
+      "source_url": "https://www.retsinformation.dk/eli/lta/2024/942",
+      "source_edition": "Dansk lovgivning og myndighedsvejledning",
+      "exam_domain": "values",
+      "source_title": "Ligebehandlingsloven · §§ 1–2"
+    },
+    {
+      "id": "DK0612",
+      "question": "Hvad handler Emma Gads Takt og Tone især om?",
+      "options": {
+        "A": "Hvordan man opdrager børn gennem skolefag",
+        "B": "Hvordan mennesker omgås hinanden",
+        "C": "Hvordan man udvikler sit litterære sprog"
+      },
+      "answer": "B",
+      "explanation": "Bogen giver konkrete råd om opførsel og omgangsformer.",
+      "source_pages": [
+        148
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0253",
+      "question": "Hvordan blev mange elever undervist, når skolerne var lukkede under Covid-19?",
+      "options": {
+        "A": "Hjemme via internettet",
+        "B": "På skiftende lokale biblioteker",
+        "C": "I mindre hold på de normale skoler"
+      },
+      "answer": "A",
+      "explanation": "Fjernundervisning gjorde det muligt at fortsætte skolearbejdet under lukningerne.",
+      "source_pages": [
+        62
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0848",
+      "question": "Hvad var grundlaget for Tycho Brahes betydning for astronomien?",
+      "options": {
+        "A": "Nøjagtige beregninger af lysets hastighed",
+        "B": "Meget præcise observationer af stjernehimlen",
+        "C": "Præcise målinger af jordskælvsbølger"
+      },
+      "answer": "B",
+      "explanation": "Brahe udviklede instrumenter og foretog præcise astronomiske observationer.",
+      "source_pages": [
+        211
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    }
+  ],
+  "snapshot_sha256": "0f550e435e081c4e74cf278ee65e478dac9928592dc2fa3c9c762d42700e414b"
+}
