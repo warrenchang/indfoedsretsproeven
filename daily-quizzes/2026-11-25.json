@@ -1,0 +1,181 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-25",
+  "timezone": "Europe/Copenhagen",
+  "bank_sha256": "946729d06a6c92783fa394e4892b7c0593c8ad8f4ddd49a45ec34405fd44db8a",
+  "news_verified_at": "2026-11-21",
+  "official": false,
+  "questions": [
+    {
+      "id": "DK0744",
+      "question": "Hvilken figur sidder ifølge sagnet klar til at forsvare Danmark i Kronborgs kasematter?",
+      "options": {
+        "A": "Holger Danske",
+        "B": "Holger Drachmann",
+        "C": "Valdemar Atterdag"
+      },
+      "answer": "A",
+      "explanation": "Holger Danske sidder ifølge sagnet klar til at vågne, når landet trues.",
+      "source_pages": [
+        182
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "CA-S037",
+      "event_date": "2026-06-27",
+      "question": "Fra hvilket år stammede den nationale varmerekord, som blev slået i juni 2026?",
+      "options": {
+        "A": "1975",
+        "B": "2015",
+        "C": "1995"
+      },
+      "answer": "A",
+      "explanation": "Den gamle rekord var fra Holstebro i august 1975.",
+      "source_url": "https://www.dmi.dk/nyheder/2026/varme-og-uvejr-ny-dansk-varmerekord-sat-i-baade-oedum-og-odense",
+      "source_title": "Varme og uvejr: Ny dansk varmerekord sat i både Ødum og Odense",
+      "verified_at": "2026-09-25",
+      "exam_domain": "current_affairs",
+      "source_pages": [],
+      "source_edition": "Nyhedskilde kontrolleret 2026-09-25"
+    },
+    {
+      "id": "DK0511-e2",
+      "question": "Er Danmark forpligtet til at indføre euroen?",
+      "options": {
+        "A": "Ja",
+        "B": "Nej"
+      },
+      "answer": "B",
+      "explanation": "Forbeholdet gør, at Danmark kan beholde kronen uden pligt til at indføre euroen.",
+      "source_pages": [
+        126
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "CA-P061",
+      "event_date": "2026-07-08",
+      "question": "Hvilken traktatartikel om kollektivt forsvar bekræftede NATO-landene på topmødet i juli 2026?",
+      "options": {
+        "A": "Artikel 5",
+        "B": "Artikel 50",
+        "C": "Artikel 1"
+      },
+      "answer": "A",
+      "explanation": "Topmødet bekræftede artikel 5: et angreb på én allieret er et angreb på alle.",
+      "source_url": "https://nato.int/en/news-and-events/events/2026/07/overview---2026-nato-summit-in-ankara-",
+      "source_title": "2026 NATO Summit in Ankara",
+      "verified_at": "2026-09-25",
+      "exam_domain": "current_affairs",
+      "source_pages": [],
+      "source_edition": "Nyhedskilde kontrolleret 2026-09-25"
+    },
+    {
+      "id": "DK0027",
+      "question": "Hvad betød middelalderens kirkeskat tiende?",
+      "options": {
+        "A": "Et fast beløb hvert tiende år",
+        "B": "En tiendedel af høsten eller produktionen",
+        "C": "En tiendedel af bøndernes jordareal"
+      },
+      "answer": "B",
+      "explanation": "Tiende var en skat på omkring en tiendedel af produktionen, ikke et tiårigt bidrag.",
+      "source_pages": [
+        11
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0147",
+      "question": "Hvorfor måtte mange danske landmænd sælge deres gårde i 1930'erne?",
+      "options": {
+        "A": "Priserne på korn og kød faldt kraftigt",
+        "B": "Staten indførte et loft over størrelsen på private gårde",
+        "C": "Nye arveregler krævede salg ved hvert generationsskifte"
+      },
+      "answer": "A",
+      "explanation": "Faldende salgspriser gjorde indkomsten for lille til, at mange kunne fortsætte driften.",
+      "source_pages": [
+        36
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0811",
+      "question": "Hvad symboliserer cirklen i Grønlands flag?",
+      "options": {
+        "A": "Et bjerg omgivet af isbjerge",
+        "B": "Månen over en mørk vinterhimmel",
+        "C": "Solen over det grønlandske landskab"
+      },
+      "answer": "C",
+      "explanation": "Flagets cirkel forestiller den opgående sol i det hvide landskab.",
+      "source_pages": [
+        201
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0459-e2-s4",
+      "question": "Hvilken branche tilhører Arla?",
+      "options": {
+        "A": "Mejeribranchen",
+        "B": "Bryggeribranchen"
+      },
+      "answer": "A",
+      "explanation": "Arla er en mejerivirksomhed og var ifølge lærematerialet blandt de ti største mejerier i verden i 2025.",
+      "source_pages": [
+        115
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0377-e2",
+      "question": "Hvilket land fik den bedste placering i Transparency Internationals Corruption Perceptions Index 2025?",
+      "options": {
+        "A": "Danmark",
+        "B": "Tyskland",
+        "C": "USA"
+      },
+      "answer": "A",
+      "explanation": "Danmark lå nummer 1 med 89 point af 100 i indekset for 2025, offentliggjort i februar 2026. Indekset måler opfattet korruption i den offentlige sektor.",
+      "source_pages": [],
+      "source_url": "https://transparency.dk/corruption-perceptions-index-2025/",
+      "source_edition": "Korruption 2025",
+      "exam_domain": "values",
+      "source_title": "Transparency International Danmark: CPI 2025",
+      "verified_at": "2026-09-27"
+    },
+    {
+      "id": "DK0614",
+      "question": "Hvilket område skildrer Johannes V. Jensen i Himmerlandshistorier?",
+      "options": {
+        "A": "Et grønlandsk fangersamfund",
+        "B": "Et københavnsk arbejderkvarter",
+        "C": "Hans hjemegn i Jylland"
+      },
+      "answer": "C",
+      "explanation": "Fortællingerne handler om bønder og fattige i Himmerland, hvor han voksede op.",
+      "source_pages": [
+        149
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    }
+  ],
+  "snapshot_sha256": "247f4af5aa8359bbeabb7583d37c9eb61da6135a95f8b5cbe710ee59c3b72e6d"
+}
