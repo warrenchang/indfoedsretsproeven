@@ -1,0 +1,181 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-26",
+  "timezone": "Europe/Copenhagen",
+  "bank_sha256": "946729d06a6c92783fa394e4892b7c0593c8ad8f4ddd49a45ec34405fd44db8a",
+  "news_verified_at": "2026-11-21",
+  "official": false,
+  "questions": [
+    {
+      "id": "DK0780-s6",
+      "question": "Hvilken af følgende opgaver varetager den danske monark?",
+      "options": {
+        "A": "At lede Folketingets debatter",
+        "B": "At være vært ved statsbesøg",
+        "C": "At fastlægge regeringens udenrigspolitik"
+      },
+      "answer": "B",
+      "explanation": "Monarken er vært, når Danmark modtager statsbesøg. Monarken repræsenterer også Danmark ved statsbesøg i udlandet.",
+      "source_pages": [
+        192
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0385-e2",
+      "question": "Har børn ret til gratis undervisning i folkeskolen?",
+      "options": {
+        "A": "Ja",
+        "B": "Nej"
+      },
+      "answer": "A",
+      "explanation": "Grundloven sikrer børn gratis folkeskoleundervisning, ikke alle former for kurser.",
+      "source_pages": [
+        97
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "values"
+    },
+    {
+      "id": "DK0422-s3",
+      "question": "I hvilke årtier blev flere af grundprincipperne for det nuværende danske velfærdssamfund etableret?",
+      "options": {
+        "A": "1930’erne og 1940’erne",
+        "B": "1950’erne og 1960’erne",
+        "C": "1980’erne og 1990’erne"
+      },
+      "answer": "B",
+      "explanation": "I 1950’erne og 1960’erne blev velfærdssamfundet udbygget, blandt andet med folkepension og flere offentlige serviceydelser.",
+      "source_pages": [
+        106
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0781",
+      "question": "Hvilket land kommer dronning Mary oprindeligt fra?",
+      "options": {
+        "A": "Canada",
+        "B": "Australien",
+        "C": "New Zealand"
+      },
+      "answer": "B",
+      "explanation": "Dronning Mary er født i Australien og blev gift med Frederik i 2004.",
+      "source_pages": [
+        192
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0656",
+      "question": "Hvilken sang vandt Eurovision for Danmark i 2013?",
+      "options": {
+        "A": "Only Teardrops",
+        "B": "Dansevise",
+        "C": "Fly on the Wings of Love"
+      },
+      "answer": "A",
+      "explanation": "Emmelie de Forest sang Only Teardrops; de andre danske vindersange er fra 1963 og 2000.",
+      "source_pages": [
+        160
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0214",
+      "question": "Hvem stod i spidsen for Fremskridtspartiet ved Jordskredsvalget?",
+      "options": {
+        "A": "Mogens Glistrup",
+        "B": "Poul Nyrup Rasmussen",
+        "C": "J.B.S. Estrup"
+      },
+      "answer": "A",
+      "explanation": "Advokaten Mogens Glistrup ledede det nye protestparti.",
+      "source_pages": [
+        52
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0565",
+      "question": "Hvilken organisation stod bag angrebet på USA den 11. september 2001?",
+      "options": {
+        "A": "Islamisk Stat",
+        "B": "Al Qaeda",
+        "C": "ETA"
+      },
+      "answer": "B",
+      "explanation": "Al Qaeda stod bag angrebet og havde base i Afghanistan.",
+      "source_pages": [
+        137
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "CA-S062",
+      "event_date": "2026-09-23",
+      "question": "Hvad skete der med danske pengepolitiske renter i juni og september 2026 ifølge Nationalbanken?",
+      "options": {
+        "A": "De var uændrede",
+        "B": "De blev sat ned",
+        "C": "De blev sat op"
+      },
+      "answer": "C",
+      "explanation": "Nationalbanken beskrev forhøjelser i forlængelse af ECB’s rentestigninger.",
+      "source_url": "https://www.nationalbanken.dk/da/viden-og-nyheder/publikationer-og-taler/analyse/2026/dansk-oekonomi-trodser-global-uro",
+      "source_title": "Dansk økonomi trodser global uro",
+      "verified_at": "2026-09-25",
+      "exam_domain": "current_affairs",
+      "source_pages": [],
+      "source_edition": "Nyhedskilde kontrolleret 2026-09-25"
+    },
+    {
+      "id": "DK0209",
+      "question": "Hvad udløste oliekrisen, der ramte Danmark i 1970'erne?",
+      "options": {
+        "A": "Et stort fald i verdens olieforbrug",
+        "B": "Et dansk forbud mod import af olie",
+        "C": "En kraftig stigning i olieprisen"
+      },
+      "answer": "C",
+      "explanation": "Olieprisernes stigning fra 1973 ramte industri, transport og opvarmning.",
+      "source_pages": [
+        51
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0807",
+      "question": "Hvilken forsyningspligt fulgte med det danske handelsmonopol i Grønland?",
+      "options": {
+        "A": "At forsyne bygderne med varer udefra",
+        "B": "At garantere grønlænderne ejerskab til handelsskibene",
+        "C": "At give bygderne eneret på europæisk handel"
+      },
+      "answer": "A",
+      "explanation": "Handelsselskabet skulle blandt andet levere mel, salt, redskaber og tøj.",
+      "source_pages": [
+        199
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    }
+  ],
+  "snapshot_sha256": "b2d32ff3d1f3e3ab092501a088a893c27b35673f4697f218a5e3ca2c1f7358ee"
+}
