@@ -4,7 +4,7 @@ Free, unofficial preparation for Indfødsretsprøven and Medborgerskabsprøven, 
 
 The citizenship practice bank has 1,000 questions about Denmark and values plus 200 current-affairs questions. The latest review revised stems and options using the official archive as a model. Earlier item versions remain in the private local archive. Selected news from 1 May 2026 was last reviewed on 2026-11-21. Difficulty and topic weights are editorial, not calibrated to the official exam.
 
-[Fra tidligere prøver](past-questions.html) offers all 690 official citizenship questions from the 16 papers in the archive, with filters for date and exam section. The original historical key is shown for each question.
+[Fra tidligere prøver](past-questions.html) offers all 735 official citizenship questions from the 17 papers in the archive, with filters for date and exam section. The original historical key is shown for each question.
 
 ## Publish and update
 
@@ -16,7 +16,7 @@ Titles, descriptions, navigation, structured site information and readable stati
 
 ## Privacy and practice
 
-Indfødsretsprøven mock exams have 45 questions in 35 reading / 5 news / 5 values blocks, with requirements of 36 correct overall and 4 values answers. Practice items have two or three answer options, as in official papers. Answers and explanations appear after submission. Active mock exam attempts and the latest ten scores stay in the visitor's browser. The past-paper archive contains 36 official papers (1,190 questions) with the original question order, time limits, historical scoring rules and answer keys, including official corrections. Source PDFs are linked at their publishers.
+Indfødsretsprøven mock exams have 45 questions in 35 reading / 5 news / 5 values blocks, with requirements of 36 correct overall and 4 values answers. Practice items have two or three answer options, as in official papers. Answers and explanations appear after submission. Active mock exam attempts and the latest ten scores stay in the visitor's browser. The past-paper archive contains 37 official papers (1,235 questions) with the original question order, time limits, historical scoring rules and answer keys, including official corrections. Source PDFs are linked at their publishers.
 
 [Daily practice](daily-quiz.html) offers dated, 10-question quizzes from 2 October 2026; earlier 20-question quizzes remain available, all with immediate scoring, explanations and public source links after submission. The same saved quiz remains available on its date-specific URL. Daily quiz choices and the latest attempt are saved only in that browser; answers are never uploaded or automatically sent to the study chat. Optional answer export lets the learner share a complete response themselves. The public daily snapshots contain only quiz content and source metadata, with no learner answers, random seeds, no-repeat history or private schedule configuration. Personal study records and local source PDFs are not included. A daily practice score is not an official pass/fail result.
 
