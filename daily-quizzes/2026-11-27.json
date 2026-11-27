@@ -1,0 +1,180 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-27",
+  "timezone": "Europe/Copenhagen",
+  "bank_sha256": "946729d06a6c92783fa394e4892b7c0593c8ad8f4ddd49a45ec34405fd44db8a",
+  "news_verified_at": "2026-11-21",
+  "official": false,
+  "questions": [
+    {
+      "id": "DK0436-s3",
+      "question": "Hvad betaler man normalt moms af i Danmark?",
+      "options": {
+        "A": "Løn og pension",
+        "B": "Renter og aktieudbytte",
+        "C": "Varer og tjenesteydelser"
+      },
+      "answer": "C",
+      "explanation": "Moms er en afgift på forbrug, som normalt er en del af prisen på varer og tjenesteydelser.",
+      "source_pages": [
+        110
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0145",
+      "question": "Hvordan blev Påskekrisen i 1920 løst?",
+      "options": {
+        "A": "Med kongens abdikation og indsættelse af kronprinsen",
+        "B": "Med et dansk militært angreb på Flensborg",
+        "C": "Med en midlertidig regering og nyvalg"
+      },
+      "answer": "C",
+      "explanation": "Kongen og politikerne fandt et kompromis, hvorefter kongemagten holdt sig fra direkte politik.",
+      "source_pages": [
+        36
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0509",
+      "question": "Hvad ville en tilvalgsordning i stedet for retsforbeholdet give mulighed for?",
+      "options": {
+        "A": "At vælge dele af EU's retlige samarbejde til",
+        "B": "At vælge danske medlemmer til EU-Domstolen",
+        "C": "At vælge euroen til uden en folkeafstemning"
+      },
+      "answer": "A",
+      "explanation": "Tilvalgsordningen ville give mulighed for deltagelse på udvalgte retlige områder.",
+      "source_pages": [
+        125
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0974",
+      "question": "Hvem har ansvaret for driften af de fleste sygehuse?",
+      "options": {
+        "A": "Sundhedsministeriet direkte",
+        "B": "Regionerne",
+        "C": "Kommunerne"
+      },
+      "answer": "B",
+      "explanation": "Regionerne driver langt størstedelen af sygehusvæsenet.",
+      "source_pages": [
+        240
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "CA-P035-s3",
+      "event_date": "2026-11-19",
+      "question": "Hvilken forsamling gav i november 2026 på Danmarks vegne samtykke til den nye forsvars- og sikkerhedsaftale om Grønland?",
+      "options": {
+        "A": "Europa-Parlamentet",
+        "B": "Folketinget",
+        "C": "Nordisk Råd"
+      },
+      "answer": "B",
+      "explanation": "Folketinget gav samtykke til forsvars- og sikkerhedsaftalen mellem Grønland, Danmark og USA den 19. november. Den ændrer og supplerer forsvarsaftalen fra 1951.",
+      "source_url": "https://www.ft.dk/da/aktuelt/nyheder/2026/11/folketinget-godkender-aftale-om-forsvaret-af-groenland",
+      "source_title": "Folketinget · Aftalen om forsvaret af Grønland",
+      "verified_at": "2026-11-21",
+      "exam_domain": "current_affairs",
+      "source_pages": [],
+      "source_edition": "Nyhedskilde kontrolleret 2026-11-21"
+    },
+    {
+      "id": "DK0635-s3",
+      "question": "Hvilken dansk billedhugger har sit eget museum i København, som åbnede i 1848?",
+      "options": {
+        "A": "Herman Wilhelm Bissen",
+        "B": "Edvard Eriksen",
+        "C": "Bertel Thorvaldsen"
+      },
+      "answer": "C",
+      "explanation": "Thorvaldsens Museum udstiller Bertel Thorvaldsens skulpturer og de kunstgenstande, han samlede.",
+      "source_pages": [
+        155
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0930-e2-s3",
+      "question": "Må en almindelig virksomhed afvise en kvalificeret jobansøger alene på grund af ansøgerens etniske oprindelse?",
+      "options": {
+        "A": "Ja",
+        "B": "Nej"
+      },
+      "answer": "B",
+      "explanation": "Loven forbyder usaglig forskelsbehandling ved ansættelse på grund af blandt andet etnisk oprindelse.",
+      "source_pages": [],
+      "source_url": "https://www.retsinformation.dk/eli/lta/2024/399",
+      "source_edition": "Dansk lovgivning og myndighedsvejledning",
+      "exam_domain": "values",
+      "source_title": "Forskelsbehandlingsloven · §§ 1–2"
+    },
+    {
+      "id": "DK0819",
+      "question": "Hvilken roman gav Niviaq Korneliussen Nordisk Råds Litteraturpris i 2021?",
+      "options": {
+        "A": "Barbara",
+        "B": "Kongens Fald",
+        "C": "Blomsterdalen"
+      },
+      "answer": "C",
+      "explanation": "Blomsterdalen behandler blandt andet unge grønlænderes sociale og psykiske problemer.",
+      "source_pages": [
+        202
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0795",
+      "question": "Hvad er rigsfællesskabets officielle navn?",
+      "options": {
+        "A": "Den Nordiske Union",
+        "B": "Kongeriget Danmark",
+        "C": "Det Skandinaviske Forbund"
+      },
+      "answer": "B",
+      "explanation": "Kongeriget Danmark omfatter Danmark, Grønland og Færøerne.",
+      "source_pages": [
+        196
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0187",
+      "question": "Hvorfor blev meget arbejdskraft overflødig i landbruget efter krigen?",
+      "options": {
+        "A": "Landbrugsproduktionen faldt til næsten nul",
+        "B": "Maskiner overtog flere opgaver",
+        "C": "Landbruget blev omlagt til udelukkende kornavl"
+      },
+      "answer": "B",
+      "explanation": "Traktorer og andre maskiner effektiviserede driften, så færre hænder var nødvendige.",
+      "source_pages": [
+        44
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    }
+  ],
+  "snapshot_sha256": "c4fdffc3cbafe2b720784dee9d2697af04e4c732f93f9b27115e1747bba51bb9"
+}
