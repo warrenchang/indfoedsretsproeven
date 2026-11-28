@@ -1,0 +1,180 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-28",
+  "timezone": "Europe/Copenhagen",
+  "bank_sha256": "946729d06a6c92783fa394e4892b7c0593c8ad8f4ddd49a45ec34405fd44db8a",
+  "news_verified_at": "2026-11-21",
+  "official": false,
+  "questions": [
+    {
+      "id": "DK0036",
+      "question": "Hvem samlede Danmark, Norge og Sverige i Kalmarunionen i 1397?",
+      "options": {
+        "A": "Christian 4.",
+        "B": "Margrete 1.",
+        "C": "Valdemar Sejr"
+      },
+      "answer": "B",
+      "explanation": "Margrete 1. samlede de tre riger med Danmark som den dominerende magt.",
+      "source_pages": [
+        12
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0494",
+      "question": "Hvilket fællesskab var et tidligt skridt mod det senere EU?",
+      "options": {
+        "A": "Det Europæiske Kul- og Stålfællesskab",
+        "B": "Det Europæiske Frihandelsforbund",
+        "C": "Nordisk Ministerråd"
+      },
+      "answer": "A",
+      "explanation": "Kul- og Stålfællesskabet blev oprettet i 1952 af seks europæiske lande.",
+      "source_pages": [
+        122
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0836",
+      "question": "Hvilket symbol har alle fem nordiske landes flag til fælles?",
+      "options": {
+        "A": "Et kors",
+        "B": "En halvmåne",
+        "C": "En cirkel af stjerner"
+      },
+      "answer": "A",
+      "explanation": "Flagene har et fælles korsmotiv i forskellige farver.",
+      "source_pages": [
+        208
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0400-s5",
+      "question": "Aftjener alle, der er omfattet af værnepligten i Danmark, den i praksis?",
+      "options": {
+        "A": "Ja, alle skal aftjene den.",
+        "B": "Nej, men nogle kan blive pålagt at aftjene den.",
+        "C": "Nej, kun frivillige kan aftjene den."
+      },
+      "answer": "B",
+      "explanation": "Hvis der er tilstrækkeligt med frivillige, er der ikke brug for at pålægge andre at gøre tjeneste. Hvis der mangler frivillige, kan nogle blive udtaget til at aftjene værnepligt.",
+      "source_pages": [
+        100
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0706-s3",
+      "question": "Hvilken dansk skuespiller vandt en pris i Cannes i 2012 for filmen Jagten?",
+      "options": {
+        "A": "Mads Mikkelsen",
+        "B": "Pilou Asbæk",
+        "C": "Nikolaj Coster-Waldau"
+      },
+      "answer": "A",
+      "explanation": "Mads Mikkelsen fik skuespillerprisen i Cannes for sin rolle som Lucas i Jagten.",
+      "source_pages": [
+        172
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0471-s3",
+      "question": "Hvilken international organisation arbejder især med regler for verdenshandelen?",
+      "options": {
+        "A": "OECD",
+        "B": "Europarådet",
+        "C": "WTO"
+      },
+      "answer": "C",
+      "explanation": "WTO er Verdenshandelsorganisationen. Den arbejder med regler og aftaler om international handel.",
+      "source_pages": [
+        116
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "CA-S064",
+      "event_date": "2026-07-27",
+      "question": "Hvor mange ansøgere fik omtrent tilbudt en videregående studieplads i juli 2026?",
+      "options": {
+        "A": "60.000",
+        "B": "20.000",
+        "C": "100.000"
+      },
+      "answer": "A",
+      "explanation": "Ministeriet opgjorde antallet til 58.673.",
+      "source_url": "https://ufm.dk/aktuelt/pressemeddelelser/2026/juli/christina-egelund-positivt-at-flere-er-optaget-paa-vigtige-uddannelser-som-sygeplejerske-og-folkeskolelaerer/",
+      "source_title": "Positivt, at flere er optaget på vigtige uddannelser som sygeplejerske og folkeskolelærer",
+      "verified_at": "2026-09-25",
+      "exam_domain": "current_affairs",
+      "source_pages": [],
+      "source_edition": "Nyhedskilde kontrolleret 2026-09-25"
+    },
+    {
+      "id": "DK0151",
+      "question": "Hvilket parti indgik Kanslergadeforliget med regeringen?",
+      "options": {
+        "A": "Danmarks Kommunistiske Parti",
+        "B": "Venstre",
+        "C": "Det Konservative Folkeparti"
+      },
+      "answer": "B",
+      "explanation": "Regeringen bestod af Socialdemokratiet og Det Radikale Venstre og indgik forliget med Venstre.",
+      "source_pages": [
+        37
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0966-e2",
+      "question": "Hvilket køn havde længst middellevetid i Danmark i 2024-25?",
+      "options": {
+        "A": "Kvinder",
+        "B": "Mænd"
+      },
+      "answer": "A",
+      "explanation": "Materialet angiver 83,9 år for kvinder og 80,3 år for mænd.",
+      "source_pages": [
+        238
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "reading"
+    },
+    {
+      "id": "DK0398-e2",
+      "question": "Er private oplysninger om personer normalt undtaget fra offentlighedens aktindsigt?",
+      "options": {
+        "A": "Ja",
+        "B": "Nej"
+      },
+      "answer": "A",
+      "explanation": "Retten til aktindsigt afvejes mod blandt andet hensynet til privatlivet.",
+      "source_pages": [
+        99
+      ],
+      "source_url": "https://danskogproever.dk/media/natdfdrw/laeremateriale-til-indfoedsretsproeven.pdf",
+      "source_edition": "August 2026",
+      "exam_domain": "values"
+    }
+  ],
+  "snapshot_sha256": "ad07ba02b4049f362fb084127ed58e7e400551533571f5534d93e3670a6911fe"
+}
